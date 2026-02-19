@@ -1,0 +1,68 @@
+{
+  "0": {
+    "filename": "Google AI Blog_ Towards a Conversational Agent that Can Chat About\u2026Anything.pdf-Grobid-out.txt",
+    "title": "pdf",
+    "score": 0.8145210074282069,
+    "method": "tfidf"
+  },
+  "1": {
+    "filename": "A survey of available corpora for building data-driven dialogue systems _ the morning paper-Grobid-out.txt",
+    "title": "txt",
+    "score": 0.43052716233491073,
+    "method": "tfidf"
+  },
+  "2": {
+    "filename": "Notes for paper _End-to-end optimization of goal-driven and visually grounded dialogue systems_ \u00b7 GitHub-Grobid-out.txt",
+    "title": "txt",
+    "score": 0.8350153033588911,
+    "method": "tfidf"
+  },
+  "3": {
+    "filename": "Machine learning for dialog state tracking_ a review _ the morning paper-Grobid-out.txt",
+    "title": "txt",
+    "score": 0.6778666611512858,
+    "method": "tfidf"
+  },
+  "4": {
+    "filename": "Building end-to-end dialogue systems using generative hierarchical neural network models _ the morning paper-Grobid-out.txt",
+    "title": "txt",
+    "score": 0.7152003253358611,
+    "method": "tfidf"
+  },
+  "5": {
+    "filename": "Summary of _GuessWhat_! Visual object discovery through multi-modal dialogue_ paper \u00b7 GitHub.pdf-Grobid-out.txt",
+    "title": "pdf",
+    "score": 0.7867680261816146,
+    "method": "tfidf"
+  },
+  "6": {
+    "filename": null,
+    "title": null,
+    "score": 0.4855056703090668,
+    "method": "manual"
+  },
+  "7": {
+    "filename": "What makes a good conversation_ _ Abigail See-Grobid-out.txt",
+    "title": "txt",
+    "score": 0.8022380777782464,
+    "method": "tfidf"
+  },
+  "8": {
+    "filename": "Summary of _Evaluating Prerequisite Qualities for Learning End-to-end Dialog Systems_ paper \u00b7 GitHub-Grobid-out.txt",
+    "title": "txt",
+    "score": 0.6422855573957875,
+    "method": "tfidf"
+  },
+  "9": {
+    "filename": "Ten challenges in highly-interactive dialog systems _ the morning paper-Grobid-out.txt",
+    "title": "txt",
+    "score": 0.3205776436203884,
+    "method": "tfidf"
+  },
+  "10": {
+    "filename": "Multi-domain dialog state tracking using recurrent neural networks _ the morning paper-Grobid-out.txt",
+    "title": "txt",
+    "score": 0.8308170268127422,
+    "method": "tfidf"
+  }
+}

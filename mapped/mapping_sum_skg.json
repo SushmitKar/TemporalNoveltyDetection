@@ -1,0 +1,1298 @@
+{
+  "0": {
+    "filename": "48.Document Summarization via Guided Sentence Compression-Grobid-out.txt",
+    "title": "Document Summarization via Guided Sentence Compression",
+    "score": 0.6353593003039564,
+    "method": "tfidf"
+  },
+  "1": {
+    "filename": "501.Hierarchical Transformers for Multi-Document Summarization-Grobid-out.txt",
+    "title": "Hierarchical Transformers for Multi-Document Summarization",
+    "score": 0.4803961511465927,
+    "method": "tfidf"
+  },
+  "2": {
+    "filename": "100.Get To The Point Summarization with Pointer-Generator Networks-Grobid-out.txt",
+    "title": "Get To The Point Summarization with Pointer-Generator Networks",
+    "score": 0.36682053768396305,
+    "method": "tfidf"
+  },
+  "3": {
+    "filename": "450.A Transformer-based Approach for Source Code Summarization-Grobid-out.txt",
+    "title": "A Transformer-based Approach for Source Code Summarization",
+    "score": 0.5719893707256125,
+    "method": "tfidf"
+  },
+  "4": {
+    "filename": "443.Iterative Document Representation Learning Towards Summarization with Polishing-Grobid-out.txt",
+    "title": "Iterative Document Representation Learning Towards Summarization with Polishing",
+    "score": 0.3833774298307358,
+    "method": "tfidf"
+  },
+  "5": {
+    "filename": "41.Timeline Generation through Evolutionary Trans-Temporal Summarization-Grobid-out.txt",
+    "title": "Timeline Generation through Evolutionary Trans-Temporal Summarization",
+    "score": 0.4004389976679758,
+    "method": "tfidf"
+  },
+  "6": {
+    "filename": "100.Get To The Point Summarization with Pointer-Generator Networks-Grobid-out.txt",
+    "title": "Get To The Point Summarization with Pointer-Generator Networks",
+    "score": 0.3175056444601352,
+    "method": "tfidf"
+  },
+  "7": {
+    "filename": "7.Using Confusion Networks for Speech Summarization-Grobid-out.txt",
+    "title": "Using Confusion Networks for Speech Summarization",
+    "score": 0.6543111856479392,
+    "method": "tfidf"
+  },
+  "8": {
+    "filename": "301.Reading Like HER Human Reading Inspired Extractive Summarization-Grobid-out.txt",
+    "title": "Reading Like HER Human Reading Inspired Extractive Summarization",
+    "score": 0.3386320730599091,
+    "method": "tfidf"
+  },
+  "9": {
+    "filename": "123.Examining the State-of-the-Art in News Timeline Summarization-Grobid-out.txt",
+    "title": "Examining the State-of-the-Art in News Timeline Summarization",
+    "score": 0.5591672139576789,
+    "method": "tfidf"
+  },
+  "10": {
+    "filename": "337.Multi-View Sequence-to-Sequence Models with Conversational Structure for Abstractive Dialogue Summarization-Grobid-out.txt",
+    "title": "Multi-View Sequence-to-Sequence Models with Conversational Structure for Abstractive Dialogue Summarization",
+    "score": 0.654484711246452,
+    "method": "tfidf"
+  },
+  "11": {
+    "filename": "134.Quantifying the Limits and Success of Extractive Summarization Systems Across Domains-Grobid-out.txt",
+    "title": "Quantifying the Limits and Success of Extractive Summarization Systems Across Domains",
+    "score": 0.4015673331064346,
+    "method": "tfidf"
+  },
+  "12": {
+    "filename": null,
+    "title": null,
+    "score": 0.6629365086555481,
+    "method": "manual"
+  },
+  "13": {
+    "filename": "450.A Transformer-based Approach for Source Code Summarization-Grobid-out.txt",
+    "title": "A Transformer-based Approach for Source Code Summarization",
+    "score": 0.5036639014431576,
+    "method": "tfidf"
+  },
+  "14": {
+    "filename": "125.SUPERT Towards New Frontiers in Unsupervised Evaluation Metrics for Multi-Document Summarization-Grobid-out.txt",
+    "title": "SUPERT Towards New Frontiers in Unsupervised Evaluation Metrics for Multi-Document Summarization",
+    "score": 0.6486601953653188,
+    "method": "tfidf"
+  },
+  "15": {
+    "filename": "99.A Mixed Hierarchical Attention Based Encoder-Decoder Approach for Standard Table Summarization-Grobid-out.txt",
+    "title": "A Mixed Hierarchical Attention Based Encoder-Decoder Approach for Standard Table Summarization",
+    "score": 0.33598772798543075,
+    "method": "tfidf"
+  },
+  "16": {
+    "filename": "330.CDEvalSumm An Empirical Study of Cross-Dataset Evaluation for Neural Summarization Systems-Grobid-out.txt",
+    "title": "CDEvalSumm An Empirical Study of Cross-Dataset Evaluation for Neural Summarization Systems",
+    "score": 0.5129526317402132,
+    "method": "tfidf"
+  },
+  "17": {
+    "filename": "223.Better Summarization Evaluation with Word Embeddings for ROUGE-Grobid-out.txt",
+    "title": "Better Summarization Evaluation with Word Embeddings for ROUGE",
+    "score": 0.6130076050758362,
+    "method": "semantic"
+  },
+  "18": {
+    "filename": null,
+    "title": null,
+    "score": 0.6647589802742004,
+    "method": "manual"
+  },
+  "19": {
+    "filename": "458.Knowledge Graph-Augmented Abstractive Summarization with Semantic-Driven Cloze Reward-Grobid-out.txt",
+    "title": "Knowledge Graph-Augmented Abstractive Summarization with Semantic-Driven Cloze Reward",
+    "score": 0.6328672172131709,
+    "method": "tfidf"
+  },
+  "20": {
+    "filename": "553.Extractive Summarization as Text Matching-Grobid-out.txt",
+    "title": "Extractive Summarization as Text Matching",
+    "score": 0.38161586157633726,
+    "method": "tfidf"
+  },
+  "21": {
+    "filename": "299.Extractive Summarization of Long Documents by Combining Global and Local Context-Grobid-out.txt",
+    "title": "Extractive Summarization of Long Documents by Combining Global and Local Context",
+    "score": 0.5142128272395866,
+    "method": "tfidf"
+  },
+  "22": {
+    "filename": "88.Exploiting Timelines to Enhance Multi-document Summarization-Grobid-out.txt",
+    "title": "Exploiting Timelines to Enhance Multi-document Summarization",
+    "score": 0.8046976327896118,
+    "method": "semantic"
+  },
+  "23": {
+    "filename": "21.Fast and Robust Compressive Summarization with Dual Decomposition and Multi-Task Learning-Grobid-out.txt",
+    "title": "Fast and Robust Compressive Summarization with Dual Decomposition and Multi-Task Learning",
+    "score": 0.34052679794394725,
+    "method": "tfidf"
+  },
+  "24": {
+    "filename": "61.Liputan6 A Large-scale Indonesian Dataset for Text Summarization-Grobid-out.txt",
+    "title": "Liputan6 A Large-scale Indonesian Dataset for Text Summarization",
+    "score": 0.37090575892601424,
+    "method": "tfidf"
+  },
+  "25": {
+    "filename": "454.Exploring Content Selection in Summarization of Novel Chapters-Grobid-out.txt",
+    "title": "Exploring Content Selection in Summarization of Novel Chapters",
+    "score": 0.4443016512646037,
+    "method": "tfidf"
+  },
+  "26": {
+    "filename": "514.OpinionDigest A Simple Framework for Opinion Summarization-Grobid-out.txt",
+    "title": "OpinionDigest A Simple Framework for Opinion Summarization",
+    "score": 0.5848070636624918,
+    "method": "tfidf"
+  },
+  "27": {
+    "filename": "158.Provable Fast Greedy Compressive Summarization with Any Monotone Submodular Function-Grobid-out.txt",
+    "title": "Provable Fast Greedy Compressive Summarization with Any Monotone Submodular Function",
+    "score": 0.43066238025019815,
+    "method": "tfidf"
+  },
+  "28": {
+    "filename": "554.Heterogeneous Graph Neural Networks for Extractive Document Summarization-Grobid-out.txt",
+    "title": "Heterogeneous Graph Neural Networks for Extractive Document Summarization",
+    "score": 0.6153777401662427,
+    "method": "tfidf"
+  },
+  "30": {
+    "filename": "660.Multimodal Abstractive Summarization for How2 Videos-Grobid-out.txt",
+    "title": "Multimodal Abstractive Summarization for How2 Videos",
+    "score": 0.546353771790949,
+    "method": "tfidf"
+  },
+  "31": {
+    "filename": "303.NCLS Neural Cross-Lingual Summarization-Grobid-out.txt",
+    "title": "NCLS Neural Cross-Lingual Summarization",
+    "score": 0.8178165034139874,
+    "method": "tfidf"
+  },
+  "32": {
+    "filename": "16.Reinforced Extractive Summarization with Question-Focused Rewards-Grobid-out.txt",
+    "title": "Reinforced Extractive Summarization with Question-Focused Rewards",
+    "score": 0.36966828372568344,
+    "method": "tfidf"
+  },
+  "33": {
+    "filename": null,
+    "title": null,
+    "score": 0.5419719219207764,
+    "method": "manual"
+  },
+  "34": {
+    "filename": "70.Automatically Determining a Proper Length for Multi-Document Summarization A Bayesian Nonparametric Approach-Grobid-out.txt",
+    "title": "Automatically Determining a Proper Length for Multi-Document Summarization A Bayesian Nonparametric Approach",
+    "score": 0.5035233683104596,
+    "method": "tfidf"
+  },
+  "35": {
+    "filename": "33.Identifying Implicit Quotes for Unsupervised Extractive Summarization of Conversations-Grobid-out.txt",
+    "title": "Identifying Implicit Quotes for Unsupervised Extractive Summarization of Conversations",
+    "score": 0.49260347953284167,
+    "method": "tfidf"
+  },
+  "36": {
+    "filename": null,
+    "title": null,
+    "score": 0.7138999700546265,
+    "method": "manual"
+  },
+  "37": {
+    "filename": "395.Question Answering as an Automatic Evaluation Metric for News Article Summarization-Grobid-out.txt",
+    "title": "Question Answering as an Automatic Evaluation Metric for News Article Summarization",
+    "score": 0.5908717695099234,
+    "method": "tfidf"
+  },
+  "38": {
+    "filename": "81.Summarization of Historical Articles Using Temporal Event Clustering-Grobid-out.txt",
+    "title": "Summarization of Historical Articles Using Temporal Event Clustering",
+    "score": 0.46255471221569167,
+    "method": "tfidf"
+  },
+  "39": {
+    "filename": "114.Movie Script Summarization as Graph-based Scene Extraction-Grobid-out.txt",
+    "title": "Movie Script Summarization as Graph-based Scene Extraction",
+    "score": 0.3799229594595952,
+    "method": "tfidf"
+  },
+  "40": {
+    "filename": "53.Single Document Summarization based on Nested Tree Structure-Grobid-out.txt",
+    "title": "Single Document Summarization based on Nested Tree Structure",
+    "score": 0.5625013060453888,
+    "method": "tfidf"
+  },
+  "41": {
+    "filename": "454.Exploring Content Selection in Summarization of Novel Chapters-Grobid-out.txt",
+    "title": "Exploring Content Selection in Summarization of Novel Chapters",
+    "score": 0.4820285470553431,
+    "method": "tfidf"
+  },
+  "42": {
+    "filename": "10.A Risk Minimization Framework for Extractive Speech Summarization-Grobid-out.txt",
+    "title": "A Risk Minimization Framework for Extractive Speech Summarization",
+    "score": 0.5317396031205326,
+    "method": "tfidf"
+  },
+  "43": {
+    "filename": "116.Abstractive Summarization of Spoken and Written Conversations Based on Phrasal Queries-Grobid-out.txt",
+    "title": "Abstractive Summarization of Spoken and Written Conversations Based on Phrasal Queries",
+    "score": 0.5485012704259804,
+    "method": "tfidf"
+  },
+  "44": {
+    "filename": "39.Automated Pyramid Summarization Evaluation-Grobid-out.txt",
+    "title": "Automated Pyramid Summarization Evaluation",
+    "score": 0.4292025776347464,
+    "method": "tfidf"
+  },
+  "45": {
+    "filename": "125.Summarize What You Are Interested In An Optimization Framework for Interactive Personalized Summarization-Grobid-out.txt",
+    "title": "Summarize What You Are Interested In An Optimization Framework for Interactive Personalized Summarization",
+    "score": 0.6421093222666913,
+    "method": "tfidf"
+  },
+  "46": {
+    "filename": "209.Content Selection in Deep Learning Models of Summarization-Grobid-out.txt",
+    "title": "Content Selection in Deep Learning Models of Summarization",
+    "score": 0.5934300504597527,
+    "method": "tfidf"
+  },
+  "47": {
+    "filename": "75.Fast Concept Mention Grouping for Concept Map-based Multi-Document Summarization-Grobid-out.txt",
+    "title": "Fast Concept Mention Grouping for Concept Map-based Multi-Document Summarization",
+    "score": 0.6215529036131482,
+    "method": "tfidf"
+  },
+  "48": {
+    "filename": null,
+    "title": null,
+    "score": 0.5995986461639404,
+    "method": "manual"
+  },
+  "49": {
+    "filename": "508.Understanding Neural Abstractive Summarization Models via Uncertainty-Grobid-out.txt",
+    "title": "Understanding Neural Abstractive Summarization Models via Uncertainty",
+    "score": 0.4189794306813106,
+    "method": "tfidf"
+  },
+  "50": {
+    "filename": "2.Towards Opinion Summarization of Customer Reviews-Grobid-out.txt",
+    "title": "Towards Opinion Summarization of Customer Reviews",
+    "score": 0.3243705561549617,
+    "method": "tfidf"
+  },
+  "51": {
+    "filename": "298.Attribute-aware Sequence Network for Review Summarization-Grobid-out.txt",
+    "title": "Attribute-aware Sequence Network for Review Summarization",
+    "score": 0.8526834425252757,
+    "method": "tfidf"
+  },
+  "52": {
+    "filename": null,
+    "title": null,
+    "score": 0.48178407549858093,
+    "method": "manual"
+  },
+  "53": {
+    "filename": "54.Mixed-Lingual Pre-training for Cross-lingual Summarization-Grobid-out.txt",
+    "title": "Mixed-Lingual Pre-training for Cross-lingual Summarization",
+    "score": 0.5735324182997351,
+    "method": "tfidf"
+  },
+  "54": {
+    "filename": "28.Global Encoding for Abstractive Summarization-Grobid-out.txt",
+    "title": "Global Encoding for Abstractive Summarization",
+    "score": 0.686452886790178,
+    "method": "tfidf"
+  },
+  "55": {
+    "filename": "296.Neural Extractive Summarization with Hierarchical Attentive Heterogeneous Graph Network-Grobid-out.txt",
+    "title": "Neural Extractive Summarization with Hierarchical Attentive Heterogeneous Graph Network",
+    "score": 0.5832963230293399,
+    "method": "tfidf"
+  },
+  "56": {
+    "filename": "33.A Spectral Method for Unsupervised Multi-Document Summarization-Grobid-out.txt",
+    "title": "A Spectral Method for Unsupervised Multi-Document Summarization",
+    "score": 0.6685086222529206,
+    "method": "tfidf"
+  },
+  "57": {
+    "filename": "305.Concept Pointer Network for Abstractive Summarization-Grobid-out.txt",
+    "title": "Concept Pointer Network for Abstractive Summarization",
+    "score": 0.627550420300266,
+    "method": "tfidf"
+  },
+  "58": {
+    "filename": "306.Zero-Shot Cross-Lingual Abstractive Sentence Summarization through Teaching Generation and Attention-Grobid-out.txt",
+    "title": "Zero-Shot Cross-Lingual Abstractive Sentence Summarization through Teaching Generation and Attention",
+    "score": 0.552767882763556,
+    "method": "tfidf"
+  },
+  "59": {
+    "filename": "23.Multiple Aspect Summarization Using Integer Linear Programming-Grobid-out.txt",
+    "title": "Multiple Aspect Summarization Using Integer Linear Programming",
+    "score": 0.5684162882845044,
+    "method": "tfidf"
+  },
+  "60": {
+    "filename": "331.HighRES Highlight-based Reference-less Evaluation of Summarization-Grobid-out.txt",
+    "title": "HighRES Highlight-based Reference-less Evaluation of Summarization",
+    "score": 0.4938929341518293,
+    "method": "tfidf"
+  },
+  "61": {
+    "filename": "24.A Temporally Sensitive Submodularity Framework for Timeline Summarization-Grobid-out.txt",
+    "title": "A Temporally Sensitive Submodularity Framework for Timeline Summarization",
+    "score": 0.5689648652851158,
+    "method": "tfidf"
+  },
+  "62": {
+    "filename": "441.Closed-Book Training to Improve Summarization Encoder Memory-Grobid-out.txt",
+    "title": "Closed-Book Training to Improve Summarization Encoder Memory",
+    "score": 0.6807758875447768,
+    "method": "tfidf"
+  },
+  "63": {
+    "filename": "750.Evaluating the Factual Consistency of Abstractive Text Summarization-Grobid-out.txt",
+    "title": "Evaluating the Factual Consistency of Abstractive Text Summarization",
+    "score": 0.43935387954273647,
+    "method": "tfidf"
+  },
+  "64": {
+    "filename": "50.A Dynamic Programming Algorithm for Tree Trimming-based Text Summarization-Grobid-out.txt",
+    "title": "A Dynamic Programming Algorithm for Tree Trimming-based Text Summarization",
+    "score": 0.5684512675222254,
+    "method": "tfidf"
+  },
+  "65": {
+    "filename": "338.Few-Shot Learning for Opinion Summarization-Grobid-out.txt",
+    "title": "Few-Shot Learning for Opinion Summarization",
+    "score": 0.4586762087999689,
+    "method": "tfidf"
+  },
+  "66": {
+    "filename": "556.Leveraging Graph to Improve Abstractive Multi-Document Summarization-Grobid-out.txt",
+    "title": "Leveraging Graph to Improve Abstractive Multi-Document Summarization",
+    "score": 0.7028120621146855,
+    "method": "tfidf"
+  },
+  "67": {
+    "filename": "48.Multi-Document Summarization Using A Search and Discriminative Learning-Grobid-out.txt",
+    "title": "Multi-Document Summarization Using A Search and Discriminative Learning",
+    "score": 0.6176790819282468,
+    "method": "tfidf"
+  },
+  "68": {
+    "filename": "11.Text Summarization through Entailment-based Minimum Vertex Cover-Grobid-out.txt",
+    "title": "Text Summarization through Entailment-based Minimum Vertex Cover",
+    "score": 0.5815195566433898,
+    "method": "tfidf"
+  },
+  "69": {
+    "filename": "98.A Discourse-Aware Attention Model for Abstractive Summarization of Long Documents-Grobid-out.txt",
+    "title": "A Discourse-Aware Attention Model for Abstractive Summarization of Long Documents",
+    "score": 0.5191370134848727,
+    "method": "tfidf"
+  },
+  "70": {
+    "filename": "514.OpinionDigest A Simple Framework for Opinion Summarization-Grobid-out.txt",
+    "title": "OpinionDigest A Simple Framework for Opinion Summarization",
+    "score": 0.6943787012153336,
+    "method": "tfidf"
+  },
+  "71": {
+    "filename": "104.Objective Function Learning to Match Human Judgements for Optimization-Based Summarization-Grobid-out.txt",
+    "title": "Objective Function Learning to Match Human Judgements for Optimization-Based Summarization",
+    "score": 0.4477663168895813,
+    "method": "tfidf"
+  },
+  "72": {
+    "filename": "107.Combining Coherence Models and Machine Translation Evaluation Metrics for Summarization Evaluation-Grobid-out.txt",
+    "title": "Combining Coherence Models and Machine Translation Evaluation Metrics for Summarization Evaluation",
+    "score": 0.5790403257034794,
+    "method": "tfidf"
+  },
+  "73": {
+    "filename": "103.Multi-News A Large-Scale Multi-Document Summarization Dataset and Abstractive Hierarchical Model-Grobid-out.txt",
+    "title": "Multi-News A Large-Scale Multi-Document Summarization Dataset and Abstractive Hierarchical Model",
+    "score": 0.5342365201756477,
+    "method": "tfidf"
+  },
+  "74": {
+    "filename": null,
+    "title": null,
+    "score": 0.3931659162044525,
+    "method": "manual"
+  },
+  "75": {
+    "filename": "368.SupMMD A Sentence Importance Model for Extractive Summarization using Maximum Mean Discrepancy-Grobid-out.txt",
+    "title": "SupMMD A Sentence Importance Model for Extractive Summarization using Maximum Mean Discrepancy",
+    "score": 0.6966697760806554,
+    "method": "tfidf"
+  },
+  "76": {
+    "filename": "68.Collective Personal Profile Summarization with Social Networks-Grobid-out.txt",
+    "title": "Collective Personal Profile Summarization with Social Networks",
+    "score": 0.7612058084865205,
+    "method": "tfidf"
+  },
+  "77": {
+    "filename": "159.Ranking Sentences for Extractive Summarization with Reinforcement Learning-Grobid-out.txt",
+    "title": "Ranking Sentences for Extractive Summarization with Reinforcement Learning",
+    "score": 0.43527720689527283,
+    "method": "tfidf"
+  },
+  "78": {
+    "filename": "10.Beyond Centrality and Structural Features Learning Information Importance for Text Summarization-Grobid-out.txt",
+    "title": "Beyond Centrality and Structural Features Learning Information Importance for Text Summarization",
+    "score": 0.5032683687693781,
+    "method": "tfidf"
+  },
+  "79": {
+    "filename": "388.Text Summarization with Pretrained Encoders-Grobid-out.txt",
+    "title": "Text Summarization with Pretrained Encoders",
+    "score": 0.5158662726295872,
+    "method": "tfidf"
+  },
+  "80": {
+    "filename": "51.Discovery of Topically Coherent Sentences for Extractive Summarization-Grobid-out.txt",
+    "title": "Discovery of Topically Coherent Sentences for Extractive Summarization",
+    "score": 0.5167491473491769,
+    "method": "tfidf"
+  },
+  "81": {
+    "filename": "76.News Stream Summarization using Burst Information Networks-Grobid-out.txt",
+    "title": "News Stream Summarization using Burst Information Networks",
+    "score": 0.48266190495612127,
+    "method": "tfidf"
+  },
+  "82": {
+    "filename": "100.Get To The Point Summarization with Pointer-Generator Networks-Grobid-out.txt",
+    "title": "Get To The Point Summarization with Pointer-Generator Networks",
+    "score": 0.39808293407621115,
+    "method": "tfidf"
+  },
+  "83": {
+    "filename": "61.Optimizing Informativeness and Readability for Sentiment Summarization-Grobid-out.txt",
+    "title": "Optimizing Informativeness and Readability for Sentiment Summarization",
+    "score": 0.554219925921717,
+    "method": "tfidf"
+  },
+  "84": {
+    "filename": "455.FEQA A Question Answering Evaluation Framework for Faithfulness Assessment in Abstractive Summarization-Grobid-out.txt",
+    "title": "FEQA A Question Answering Evaluation Framework for Faithfulness Assessment in Abstractive Summarization",
+    "score": 0.6911599493501426,
+    "method": "tfidf"
+  },
+  "85": {
+    "filename": "13.Abstractive Sentence Summarization with Attentive Recurrent Neural Networks-Grobid-out.txt",
+    "title": "Abstractive Sentence Summarization with Attentive Recurrent Neural Networks",
+    "score": 0.7010046555264434,
+    "method": "tfidf"
+  },
+  "86": {
+    "filename": "102.Hierarchically-Attentive RNN for Album Summarization and Storytelling-Grobid-out.txt",
+    "title": "Hierarchically-Attentive RNN for Album Summarization and Storytelling",
+    "score": 0.5126561612153385,
+    "method": "tfidf"
+  },
+  "88": {
+    "filename": "445.Controlling Length in Abstractive Summarization Using a Convolutional Neural Network-Grobid-out.txt",
+    "title": "Controlling Length in Abstractive Summarization Using a Convolutional Neural Network",
+    "score": 0.36253615972533565,
+    "method": "tfidf"
+  },
+  "89": {
+    "filename": "103.Multi-News A Large-Scale Multi-Document Summarization Dataset and Abstractive Hierarchical Model-Grobid-out.txt",
+    "title": "Multi-News A Large-Scale Multi-Document Summarization Dataset and Abstractive Hierarchical Model",
+    "score": 0.5630702060087099,
+    "method": "tfidf"
+  },
+  "90": {
+    "filename": "53.A Class of Submodular Functions for Document Summarization-Grobid-out.txt",
+    "title": "A Class of Submodular Functions for Document Summarization",
+    "score": 0.4579636896115589,
+    "method": "tfidf"
+  },
+  "91": {
+    "filename": "504.Simple Unsupervised Summarization by Contextual Matching-Grobid-out.txt",
+    "title": "Simple Unsupervised Summarization by Contextual Matching",
+    "score": 0.7064593650295455,
+    "method": "tfidf"
+  },
+  "92": {
+    "filename": "156.Predicting Salient Updates for Disaster Summarization-Grobid-out.txt",
+    "title": "Predicting Salient Updates for Disaster Summarization",
+    "score": 0.6068029943568565,
+    "method": "tfidf"
+  },
+  "93": {
+    "filename": "10.Guiding Generation for Abstractive Text Summarization Based on Key Information Guide Network-Grobid-out.txt",
+    "title": "Guiding Generation for Abstractive Text Summarization Based on Key Information Guide Network",
+    "score": 0.6813675714380024,
+    "method": "tfidf"
+  },
+  "94": {
+    "filename": "99.Improving the Similarity Measure of Determinantal Point Processes for Extractive Multi-Document Summarization-Grobid-out.txt",
+    "title": "Improving the Similarity Measure of Determinantal Point Processes for Extractive Multi-Document Summarization",
+    "score": 0.6060502433642633,
+    "method": "tfidf"
+  },
+  "95": {
+    "filename": "206.Improving Abstractive Document Summarization with Salient Information Modeling-Grobid-out.txt",
+    "title": "Improving Abstractive Document Summarization with Salient Information Modeling",
+    "score": 0.5642343387803477,
+    "method": "tfidf"
+  },
+  "96": {
+    "filename": "174.Single Document Summarization as Tree Induction-Grobid-out.txt",
+    "title": "Single Document Summarization as Tree Induction",
+    "score": 0.6517016511352073,
+    "method": "tfidf"
+  },
+  "97": {
+    "filename": "62.Community Answer Summarization for Multi-Sentence Question with Group L1 Regularization-Grobid-out.txt",
+    "title": "Community Answer Summarization for Multi-Sentence Question with Group L1 Regularization",
+    "score": 0.5738030540618112,
+    "method": "tfidf"
+  },
+  "98": {
+    "filename": "44.Ranking Human and Machine Summarization Systems-Grobid-out.txt",
+    "title": "Ranking Human and Machine Summarization Systems",
+    "score": 0.3795442760551735,
+    "method": "tfidf"
+  },
+  "99": {
+    "filename": "751.Re-evaluating Evaluation in Text Summarization-Grobid-out.txt",
+    "title": "Re-evaluating Evaluation in Text Summarization",
+    "score": 0.6459857468647928,
+    "method": "tfidf"
+  },
+  "100": {
+    "filename": "162.Which Scores to Predict in Sentence Regression for Text Summarization-Grobid-out.txt",
+    "title": "Which Scores to Predict in Sentence Regression for Text Summarization",
+    "score": 0.5528651223632706,
+    "method": "tfidf"
+  },
+  "101": {
+    "filename": "302.Contrastive Attention Mechanism for Abstractive Sentence Summarization-Grobid-out.txt",
+    "title": "Contrastive Attention Mechanism for Abstractive Sentence Summarization",
+    "score": 0.6498334283914468,
+    "method": "tfidf"
+  },
+  "102": {
+    "filename": "145.Harnessing Popularity in Social Media for Extractive Summarization of Online Conversations-Grobid-out.txt",
+    "title": "Harnessing Popularity in Social Media for Extractive Summarization of Online Conversations",
+    "score": 0.5290596418430072,
+    "method": "tfidf"
+  },
+  "103": {
+    "filename": "44.Oracle Summaries of Compressive Summarization-Grobid-out.txt",
+    "title": "Oracle Summaries of Compressive Summarization",
+    "score": 0.6432538186760931,
+    "method": "tfidf"
+  },
+  "104": {
+    "filename": "646.TESA A Task in Entity Semantic Aggregation for Abstractive Summarization-Grobid-out.txt",
+    "title": "TESA A Task in Entity Semantic Aggregation for Abstractive Summarization",
+    "score": 0.5837095930541591,
+    "method": "tfidf"
+  },
+  "105": {
+    "filename": "361.WikiLingua A New Benchmark Dataset for Cross-Lingual Abstractive Summarization-Grobid-out.txt",
+    "title": "WikiLingua A New Benchmark Dataset for Cross-Lingual Abstractive Summarization",
+    "score": 0.5966804247204144,
+    "method": "tfidf"
+  },
+  "106": {
+    "filename": "506.Factual Error Correction for Abstractive Summarization Models-Grobid-out.txt",
+    "title": "Factual Error Correction for Abstractive Summarization Models",
+    "score": 0.5873140072972731,
+    "method": "tfidf"
+  },
+  "107": {
+    "filename": "12.System Combination for Multi-document Summarization-Grobid-out.txt",
+    "title": "System Combination for Multi-document Summarization",
+    "score": 0.5743674051902865,
+    "method": "tfidf"
+  },
+  "108": {
+    "filename": "9.A Low-Rank Approximation Approach to Learning Joint Embeddings of News Stories and Images for Timeline Summarization-Grobid-out.txt",
+    "title": "A Low-Rank Approximation Approach to Learning Joint Embeddings of News Stories and Images for Timeline Summarization",
+    "score": 0.57501286071712,
+    "method": "tfidf"
+  },
+  "109": {
+    "filename": "48.Cutting-off Redundant Repeating Generations for Neural Abstractive Summarization-Grobid-out.txt",
+    "title": "Cutting-off Redundant Repeating Generations for Neural Abstractive Summarization",
+    "score": 0.6706816436871275,
+    "method": "tfidf"
+  },
+  "110": {
+    "filename": "40.Query Snowball A Co-occurrence-based Approach to Multi-document Summarization for Question Answering-Grobid-out.txt",
+    "title": "Query Snowball A Co-occurrence-based Approach to Multi-document Summarization for Question Answering",
+    "score": 0.5597616265350868,
+    "method": "tfidf"
+  },
+  "111": {
+    "filename": null,
+    "title": null,
+    "score": 0.593872606754303,
+    "method": "manual"
+  },
+  "112": {
+    "filename": "629.Sentence Centrality Revisited for Unsupervised Summarization-Grobid-out.txt",
+    "title": "Sentence Centrality Revisited for Unsupervised Summarization",
+    "score": 0.5704731467771949,
+    "method": "tfidf"
+  },
+  "113": {
+    "filename": "46.Graph-based Neural Multi-Document Summarization-Grobid-out.txt",
+    "title": "Graph-based Neural Multi-Document Summarization",
+    "score": 0.7292741921505643,
+    "method": "tfidf"
+  },
+  "114": {
+    "filename": "103.Multi-Reward Reinforced Summarization with Saliency and Entailment-Grobid-out.txt",
+    "title": "Multi-Reward Reinforced Summarization with Saliency and Entailment",
+    "score": 0.7424269192061779,
+    "method": "tfidf"
+  },
+  "115": {
+    "filename": "620.Countering the Effects of Lead Bias in News Summarization via Multi-Stage Training and Auxiliary Losses-Grobid-out.txt",
+    "title": "Countering the Effects of Lead Bias in News Summarization via Multi-Stage Training and Auxiliary Losses",
+    "score": 0.5433334499571151,
+    "method": "tfidf"
+  },
+  "117": {
+    "filename": "89.Neural Latent Extractive Document Summarization-Grobid-out.txt",
+    "title": "Neural Latent Extractive Document Summarization",
+    "score": 0.6030093368855955,
+    "method": "tfidf"
+  },
+  "118": {
+    "filename": "294.Modeling Content Importance for Summarization with Pre-trained Language Models-Grobid-out.txt",
+    "title": "Modeling Content Importance for Summarization with Pre-trained Language Models",
+    "score": 0.5351853955596381,
+    "method": "tfidf"
+  },
+  "119": {
+    "filename": "132.Conditional Neural Generation using Sub-Aspect Functions for Extractive News Summarization-Grobid-out.txt",
+    "title": "Conditional Neural Generation using Sub-Aspect Functions for Extractive News Summarization",
+    "score": 0.6633390328831624,
+    "method": "tfidf"
+  },
+  "120": {
+    "filename": "450.Frustratingly Easy Model Ensemble for Abstractive Summarization-Grobid-out.txt",
+    "title": "Frustratingly Easy Model Ensemble for Abstractive Summarization",
+    "score": 0.7560977572413017,
+    "method": "tfidf"
+  },
+  "121": {
+    "filename": "36.Friendly Topic Assistant for Transformer Based Abstractive Summarization-Grobid-out.txt",
+    "title": "Friendly Topic Assistant for Transformer Based Abstractive Summarization",
+    "score": 0.7095417751683105,
+    "method": "tfidf"
+  },
+  "122": {
+    "filename": "442.Improving Neural Abstractive Document Summarization with Structural Regularization-Grobid-out.txt",
+    "title": "Improving Neural Abstractive Document Summarization with Structural Regularization",
+    "score": 0.663764200040128,
+    "method": "tfidf"
+  },
+  "123": {
+    "filename": "450.A Transformer-based Approach for Source Code Summarization-Grobid-out.txt",
+    "title": "A Transformer-based Approach for Source Code Summarization",
+    "score": 0.617836720509363,
+    "method": "tfidf"
+  },
+  "124": {
+    "filename": "210.Scoring Sentence Singletons and Pairs for Abstractive Summarization-Grobid-out.txt",
+    "title": "Scoring Sentence Singletons and Pairs for Abstractive Summarization",
+    "score": 0.7332445361635869,
+    "method": "tfidf"
+  },
+  "125": {
+    "filename": "299.Extractive Summarization of Long Documents by Combining Global and Local Context-Grobid-out.txt",
+    "title": "Extractive Summarization of Long Documents by Combining Global and Local Context",
+    "score": 0.5415242329772619,
+    "method": "tfidf"
+  },
+  "126": {
+    "filename": "117.The Feasibility of Embedding Based Automatic Evaluation for Single Document Summarization-Grobid-out.txt",
+    "title": "The Feasibility of Embedding Based Automatic Evaluation for Single Document Summarization",
+    "score": 0.6459425687789917,
+    "method": "semantic"
+  },
+  "127": {
+    "filename": "389.How to Write Summaries with Patterns Learning towards Abstractive Summarization through Prototype Editing-Grobid-out.txt",
+    "title": "How to Write Summaries with Patterns Learning towards Abstractive Summarization through Prototype Editing",
+    "score": 0.7237639103342192,
+    "method": "tfidf"
+  },
+  "128": {
+    "filename": "11.Automatic Summarization of Student Course Feedback-Grobid-out.txt",
+    "title": "Automatic Summarization of Student Course Feedback",
+    "score": 0.5516487900477728,
+    "method": "tfidf"
+  },
+  "129": {
+    "filename": "96.BrailleSUM A News Summarization System for the Blind and Visually Impaired People-Grobid-out.txt",
+    "title": "BrailleSUM A News Summarization System for the Blind and Visually Impaired People",
+    "score": 0.6859449974213155,
+    "method": "tfidf"
+  },
+  "130": {
+    "filename": "44.Ranking Human and Machine Summarization Systems-Grobid-out.txt",
+    "title": "Ranking Human and Machine Summarization Systems",
+    "score": 0.6895227432250977,
+    "method": "semantic"
+  },
+  "131": {
+    "filename": "8.A Deep Reinforced Model for Zero-Shot Cross-Lingual Summarization with Bilingual Semantic Similarity Rewards-Grobid-out.txt",
+    "title": "A Deep Reinforced Model for Zero-Shot Cross-Lingual Summarization with Bilingual Semantic Similarity Rewards",
+    "score": 0.6749550561301304,
+    "method": "tfidf"
+  },
+  "132": {
+    "filename": "12.Unsupervised Semantic Abstractive Summarization-Grobid-out.txt",
+    "title": "Unsupervised Semantic Abstractive Summarization",
+    "score": 0.6943468253698869,
+    "method": "tfidf"
+  },
+  "133": {
+    "filename": "65.Soft Layer-Specific Multi-Task Summarization with Entailment and Question Generation-Grobid-out.txt",
+    "title": "Soft Layer-Specific Multi-Task Summarization with Entailment and Question Generation",
+    "score": 0.5347068312905666,
+    "method": "tfidf"
+  },
+  "134": {
+    "filename": null,
+    "title": null,
+    "score": 0.5375134348869324,
+    "method": "manual"
+  },
+  "135": {
+    "filename": "507.Compressive Summarization with Plausibility and Salience Modeling-Grobid-out.txt",
+    "title": "Compressive Summarization with Plausibility and Salience Modeling",
+    "score": 0.7276271717285744,
+    "method": "tfidf"
+  },
+  "136": {
+    "filename": "154.Abstractive Multi-Document Summarization via Phrase Selection and Merging-Grobid-out.txt",
+    "title": "Abstractive Multi-Document Summarization via Phrase Selection and Merging",
+    "score": 0.5209910545271826,
+    "method": "tfidf"
+  },
+  "137": {
+    "filename": "118.Attention Optimization for Abstractive Document Summarization-Grobid-out.txt",
+    "title": "Attention Optimization for Abstractive Document Summarization",
+    "score": 0.5352677599134519,
+    "method": "tfidf"
+  },
+  "138": {
+    "filename": "125.SUPERT Towards New Frontiers in Unsupervised Evaluation Metrics for Multi-Document Summarization-Grobid-out.txt",
+    "title": "SUPERT Towards New Frontiers in Unsupervised Evaluation Metrics for Multi-Document Summarization",
+    "score": 0.6919031053729017,
+    "method": "tfidf"
+  },
+  "139": {
+    "filename": "34.What Have We Achieved on Text Summarization-Grobid-out.txt",
+    "title": "What Have We Achieved on Text Summarization",
+    "score": 0.5792641265956109,
+    "method": "tfidf"
+  },
+  "140": {
+    "filename": "331.MATINF A Jointly Labeled Large-Scale Dataset for Classification, Question Answering and Summarization-Grobid-out.txt",
+    "title": "MATINF A Jointly Labeled Large-Scale Dataset for Classification, Question Answering and Summarization",
+    "score": 0.6423695026630056,
+    "method": "tfidf"
+  },
+  "141": {
+    "filename": "16.Retrieve, Rerank and Rewrite Soft Template Based Neural Summarization-Grobid-out.txt",
+    "title": "Retrieve, Rerank and Rewrite Soft Template Based Neural Summarization",
+    "score": 0.7783814057620801,
+    "method": "tfidf"
+  },
+  "142": {
+    "filename": "101.Searching for Effective Neural Extractive Summarization What Works and What\u2019s Next-Grobid-out.txt",
+    "title": "Searching for Effective Neural Extractive Summarization What Works and What\u2019s Next",
+    "score": 0.41406002811108816,
+    "method": "tfidf"
+  },
+  "143": {
+    "filename": null,
+    "title": null,
+    "score": 0.666702151298523,
+    "method": "manual"
+  },
+  "144": {
+    "filename": "157.Fast Joint Compression and Summarization via Graph Cuts-Grobid-out.txt",
+    "title": "Fast Joint Compression and Summarization via Graph Cuts",
+    "score": 0.4277516769214257,
+    "method": "tfidf"
+  },
+  "145": {
+    "filename": "56.A Bayesian Method to Incorporate Background Knowledge during Automatic Text Summarization-Grobid-out.txt",
+    "title": "A Bayesian Method to Incorporate Background Knowledge during Automatic Text Summarization",
+    "score": 0.5826703696014494,
+    "method": "tfidf"
+  },
+  "146": {
+    "filename": "20.A Hierarchical Network for Abstractive Meeting Summarization with Cross-Domain Pretraining-Grobid-out.txt",
+    "title": "A Hierarchical Network for Abstractive Meeting Summarization with Cross-Domain Pretraining",
+    "score": 0.5663204463995783,
+    "method": "tfidf"
+  },
+  "147": {
+    "filename": "25.Framework of Automatic Text Summarization Using Reinforcement Learning-Grobid-out.txt",
+    "title": "Framework of Automatic Text Summarization Using Reinforcement Learning",
+    "score": 0.5154996303207661,
+    "method": "tfidf"
+  },
+  "148": {
+    "filename": "115.Multi-modal Summarization for Asynchronous Collection of Text, Image, Audio and Video-Grobid-out.txt",
+    "title": "Multi-modal Summarization for Asynchronous Collection of Text, Image, Audio and Video",
+    "score": 0.369894967640715,
+    "method": "tfidf"
+  },
+  "149": {
+    "filename": "631.Inducing Document Structure for Aspect-based Summarization-Grobid-out.txt",
+    "title": "Inducing Document Structure for Aspect-based Summarization",
+    "score": 0.6459903226539597,
+    "method": "tfidf"
+  },
+  "150": {
+    "filename": "446.Facet-Aware Evaluation for Extractive Summarization-Grobid-out.txt",
+    "title": "Facet-Aware Evaluation for Extractive Summarization",
+    "score": 0.7518110310768019,
+    "method": "tfidf"
+  },
+  "151": {
+    "filename": "8.Hindi History Note Generation with Unsupervised Extractive Summarization-Grobid-out.txt",
+    "title": "Hindi History Note Generation with Unsupervised Extractive Summarization",
+    "score": 0.4931043469287906,
+    "method": "tfidf"
+  },
+  "152": {
+    "filename": "444.Bottom-Up Abstractive Summarization-Grobid-out.txt",
+    "title": "Bottom-Up Abstractive Summarization",
+    "score": 0.5934754225062528,
+    "method": "tfidf"
+  },
+  "153": {
+    "filename": "623.Deep Reinforcement Learning with Distributional Semantic Rewards for Abstractive Summarization-Grobid-out.txt",
+    "title": "Deep Reinforcement Learning with Distributional Semantic Rewards for Abstractive Summarization",
+    "score": 0.6186679051093387,
+    "method": "tfidf"
+  },
+  "154": {
+    "filename": "102.Subtree Extractive Summarization via Submodular Maximization-Grobid-out.txt",
+    "title": "Subtree Extractive Summarization via Submodular Maximization",
+    "score": 0.6370817422866821,
+    "method": "semantic"
+  },
+  "155": {
+    "filename": "136.A Participant-based Approach for Event Summarization Using Twitter Streams-Grobid-out.txt",
+    "title": "A Participant-based Approach for Event Summarization Using Twitter Streams",
+    "score": 0.7670222990144334,
+    "method": "tfidf"
+  },
+  "156": {
+    "filename": "118.Attention Optimization for Abstractive Document Summarization-Grobid-out.txt",
+    "title": "Attention Optimization for Abstractive Document Summarization",
+    "score": 0.7142044901847839,
+    "method": "semantic"
+  },
+  "157": {
+    "filename": "7.Neural Abstractive Multi-Document Summarization Hierarchical or Flat Structure-Grobid-out.txt",
+    "title": "Neural Abstractive Multi-Document Summarization Hierarchical or Flat Structure",
+    "score": 0.7964418317975566,
+    "method": "tfidf"
+  },
+  "158": {
+    "filename": "15.Extractive Summarization with SWAP-NET Sentences and Words from Alternating Pointer Networks-Grobid-out.txt",
+    "title": "Extractive Summarization with SWAP-NET Sentences and Words from Alternating Pointer Networks",
+    "score": 0.71475062134369,
+    "method": "tfidf"
+  },
+  "159": {
+    "filename": "324.An Entity-Driven Framework for Abstractive Summarization-Grobid-out.txt",
+    "title": "An Entity-Driven Framework for Abstractive Summarization",
+    "score": 0.6273435596579648,
+    "method": "tfidf"
+  },
+  "160": {
+    "filename": "648.Multi-XScience A Large-scale Dataset for Extreme Multi-document Summarization of Scientific Articles-Grobid-out.txt",
+    "title": "Multi-XScience A Large-scale Dataset for Extreme Multi-document Summarization of Scientific Articles",
+    "score": 0.6180472024495008,
+    "method": "tfidf"
+  },
+  "161": {
+    "filename": "500.HIBERT Document Level Pre-training of Hierarchical Bidirectional Transformers for Document Summarization-Grobid-out.txt",
+    "title": "HIBERT Document Level Pre-training of Hierarchical Bidirectional Transformers for Document Summarization",
+    "score": 0.6645810586857404,
+    "method": "tfidf"
+  },
+  "162": {
+    "filename": "616.Abstract Text Summarization A Low Resource Challenge-Grobid-out.txt",
+    "title": "Abstract Text Summarization A Low Resource Challenge",
+    "score": 0.4106368486326488,
+    "method": "tfidf"
+  },
+  "163": {
+    "filename": "65.Entity Commonsense Representation for Neural Abstractive Summarization-Grobid-out.txt",
+    "title": "Entity Commonsense Representation for Neural Abstractive Summarization",
+    "score": 0.6401292639905722,
+    "method": "tfidf"
+  },
+  "164": {
+    "filename": "439.Abstractive Text-Image Summarization Using Multi-Modal Attentional Hierarchical RNN-Grobid-out.txt",
+    "title": "Abstractive Text-Image Summarization Using Multi-Modal Attentional Hierarchical RNN",
+    "score": 0.5251325981161954,
+    "method": "tfidf"
+  },
+  "165": {
+    "filename": "87.Guided Neural Language Generation for Abstractive Summarization using Abstract Meaning Representation-Grobid-out.txt",
+    "title": "Guided Neural Language Generation for Abstractive Summarization using Abstract Meaning Representation",
+    "score": 0.636052703353769,
+    "method": "tfidf"
+  },
+  "166": {
+    "filename": "305.Literature Retrieval for Precision Medicine with Neural Matching and Faceted Summarization-Grobid-out.txt",
+    "title": "Literature Retrieval for Precision Medicine with Neural Matching and Faceted Summarization",
+    "score": 0.46050128907026217,
+    "method": "tfidf"
+  },
+  "167": {
+    "filename": "64.Fast Abstractive Summarization with Reinforce-Selected Sentence Rewriting-Grobid-out.txt",
+    "title": "Fast Abstractive Summarization with Reinforce-Selected Sentence Rewriting",
+    "score": 0.65849544670769,
+    "method": "tfidf"
+  },
+  "168": {
+    "filename": "391.Improving Latent Alignment in Text Summarization by Generalizing the Pointer Generator-Grobid-out.txt",
+    "title": "Improving Latent Alignment in Text Summarization by Generalizing the Pointer Generator",
+    "score": 0.6703138708483689,
+    "method": "tfidf"
+  },
+  "169": {
+    "filename": "207.Unsupervised Neural Single-Document Summarization of Reviews via Learning Latent Discourse Structure and its Ranking-Grobid-out.txt",
+    "title": "Unsupervised Neural Single-Document Summarization of Reviews via Learning Latent Discourse Structure and its Ranking",
+    "score": 0.635416690052141,
+    "method": "tfidf"
+  },
+  "170": {
+    "filename": "555.Jointly Learning to Align and Summarize for Neural Cross-Lingual Summarization-Grobid-out.txt",
+    "title": "Jointly Learning to Align and Summarize for Neural Cross-Lingual Summarization",
+    "score": 0.7132279656697224,
+    "method": "tfidf"
+  },
+  "171": {
+    "filename": "51.ZEST Zero-shot Learning from Text Descriptions using Textual Similarity and Visual Summarization-Grobid-out.txt",
+    "title": "ZEST Zero-shot Learning from Text Descriptions using Textual Similarity and Visual Summarization",
+    "score": 0.6938155828960836,
+    "method": "tfidf"
+  },
+  "172": {
+    "filename": "115.Toward Abstractive Summarization Using Semantic Representations-Grobid-out.txt",
+    "title": "Toward Abstractive Summarization Using Semantic Representations",
+    "score": 0.5269539352370115,
+    "method": "tfidf"
+  },
+  "173": {
+    "filename": "85.Modelling Events through Memory-based, Open-IE Patterns for Abstractive Summarization-Grobid-out.txt",
+    "title": "Modelling Events through Memory-based, Open-IE Patterns for Abstractive Summarization",
+    "score": 0.33089255799118605,
+    "method": "tfidf"
+  },
+  "174": {
+    "filename": "62.Generating Sports News from Live Commentary A Chinese Dataset for Sports Game Summarization-Grobid-out.txt",
+    "title": "Generating Sports News from Live Commentary A Chinese Dataset for Sports Game Summarization",
+    "score": 0.4733355249544166,
+    "method": "tfidf"
+  },
+  "175": {
+    "filename": "47.Efficient Online Summarization of Microblogging Streams-Grobid-out.txt",
+    "title": "Efficient Online Summarization of Microblogging Streams",
+    "score": 0.4622781183341125,
+    "method": "tfidf"
+  },
+  "176": {
+    "filename": "261.Abstractive Summarization of Reddit Posts with Multi-level Memory Networks-Grobid-out.txt",
+    "title": "Abstractive Summarization of Reddit Posts with Multi-level Memory Networks",
+    "score": 0.5971176888083956,
+    "method": "tfidf"
+  },
+  "177": {
+    "filename": "80.Using External Resources and Joint Learning for Bigram Weighting in ILP-Based Multi-Document Summarization-Grobid-out.txt",
+    "title": "Using External Resources and Joint Learning for Bigram Weighting in ILP-Based Multi-Document Summarization",
+    "score": 0.7267471149649313,
+    "method": "tfidf"
+  },
+  "178": {
+    "filename": "137.Learning Summary Prior Representation for Extractive Summarization-Grobid-out.txt",
+    "title": "Learning Summary Prior Representation for Extractive Summarization",
+    "score": 0.6920386715450675,
+    "method": "tfidf"
+  },
+  "179": {
+    "filename": "116.Autoencoder as Assistant Supervisor Improving Text Representation for Chinese Social Media Text Summarization-Grobid-out.txt",
+    "title": "Autoencoder as Assistant Supervisor Improving Text Representation for Chinese Social Media Text Summarization",
+    "score": 0.5812414127297088,
+    "method": "tfidf"
+  },
+  "180": {
+    "filename": "100.Evolutionary Hierarchical Dirichlet Process for Timeline Summarization-Grobid-out.txt",
+    "title": "Evolutionary Hierarchical Dirichlet Process for Timeline Summarization",
+    "score": 0.6998364383524627,
+    "method": "tfidf"
+  },
+  "181": {
+    "filename": null,
+    "title": null,
+    "score": 0.5905012488365173,
+    "method": "manual"
+  },
+  "182": {
+    "filename": "78.In Conclusion Not Repetition Comprehensive Abstractive Summarization with Diversified Attention Based on Determinantal Point Processes-Grobid-out.txt",
+    "title": "In Conclusion Not Repetition Comprehensive Abstractive Summarization with Diversified Attention Based on Determinantal Point Processes",
+    "score": 0.6477835541525088,
+    "method": "tfidf"
+  },
+  "183": {
+    "filename": "117.The Feasibility of Embedding Based Automatic Evaluation for Single Document Summarization-Grobid-out.txt",
+    "title": "The Feasibility of Embedding Based Automatic Evaluation for Single Document Summarization",
+    "score": 0.762251092874799,
+    "method": "tfidf"
+  },
+  "184": {
+    "filename": "169.TED A Pretrained Unsupervised Summarization Model with Theme Modeling and Denoising-Grobid-out.txt",
+    "title": "TED A Pretrained Unsupervised Summarization Model with Theme Modeling and Denoising",
+    "score": 0.8207012244937487,
+    "method": "tfidf"
+  },
+  "185": {
+    "filename": "90.On the Abstractiveness of Neural Document Summarization-Grobid-out.txt",
+    "title": "On the Abstractiveness of Neural Document Summarization",
+    "score": 0.36717255324770787,
+    "method": "tfidf"
+  },
+  "186": {
+    "filename": "5.Enhancing Instructor-Student and Student-Student Interactions with Mobile Interfaces and Summarization-Grobid-out.txt",
+    "title": "Enhancing Instructor-Student and Student-Student Interactions with Mobile Interfaces and Summarization",
+    "score": 0.581275667786194,
+    "method": "tfidf"
+  },
+  "187": {
+    "filename": "26.Understanding Points of Correspondence between Sentences for Abstractive Summarization-Grobid-out.txt",
+    "title": "Understanding Points of Correspondence between Sentences for Abstractive Summarization",
+    "score": 0.33595187409011795,
+    "method": "tfidf"
+  },
+  "188": {
+    "filename": null,
+    "title": null,
+    "score": 0.524137556552887,
+    "method": "manual"
+  },
+  "189": {
+    "filename": "126.Self-Attention Guided Copy Mechanism for Abstractive Summarization-Grobid-out.txt",
+    "title": "Self-Attention Guided Copy Mechanism for Abstractive Summarization",
+    "score": 0.6344514066418993,
+    "method": "tfidf"
+  },
+  "190": {
+    "filename": "137.A Sentence Compression Based Framework to Query-Focused Multi-Document Summarization-Grobid-out.txt",
+    "title": "A Sentence Compression Based Framework to Query-Focused Multi-Document Summarization",
+    "score": 0.5755765094667632,
+    "method": "tfidf"
+  },
+  "191": {
+    "filename": "101.Improving Semantic Relevance for Sequence-to-Sequence Learning of Chinese Social Media Text Summarization-Grobid-out.txt",
+    "title": "Improving Semantic Relevance for Sequence-to-Sequence Learning of Chinese Social Media Text Summarization",
+    "score": 0.5109482890957915,
+    "method": "tfidf"
+  },
+  "192": {
+    "filename": "452.Discourse-Aware Neural Extractive Text Summarization-Grobid-out.txt",
+    "title": "Discourse-Aware Neural Extractive Text Summarization",
+    "score": 0.6314894744624885,
+    "method": "tfidf"
+  },
+  "193": {
+    "filename": "100.Using Supervised Bigram-based ILP for Extractive Summarization-Grobid-out.txt",
+    "title": "Using Supervised Bigram-based ILP for Extractive Summarization",
+    "score": 0.760998626673562,
+    "method": "tfidf"
+  },
+  "194": {
+    "filename": "175.Screenplay Summarization Using Latent Narrative Structure-Grobid-out.txt",
+    "title": "Screenplay Summarization Using Latent Narrative Structure",
+    "score": 0.39179919651904094,
+    "method": "tfidf"
+  },
+  "196": {
+    "filename": null,
+    "title": null,
+    "score": 0.6673874258995056,
+    "method": "manual"
+  },
+  "197": {
+    "filename": "27.GoWvis A Web Application for Graph-of-Words-based Text Visualization and Summarization-Grobid-out.txt",
+    "title": "GoWvis A Web Application for Graph-of-Words-based Text Visualization and Summarization",
+    "score": 0.7712332010269165,
+    "method": "semantic"
+  },
+  "198": {
+    "filename": "502.Abstractive Text Summarization Based on Deep Learning and Semantic Content Generalization-Grobid-out.txt",
+    "title": "Abstractive Text Summarization Based on Deep Learning and Semantic Content Generalization",
+    "score": 0.4293406266501379,
+    "method": "tfidf"
+  },
+  "199": {
+    "filename": "340.Stepwise Extractive Summarization and Planning with Structured Transformers-Grobid-out.txt",
+    "title": "Stepwise Extractive Summarization and Planning with Structured Transformers",
+    "score": 0.8276686540316238,
+    "method": "tfidf"
+  },
+  "200": {
+    "filename": "208.BiSET Bi-directional Selective Encoding with Template for Abstractive Summarization-Grobid-out.txt",
+    "title": "BiSET Bi-directional Selective Encoding with Template for Abstractive Summarization",
+    "score": 0.726400179817237,
+    "method": "tfidf"
+  },
+  "201": {
+    "filename": "75.Pretraining-Based Natural Language Generation for Text Summarization-Grobid-out.txt",
+    "title": "Pretraining-Based Natural Language Generation for Text Summarization",
+    "score": 0.6458749254019199,
+    "method": "tfidf"
+  },
+  "202": {
+    "filename": "211.Keep Meeting Summaries on Topic Abstractive Multi-Modal Meeting Summarization-Grobid-out.txt",
+    "title": "Keep Meeting Summaries on Topic Abstractive Multi-Modal Meeting Summarization",
+    "score": 0.5790817321668462,
+    "method": "tfidf"
+  },
+  "203": {
+    "filename": "229.Extractive Summarization by Maximizing Semantic Volume-Grobid-out.txt",
+    "title": "Extractive Summarization by Maximizing Semantic Volume",
+    "score": 0.4789121106698939,
+    "method": "tfidf"
+  },
+  "204": {
+    "filename": null,
+    "title": null,
+    "score": 0.21740464866161346,
+    "method": "manual"
+  },
+  "205": {
+    "filename": "8.Transformer-based Model for Single Documents Neural Summarization-Grobid-out.txt",
+    "title": "Transformer-based Model for Single Documents Neural Summarization",
+    "score": 0.43304446590492146,
+    "method": "tfidf"
+  },
+  "206": {
+    "filename": "453.Discrete Optimization for Unsupervised Sentence Summarization with Word-Level Extraction-Grobid-out.txt",
+    "title": "Discrete Optimization for Unsupervised Sentence Summarization with Word-Level Extraction",
+    "score": 0.5223589909402037,
+    "method": "tfidf"
+  },
+  "207": {
+    "filename": "100.Global Optimization under Length Constraint for Neural Text Summarization-Grobid-out.txt",
+    "title": "Global Optimization under Length Constraint for Neural Text Summarization",
+    "score": 0.7522465730597803,
+    "method": "tfidf"
+  },
+  "208": {
+    "filename": "87.Using Document Summarization Techniques for Speech Data Subset Selection-Grobid-out.txt",
+    "title": "Using Document Summarization Techniques for Speech Data Subset Selection",
+    "score": 0.4662916878529353,
+    "method": "tfidf"
+  },
+  "209": {
+    "filename": "298.Pre-training for Abstractive Document Summarization by Reinstating Source Text-Grobid-out.txt",
+    "title": "Pre-training for Abstractive Document Summarization by Reinstating Source Text",
+    "score": 0.5448140555390731,
+    "method": "tfidf"
+  },
+  "210": {
+    "filename": "325.Neural Extractive Text Summarization with Syntactic Compression-Grobid-out.txt",
+    "title": "Neural Extractive Text Summarization with Syntactic Compression",
+    "score": 0.674614153168077,
+    "method": "tfidf"
+  },
+  "211": {
+    "filename": "7.A Novel System for Extractive Clinical Note Summarization using EHR Data-Grobid-out.txt",
+    "title": "A Novel System for Extractive Clinical Note Summarization using EHR Data",
+    "score": 0.5900731549142783,
+    "method": "tfidf"
+  },
+  "212": {
+    "filename": "647.MLSUM The Multilingual Summarization Corpus-Grobid-out.txt",
+    "title": "MLSUM The Multilingual Summarization Corpus",
+    "score": 0.3213977308804161,
+    "method": "tfidf"
+  },
+  "213": {
+    "filename": "321.Answers Unite! Unsupervised Metrics for Reinforced Summarization Models-Grobid-out.txt",
+    "title": "Answers Unite! Unsupervised Metrics for Reinforced Summarization Models",
+    "score": 0.6502721221714769,
+    "method": "tfidf"
+  },
+  "215": {
+    "filename": "53.A Cascade Approach to Neural Abstractive Summarization with Content Selection and Fusion-Grobid-out.txt",
+    "title": "A Cascade Approach to Neural Abstractive Summarization with Content Selection and Fusion",
+    "score": 0.5319022767933865,
+    "method": "tfidf"
+  },
+  "216": {
+    "filename": null,
+    "title": null,
+    "score": 0.5024388432502747,
+    "method": "manual"
+  },
+  "217": {
+    "filename": "14.MUSEEC A Multilingual Text Summarization Tool-Grobid-out.txt",
+    "title": "MUSEEC A Multilingual Text Summarization Tool",
+    "score": 0.7012726601930716,
+    "method": "tfidf"
+  },
+  "218": {
+    "filename": "206.Improving Neural Abstractive Document Summarization with Explicit Information Selection Modeling-Grobid-out.txt",
+    "title": "Improving Neural Abstractive Document Summarization with Explicit Information Selection Modeling",
+    "score": 0.6576577820886264,
+    "method": "tfidf"
+  },
+  "219": {
+    "filename": "449.MSMO Multimodal Summarization with Multimodal Output-Grobid-out.txt",
+    "title": "MSMO Multimodal Summarization with Multimodal Output",
+    "score": 0.5676758664728911,
+    "method": "tfidf"
+  },
+  "220": {
+    "filename": "11.Cross-Task Knowledge Transfer for Query-Based Text Summarization-Grobid-out.txt",
+    "title": "Cross-Task Knowledge Transfer for Query-Based Text Summarization",
+    "score": 0.5774095881365379,
+    "method": "tfidf"
+  }
+}

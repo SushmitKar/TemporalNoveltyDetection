@@ -1,0 +1,122 @@
+{
+  "0": {
+    "filename": "411.Discriminative Nearest Neighbor Few-Shot Intent Detection by Transferring Natural Language Inference-Grobid-out.txt",
+    "title": "Discriminative Nearest Neighbor Few-Shot Intent Detection by Transferring Natural Language Inference",
+    "score": 0.6229024434836944,
+    "method": "tfidf"
+  },
+  "1": {
+    "filename": "315.OCNLI Original Chinese Natural Language Inference-Grobid-out.txt",
+    "title": "OCNLI Original Chinese Natural Language Inference",
+    "score": 0.4586011052211246,
+    "method": "tfidf"
+  },
+  "2": {
+    "filename": "71.Supervised Learning of Universal Sentence Representations from Natural Language Inference Data-Grobid-out.txt",
+    "title": "Supervised Learning of Universal Sentence Representations from Natural Language Inference Data",
+    "score": 0.6140363514156535,
+    "method": "tfidf"
+  },
+  "3": {
+    "filename": "444.Unsupervised Natural Language Inference via Decoupled Multimodal Contrastive Learning-Grobid-out.txt",
+    "title": "Unsupervised Natural Language Inference via Decoupled Multimodal Contrastive Learning",
+    "score": 0.5003795344823767,
+    "method": "tfidf"
+  },
+  "4": {
+    "filename": "92.Discourse Marker Augmented Network with Reinforcement Learning for Natural Language Inference-Grobid-out.txt",
+    "title": "Discourse Marker Augmented Network with Reinforcement Learning for Natural Language Inference",
+    "score": 0.5397836344217942,
+    "method": "tfidf"
+  },
+  "5": {
+    "filename": "444.Dual Inference for Improving Language Understanding and Generation-Grobid-out.txt",
+    "title": "Dual Inference for Improving Language Understanding and Generation",
+    "score": 0.7054542723700449,
+    "method": "tfidf"
+  },
+  "7": {
+    "filename": "419.Thinking Like a Skeptic Defeasible Inference in Natural Language-Grobid-out.txt",
+    "title": "Thinking Like a Skeptic Defeasible Inference in Natural Language",
+    "score": 0.3113189483254885,
+    "method": "tfidf"
+  },
+  "8": {
+    "filename": "314.Mining Knowledge for Natural Language Inference from Wikipedia Categories-Grobid-out.txt",
+    "title": "Mining Knowledge for Natural Language Inference from Wikipedia Categories",
+    "score": 0.7766011016497566,
+    "method": "tfidf"
+  },
+  "9": {
+    "filename": null,
+    "title": null,
+    "score": 0.5775725841522217,
+    "method": "manual"
+  },
+  "10": {
+    "filename": "133.DR-BiLSTM Dependent Reading Bidirectional LSTM for Natural Language Inference-Grobid-out.txt",
+    "title": "DR-BiLSTM Dependent Reading Bidirectional LSTM for Natural Language Inference",
+    "score": 0.7002287661294435,
+    "method": "tfidf"
+  },
+  "11": {
+    "filename": "734.What Can We Learn from Collective Human Opinions on Natural Language Inference Data-Grobid-out.txt",
+    "title": "What Can We Learn from Collective Human Opinions on Natural Language Inference Data",
+    "score": 0.47215525798791347,
+    "method": "tfidf"
+  },
+  "12": {
+    "filename": "225.Neural Natural Language Inference Models Enhanced with External Knowledge-Grobid-out.txt",
+    "title": "Neural Natural Language Inference Models Enhanced with External Knowledge",
+    "score": 0.6221452687491205,
+    "method": "tfidf"
+  },
+  "13": {
+    "filename": "245.A Decomposable Attention Model for Natural Language Inference-Grobid-out.txt",
+    "title": "A Decomposable Attention Model for Natural Language Inference",
+    "score": 0.4105877293793453,
+    "method": "tfidf"
+  },
+  "14": {
+    "filename": "662.Data and Representation for Turkish Natural Language Inference-Grobid-out.txt",
+    "title": "Data and Representation for Turkish Natural Language Inference",
+    "score": 0.4769066739688804,
+    "method": "tfidf"
+  },
+  "15": {
+    "filename": "24.Hypothesis Only Baselines in Natural Language Inference-Grobid-out.txt",
+    "title": "Hypothesis Only Baselines in Natural Language Inference",
+    "score": 0.30717001877124717,
+    "method": "tfidf"
+  },
+  "16": {
+    "filename": "665.Avoiding the Hypothesis-Only Bias in Natural Language Inference via Ensemble Adversarial Training-Grobid-out.txt",
+    "title": "Avoiding the Hypothesis-Only Bias in Natural Language Inference via Ensemble Adversarial Training",
+    "score": 0.7886013682320993,
+    "method": "tfidf"
+  },
+  "17": {
+    "filename": "272.General Purpose Text Embeddings from Pre-trained Language Models for Scalable Inference-Grobid-out.txt",
+    "title": "General Purpose Text Embeddings from Pre-trained Language Models for Scalable Inference",
+    "score": 0.5920090145162451,
+    "method": "tfidf"
+  },
+  "18": {
+    "filename": "657.Discriminatively-Tuned Generative Classifiers for Robust Natural Language Inference-Grobid-out.txt",
+    "title": "Discriminatively-Tuned Generative Classifiers for Robust Natural Language Inference",
+    "score": 0.693783719725789,
+    "method": "tfidf"
+  },
+  "19": {
+    "filename": "448.Enhancing Generalization in Natural Language Inference by Syntax-Grobid-out.txt",
+    "title": "Enhancing Generalization in Natural Language Inference by Syntax",
+    "score": 0.6744311620539057,
+    "method": "tfidf"
+  },
+  "20": {
+    "filename": "661.ConjNLI Natural Language Inference Over Conjunctive Sentences-Grobid-out.txt",
+    "title": "ConjNLI Natural Language Inference Over Conjunctive Sentences",
+    "score": 0.3593452665371249,
+    "method": "tfidf"
+  }
+}

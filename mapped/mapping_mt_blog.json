@@ -1,0 +1,74 @@
+{
+  "0": {
+    "filename": "Summary of _Addressing the Rare Word Problem in Neural Machine Translation_ Paper-Grobid-out.txt",
+    "title": "txt",
+    "score": 0.8796438304244614,
+    "method": "tfidf"
+  },
+  "1": {
+    "filename": "Attention is all you need_ Discovering the Transformer paper _ by Eduardo Mu\u00f1oz _ Towards Data Science-Grobid-out.txt",
+    "title": "txt",
+    "score": 0.6692003537489671,
+    "method": "tfidf"
+  },
+  "2": {
+    "filename": "Massively Multilingual Neural Machine Translation in the Wild - Findings and Challenges \u00b7 Papers I Read-Grobid-out.txt",
+    "title": "txt",
+    "score": 0.6981962449658415,
+    "method": "tfidf"
+  },
+  "3": {
+    "filename": "On Learning Language-Invariant Representations for Universal Machine Translation \u2013 Machine Learning Blog _ ML@CMU _ Carnegie Mellon University-Grobid-out.txt",
+    "title": "txt",
+    "score": 0.7313216088934542,
+    "method": "tfidf"
+  },
+  "4": {
+    "filename": "mBART50_ Multilingual Fine-Tuning of Extensible Multilingual Pretraining _ by Mattia Di Gangi _ Towards Data Science-Grobid-out.txt",
+    "title": "txt",
+    "score": 0.8964566839400258,
+    "method": "tfidf"
+  },
+  "5": {
+    "filename": "Attention-based Neural Machine Translation _ by Abhishek Sharma _ Towards Data Science-Grobid-out.txt",
+    "title": "txt",
+    "score": 0.8655572221784831,
+    "method": "tfidf"
+  },
+  "6": {
+    "filename": "Review \u2014 Google\u2019s Neural Machine Translation System_ Bridging the Gap between Human and Machine Translation (GNMT) _ by Sik-Ho Tsang _ Medium-Grobid-out.txt",
+    "title": "txt",
+    "score": 0.5764691535995029,
+    "method": "tfidf"
+  },
+  "7": {
+    "filename": "Summary of paper _Learning Phrase Representations using RNN Encoder\u2013Decoder for Statistical Machine Translation_-Grobid-out.txt",
+    "title": "txt",
+    "score": 0.8471928098416417,
+    "method": "tfidf"
+  },
+  "8": {
+    "filename": "Refining Source Representations with Relation Networks for Neural Machine Translation \u00b7 Papers I Read-Grobid-out.txt",
+    "title": "txt",
+    "score": 0.7536087276001869,
+    "method": "tfidf"
+  },
+  "9": {
+    "filename": "\u201cSequence to Sequence Learning with Neural Networks\u201d_ Paper Discussion _ by Sanyam Bhutani _ Medium-Grobid-out.txt",
+    "title": "txt",
+    "score": 0.7665350784362993,
+    "method": "tfidf"
+  },
+  "10": {
+    "filename": "Summary of _Achieving Open Vocabulary Neural Machine Translation with Hybrid Word-Character Models_ paper-Grobid-out.txt",
+    "title": "txt",
+    "score": 0.818218060635136,
+    "method": "tfidf"
+  },
+  "11": {
+    "filename": "papers_Character-based_Neural_Machine_Translation.md at master \u00b7 aleju_papers-Grobid-out.txt",
+    "title": "md at master \u00b7 aleju_papers",
+    "score": 0.6938387016413736,
+    "method": "tfidf"
+  }
+}

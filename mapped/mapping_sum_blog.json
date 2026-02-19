@@ -1,0 +1,152 @@
+{
+  "0": {
+    "filename": "Day 186_ NLP Papers Summary - Contextualizing Citations for Scientific Summarization using Word Embeddings and Domain Knowledge - Ryan Ong-Grobid-out.txt",
+    "title": "txt",
+    "score": 0.6378629238227144,
+    "method": "tfidf"
+  },
+  "1": {
+    "filename": "Day 167_ NLP Papers Summary - Ontology-Aware Clinical Abstractive Summarization - Ryan Ong-Grobid-out.txt",
+    "title": "txt",
+    "score": 0.8142707844697775,
+    "method": "tfidf"
+  },
+  "2": {
+    "filename": "Day 185_ NLP Papers Summary - A Discourse-Aware Attention Model for Abstractive Summarization of Long Documents - Ryan Ong-Grobid-out.txt",
+    "title": "txt",
+    "score": 0.7365851699306717,
+    "method": "tfidf"
+  },
+  "3": {
+    "filename": "Day 174_ NLP Papers Summary - PEGASUS_ Pre-training with Extracted Gap-sentences for Abstractive Summarization - Ryan Ong-Grobid-out.txt",
+    "title": "txt",
+    "score": 0.8269090338677486,
+    "method": "tfidf"
+  },
+  "4": {
+    "filename": "Day 206_ NLP Papers Summary - Transformers and Pointer-Generator Networks for Abstractive Summarization - Ryan Ong-Grobid-out.txt",
+    "title": "txt",
+    "score": 0.5698489796276374,
+    "method": "tfidf"
+  },
+  "5": {
+    "filename": "Day 121_ NLP Papers Summary - Concept Pointer Network for Abstractive Summarization - Ryan Ong-Grobid-out.txt",
+    "title": "txt",
+    "score": 0.8419503247617259,
+    "method": "tfidf"
+  },
+  "6": {
+    "filename": "Day 146_ NLP Papers Summary - Exploring Content Selection in Summarization of Novel Chapters - Ryan Ong-Grobid-out.txt",
+    "title": "txt",
+    "score": 0.6794431549097957,
+    "method": "tfidf"
+  },
+  "7": {
+    "filename": "Day 109_ NLP Papers Summary - Studying Summarization Evaluation Metrics in the Appropriate Scoring Range - Ryan Ong-Grobid-out.txt",
+    "title": "txt",
+    "score": 0.815247767010184,
+    "method": "tfidf"
+  },
+  "8": {
+    "filename": "Day 113_ NLP Papers Summary - On Extractive and Abstractive Neural Document Summarization with Transformer Language Models - Ryan Ong-Grobid-out.txt",
+    "title": "txt",
+    "score": 0.6343831165130879,
+    "method": "tfidf"
+  },
+  "9": {
+    "filename": "Day 145_ NLP Papers Summary - SUPERT_ Towards New Frontiers in Unsupervised Evaluation Metrics for Multi-Document Summarization - Ryan Ong-Grobid-out.txt",
+    "title": "txt",
+    "score": 0.8947018265463015,
+    "method": "tfidf"
+  },
+  "10": {
+    "filename": "Day 143_ NLP Papers Summary - Unsupervised Pseudo-Labeling for Extractive Summarization on Electronic Health Records - Ryan Ong-Grobid-out.txt",
+    "title": "txt",
+    "score": 0.7828357130901911,
+    "method": "tfidf"
+  },
+  "11": {
+    "filename": "Day 188_ NLP Papers Summary - A Supervised Approach to Extractive Summarisation of Scientific Papers - Ryan Ong-Grobid-out.txt",
+    "title": "txt",
+    "score": 0.6730609667472305,
+    "method": "tfidf"
+  },
+  "12": {
+    "filename": "Day 152_ NLP Papers Summary - OPINIONDIGEST_ A Simple Framework for Opinion Summarization - Ryan Ong-Grobid-out.txt",
+    "title": "txt",
+    "score": 0.8688410690263881,
+    "method": "tfidf"
+  },
+  "13": {
+    "filename": "Day 114_ NLP Papers Summary - A Summarization System for Scientific Documents - Ryan Ong-Grobid-out.txt",
+    "title": "txt",
+    "score": 0.7492629793273382,
+    "method": "tfidf"
+  },
+  "14": {
+    "filename": "Taming Recurrent Neural Networks for Better Summarization _ Abigail See-Grobid-out.txt",
+    "title": "txt",
+    "score": 0.794474813839304,
+    "method": "tfidf"
+  },
+  "15": {
+    "filename": "Day 144_ NLP Papers Summary - Attend to Medical Ontologies_ Content Selection for Clinical Abstractive Summarization - Ryan Ong-Grobid-out.txt",
+    "title": "txt",
+    "score": 0.7559492713251427,
+    "method": "tfidf"
+  },
+  "16": {
+    "filename": "BART_ Are all pretraining techniques created equal_ _ by Antonio Lopardo _ DAIR.AI _ Medium-Grobid-out.txt",
+    "title": "AI _ Medium",
+    "score": 0.63562550435654,
+    "method": "tfidf"
+  },
+  "17": {
+    "filename": "Day 160_ NLP Papers Summary - Extractive Summarization as Text Matching - Ryan Ong-Grobid-out.txt",
+    "title": "txt",
+    "score": 0.7992822016125084,
+    "method": "tfidf"
+  },
+  "18": {
+    "filename": "Day 148_ NLP Papers Summary - A Transformer-based Approach for Source Code Summarization - Ryan Ong-Grobid-out.txt",
+    "title": "txt",
+    "score": 0.6921085711707229,
+    "method": "tfidf"
+  },
+  "19": {
+    "filename": "Day 116_ NLP Papers Summary - Data-driven Summarization of Scientific Articles - Ryan Ong-Grobid-out.txt",
+    "title": "txt",
+    "score": 0.6229775936682965,
+    "method": "tfidf"
+  },
+  "20": {
+    "filename": "Day 120_ NLP Papers Summary - A Simple Theoretical Model of Importance for Summarization - Ryan Ong-Grobid-out.txt",
+    "title": "txt",
+    "score": 0.8022971267715404,
+    "method": "tfidf"
+  },
+  "21": {
+    "filename": "Day 192_ NLP Papers Summary - Guiding Extractive Summarization with Question-Answering Rewards - Ryan Ong-Grobid-out.txt",
+    "title": "txt",
+    "score": 0.7618440460951477,
+    "method": "tfidf"
+  },
+  "22": {
+    "filename": "Day 151_ NLP Papers Summary - A Large-Scale Multi-Document Summarization Dataset from the Wikipedia Current Events Portal - Ryan Ong-Grobid-out.txt",
+    "title": "txt",
+    "score": 0.7243214670289868,
+    "method": "tfidf"
+  },
+  "23": {
+    "filename": "Day 156_ NLP Papers Summary - Asking and Answering Questions to Evaluate the Factual Consistency of Summaries - Ryan Ong-Grobid-out.txt",
+    "title": "txt",
+    "score": 0.9037299466005326,
+    "method": "tfidf"
+  },
+  "24": {
+    "filename": "Day 118_ NLP Papers Summary - Extractive Summarization of Long Documents by Combining Global and Local Context - Ryan Ong-Grobid-out.txt",
+    "title": "txt",
+    "score": 0.5890035271228413,
+    "method": "tfidf"
+  }
+}

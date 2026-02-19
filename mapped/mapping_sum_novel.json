@@ -1,0 +1,452 @@
+{
+  "0": {
+    "filename": null,
+    "title": null,
+    "score": 0.594514787197113,
+    "method": "manual"
+  },
+  "1": {
+    "filename": "13.A Thorough Evaluation of Task-Specific Pretraining for Summarization-Grobid-out.txt",
+    "title": "A Thorough Evaluation of Task-Specific Pretraining for Summarization",
+    "score": 0.43954234797730735,
+    "method": "tfidf"
+  },
+  "2": {
+    "filename": "58.Improving Zero and Few-Shot Abstractive Summarization with Intermediate Fine-tuning and Data Augmentation-Grobid-out.txt",
+    "title": "Improving Zero and Few-Shot Abstractive Summarization with Intermediate Fine-tuning and Data Augmentation",
+    "score": 0.43252183758515156,
+    "method": "tfidf"
+  },
+  "3": {
+    "filename": "471.Sliding Selector Network with Dynamic Memory for Extractive Summarization of Long Documents-Grobid-out.txt",
+    "title": "Sliding Selector Network with Dynamic Memory for Extractive Summarization of Long Documents",
+    "score": 0.6249910236479723,
+    "method": "tfidf"
+  },
+  "4": {
+    "filename": "11.Decision-Focused Summarization-Grobid-out.txt",
+    "title": "Decision-Focused Summarization",
+    "score": 0.6886950527112731,
+    "method": "tfidf"
+  },
+  "5": {
+    "filename": "595.MS\u02c62 Multi-Document Summarization of Medical Studies-Grobid-out.txt",
+    "title": "MS\u02c62 Multi-Document Summarization of Medical Studies",
+    "score": 0.3313752346264922,
+    "method": "tfidf"
+  },
+  "6": {
+    "filename": "382.Enriching Transformers with Structured Tensor-Product Representations for Abstractive Summarization-Grobid-out.txt",
+    "title": "Enriching Transformers with Structured Tensor-Product Representations for Abstractive Summarization",
+    "score": 0.7482622769071674,
+    "method": "tfidf"
+  },
+  "7": {
+    "filename": "341.Improving Unsupervised Question Answering via Summarization-Informed Question Generation-Grobid-out.txt",
+    "title": "Improving Unsupervised Question Answering via Summarization-Informed Question Generation",
+    "score": 0.664152762159548,
+    "method": "tfidf"
+  },
+  "8": {
+    "filename": "385.Generating SOAP Notes from Doctor-Patient Conversations Using Modular Summarization Techniques-Grobid-out.txt",
+    "title": "Generating SOAP Notes from Doctor-Patient Conversations Using Modular Summarization Techniques",
+    "score": 0.7125615517277949,
+    "method": "tfidf"
+  },
+  "9": {
+    "filename": null,
+    "title": null,
+    "score": 0.6175068616867065,
+    "method": "manual"
+  },
+  "10": {
+    "filename": "742.ARMAN Pre-training with Semantically Selecting and Reordering of Sentences for Persian Abstractive Summarization-Grobid-out.txt",
+    "title": "ARMAN Pre-training with Semantically Selecting and Reordering of Sentences for Persian Abstractive Summarization",
+    "score": 0.7539202715690667,
+    "method": "tfidf"
+  },
+  "11": {
+    "filename": "476.Improving Faithfulness in Abstractive Summarization with Contrast Candidate Generation and Selection-Grobid-out.txt",
+    "title": "Improving Faithfulness in Abstractive Summarization with Contrast Candidate Generation and Selection",
+    "score": 0.5751152385457348,
+    "method": "tfidf"
+  },
+  "12": {
+    "filename": "538.EmailSum Abstractive Email Thread Summarization-Grobid-out.txt",
+    "title": "EmailSum Abstractive Email Thread Summarization",
+    "score": 0.665402012675644,
+    "method": "tfidf"
+  },
+  "13": {
+    "filename": "331.Considering Nested Tree Structure in Sentence Extractive Summarization with Pre-trained Transformer-Grobid-out.txt",
+    "title": "Considering Nested Tree Structure in Sentence Extractive Summarization with Pre-trained Transformer",
+    "score": 0.7038280619093378,
+    "method": "tfidf"
+  },
+  "14": {
+    "filename": "475.Focus Attention Promoting Faithfulness and Diversity in Summarization-Grobid-out.txt",
+    "title": "Focus Attention Promoting Faithfulness and Diversity in Summarization",
+    "score": 0.6787587035522594,
+    "method": "tfidf"
+  },
+  "15": {
+    "filename": "105.Looking Beyond Sentence-Level Natural Language Inference for Question Answering and Text Summarization-Grobid-out.txt",
+    "title": "Looking Beyond Sentence-Level Natural Language Inference for Question Answering and Text Summarization",
+    "score": 0.5856573011165573,
+    "method": "tfidf"
+  },
+  "16": {
+    "filename": "12.Multiplex Graph Neural Network for Extractive Text Summarization-Grobid-out.txt",
+    "title": "Multiplex Graph Neural Network for Extractive Text Summarization",
+    "score": 0.6768276000205501,
+    "method": "tfidf"
+  },
+  "17": {
+    "filename": "471.Long-Span Summarization via Local Attention and Content Selection-Grobid-out.txt",
+    "title": "Long-Span Summarization via Local Attention and Content Selection",
+    "score": 0.7699307761080638,
+    "method": "tfidf"
+  },
+  "18": {
+    "filename": "19.SummVis Interactive Visual Analysis of Models, Data, and Evaluation for Text Summarization-Grobid-out.txt",
+    "title": "SummVis Interactive Visual Analysis of Models, Data, and Evaluation for Text Summarization",
+    "score": 0.49245065558666995,
+    "method": "tfidf"
+  },
+  "19": {
+    "filename": "531.Simple Conversational Data Augmentation for Semi-supervised Abstractive Dialogue Summarization-Grobid-out.txt",
+    "title": "Simple Conversational Data Augmentation for Semi-supervised Abstractive Dialogue Summarization",
+    "score": 0.7760199076264919,
+    "method": "tfidf"
+  },
+  "20": {
+    "filename": "536.ConvoSumm Conversation Summarization Benchmark and Improved Abstractive Summarization with Argument Mining-Grobid-out.txt",
+    "title": "ConvoSumm Conversation Summarization Benchmark and Improved Abstractive Summarization with Argument Mining",
+    "score": 0.5575120395254771,
+    "method": "tfidf"
+  },
+  "21": {
+    "filename": "118.Language Model as an Annotator Exploring DialoGPT for Dialogue Summarization-Grobid-out.txt",
+    "title": "Language Model as an Annotator Exploring DialoGPT for Dialogue Summarization",
+    "score": 0.6603713253356269,
+    "method": "tfidf"
+  },
+  "22": {
+    "filename": "8.Low-Resource Dialogue Summarization with Domain-Agnostic Multi-Source Pretraining-Grobid-out.txt",
+    "title": "Low-Resource Dialogue Summarization with Domain-Agnostic Multi-Source Pretraining",
+    "score": 0.5646244010705919,
+    "method": "tfidf"
+  },
+  "23": {
+    "filename": "33.Multi-TimeLine Summarization (MTLS) Improving Timeline Summarization by Generating Multiple Summaries-Grobid-out.txt",
+    "title": "Multi-TimeLine Summarization (MTLS) Improving Timeline Summarization by Generating Multiple Summaries",
+    "score": 0.5606478204214658,
+    "method": "tfidf"
+  },
+  "24": {
+    "filename": "32.Deep Differential Amplifier for Extractive Summarization-Grobid-out.txt",
+    "title": "Deep Differential Amplifier for Extractive Summarization",
+    "score": 0.6193856563918355,
+    "method": "tfidf"
+  },
+  "26": {
+    "filename": "520.Timeline Summarization based on Event Graph Compression via Time-Aware Optimal Transport-Grobid-out.txt",
+    "title": "Timeline Summarization based on Event Graph Compression via Time-Aware Optimal Transport",
+    "score": 0.6850543514545565,
+    "method": "tfidf"
+  },
+  "27": {
+    "filename": "366.CSDS A Fine-Grained Chinese Dataset for Customer Service Dialogue Summarization-Grobid-out.txt",
+    "title": "CSDS A Fine-Grained Chinese Dataset for Customer Service Dialogue Summarization",
+    "score": 0.4150376989759604,
+    "method": "tfidf"
+  },
+  "28": {
+    "filename": "34.Reinforcement Learning for Abstractive Question Summarization with Question-aware Semantic Rewards-Grobid-out.txt",
+    "title": "Reinforcement Learning for Abstractive Question Summarization with Question-aware Semantic Rewards",
+    "score": 0.6273880524528773,
+    "method": "tfidf"
+  },
+  "29": {
+    "filename": "632.A Bag of Tricks for Dialogue Summarization-Grobid-out.txt",
+    "title": "A Bag of Tricks for Dialogue Summarization",
+    "score": 0.445826058549829,
+    "method": "tfidf"
+  },
+  "30": {
+    "filename": "10.Fine-grained Factual Consistency Assessment for Abstractive Summarization Models-Grobid-out.txt",
+    "title": "Fine-grained Factual Consistency Assessment for Abstractive Summarization Models",
+    "score": 0.5524375601811082,
+    "method": "tfidf"
+  },
+  "31": {
+    "filename": "14.HETFORMER Heterogeneous Transformer with Sparse Attention for Long-Text Extractive Summarization-Grobid-out.txt",
+    "title": "HETFORMER Heterogeneous Transformer with Sparse Attention for Long-Text Extractive Summarization",
+    "score": 0.6816901638714125,
+    "method": "tfidf"
+  },
+  "32": {
+    "filename": "745.Enriching and Controlling Global Semantics for Text Summarization-Grobid-out.txt",
+    "title": "Enriching and Controlling Global Semantics for Text Summarization",
+    "score": 0.5183977115788739,
+    "method": "tfidf"
+  },
+  "33": {
+    "filename": "338.Gradient-Based Adversarial Factual Consistency Evaluation for Abstractive Summarization-Grobid-out.txt",
+    "title": "Gradient-Based Adversarial Factual Consistency Evaluation for Abstractive Summarization",
+    "score": 0.5486951011841736,
+    "method": "tfidf"
+  },
+  "34": {
+    "filename": "412.Nutri-bullets Hybrid Consensual Multi-document Summarization-Grobid-out.txt",
+    "title": "Nutri-bullets Hybrid Consensual Multi-document Summarization",
+    "score": 0.42156724236646764,
+    "method": "tfidf"
+  },
+  "35": {
+    "filename": "138.Bringing Structure into Summaries a Faceted Summarization Dataset for Long Scientific Documents-Grobid-out.txt",
+    "title": "Bringing Structure into Summaries a Faceted Summarization Dataset for Long Scientific Documents",
+    "score": 0.3669206395636983,
+    "method": "tfidf"
+  },
+  "36": {
+    "filename": "115.Annotating and Modeling Fine-grained Factuality in Summarization-Grobid-out.txt",
+    "title": "Annotating and Modeling Fine-grained Factuality in Summarization",
+    "score": 0.5238628156538857,
+    "method": "tfidf"
+  },
+  "37": {
+    "filename": "472.AdaptSum Towards Low-Resource Domain Adaptation for Abstractive Summarization-Grobid-out.txt",
+    "title": "AdaptSum Towards Low-Resource Domain Adaptation for Abstractive Summarization",
+    "score": 0.6682977862951605,
+    "method": "tfidf"
+  },
+  "38": {
+    "filename": "59.Enhancing Factual Consistency of Abstractive Summarization-Grobid-out.txt",
+    "title": "Enhancing Factual Consistency of Abstractive Summarization",
+    "score": 0.7097871082873553,
+    "method": "tfidf"
+  },
+  "39": {
+    "filename": "539.Cross-Lingual Abstractive Summarization with Limited Parallel Resources-Grobid-out.txt",
+    "title": "Cross-Lingual Abstractive Summarization with Limited Parallel Resources",
+    "score": 0.6975984541982511,
+    "method": "tfidf"
+  },
+  "41": {
+    "filename": "10.Video Paragraph Captioning as a Text Summarization Task-Grobid-out.txt",
+    "title": "Video Paragraph Captioning as a Text Summarization Task",
+    "score": 0.702047519537243,
+    "method": "tfidf"
+  },
+  "42": {
+    "filename": "537.Improving Factual Consistency of Abstractive Summarization via Question Answering-Grobid-out.txt",
+    "title": "Improving Factual Consistency of Abstractive Summarization via Question Answering",
+    "score": 0.7443732140563442,
+    "method": "tfidf"
+  },
+  "43": {
+    "filename": "521.StreamHover Livestream Transcript Summarization and Annotation-Grobid-out.txt",
+    "title": "StreamHover Livestream Transcript Summarization and Annotation",
+    "score": 0.4001182865088562,
+    "method": "tfidf"
+  },
+  "44": {
+    "filename": "9.Controllable Neural Dialogue Summarization with Personal Named Entity Planning-Grobid-out.txt",
+    "title": "Controllable Neural Dialogue Summarization with Personal Named Entity Planning",
+    "score": 0.5392038332713155,
+    "method": "tfidf"
+  },
+  "45": {
+    "filename": "112.D2S Document-to-Slide Generation Via Query-Based Text Summarization-Grobid-out.txt",
+    "title": "D2S Document-to-Slide Generation Via Query-Based Text Summarization",
+    "score": 0.7485249580329463,
+    "method": "tfidf"
+  },
+  "46": {
+    "filename": "533.CLIFF Contrastive Learning for Improving Faithfulness and Factuality in Abstractive Summarization-Grobid-out.txt",
+    "title": "CLIFF Contrastive Learning for Improving Faithfulness and Factuality in Abstractive Summarization",
+    "score": 0.6083146191559973,
+    "method": "tfidf"
+  },
+  "47": {
+    "filename": "136.SimCLS A Simple Framework for Contrastive Learning of Abstractive Summarization-Grobid-out.txt",
+    "title": "SimCLS A Simple Framework for Contrastive Learning of Abstractive Summarization",
+    "score": 0.6458804607391357,
+    "method": "semantic"
+  },
+  "48": {
+    "filename": "540.Dissecting Generation Modes for Abstractive Summarization Models via Ablation and Attribution-Grobid-out.txt",
+    "title": "Dissecting Generation Modes for Abstractive Summarization Models via Ablation and Attribution",
+    "score": 0.3395399457603625,
+    "method": "tfidf"
+  },
+  "49": {
+    "filename": "113.Efficient Attentions for Long Document Summarization-Grobid-out.txt",
+    "title": "Efficient Attentions for Long Document Summarization",
+    "score": 0.6697108699366063,
+    "method": "tfidf"
+  },
+  "50": {
+    "filename": "530.QuestEval Summarization Asks for Fact-based Evaluation-Grobid-out.txt",
+    "title": "QuestEval Summarization Asks for Fact-based Evaluation",
+    "score": 0.35195067975684835,
+    "method": "tfidf"
+  },
+  "52": {
+    "filename": "799.AUTOSUMM Automatic Model Creation for Text Summarization-Grobid-out.txt",
+    "title": "AUTOSUMM Automatic Model Creation for Text Summarization",
+    "score": 0.6248428507253102,
+    "method": "tfidf"
+  },
+  "53": {
+    "filename": "35.A Training-free and Reference-free Summarization Evaluation Metric via Centrality-weighted Relevance and Self-referenced Redundancy-Grobid-out.txt",
+    "title": "A Training-free and Reference-free Summarization Evaluation Metric via Centrality-weighted Relevance and Self-referenced Redundancy",
+    "score": 0.5874043392581773,
+    "method": "tfidf"
+  },
+  "54": {
+    "filename": "475.MediaSum A Large-scale Media Interview Dataset for Dialogue Summarization-Grobid-out.txt",
+    "title": "MediaSum A Large-scale Media Interview Dataset for Dialogue Summarization",
+    "score": 0.6090434255119506,
+    "method": "tfidf"
+  },
+  "55": {
+    "filename": null,
+    "title": null,
+    "score": 0.5507649183273315,
+    "method": "manual"
+  },
+  "56": {
+    "filename": "120.Demoting the Lead Bias in News Summarization via Alternating Adversarial Learning-Grobid-out.txt",
+    "title": "Demoting the Lead Bias in News Summarization via Alternating Adversarial Learning",
+    "score": 0.5611221658983951,
+    "method": "tfidf"
+  },
+  "57": {
+    "filename": "529.Aspect-Controllable Opinion Summarization-Grobid-out.txt",
+    "title": "Aspect-Controllable Opinion Summarization",
+    "score": 0.6730083436148416,
+    "method": "tfidf"
+  },
+  "58": {
+    "filename": "34.Self-Supervised Multimodal Opinion Summarization-Grobid-out.txt",
+    "title": "Self-Supervised Multimodal Opinion Summarization",
+    "score": 0.6864621027057932,
+    "method": "tfidf"
+  },
+  "59": {
+    "filename": "398.Attention Head Masking for Inference Time Content Selection in Abstractive Summarization-Grobid-out.txt",
+    "title": "Attention Head Masking for Inference Time Content Selection in Abstractive Summarization",
+    "score": 0.811303461933289,
+    "method": "tfidf"
+  },
+  "60": {
+    "filename": "473.BASS Boosting Abstractive Summarization with Unified Semantic Graph-Grobid-out.txt",
+    "title": "BASS Boosting Abstractive Summarization with Unified Semantic Graph",
+    "score": 0.8234858005788018,
+    "method": "tfidf"
+  },
+  "61": {
+    "filename": "114.RefSum Refactoring Neural Summarization-Grobid-out.txt",
+    "title": "RefSum Refactoring Neural Summarization",
+    "score": 0.8402823104148751,
+    "method": "tfidf"
+  },
+  "62": {
+    "filename": "15.Situation-Based Multiparticipant Chat Summarization a Concept, an Exploration-Annotation Tool and an Example Collection-Grobid-out.txt",
+    "title": "Situation-Based Multiparticipant Chat Summarization a Concept, an Exploration-Annotation Tool and an Example Collection",
+    "score": 0.38986501220756353,
+    "method": "tfidf"
+  },
+  "63": {
+    "filename": "334.SgSumTransforming Multi-document Summarization into Sub-graph Selection-Grobid-out.txt",
+    "title": "SgSumTransforming Multi-document Summarization into Sub-graph Selection",
+    "score": 0.8138438120874725,
+    "method": "tfidf"
+  },
+  "64": {
+    "filename": "57.Noisy Self-Knowledge Distillation for Text Summarization-Grobid-out.txt",
+    "title": "Noisy Self-Knowledge Distillation for Text Summarization",
+    "score": 0.6863392548152385,
+    "method": "tfidf"
+  },
+  "65": {
+    "filename": "8.Long Document Summarization in a Low Resource Setting using Pretrained Language Models-Grobid-out.txt",
+    "title": "Long Document Summarization in a Low Resource Setting using Pretrained Language Models",
+    "score": 0.3861678242717586,
+    "method": "tfidf"
+  },
+  "66": {
+    "filename": "337.Learn to Copy from the Copying History Correlational Copy Network for Abstractive Summarization-Grobid-out.txt",
+    "title": "Learn to Copy from the Copying History Correlational Copy Network for Abstractive Summarization",
+    "score": 0.7187745593898026,
+    "method": "tfidf"
+  },
+  "67": {
+    "filename": "233.Unsupervised Extractive Summarization-Based Representations for Accurate and Explainable Collaborative Filtering-Grobid-out.txt",
+    "title": "Unsupervised Extractive Summarization-Based Representations for Accurate and Explainable Collaborative Filtering",
+    "score": 0.6235709078396545,
+    "method": "tfidf"
+  },
+  "68": {
+    "filename": "110.Structure-Aware Abstractive Conversation Summarization via Discourse and Action Graphs-Grobid-out.txt",
+    "title": "Structure-Aware Abstractive Conversation Summarization via Discourse and Action Graphs",
+    "score": 0.7501225290443315,
+    "method": "tfidf"
+  },
+  "69": {
+    "filename": "384.Understanding Factuality in Abstractive Summarization with FRANK A Benchmark for Factuality Metrics-Grobid-out.txt",
+    "title": "Understanding Factuality in Abstractive Summarization with FRANK A Benchmark for Factuality Metrics",
+    "score": 0.5561048116424092,
+    "method": "tfidf"
+  },
+  "70": {
+    "filename": "472.RepSum Unsupervised Dialogue Summarization based on Replacement Strategy-Grobid-out.txt",
+    "title": "RepSum Unsupervised Dialogue Summarization based on Replacement Strategy",
+    "score": 0.6390851755253456,
+    "method": "tfidf"
+  },
+  "71": {
+    "filename": "327.Vision Guided Generative Pre-trained Language Models for Multimodal Abstractive Summarization-Grobid-out.txt",
+    "title": "Vision Guided Generative Pre-trained Language Models for Multimodal Abstractive Summarization",
+    "score": 0.595900537923388,
+    "method": "tfidf"
+  },
+  "72": {
+    "filename": "385.GSum A General Framework for Guided Neural Abstractive Summarization-Grobid-out.txt",
+    "title": "GSum A General Framework for Guided Neural Abstractive Summarization",
+    "score": 0.565149997587788,
+    "method": "tfidf"
+  },
+  "73": {
+    "filename": "333.CAST Enhancing Code Summarization with Hierarchical Splitting and Reconstruction of Abstract Syntax Trees-Grobid-out.txt",
+    "title": "CAST Enhancing Code Summarization with Hierarchical Splitting and Reconstruction of Abstract Syntax Trees",
+    "score": 0.7487252383355657,
+    "method": "tfidf"
+  },
+  "74": {
+    "filename": "473.QMSum A New Benchmark for Query-based Multi-domain Meeting Summarization-Grobid-out.txt",
+    "title": "QMSum A New Benchmark for Query-based Multi-domain Meeting Summarization",
+    "score": 0.4228898390341177,
+    "method": "tfidf"
+  },
+  "75": {
+    "filename": "740.Sparsity and Sentence Structure in Encoder-Decoder Attention of Summarization Systems-Grobid-out.txt",
+    "title": "Sparsity and Sentence Structure in Encoder-Decoder Attention of Summarization Systems",
+    "score": 0.567217911586719,
+    "method": "tfidf"
+  },
+  "76": {
+    "filename": "474.MM-AVS A Full-Scale Dataset for Multi-modal Summarization-Grobid-out.txt",
+    "title": "MM-AVS A Full-Scale Dataset for Multi-modal Summarization",
+    "score": 0.7305826895583921,
+    "method": "tfidf"
+  },
+  "77": {
+    "filename": "477.Inference Time Style Control for Summarization-Grobid-out.txt",
+    "title": "Inference Time Style Control for Summarization",
+    "score": 0.5571061400229763,
+    "method": "tfidf"
+  }
+}

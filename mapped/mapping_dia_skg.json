@@ -1,0 +1,1826 @@
+{
+  "0": {
+    "filename": "373.Are Training Samples Correlated Learning to Generate Dialogue Responses with Multiple References-Grobid-out.txt",
+    "title": "Are Training Samples Correlated Learning to Generate Dialogue Responses with Multiple References",
+    "score": 0.6909517409405874,
+    "method": "tfidf"
+  },
+  "2": {
+    "filename": "652.doc2dial A Goal-Oriented Document-Grounded Dialogue Dataset-Grobid-out.txt",
+    "title": "doc2dial A Goal-Oriented Document-Grounded Dialogue Dataset",
+    "score": 0.7339877486228943,
+    "method": "semantic"
+  },
+  "3": {
+    "filename": "518.Learning to Customize Model Structures for Few-shot Dialogue Generation Tasks-Grobid-out.txt",
+    "title": "Learning to Customize Model Structures for Few-shot Dialogue Generation Tasks",
+    "score": 0.7089278433948566,
+    "method": "tfidf"
+  },
+  "4": {
+    "filename": "542.Memory Consolidation for Contextual Spoken Language Understanding with Dialogue Logistic Inference-Grobid-out.txt",
+    "title": "Memory Consolidation for Contextual Spoken Language Understanding with Dialogue Logistic Inference",
+    "score": 0.7959597253442249,
+    "method": "tfidf"
+  },
+  "5": {
+    "filename": "158.RMM A Recursive Mental Model for Dialogue Navigation-Grobid-out.txt",
+    "title": "RMM A Recursive Mental Model for Dialogue Navigation",
+    "score": 0.4989408227321055,
+    "method": "tfidf"
+  },
+  "6": {
+    "filename": "28.Toward Dialogue Modeling A Semantic Annotation Scheme for Questions and Answers-Grobid-out.txt",
+    "title": "Toward Dialogue Modeling A Semantic Annotation Scheme for Questions and Answers",
+    "score": 0.7097178101539612,
+    "method": "semantic"
+  },
+  "7": {
+    "filename": "80.AirConcierge Generating Task-Oriented Dialogue via Efficient Large-Scale Knowledge Retrieval-Grobid-out.txt",
+    "title": "AirConcierge Generating Task-Oriented Dialogue via Efficient Large-Scale Knowledge Retrieval",
+    "score": 0.6267829903317325,
+    "method": "tfidf"
+  },
+  "8": {
+    "filename": "537.Training Neural Response Selection for Task-Oriented Dialogue Systems-Grobid-out.txt",
+    "title": "Training Neural Response Selection for Task-Oriented Dialogue Systems",
+    "score": 0.7101397947594541,
+    "method": "tfidf"
+  },
+  "9": {
+    "filename": "73.Auto-Dialabel Labeling Dialogue Data with Unsupervised Learning-Grobid-out.txt",
+    "title": "Auto-Dialabel Labeling Dialogue Data with Unsupervised Learning",
+    "score": 0.6749764803410553,
+    "method": "tfidf"
+  },
+  "10": {
+    "filename": "337.Multi-View Sequence-to-Sequence Models with Conversational Structure for Abstractive Dialogue Summarization-Grobid-out.txt",
+    "title": "Multi-View Sequence-to-Sequence Models with Conversational Structure for Abstractive Dialogue Summarization",
+    "score": 0.6954548762437107,
+    "method": "tfidf"
+  },
+  "11": {
+    "filename": "180.Multi-Turn Dialogue Generation in E-Commerce Platform with the Context of Historical Dialogue-Grobid-out.txt",
+    "title": "Multi-Turn Dialogue Generation in E-Commerce Platform with the Context of Historical Dialogue",
+    "score": 0.6124362524421402,
+    "method": "tfidf"
+  },
+  "12": {
+    "filename": "123.A Compare Aggregate Transformer for Understanding Document-grounded Dialogue-Grobid-out.txt",
+    "title": "A Compare Aggregate Transformer for Understanding Document-grounded Dialogue",
+    "score": 0.6425560738115628,
+    "method": "tfidf"
+  },
+  "13": {
+    "filename": "336.Dr. Summarize Global Summarization of Medical Dialogue by Exploiting Local Structures.-Grobid-out.txt",
+    "title": "Dr. Summarize Global Summarization of Medical Dialogue by Exploiting Local Structures.",
+    "score": 0.5935545015917232,
+    "method": "tfidf"
+  },
+  "14": {
+    "filename": "327.Spot The Bot A Robust and Efficient Framework for the Evaluation of Conversational Dialogue Systems-Grobid-out.txt",
+    "title": "Spot The Bot A Robust and Efficient Framework for the Evaluation of Conversational Dialogue Systems",
+    "score": 0.6379948471619241,
+    "method": "tfidf"
+  },
+  "15": {
+    "filename": "231.On-line Active Reward Learning for Policy Optimisation in Spoken Dialogue Systems-Grobid-out.txt",
+    "title": "On-line Active Reward Learning for Policy Optimisation in Spoken Dialogue Systems",
+    "score": 0.6730014818129826,
+    "method": "tfidf"
+  },
+  "16": {
+    "filename": "567.Learning Efficient Dialogue Policy from Demonstrations through Shaping-Grobid-out.txt",
+    "title": "Learning Efficient Dialogue Policy from Demonstrations through Shaping",
+    "score": 0.8636330250723846,
+    "method": "tfidf"
+  },
+  "17": {
+    "filename": "277.Counterfactual Off-Policy Training for Neural Dialogue Generation-Grobid-out.txt",
+    "title": "Counterfactual Off-Policy Training for Neural Dialogue Generation",
+    "score": 0.7569698423846544,
+    "method": "tfidf"
+  },
+  "18": {
+    "filename": "132.You Impress Me Dialogue Generation via Mutual Persona Perception-Grobid-out.txt",
+    "title": "You Impress Me Dialogue Generation via Mutual Persona Perception",
+    "score": 0.6472958838497861,
+    "method": "tfidf"
+  },
+  "19": {
+    "filename": null,
+    "title": null,
+    "score": 0.27661752700805664,
+    "method": "manual"
+  },
+  "20": {
+    "filename": "231.How to Make Neural Natural Language Generation as Reliable as Templates in Task-Oriented Dialogue-Grobid-out.txt",
+    "title": "How to Make Neural Natural Language Generation as Reliable as Templates in Task-Oriented Dialogue",
+    "score": 0.33088861197112,
+    "method": "tfidf"
+  },
+  "21": {
+    "filename": "9.Deep Active Learning for Dialogue Generation-Grobid-out.txt",
+    "title": "Deep Active Learning for Dialogue Generation",
+    "score": 0.6102667007664512,
+    "method": "tfidf"
+  },
+  "22": {
+    "filename": "63.Semi-Supervised Dialogue Policy Learning via Stochastic Reward Estimation-Grobid-out.txt",
+    "title": "Semi-Supervised Dialogue Policy Learning via Stochastic Reward Estimation",
+    "score": 0.803664092518585,
+    "method": "tfidf"
+  },
+  "23": {
+    "filename": "337.Evaluating and Enhancing the Robustness of Dialogue Systems A Case Study on a Negotiation Agent-Grobid-out.txt",
+    "title": "Evaluating and Enhancing the Robustness of Dialogue Systems A Case Study on a Negotiation Agent",
+    "score": 0.7292069289073864,
+    "method": "tfidf"
+  },
+  "24": {
+    "filename": "14.PyDial A Multi-domain Statistical Dialogue System Toolkit-Grobid-out.txt",
+    "title": "PyDial A Multi-domain Statistical Dialogue System Toolkit",
+    "score": 0.6644077164254824,
+    "method": "tfidf"
+  },
+  "25": {
+    "filename": "42.A Hierarchical Neural Model for Learning Sequences of Dialogue Acts-Grobid-out.txt",
+    "title": "A Hierarchical Neural Model for Learning Sequences of Dialogue Acts",
+    "score": 0.7270365073814361,
+    "method": "tfidf"
+  },
+  "26": {
+    "filename": null,
+    "title": null,
+    "score": 0.43592098355293274,
+    "method": "manual"
+  },
+  "27": {
+    "filename": "364.Dialogue Natural Language Inference-Grobid-out.txt",
+    "title": "Dialogue Natural Language Inference",
+    "score": 0.6555668806184701,
+    "method": "tfidf"
+  },
+  "28": {
+    "filename": "166.Public Dialogue Analysis of Tolerance in Online Discussions-Grobid-out.txt",
+    "title": "Public Dialogue Analysis of Tolerance in Online Discussions",
+    "score": 0.4591627012553338,
+    "method": "tfidf"
+  },
+  "29": {
+    "filename": "66.Will I Sound Like Me Improving Persona Consistency in Dialogues through Pragmatic Self-Consciousness-Grobid-out.txt",
+    "title": "Will I Sound Like Me Improving Persona Consistency in Dialogues through Pragmatic Self-Consciousness",
+    "score": 0.593755546980419,
+    "method": "tfidf"
+  },
+  "30": {
+    "filename": "14.Entity-Consistent End-to-end Task-Oriented Dialogue System with KB Retriever-Grobid-out.txt",
+    "title": "Entity-Consistent End-to-end Task-Oriented Dialogue System with KB Retriever",
+    "score": 0.6738683384237258,
+    "method": "tfidf"
+  },
+  "31": {
+    "filename": "78.Evaluating Persuasion Strategies and Deep Reinforcement Learning methods for Negotiation Dialogue agents-Grobid-out.txt",
+    "title": "Evaluating Persuasion Strategies and Deep Reinforcement Learning methods for Negotiation Dialogue agents",
+    "score": 0.5518534461922147,
+    "method": "tfidf"
+  },
+  "32": {
+    "filename": "3.Using Paraphrasing and Memory-Augmented Models to Combat Data Sparsity in Question Interpretation with a Virtual Patient Dialogue System-Grobid-out.txt",
+    "title": "Using Paraphrasing and Memory-Augmented Models to Combat Data Sparsity in Question Interpretation with a Virtual Patient Dialogue System",
+    "score": 0.6689872467723184,
+    "method": "tfidf"
+  },
+  "33": {
+    "filename": "129.Open Dialogue Management for Relational Databases-Grobid-out.txt",
+    "title": "Open Dialogue Management for Relational Databases",
+    "score": 0.48727972805387937,
+    "method": "tfidf"
+  },
+  "34": {
+    "filename": "136.Global-Locally Self-Attentive Encoder for Dialogue State Tracking-Grobid-out.txt",
+    "title": "Global-Locally Self-Attentive Encoder for Dialogue State Tracking",
+    "score": 0.5926724039897975,
+    "method": "tfidf"
+  },
+  "35": {
+    "filename": "41.Dialogue Generation on Infrequent Sentence Functions via Structured Meta-Learning-Grobid-out.txt",
+    "title": "Dialogue Generation on Infrequent Sentence Functions via Structured Meta-Learning",
+    "score": 0.6429688057261126,
+    "method": "tfidf"
+  },
+  "36": {
+    "filename": "195.DyKgChat Benchmarking Dialogue Generation Grounding on Dynamic Knowledge Graphs-Grobid-out.txt",
+    "title": "DyKgChat Benchmarking Dialogue Generation Grounding on Dynamic Knowledge Graphs",
+    "score": 0.6413986680452918,
+    "method": "tfidf"
+  },
+  "39": {
+    "filename": "565.Data Manipulation Towards Effective Instance Learning for Neural Dialogue Generation via Learning to Augment and Reweight-Grobid-out.txt",
+    "title": "Data Manipulation Towards Effective Instance Learning for Neural Dialogue Generation via Learning to Augment and Reweight",
+    "score": 0.7937083148748882,
+    "method": "tfidf"
+  },
+  "40": {
+    "filename": "266.Wikification of Concept Mentions within Spoken Dialogues Using Domain Constraints from Wikipedia-Grobid-out.txt",
+    "title": "Wikification of Concept Mentions within Spoken Dialogues Using Domain Constraints from Wikipedia",
+    "score": 0.6735581755638123,
+    "method": "semantic"
+  },
+  "41": {
+    "filename": "741.The World is Not Binary Learning to Rank with Grayscale Data for Dialogue Response Selection-Grobid-out.txt",
+    "title": "The World is Not Binary Learning to Rank with Grayscale Data for Dialogue Response Selection",
+    "score": 0.7011314197438333,
+    "method": "tfidf"
+  },
+  "42": {
+    "filename": "5.Designing Precise and Robust Dialogue Response Evaluators-Grobid-out.txt",
+    "title": "Designing Precise and Robust Dialogue Response Evaluators",
+    "score": 0.6799378391130763,
+    "method": "tfidf"
+  },
+  "43": {
+    "filename": "635.Diversifying Dialogue Generation with Non-Conversational Text-Grobid-out.txt",
+    "title": "Diversifying Dialogue Generation with Non-Conversational Text",
+    "score": 0.44400494606504604,
+    "method": "tfidf"
+  },
+  "44": {
+    "filename": "28.Dialogue-Act Prediction of Future Responses Based on Conversation History-Grobid-out.txt",
+    "title": "Dialogue-Act Prediction of Future Responses Based on Conversation History",
+    "score": 0.6444237703042851,
+    "method": "tfidf"
+  },
+  "45": {
+    "filename": "564.A Contextual Hierarchical Attention Network with Adaptive Objective for Dialogue State Tracking-Grobid-out.txt",
+    "title": "A Contextual Hierarchical Attention Network with Adaptive Objective for Dialogue State Tracking",
+    "score": 0.6721754956391328,
+    "method": "tfidf"
+  },
+  "46": {
+    "filename": "59.Spectral Analysis of Information Density in Dialogue Predicts Collaborative Task Performance-Grobid-out.txt",
+    "title": "Spectral Analysis of Information Density in Dialogue Predicts Collaborative Task Performance",
+    "score": 0.586067978556655,
+    "method": "tfidf"
+  },
+  "47": {
+    "filename": "47.Understanding Linguistic Accommodation in Code-Switched Human-Machine Dialogues-Grobid-out.txt",
+    "title": "Understanding Linguistic Accommodation in Code-Switched Human-Machine Dialogues",
+    "score": 0.5002776536626459,
+    "method": "tfidf"
+  },
+  "48": {
+    "filename": null,
+    "title": null,
+    "score": 0.5749738812446594,
+    "method": "manual"
+  },
+  "49": {
+    "filename": "221.Learning an Unreferenced Metric for Online Dialogue Evaluation-Grobid-out.txt",
+    "title": "Learning an Unreferenced Metric for Online Dialogue Evaluation",
+    "score": 0.6967054876114674,
+    "method": "tfidf"
+  },
+  "50": {
+    "filename": "378.What do Entity-Centric Models Learn Insights from Entity Linking in Multi-Party Dialogue-Grobid-out.txt",
+    "title": "What do Entity-Centric Models Learn Insights from Entity Linking in Multi-Party Dialogue",
+    "score": 0.5396786166956691,
+    "method": "tfidf"
+  },
+  "51": {
+    "filename": "131.Modeling Multi-Action Policy for Task-Oriented Dialogues-Grobid-out.txt",
+    "title": "Modeling Multi-Action Policy for Task-Oriented Dialogues",
+    "score": 0.7389428969615986,
+    "method": "tfidf"
+  },
+  "52": {
+    "filename": "92.Exploring Convolutional and Recurrent Neural Networks in Sequential Labelling for Dialogue Topic Tracking-Grobid-out.txt",
+    "title": "Exploring Convolutional and Recurrent Neural Networks in Sequential Labelling for Dialogue Topic Tracking",
+    "score": 0.471041459092651,
+    "method": "tfidf"
+  },
+  "53": {
+    "filename": "743.MedDialog Large-scale Medical Dialogue Datasets-Grobid-out.txt",
+    "title": "MedDialog Large-scale Medical Dialogue Datasets",
+    "score": 0.5983238872648988,
+    "method": "tfidf"
+  },
+  "54": {
+    "filename": "195.How Time Matters Learning Time-Decay Attention for Contextual Spoken Language Understanding in Dialogues-Grobid-out.txt",
+    "title": "How Time Matters Learning Time-Decay Attention for Contextual Spoken Language Understanding in Dialogues",
+    "score": 0.8240173169706201,
+    "method": "tfidf"
+  },
+  "55": {
+    "filename": "268.A Visually-grounded First-person Dialogue Dataset with Verbal and Non-verbal Responses-Grobid-out.txt",
+    "title": "A Visually-grounded First-person Dialogue Dataset with Verbal and Non-verbal Responses",
+    "score": 0.5090736402320768,
+    "method": "tfidf"
+  },
+  "56": {
+    "filename": "567.Persuasion for Good Towards a Personalized Persuasive Dialogue System for Social Good-Grobid-out.txt",
+    "title": "Persuasion for Good Towards a Personalized Persuasive Dialogue System for Social Good",
+    "score": 0.4952099810426969,
+    "method": "tfidf"
+  },
+  "57": {
+    "filename": "33.On-line Dialogue Policy Learning with Companion Teaching-Grobid-out.txt",
+    "title": "On-line Dialogue Policy Learning with Companion Teaching",
+    "score": 0.6496906495440367,
+    "method": "tfidf"
+  },
+  "58": {
+    "filename": "188.Dialogue Learning with Human Teaching and Feedback in End-to-End Trainable Task-Oriented Dialogue Systems-Grobid-out.txt",
+    "title": "Dialogue Learning with Human Teaching and Feedback in End-to-End Trainable Task-Oriented Dialogue Systems",
+    "score": 0.7316553682756994,
+    "method": "tfidf"
+  },
+  "59": {
+    "filename": "11.A Statistical Spoken Dialogue System using Complex User Goals and Value Directed Compression-Grobid-out.txt",
+    "title": "A Statistical Spoken Dialogue System using Complex User Goals and Value Directed Compression",
+    "score": 0.47929529057469356,
+    "method": "tfidf"
+  },
+  "60": {
+    "filename": "210.Guided Dialogue Policy Learning without Adversarial Learning in the Loop-Grobid-out.txt",
+    "title": "Guided Dialogue Policy Learning without Adversarial Learning in the Loop",
+    "score": 0.825898493799011,
+    "method": "tfidf"
+  },
+  "61": {
+    "filename": "637.Meta-Reinforced Multi-Domain State Generator for Dialogue Systems-Grobid-out.txt",
+    "title": "Meta-Reinforced Multi-Domain State Generator for Dialogue Systems",
+    "score": 0.6888719165261297,
+    "method": "tfidf"
+  },
+  "62": {
+    "filename": "564.Observing Dialogue in Therapy Categorizing and Forecasting Behavioral Codes-Grobid-out.txt",
+    "title": "Observing Dialogue in Therapy Categorizing and Forecasting Behavioral Codes",
+    "score": 0.6271544236139227,
+    "method": "tfidf"
+  },
+  "63": {
+    "filename": "54.Aiming to Know You Better Perhaps Makes Me a More Engaging Dialogue Partner-Grobid-out.txt",
+    "title": "Aiming to Know You Better Perhaps Makes Me a More Engaging Dialogue Partner",
+    "score": 0.4287043186700811,
+    "method": "tfidf"
+  },
+  "64": {
+    "filename": "70.\u201cI Object!\u201d Modeling Latent Pragmatic Effects in Courtroom Dialogues-Grobid-out.txt",
+    "title": "\u201cI Object!\u201d Modeling Latent Pragmatic Effects in Courtroom Dialogues",
+    "score": 0.5858917778808621,
+    "method": "tfidf"
+  },
+  "65": {
+    "filename": "82.Pretrained Language Models for Dialogue Generation with Multiple Input Sources-Grobid-out.txt",
+    "title": "Pretrained Language Models for Dialogue Generation with Multiple Input Sources",
+    "score": 0.7544248691441682,
+    "method": "tfidf"
+  },
+  "66": {
+    "filename": "363.ReCoSa Detecting the Relevant Contexts with Self-Attention for Multi-turn Dialogue Generation-Grobid-out.txt",
+    "title": "ReCoSa Detecting the Relevant Contexts with Self-Attention for Multi-turn Dialogue Generation",
+    "score": 0.6085538152387721,
+    "method": "tfidf"
+  },
+  "67": {
+    "filename": null,
+    "title": null,
+    "score": 0.34114870429039,
+    "method": "manual"
+  },
+  "68": {
+    "filename": "233.Modeling Dialogue Acts with Content Word Filtering and Speaker Preferences-Grobid-out.txt",
+    "title": "Modeling Dialogue Acts with Content Word Filtering and Speaker Preferences",
+    "score": 0.5858919572254147,
+    "method": "tfidf"
+  },
+  "69": {
+    "filename": "638.Modeling Long Context for Task-Oriented Dialogue State Generation-Grobid-out.txt",
+    "title": "Modeling Long Context for Task-Oriented Dialogue State Generation",
+    "score": 0.5684201665926266,
+    "method": "tfidf"
+  },
+  "70": {
+    "filename": "134.Dialogue Coherence Assessment Without Explicit Dialogue Act Labels-Grobid-out.txt",
+    "title": "Dialogue Coherence Assessment Without Explicit Dialogue Act Labels",
+    "score": 0.7222377587967228,
+    "method": "tfidf"
+  },
+  "71": {
+    "filename": "299.Training Millions of Personalized Dialogue Agents-Grobid-out.txt",
+    "title": "Training Millions of Personalized Dialogue Agents",
+    "score": 0.37838093613829565,
+    "method": "tfidf"
+  },
+  "72": {
+    "filename": "742.GRADE Automatic Graph-Enhanced Coherence Metric for Evaluating Open-Domain Dialogue Systems-Grobid-out.txt",
+    "title": "GRADE Automatic Graph-Enhanced Coherence Metric for Evaluating Open-Domain Dialogue Systems",
+    "score": 0.8214504687282148,
+    "method": "tfidf"
+  },
+  "73": {
+    "filename": "10.PLATO Pre-trained Dialogue Generation Model with Discrete Latent Variable-Grobid-out.txt",
+    "title": "PLATO Pre-trained Dialogue Generation Model with Discrete Latent Variable",
+    "score": 0.5731285545273922,
+    "method": "tfidf"
+  },
+  "74": {
+    "filename": "14.FASTDial Abstracting Dialogue Policies for Fast Development of Task Oriented Agents-Grobid-out.txt",
+    "title": "FASTDial Abstracting Dialogue Policies for Fast Development of Task Oriented Agents",
+    "score": 0.3229621982310442,
+    "method": "tfidf"
+  },
+  "75": {
+    "filename": "281.AttnIO Knowledge Graph Exploration with In-and-Out Attention Flow for Knowledge-Grounded Dialogue-Grobid-out.txt",
+    "title": "AttnIO Knowledge Graph Exploration with In-and-Out Attention Flow for Knowledge-Grounded Dialogue",
+    "score": 0.7450099762125576,
+    "method": "tfidf"
+  },
+  "76": {
+    "filename": "192.Improving Open-Domain Dialogue Systems via Multi-Turn Incomplete Utterance Restoration-Grobid-out.txt",
+    "title": "Improving Open-Domain Dialogue Systems via Multi-Turn Incomplete Utterance Restoration",
+    "score": 0.5278628631036955,
+    "method": "tfidf"
+  },
+  "77": {
+    "filename": "417.Discriminative Deep Dyna-Q Robust Planning for Dialogue Policy Learning-Grobid-out.txt",
+    "title": "Discriminative Deep Dyna-Q Robust Planning for Dialogue Policy Learning",
+    "score": 0.7686768707549191,
+    "method": "tfidf"
+  },
+  "78": {
+    "filename": "91.Joint Modeling of Content and Discourse Relations in Dialogues-Grobid-out.txt",
+    "title": "Joint Modeling of Content and Discourse Relations in Dialogues",
+    "score": 0.6102363083429662,
+    "method": "tfidf"
+  },
+  "79": {
+    "filename": "10.Text-based Speaker Identification on Multiparty Dialogues Using Multi-document Convolutional Neural Networks-Grobid-out.txt",
+    "title": "Text-based Speaker Identification on Multiparty Dialogues Using Multi-document Convolutional Neural Networks",
+    "score": 0.47397046456975667,
+    "method": "tfidf"
+  },
+  "80": {
+    "filename": null,
+    "title": null,
+    "score": 0.3638523519039154,
+    "method": "manual"
+  },
+  "82": {
+    "filename": "43.A Network-based End-to-End Trainable Task-oriented Dialogue System-Grobid-out.txt",
+    "title": "A Network-based End-to-End Trainable Task-oriented Dialogue System",
+    "score": 0.38425664465933496,
+    "method": "tfidf"
+  },
+  "84": {
+    "filename": "3.Hello, It\u2019s GPT-2 - How Can I Help You Towards the Use of Pretrained Language Models for Task-Oriented Dialogue Systems-Grobid-out.txt",
+    "title": "Hello, It\u2019s GPT-2 - How Can I Help You Towards the Use of Pretrained Language Models for Task-Oriented Dialogue Systems",
+    "score": 0.5048114343151029,
+    "method": "tfidf"
+  },
+  "86": {
+    "filename": "195.Hidden Softmax Sequence Model for Dialogue Structure Analysis-Grobid-out.txt",
+    "title": "Hidden Softmax Sequence Model for Dialogue Structure Analysis",
+    "score": 0.654619571756429,
+    "method": "tfidf"
+  },
+  "87": {
+    "filename": "45.Natural Language Generation for Spoken Dialogue System using RNN Encoder-Decoder Networks-Grobid-out.txt",
+    "title": "Natural Language Generation for Spoken Dialogue System using RNN Encoder-Decoder Networks",
+    "score": 0.5534132820689786,
+    "method": "tfidf"
+  },
+  "88": {
+    "filename": "20.ConvLab-2 An Open-Source Toolkit for Building, Evaluating, and Diagnosing Dialogue Systems-Grobid-out.txt",
+    "title": "ConvLab-2 An Open-Source Toolkit for Building, Evaluating, and Diagnosing Dialogue Systems",
+    "score": 0.7639333909839918,
+    "method": "tfidf"
+  },
+  "89": {
+    "filename": "4.Dual Latent Variable Model for Low-Resource Natural Language Generation in Dialogue Systems-Grobid-out.txt",
+    "title": "Dual Latent Variable Model for Low-Resource Natural Language Generation in Dialogue Systems",
+    "score": 0.7798914062007833,
+    "method": "tfidf"
+  },
+  "90": {
+    "filename": "81.Constrained Decoding for Neural NLG from Compositional Representations in Task-Oriented Dialogue-Grobid-out.txt",
+    "title": "Constrained Decoding for Neural NLG from Compositional Representations in Task-Oriented Dialogue",
+    "score": 0.5308035247021695,
+    "method": "tfidf"
+  },
+  "91": {
+    "filename": "32.Incrementally Tracking Reference in HumanHuman Dialogue Using Linguistic and Extra-Linguistic Information-Grobid-out.txt",
+    "title": "Incrementally Tracking Reference in HumanHuman Dialogue Using Linguistic and Extra-Linguistic Information",
+    "score": 0.31527836631881667,
+    "method": "tfidf"
+  },
+  "92": {
+    "filename": "38.Mimic and Rephrase Reflective Listening in Open-Ended Dialogue-Grobid-out.txt",
+    "title": "Mimic and Rephrase Reflective Listening in Open-Ended Dialogue",
+    "score": 0.4926846716533304,
+    "method": "tfidf"
+  },
+  "93": {
+    "filename": "8.SemEval 2018 Task 4 Character Identification on Multiparty Dialogues-Grobid-out.txt",
+    "title": "SemEval 2018 Task 4 Character Identification on Multiparty Dialogues",
+    "score": 0.4289717140703146,
+    "method": "tfidf"
+  },
+  "94": {
+    "filename": "68.RiSAWOZ A Large-Scale Multi-Domain Wizard-of-Oz Dataset with Rich Semantic Annotations for Task-Oriented Dialogue Modeling-Grobid-out.txt",
+    "title": "RiSAWOZ A Large-Scale Multi-Domain Wizard-of-Oz Dataset with Rich Semantic Annotations for Task-Oriented Dialogue Modeling",
+    "score": 0.4690563350461805,
+    "method": "tfidf"
+  },
+  "95": {
+    "filename": "460.Storytelling with Dialogue A Critical Role Dungeons and Dragons Dataset-Grobid-out.txt",
+    "title": "Storytelling with Dialogue A Critical Role Dungeons and Dragons Dataset",
+    "score": 0.3434808506048853,
+    "method": "tfidf"
+  },
+  "96": {
+    "filename": "206.A Practical Dialogue-Act-Driven Conversation Model for Multi-Turn Response Selection-Grobid-out.txt",
+    "title": "A Practical Dialogue-Act-Driven Conversation Model for Multi-Turn Response Selection",
+    "score": 0.7438503692932397,
+    "method": "tfidf"
+  },
+  "97": {
+    "filename": "537.Semantic Role Labeling Guided Multi-turn Dialogue ReWriter-Grobid-out.txt",
+    "title": "Semantic Role Labeling Guided Multi-turn Dialogue ReWriter",
+    "score": 0.7429529843932399,
+    "method": "tfidf"
+  },
+  "98": {
+    "filename": "148.GraphDialog Integrating Graph Knowledge into End-to-End Task-Oriented Dialogue Systems-Grobid-out.txt",
+    "title": "GraphDialog Integrating Graph Knowledge into End-to-End Task-Oriented Dialogue Systems",
+    "score": 0.6437885473509894,
+    "method": "tfidf"
+  },
+  "99": {
+    "filename": "152.Parallel Interactive Networks for Multi-Domain Dialogue State Generation-Grobid-out.txt",
+    "title": "Parallel Interactive Networks for Multi-Domain Dialogue State Generation",
+    "score": 0.5846018907289021,
+    "method": "tfidf"
+  },
+  "100": {
+    "filename": "285.Learning Personas from Dialogue with Attentive Memory Networks-Grobid-out.txt",
+    "title": "Learning Personas from Dialogue with Attentive Memory Networks",
+    "score": 0.3796621793347671,
+    "method": "tfidf"
+  },
+  "101": {
+    "filename": "527.Template Guided Text Generation for Task-Oriented Dialogue-Grobid-out.txt",
+    "title": "Template Guided Text Generation for Task-Oriented Dialogue",
+    "score": 0.6340207614710242,
+    "method": "tfidf"
+  },
+  "102": {
+    "filename": "67.TOD-BERT Pre-trained Natural Language Understanding for Task-Oriented Dialogue-Grobid-out.txt",
+    "title": "TOD-BERT Pre-trained Natural Language Understanding for Task-Oriented Dialogue",
+    "score": 0.8120945971168112,
+    "method": "tfidf"
+  },
+  "103": {
+    "filename": "516.Diverse and Informative Dialogue Generation with Context-Specific Commonsense Knowledge Awareness-Grobid-out.txt",
+    "title": "Diverse and Informative Dialogue Generation with Context-Specific Commonsense Knowledge Awareness",
+    "score": 0.7736241884612035,
+    "method": "tfidf"
+  },
+  "104": {
+    "filename": "20.Importance-Driven Turn-Bidding for Spoken Dialogue Systems-Grobid-out.txt",
+    "title": "Importance-Driven Turn-Bidding for Spoken Dialogue Systems",
+    "score": 0.6053981499999261,
+    "method": "tfidf"
+  },
+  "105": {
+    "filename": "96.GCDST A Graph-based and Copy-augmented Multi-domain Dialogue State Tracking-Grobid-out.txt",
+    "title": "GCDST A Graph-based and Copy-augmented Multi-domain Dialogue State Tracking",
+    "score": 0.758326212350225,
+    "method": "tfidf"
+  },
+  "106": {
+    "filename": "11.Representing Movie Characters in Dialogues-Grobid-out.txt",
+    "title": "Representing Movie Characters in Dialogues",
+    "score": 0.6426149321150039,
+    "method": "tfidf"
+  },
+  "107": {
+    "filename": "409.Probing Task-Oriented Dialogue Representation from Language Models-Grobid-out.txt",
+    "title": "Probing Task-Oriented Dialogue Representation from Language Models",
+    "score": 0.6962182360003007,
+    "method": "tfidf"
+  },
+  "108": {
+    "filename": "238.Composite Task-Completion Dialogue Policy Learning via Hierarchical Deep Reinforcement Learning-Grobid-out.txt",
+    "title": "Composite Task-Completion Dialogue Policy Learning via Hierarchical Deep Reinforcement Learning",
+    "score": 0.7243526940447833,
+    "method": "tfidf"
+  },
+  "109": {
+    "filename": "9.Sequence-to-Sequence Generation for Spoken Dialogue via Deep Syntax Trees and Strings-Grobid-out.txt",
+    "title": "Sequence-to-Sequence Generation for Spoken Dialogue via Deep Syntax Trees and Strings",
+    "score": 0.6044625336289727,
+    "method": "tfidf"
+  },
+  "110": {
+    "filename": null,
+    "title": null,
+    "score": 0.4117143750190735,
+    "method": "manual"
+  },
+  "111": {
+    "filename": "66.Implicit Discourse Relation Identification for Open-domain Dialogues-Grobid-out.txt",
+    "title": "Implicit Discourse Relation Identification for Open-domain Dialogues",
+    "score": 0.6174394087104038,
+    "method": "tfidf"
+  },
+  "112": {
+    "filename": "279.Task-Completion Dialogue Policy Learning via Monte Carlo Tree Search with Dueling Network-Grobid-out.txt",
+    "title": "Task-Completion Dialogue Policy Learning via Monte Carlo Tree Search with Dueling Network",
+    "score": 0.7584863543073724,
+    "method": "tfidf"
+  },
+  "113": {
+    "filename": "16.DialogueGCN A Graph Convolutional Neural Network for Emotion Recognition in Conversation-Grobid-out.txt",
+    "title": "DialogueGCN A Graph Convolutional Neural Network for Emotion Recognition in Conversation",
+    "score": 0.6205371208707665,
+    "method": "tfidf"
+  },
+  "115": {
+    "filename": "71.Group-wise Contrastive Learning for Neural Dialogue Generation-Grobid-out.txt",
+    "title": "Group-wise Contrastive Learning for Neural Dialogue Generation",
+    "score": 0.5805633700810408,
+    "method": "tfidf"
+  },
+  "116": {
+    "filename": "151.Multi-turn Response Selection using Dialogue Dependency Relations-Grobid-out.txt",
+    "title": "Multi-turn Response Selection using Dialogue Dependency Relations",
+    "score": 0.6368760688168497,
+    "method": "tfidf"
+  },
+  "117": {
+    "filename": "4.Improving Multi-turn Dialogue Modelling with Utterance ReWriter-Grobid-out.txt",
+    "title": "Improving Multi-turn Dialogue Modelling with Utterance ReWriter",
+    "score": 0.4341829065971144,
+    "method": "tfidf"
+  },
+  "118": {
+    "filename": "18.Joint Identification and Segmentation of Domain-Specific Dialogue Acts for Conversational Dialogue Systems-Grobid-out.txt",
+    "title": "Joint Identification and Segmentation of Domain-Specific Dialogue Acts for Conversational Dialogue Systems",
+    "score": 0.3468777528872579,
+    "method": "tfidf"
+  },
+  "119": {
+    "filename": "76.Actor-Double-Critic Incorporating Model-Based Critic for Task-Oriented Dialogue Systems-Grobid-out.txt",
+    "title": "Actor-Double-Critic Incorporating Model-Based Critic for Task-Oriented Dialogue Systems",
+    "score": 0.7456592772679315,
+    "method": "tfidf"
+  },
+  "120": {
+    "filename": "139.Knowledge Diffusion for Neural Dialogue Generation-Grobid-out.txt",
+    "title": "Knowledge Diffusion for Neural Dialogue Generation",
+    "score": 0.60017409274465,
+    "method": "tfidf"
+  },
+  "122": {
+    "filename": "3.Towards Relational POMDPs for Adaptive Dialogue Management-Grobid-out.txt",
+    "title": "Towards Relational POMDPs for Adaptive Dialogue Management",
+    "score": 0.4841207536939617,
+    "method": "tfidf"
+  },
+  "123": {
+    "filename": "76.Goal-Embedded Dual Hierarchical Model for Task-Oriented Dialogue Generation-Grobid-out.txt",
+    "title": "Goal-Embedded Dual Hierarchical Model for Task-Oriented Dialogue Generation",
+    "score": 0.7376705524518684,
+    "method": "tfidf"
+  },
+  "124": {
+    "filename": "147.UniConv A Unified Conversational Neural Architecture for Multi-domain Task-oriented Dialogues-Grobid-out.txt",
+    "title": "UniConv A Unified Conversational Neural Architecture for Multi-domain Task-oriented Dialogues",
+    "score": 0.6184706637959516,
+    "method": "tfidf"
+  },
+  "125": {
+    "filename": "462.Build it Break it Fix it for Dialogue Safety Robustness from Adversarial Human Attack-Grobid-out.txt",
+    "title": "Build it Break it Fix it for Dialogue Safety Robustness from Adversarial Human Attack",
+    "score": 0.4602826946342215,
+    "method": "tfidf"
+  },
+  "126": {
+    "filename": "636.KdConv A Chinese Multi-domain Dialogue Dataset Towards Multi-turn Knowledge-driven Conversation-Grobid-out.txt",
+    "title": "KdConv A Chinese Multi-domain Dialogue Dataset Towards Multi-turn Knowledge-driven Conversation",
+    "score": 0.5977406369224059,
+    "method": "tfidf"
+  },
+  "127": {
+    "filename": "49.Improving Response Selection in Multi-Turn Dialogue Systems by Incorporating Domain Knowledge-Grobid-out.txt",
+    "title": "Improving Response Selection in Multi-Turn Dialogue Systems by Incorporating Domain Knowledge",
+    "score": 0.5943683490684779,
+    "method": "tfidf"
+  },
+  "128": {
+    "filename": "206.Personalizing Dialogue Agents I have a dog, do you have pets too-Grobid-out.txt",
+    "title": "Personalizing Dialogue Agents I have a dog, do you have pets too",
+    "score": 0.6783367789408832,
+    "method": "tfidf"
+  },
+  "129": {
+    "filename": "125.Dirichlet Latent Variable Hierarchical Recurrent Encoder-Decoder in Dialogue Generation-Grobid-out.txt",
+    "title": "Dirichlet Latent Variable Hierarchical Recurrent Encoder-Decoder in Dialogue Generation",
+    "score": 0.7024950435122066,
+    "method": "tfidf"
+  },
+  "131": {
+    "filename": "33.PyOpenDial A Python-based Domain-Independent Toolkit for Developing Spoken Dialogue Systems with Probabilistic Rules-Grobid-out.txt",
+    "title": "PyOpenDial A Python-based Domain-Independent Toolkit for Developing Spoken Dialogue Systems with Probabilistic Rules",
+    "score": 0.49806689468637194,
+    "method": "tfidf"
+  },
+  "132": {
+    "filename": "11.Intrinsic and Extrinsic Evaluation of an Automatic User Disengagement Detector for an Uncertainty-Adaptive Spoken Dialogue System-Grobid-out.txt",
+    "title": "Intrinsic and Extrinsic Evaluation of an Automatic User Disengagement Detector for an Uncertainty-Adaptive Spoken Dialogue System",
+    "score": 0.38062241147913534,
+    "method": "tfidf"
+  },
+  "133": {
+    "filename": null,
+    "title": null,
+    "score": 0.5103613138198853,
+    "method": "manual"
+  },
+  "134": {
+    "filename": "164.Evaluating a City Exploration Dialogue System with Integrated Question-Answering and Pedestrian Navigation-Grobid-out.txt",
+    "title": "Evaluating a City Exploration Dialogue System with Integrated Question-Answering and Pedestrian Navigation",
+    "score": 0.3280155621835012,
+    "method": "tfidf"
+  },
+  "135": {
+    "filename": "18.Non-Topical Coherence in Social Talk A Call for Dialogue Model Enrichment-Grobid-out.txt",
+    "title": "Non-Topical Coherence in Social Talk A Call for Dialogue Model Enrichment",
+    "score": 0.40972063651096297,
+    "method": "tfidf"
+  },
+  "136": {
+    "filename": "79.Unsupervised Dialogue Act Induction using Gaussian Mixtures-Grobid-out.txt",
+    "title": "Unsupervised Dialogue Act Induction using Gaussian Mixtures",
+    "score": 0.4559325820557148,
+    "method": "tfidf"
+  },
+  "137": {
+    "filename": "257.Decoupling Strategy and Generation in Negotiation Dialogues-Grobid-out.txt",
+    "title": "Decoupling Strategy and Generation in Negotiation Dialogues",
+    "score": 0.5399135413680491,
+    "method": "tfidf"
+  },
+  "138": {
+    "filename": "184.Data-Efficient Goal-Oriented Conversation with Dialogue Knowledge Transfer Networks-Grobid-out.txt",
+    "title": "Data-Efficient Goal-Oriented Conversation with Dialogue Knowledge Transfer Networks",
+    "score": 0.4008991142004081,
+    "method": "tfidf"
+  },
+  "139": {
+    "filename": "543.Personalizing Dialogue Agents via Meta-Learning-Grobid-out.txt",
+    "title": "Personalizing Dialogue Agents via Meta-Learning",
+    "score": 0.6442314910323093,
+    "method": "tfidf"
+  },
+  "140": {
+    "filename": "132.Dialogue Management based on Sentence Clustering-Grobid-out.txt",
+    "title": "Dialogue Management based on Sentence Clustering",
+    "score": 0.3921109932143869,
+    "method": "tfidf"
+  },
+  "141": {
+    "filename": "76.An Auto-Encoder Matching Model for Learning Utterance-Level Semantic Dependency in Dialogue Generation-Grobid-out.txt",
+    "title": "An Auto-Encoder Matching Model for Learning Utterance-Level Semantic Dependency in Dialogue Generation",
+    "score": 0.6847485492779077,
+    "method": "tfidf"
+  },
+  "142": {
+    "filename": "445.Dialogue-Based Relation Extraction-Grobid-out.txt",
+    "title": "Dialogue-Based Relation Extraction",
+    "score": 0.46183136295136,
+    "method": "tfidf"
+  },
+  "143": {
+    "filename": "656.Queens are Powerful too Mitigating Gender Bias in Dialogue Generation-Grobid-out.txt",
+    "title": "Queens are Powerful too Mitigating Gender Bias in Dialogue Generation",
+    "score": 0.5654424938161832,
+    "method": "tfidf"
+  },
+  "144": {
+    "filename": "143.Neural Dialogue State Tracking with Temporally Expressive Networks-Grobid-out.txt",
+    "title": "Neural Dialogue State Tracking with Temporally Expressive Networks",
+    "score": 0.6568974817521853,
+    "method": "tfidf"
+  },
+  "145": {
+    "filename": "273.Knowledge-Grounded Dialogue Generation with Pre-trained Language Models-Grobid-out.txt",
+    "title": "Knowledge-Grounded Dialogue Generation with Pre-trained Language Models",
+    "score": 0.6494108690435917,
+    "method": "tfidf"
+  },
+  "146": {
+    "filename": "235.Affordable On-line Dialogue Policy Learning-Grobid-out.txt",
+    "title": "Affordable On-line Dialogue Policy Learning",
+    "score": 0.6675087903805635,
+    "method": "tfidf"
+  },
+  "147": {
+    "filename": "201.A Semi-Supervised Stable Variational Network for Promoting Replier-Consistency in Dialogue Generation-Grobid-out.txt",
+    "title": "A Semi-Supervised Stable Variational Network for Promoting Replier-Consistency in Dialogue Generation",
+    "score": 0.8283286011315221,
+    "method": "tfidf"
+  },
+  "148": {
+    "filename": "300.Towards Universal Dialogue State Tracking-Grobid-out.txt",
+    "title": "Towards Universal Dialogue State Tracking",
+    "score": 0.4960599951732414,
+    "method": "tfidf"
+  },
+  "149": {
+    "filename": "371.Learning a Matching Model with Co-teaching for Multi-turn Response Selection in Retrieval-based Dialogue Systems-Grobid-out.txt",
+    "title": "Learning a Matching Model with Co-teaching for Multi-turn Response Selection in Retrieval-based Dialogue Systems",
+    "score": 0.7938664897169515,
+    "method": "tfidf"
+  },
+  "150": {
+    "filename": "125.Skeleton-to-Response Dialogue Generation Guided by Retrieval Memory-Grobid-out.txt",
+    "title": "Skeleton-to-Response Dialogue Generation Guided by Retrieval Memory",
+    "score": 0.7787733536137597,
+    "method": "tfidf"
+  },
+  "151": {
+    "filename": "369.Towards Low-Resource Semi-Supervised Dialogue Generation with Meta-Learning-Grobid-out.txt",
+    "title": "Towards Low-Resource Semi-Supervised Dialogue Generation with Meta-Learning",
+    "score": 0.7691067826539443,
+    "method": "tfidf"
+  },
+  "152": {
+    "filename": "76.A Copy-Augmented Sequence-to-Sequence Architecture Gives Good Performance on Task-Oriented Dialogue-Grobid-out.txt",
+    "title": "A Copy-Augmented Sequence-to-Sequence Architecture Gives Good Performance on Task-Oriented Dialogue",
+    "score": 0.4546906871207683,
+    "method": "tfidf"
+  },
+  "153": {
+    "filename": "234.Conditional Generation and Snapshot Learning in Neural Dialogue Systems-Grobid-out.txt",
+    "title": "Conditional Generation and Snapshot Learning in Neural Dialogue Systems",
+    "score": 0.6272098966950264,
+    "method": "tfidf"
+  },
+  "154": {
+    "filename": "639.Multi-Domain Dialogue Acts and Response Co-Generation-Grobid-out.txt",
+    "title": "Multi-Domain Dialogue Acts and Response Co-Generation",
+    "score": 0.6208658906009671,
+    "method": "tfidf"
+  },
+  "155": {
+    "filename": "239.Toward Stance-based Personas for Opinionated Dialogues-Grobid-out.txt",
+    "title": "Toward Stance-based Personas for Opinionated Dialogues",
+    "score": 0.725753369436396,
+    "method": "tfidf"
+  },
+  "156": {
+    "filename": "34.Task-oriented Dialogue System for Automatic Diagnosis-Grobid-out.txt",
+    "title": "Task-oriented Dialogue System for Automatic Diagnosis",
+    "score": 0.5304489633714318,
+    "method": "tfidf"
+  },
+  "157": {
+    "filename": "18.Modeling Student Response Times Towards Efficient One-on-one Tutoring Dialogues-Grobid-out.txt",
+    "title": "Modeling Student Response Times Towards Efficient One-on-one Tutoring Dialogues",
+    "score": 0.4217147829324489,
+    "method": "tfidf"
+  },
+  "158": {
+    "filename": "16.Harnessing Sequence Labeling for Sarcasm Detection in Dialogue from TV Series \u2018Friends\u2019-Grobid-out.txt",
+    "title": "Harnessing Sequence Labeling for Sarcasm Detection in Dialogue from TV Series \u2018Friends\u2019",
+    "score": 0.6421550631724567,
+    "method": "tfidf"
+  },
+  "159": {
+    "filename": "149.Structured Attention for Unsupervised Dialogue Structure Induction-Grobid-out.txt",
+    "title": "Structured Attention for Unsupervised Dialogue Structure Induction",
+    "score": 0.7473795419831805,
+    "method": "tfidf"
+  },
+  "160": {
+    "filename": "13.Game-Based Video-Context Dialogue-Grobid-out.txt",
+    "title": "Game-Based Video-Context Dialogue",
+    "score": 0.6557699466714444,
+    "method": "tfidf"
+  },
+  "161": {
+    "filename": "39.Towards Situated Dialogue Revisiting Referring Expression Generation-Grobid-out.txt",
+    "title": "Towards Situated Dialogue Revisiting Referring Expression Generation",
+    "score": 0.40764165025251126,
+    "method": "tfidf"
+  },
+  "162": {
+    "filename": "260.Deal or No Deal End-to-End Learning of Negotiation Dialogues-Grobid-out.txt",
+    "title": "Deal or No Deal End-to-End Learning of Negotiation Dialogues",
+    "score": 0.5468375543135173,
+    "method": "tfidf"
+  },
+  "163": {
+    "filename": null,
+    "title": null,
+    "score": 0.5330711603164673,
+    "method": "manual"
+  },
+  "164": {
+    "filename": "196.Retrieval-guided Dialogue Response Generation via a Matching-to-Generation Framework-Grobid-out.txt",
+    "title": "Retrieval-guided Dialogue Response Generation via a Matching-to-Generation Framework",
+    "score": 0.7916033067377789,
+    "method": "tfidf"
+  },
+  "165": {
+    "filename": "65.Mitigating Gender Bias for Neural Dialogue Generation with Adversarial Learning-Grobid-out.txt",
+    "title": "Mitigating Gender Bias for Neural Dialogue Generation with Adversarial Learning",
+    "score": 0.6405160953614296,
+    "method": "tfidf"
+  },
+  "166": {
+    "filename": "134.Sequicity Simplifying Task-oriented Dialogue Systems with Single Sequence-to-Sequence Architectures-Grobid-out.txt",
+    "title": "Sequicity Simplifying Task-oriented Dialogue Systems with Single Sequence-to-Sequence Architectures",
+    "score": 0.6577627405515024,
+    "method": "tfidf"
+  },
+  "167": {
+    "filename": "230.Preserving Distributional Information in Dialogue Act Classification-Grobid-out.txt",
+    "title": "Preserving Distributional Information in Dialogue Act Classification",
+    "score": 0.5945991925640237,
+    "method": "tfidf"
+  },
+  "168": {
+    "filename": "541.Ordinal and Attribute Aware Response Generation in a Multimodal Dialogue System-Grobid-out.txt",
+    "title": "Ordinal and Attribute Aware Response Generation in a Multimodal Dialogue System",
+    "score": 0.5667208783343705,
+    "method": "tfidf"
+  },
+  "169": {
+    "filename": "131.MuTual A Dataset for Multi-Turn Dialogue Reasoning-Grobid-out.txt",
+    "title": "MuTual A Dataset for Multi-Turn Dialogue Reasoning",
+    "score": 0.5747736857758633,
+    "method": "tfidf"
+  },
+  "170": {
+    "filename": "9.Dialogue-Oriented Review Summary Generation for Spoken Dialogue Recommendation Systems-Grobid-out.txt",
+    "title": "Dialogue-Oriented Review Summary Generation for Spoken Dialogue Recommendation Systems",
+    "score": 0.38230879908554205,
+    "method": "tfidf"
+  },
+  "171": {
+    "filename": null,
+    "title": null,
+    "score": 0.5060400366783142,
+    "method": "manual"
+  },
+  "172": {
+    "filename": "186.Are You for Real Detecting Identity Fraud via Dialogue Interactions-Grobid-out.txt",
+    "title": "Are You for Real Detecting Identity Fraud via Dialogue Interactions",
+    "score": 0.47023025787713724,
+    "method": "tfidf"
+  },
+  "173": {
+    "filename": "113.Feudal Reinforcement Learning for Dialogue Management in Large Domains-Grobid-out.txt",
+    "title": "Feudal Reinforcement Learning for Dialogue Management in Large Domains",
+    "score": 0.6900106293189912,
+    "method": "tfidf"
+  },
+  "174": {
+    "filename": "6.Data Collection for Dialogue System A Startup Perspective-Grobid-out.txt",
+    "title": "Data Collection for Dialogue System A Startup Perspective",
+    "score": 0.49320205119520943,
+    "method": "tfidf"
+  },
+  "175": {
+    "filename": null,
+    "title": null,
+    "score": 0.6696023344993591,
+    "method": "manual"
+  },
+  "176": {
+    "filename": null,
+    "title": null,
+    "score": 0.45770198106765747,
+    "method": "manual"
+  },
+  "177": {
+    "filename": "146.BiST Bi-directional Spatio-Temporal Reasoning for Video-Grounded Dialogues-Grobid-out.txt",
+    "title": "BiST Bi-directional Spatio-Temporal Reasoning for Video-Grounded Dialogues",
+    "score": 0.6455294818765503,
+    "method": "tfidf"
+  },
+  "178": {
+    "filename": "20.Using Customer Service Dialogues for Satisfaction Analysis with Context-Assisted Multiple Instance Learning-Grobid-out.txt",
+    "title": "Using Customer Service Dialogues for Satisfaction Analysis with Context-Assisted Multiple Instance Learning",
+    "score": 0.6542438675467431,
+    "method": "tfidf"
+  },
+  "179": {
+    "filename": "254.Subgoal Discovery for Hierarchical Dialogue Policy Learning-Grobid-out.txt",
+    "title": "Subgoal Discovery for Hierarchical Dialogue Policy Learning",
+    "score": 0.6672100612127119,
+    "method": "tfidf"
+  },
+  "180": {
+    "filename": "322.Approximation of Response Knowledge Retrieval in Knowledge-grounded Dialogue Generation-Grobid-out.txt",
+    "title": "Approximation of Response Knowledge Retrieval in Knowledge-grounded Dialogue Generation",
+    "score": 0.76252517000034,
+    "method": "tfidf"
+  },
+  "182": {
+    "filename": "9.Optimising Incremental Dialogue Decisions Using Information Density for Interactive Systems-Grobid-out.txt",
+    "title": "Optimising Incremental Dialogue Decisions Using Information Density for Interactive Systems",
+    "score": 0.5208629740035238,
+    "method": "tfidf"
+  },
+  "183": {
+    "filename": "89.SAIL-GRS Grammar Induction for Spoken Dialogue Systems using CF-IRF Rule Similarity-Grobid-out.txt",
+    "title": "SAIL-GRS Grammar Induction for Spoken Dialogue Systems using CF-IRF Rule Similarity",
+    "score": 0.4618675815110716,
+    "method": "tfidf"
+  },
+  "184": {
+    "filename": "447.More Diverse Dialogue Datasets via Diversity-Informed Data Collection-Grobid-out.txt",
+    "title": "More Diverse Dialogue Datasets via Diversity-Informed Data Collection",
+    "score": 0.4446952735712969,
+    "method": "tfidf"
+  },
+  "185": {
+    "filename": "244.Slot Attention with Value Normalization for Multi-Domain Dialogue State Tracking-Grobid-out.txt",
+    "title": "Slot Attention with Value Normalization for Multi-Domain Dialogue State Tracking",
+    "score": 0.7028452053762428,
+    "method": "tfidf"
+  },
+  "186": {
+    "filename": "54.Efficient Dialogue State Tracking by Selectively Overwriting Memory-Grobid-out.txt",
+    "title": "Efficient Dialogue State Tracking by Selectively Overwriting Memory",
+    "score": 0.6795124819348625,
+    "method": "tfidf"
+  },
+  "187": {
+    "filename": "282.Amalgamating Knowledge from Two Teachers for Task-oriented Dialogue System with Adversarial Training-Grobid-out.txt",
+    "title": "Amalgamating Knowledge from Two Teachers for Task-oriented Dialogue System with Adversarial Training",
+    "score": 0.6502946115278838,
+    "method": "tfidf"
+  },
+  "188": {
+    "filename": "133.Automatically Learning Data Augmentation Policies for Dialogue Tasks-Grobid-out.txt",
+    "title": "Automatically Learning Data Augmentation Policies for Dialogue Tasks",
+    "score": 0.5231049646386758,
+    "method": "tfidf"
+  },
+  "189": {
+    "filename": null,
+    "title": null,
+    "score": 0.33283141255378723,
+    "method": "manual"
+  },
+  "190": {
+    "filename": "65.On Quality Ratings for Spoken Dialogue Systems \u2013 Experts vs. Users-Grobid-out.txt",
+    "title": "On Quality Ratings for Spoken Dialogue Systems \u2013 Experts vs. Users",
+    "score": 0.4244225669146226,
+    "method": "tfidf"
+  },
+  "191": {
+    "filename": "568.SAS Dialogue State Tracking via Slot Attention and Slot Information Sharing-Grobid-out.txt",
+    "title": "SAS Dialogue State Tracking via Slot Attention and Slot Information Sharing",
+    "score": 0.6099597636892565,
+    "method": "tfidf"
+  },
+  "192": {
+    "filename": "126.Semi-Supervised Bootstrapping of Dialogue State Trackers for Task-Oriented Modelling-Grobid-out.txt",
+    "title": "Semi-Supervised Bootstrapping of Dialogue State Trackers for Task-Oriented Modelling",
+    "score": 0.45242711933469054,
+    "method": "tfidf"
+  },
+  "193": {
+    "filename": "37.A Dual-Attention Hierarchical Recurrent Neural Network for Dialogue Act Classification-Grobid-out.txt",
+    "title": "A Dual-Attention Hierarchical Recurrent Neural Network for Dialogue Act Classification",
+    "score": 0.8128656807511008,
+    "method": "tfidf"
+  },
+  "194": {
+    "filename": null,
+    "title": null,
+    "score": 0.40346527099609375,
+    "method": "manual"
+  },
+  "195": {
+    "filename": "121.Chat Detection in an Intelligent Assistant Combining Task-oriented and Non-task-oriented Spoken Dialogue Systems-Grobid-out.txt",
+    "title": "Chat Detection in an Intelligent Assistant Combining Task-oriented and Non-task-oriented Spoken Dialogue Systems",
+    "score": 0.3525655218677024,
+    "method": "tfidf"
+  },
+  "196": {
+    "filename": "508.Enhancing Dialogue Symptom Diagnosis with Global Attention and Symptom Graph-Grobid-out.txt",
+    "title": "Enhancing Dialogue Symptom Diagnosis with Global Attention and Symptom Graph",
+    "score": 0.8057718499700225,
+    "method": "tfidf"
+  },
+  "197": {
+    "filename": "6.CIMA A Large Open Access Dialogue Dataset for Tutoring-Grobid-out.txt",
+    "title": "CIMA A Large Open Access Dialogue Dataset for Tutoring",
+    "score": 0.6900872588157654,
+    "method": "semantic"
+  },
+  "198": {
+    "filename": "107.Semantic Information and Derivation Rules for Robust Dialogue Act Detection in a Spoken Dialogue System-Grobid-out.txt",
+    "title": "Semantic Information and Derivation Rules for Robust Dialogue Act Detection in a Spoken Dialogue System",
+    "score": 0.4969392871720822,
+    "method": "tfidf"
+  },
+  "199": {
+    "filename": "222.Neural Generation of Dialogue Response Timings-Grobid-out.txt",
+    "title": "Neural Generation of Dialogue Response Timings",
+    "score": 0.3792161040106828,
+    "method": "tfidf"
+  },
+  "200": {
+    "filename": "22.LIDA Lightweight Interactive Dialogue Annotator-Grobid-out.txt",
+    "title": "LIDA Lightweight Interactive Dialogue Annotator",
+    "score": 0.6452293916828877,
+    "method": "tfidf"
+  },
+  "201": {
+    "filename": "86.Semantic Grounding in Dialogue for Complex Problem Solving-Grobid-out.txt",
+    "title": "Semantic Grounding in Dialogue for Complex Problem Solving",
+    "score": 0.38602974876789553,
+    "method": "tfidf"
+  },
+  "202": {
+    "filename": "373.Dialogue Act Classification with Context-Aware Self-Attention-Grobid-out.txt",
+    "title": "Dialogue Act Classification with Context-Aware Self-Attention",
+    "score": 0.5947881864225771,
+    "method": "tfidf"
+  },
+  "203": {
+    "filename": "349.Linguistically-Informed Specificity and Semantic Plausibility for Dialogue Generation-Grobid-out.txt",
+    "title": "Linguistically-Informed Specificity and Semantic Plausibility for Dialogue Generation",
+    "score": 0.6107117287773732,
+    "method": "tfidf"
+  },
+  "204": {
+    "filename": "111.Real-Time Speech Emotion and Sentiment Recognition for Interactive Dialogue Systems-Grobid-out.txt",
+    "title": "Real-Time Speech Emotion and Sentiment Recognition for Interactive Dialogue Systems",
+    "score": 0.5794418739013676,
+    "method": "tfidf"
+  },
+  "205": {
+    "filename": "163.Learning Symmetric Collaborative Dialogue Agents with Dynamic Knowledge Graph Embeddings-Grobid-out.txt",
+    "title": "Learning Symmetric Collaborative Dialogue Agents with Dynamic Knowledge Graph Embeddings",
+    "score": 0.4707099735932848,
+    "method": "tfidf"
+  },
+  "206": {
+    "filename": "577.MIE A Medical Information Extractor towards Medical Dialogues-Grobid-out.txt",
+    "title": "MIE A Medical Information Extractor towards Medical Dialogues",
+    "score": 0.6987269525139845,
+    "method": "tfidf"
+  },
+  "207": {
+    "filename": "103.Recognizing Authority in Dialogue with an Integer Linear Programming Constrained Model-Grobid-out.txt",
+    "title": "Recognizing Authority in Dialogue with an Integer Linear Programming Constrained Model",
+    "score": 0.31264280962572,
+    "method": "tfidf"
+  },
+  "208": {
+    "filename": "52.Entropy Converges Between Dialogue Participants Explanations from an Information-Theoretic Perspective-Grobid-out.txt",
+    "title": "Entropy Converges Between Dialogue Participants Explanations from an Information-Theoretic Perspective",
+    "score": 0.47849466027169474,
+    "method": "tfidf"
+  },
+  "209": {
+    "filename": "9.Learning to Adapt to Unknown Users Referring Expression Generation in Spoken Dialogue Systems-Grobid-out.txt",
+    "title": "Learning to Adapt to Unknown Users Referring Expression Generation in Spoken Dialogue Systems",
+    "score": 0.615554607239639,
+    "method": "tfidf"
+  },
+  "210": {
+    "filename": "47.Fusing Eye Gaze with Speech Recognition Hypotheses to Resolve Exophoric References in Situated Dialogue-Grobid-out.txt",
+    "title": "Fusing Eye Gaze with Speech Recognition Hypotheses to Resolve Exophoric References in Situated Dialogue",
+    "score": 0.7191029938596543,
+    "method": "tfidf"
+  },
+  "211": {
+    "filename": "5.Discovering Latent Structure in Task-Oriented Dialogues-Grobid-out.txt",
+    "title": "Discovering Latent Structure in Task-Oriented Dialogues",
+    "score": 0.6865328904445953,
+    "method": "tfidf"
+  },
+  "212": {
+    "filename": "177.Linguistic Cues to Deception and Perceived Deception in Interview Dialogues-Grobid-out.txt",
+    "title": "Linguistic Cues to Deception and Perceived Deception in Interview Dialogues",
+    "score": 0.4168783532974232,
+    "method": "tfidf"
+  },
+  "213": {
+    "filename": "120.An Affect-Enriched Dialogue Act Classification Model for Task-Oriented Dialogue-Grobid-out.txt",
+    "title": "An Affect-Enriched Dialogue Act Classification Model for Task-Oriented Dialogue",
+    "score": 0.5819732409881541,
+    "method": "tfidf"
+  },
+  "214": {
+    "filename": "317.Rethinking Supervised Learning and Reinforcement Learning in Task-Oriented Dialogue Systems-Grobid-out.txt",
+    "title": "Rethinking Supervised Learning and Reinforcement Learning in Task-Oriented Dialogue Systems",
+    "score": 0.6946223361072219,
+    "method": "tfidf"
+  },
+  "215": {
+    "filename": "127.Learning about Voice Search for Spoken Dialogue Systems-Grobid-out.txt",
+    "title": "Learning about Voice Search for Spoken Dialogue Systems",
+    "score": 0.37784718937074363,
+    "method": "tfidf"
+  },
+  "216": {
+    "filename": "231.Adversarial Learning for Neural Dialogue Generation-Grobid-out.txt",
+    "title": "Adversarial Learning for Neural Dialogue Generation",
+    "score": 0.6442605220995683,
+    "method": "tfidf"
+  },
+  "217": {
+    "filename": "278.Knowing What You Know Calibrating Dialogue Belief State Distributions via Ensembles-Grobid-out.txt",
+    "title": "Knowing What You Know Calibrating Dialogue Belief State Distributions via Ensembles",
+    "score": 0.41153021550007085,
+    "method": "tfidf"
+  },
+  "218": {
+    "filename": "6.Dialogue State Tracking with Explicit Slot Connection Modeling-Grobid-out.txt",
+    "title": "Dialogue State Tracking with Explicit Slot Connection Modeling",
+    "score": 0.6665370611274665,
+    "method": "tfidf"
+  },
+  "219": {
+    "filename": "194.Conversational Memory Network for Emotion Recognition in Dyadic Dialogue Videos-Grobid-out.txt",
+    "title": "Conversational Memory Network for Emotion Recognition in Dyadic Dialogue Videos",
+    "score": 0.5916471038209878,
+    "method": "tfidf"
+  },
+  "220": {
+    "filename": "77.Using Paraphrases and Lexical Semantics to Improve the Accuracy and the Robustness of Supervised Models in Situated Dialogue Systems-Grobid-out.txt",
+    "title": "Using Paraphrases and Lexical Semantics to Improve the Accuracy and the Robustness of Supervised Models in Situated Dialogue Systems",
+    "score": 0.6971861284919509,
+    "method": "tfidf"
+  },
+  "221": {
+    "filename": "14.Scaling Multi-Domain Dialogue State Tracking via Query Reformulation-Grobid-out.txt",
+    "title": "Scaling Multi-Domain Dialogue State Tracking via Query Reformulation",
+    "score": 0.4993241642982021,
+    "method": "tfidf"
+  },
+  "222": {
+    "filename": "125.DialSQL Dialogue Based Structured Query Generation-Grobid-out.txt",
+    "title": "DialSQL Dialogue Based Structured Query Generation",
+    "score": 0.6755309037841627,
+    "method": "tfidf"
+  },
+  "223": {
+    "filename": "359.Learning from Dialogue after Deployment Feed Yourself, Chatbot!-Grobid-out.txt",
+    "title": "Learning from Dialogue after Deployment Feed Yourself, Chatbot!",
+    "score": 0.31210434375699453,
+    "method": "tfidf"
+  },
+  "224": {
+    "filename": "186.Negative Training for Neural Dialogue Response Generation-Grobid-out.txt",
+    "title": "Negative Training for Neural Dialogue Response Generation",
+    "score": 0.4437734732193945,
+    "method": "tfidf"
+  },
+  "225": {
+    "filename": "130.Zero-shot Cross-lingual Dialogue Systems with Transferable Latent Variables-Grobid-out.txt",
+    "title": "Zero-shot Cross-lingual Dialogue Systems with Transferable Latent Variables",
+    "score": 0.6604421856386437,
+    "method": "tfidf"
+  },
+  "226": {
+    "filename": "517.Generate, Delete and Rewrite A Three-Stage Framework for Improving Persona Consistency of Dialogue Generation-Grobid-out.txt",
+    "title": "Generate, Delete and Rewrite A Three-Stage Framework for Improving Persona Consistency of Dialogue Generation",
+    "score": 0.6280540850942274,
+    "method": "tfidf"
+  },
+  "227": {
+    "filename": "463.GECOR An End-to-End Generative Ellipsis and Co-reference Resolution Model for Task-Oriented Dialogue-Grobid-out.txt",
+    "title": "GECOR An End-to-End Generative Ellipsis and Co-reference Resolution Model for Task-Oriented Dialogue",
+    "score": 0.8309084439091795,
+    "method": "tfidf"
+  },
+  "228": {
+    "filename": "24.Robust Coreference Resolution and Entity Linking on Dialogues Character Identification on TV Show Transcripts-Grobid-out.txt",
+    "title": "Robust Coreference Resolution and Entity Linking on Dialogues Character Identification on TV Show Transcripts",
+    "score": 0.637440121253598,
+    "method": "tfidf"
+  },
+  "229": {
+    "filename": "548.MultiWOZ - A Large-Scale Multi-Domain Wizard-of-Oz Dataset for Task-Oriented Dialogue Modelling-Grobid-out.txt",
+    "title": "MultiWOZ - A Large-Scale Multi-Domain Wizard-of-Oz Dataset for Task-Oriented Dialogue Modelling",
+    "score": 0.38785227037673775,
+    "method": "tfidf"
+  },
+  "230": {
+    "filename": "216.Learning Knowledge Bases with Parameters for Task-Oriented Dialogue Systems-Grobid-out.txt",
+    "title": "Learning Knowledge Bases with Parameters for Task-Oriented Dialogue Systems",
+    "score": 0.6060701245364655,
+    "method": "tfidf"
+  },
+  "231": {
+    "filename": "8.IRIS a Chat-oriented Dialogue System based on the Vector Space Model-Grobid-out.txt",
+    "title": "IRIS a Chat-oriented Dialogue System based on the Vector Space Model",
+    "score": 0.6117772904612512,
+    "method": "tfidf"
+  },
+  "232": {
+    "filename": "127.Improving Knowledge-Aware Dialogue Response Generation by Using Human-Written Prototype Dialogues-Grobid-out.txt",
+    "title": "Improving Knowledge-Aware Dialogue Response Generation by Using Human-Written Prototype Dialogues",
+    "score": 0.7717760998356814,
+    "method": "tfidf"
+  },
+  "233": {
+    "filename": "43.Data-oriented Monologue-to-Dialogue Generation-Grobid-out.txt",
+    "title": "Data-oriented Monologue-to-Dialogue Generation",
+    "score": 0.5317008837773269,
+    "method": "tfidf"
+  },
+  "234": {
+    "filename": "365.Budgeted Policy Learning for Task-Oriented Dialogue Systems-Grobid-out.txt",
+    "title": "Budgeted Policy Learning for Task-Oriented Dialogue Systems",
+    "score": 0.8624781847432216,
+    "method": "tfidf"
+  },
+  "235": {
+    "filename": "84.A Generative Attentional Neural Network Model for Dialogue Act Classification-Grobid-out.txt",
+    "title": "A Generative Attentional Neural Network Model for Dialogue Act Classification",
+    "score": 0.6212882440190679,
+    "method": "tfidf"
+  },
+  "236": {
+    "filename": "334.Towards Holistic and Automatic Evaluation of Open-Domain Dialogue Generation-Grobid-out.txt",
+    "title": "Towards Holistic and Automatic Evaluation of Open-Domain Dialogue Generation",
+    "score": 0.6153849665638556,
+    "method": "tfidf"
+  },
+  "237": {
+    "filename": "353.Generating Dialogue Responses from a Semantic Latent Space-Grobid-out.txt",
+    "title": "Generating Dialogue Responses from a Semantic Latent Space",
+    "score": 0.5175888180882591,
+    "method": "tfidf"
+  },
+  "238": {
+    "filename": "9.Automatic Dialogue Generation with Expressed Emotions-Grobid-out.txt",
+    "title": "Automatic Dialogue Generation with Expressed Emotions",
+    "score": 0.5320737698054363,
+    "method": "tfidf"
+  },
+  "240": {
+    "filename": "10.IIT-UHH at SemEval-2017 Task 3 Exploring Multiple Features for Community Question Answering and Implicit Dialogue Identification-Grobid-out.txt",
+    "title": "IIT-UHH at SemEval-2017 Task 3 Exploring Multiple Features for Community Question Answering and Implicit Dialogue Identification",
+    "score": 0.39261124614291093,
+    "method": "tfidf"
+  },
+  "241": {
+    "filename": null,
+    "title": null,
+    "score": 0.5272541642189026,
+    "method": "manual"
+  },
+  "242": {
+    "filename": null,
+    "title": null,
+    "score": 0.26739248633384705,
+    "method": "manual"
+  },
+  "243": {
+    "filename": "464.NEXUS Network Connecting the Preceding and the Following in Dialogue Generation-Grobid-out.txt",
+    "title": "NEXUS Network Connecting the Preceding and the Following in Dialogue Generation",
+    "score": 0.765416151351707,
+    "method": "tfidf"
+  },
+  "244": {
+    "filename": "13.Zero-Shot Transfer Learning with Synthesized Data for Multi-Domain Dialogue State Tracking-Grobid-out.txt",
+    "title": "Zero-Shot Transfer Learning with Synthesized Data for Multi-Domain Dialogue State Tracking",
+    "score": 0.6625993049936929,
+    "method": "tfidf"
+  },
+  "245": {
+    "filename": "13.OpenDial A Toolkit for Developing Spoken Dialogue Systems with Probabilistic Rules-Grobid-out.txt",
+    "title": "OpenDial A Toolkit for Developing Spoken Dialogue Systems with Probabilistic Rules",
+    "score": 0.6958504915237427,
+    "method": "semantic"
+  },
+  "247": {
+    "filename": "516.What You See is What You Get Visual Pronoun Coreference Resolution in Dialogues-Grobid-out.txt",
+    "title": "What You See is What You Get Visual Pronoun Coreference Resolution in Dialogues",
+    "score": 0.6151371286444228,
+    "method": "tfidf"
+  },
+  "248": {
+    "filename": "506.Transformers to Learn Hierarchical Contexts in Multiparty Dialogue for Span-based Question Answering-Grobid-out.txt",
+    "title": "Transformers to Learn Hierarchical Contexts in Multiparty Dialogue for Span-based Question Answering",
+    "score": 0.5281259009302469,
+    "method": "tfidf"
+  },
+  "249": {
+    "filename": "96.Predicting and Eliciting Addressee\u2019s Emotion in Online Dialogue-Grobid-out.txt",
+    "title": "Predicting and Eliciting Addressee\u2019s Emotion in Online Dialogue",
+    "score": 0.5739307453415152,
+    "method": "tfidf"
+  },
+  "251": {
+    "filename": "164.Neural Belief Tracker Data-Driven Dialogue State Tracking-Grobid-out.txt",
+    "title": "Neural Belief Tracker Data-Driven Dialogue State Tracking",
+    "score": 0.6279626802238265,
+    "method": "tfidf"
+  },
+  "252": {
+    "filename": "120.tucSage Grammar Rule Induction for Spoken Dialogue Systems via Probabilistic Candidate Selection-Grobid-out.txt",
+    "title": "tucSage Grammar Rule Induction for Spoken Dialogue Systems via Probabilistic Candidate Selection",
+    "score": 0.38978311385652337,
+    "method": "tfidf"
+  },
+  "253": {
+    "filename": "17.Multimodal Menu-based Dialogue with Speech Cursor in DICO II+-Grobid-out.txt",
+    "title": "Multimodal Menu-based Dialogue with Speech Cursor in DICO II+",
+    "score": 0.5874865514302332,
+    "method": "tfidf"
+  },
+  "254": {
+    "filename": "539.Profile Consistency Identification for Open-domain Dialogue Agents-Grobid-out.txt",
+    "title": "Profile Consistency Identification for Open-domain Dialogue Agents",
+    "score": 0.5896260608078248,
+    "method": "tfidf"
+  },
+  "255": {
+    "filename": "17.A Long Short-Term Memory Framework for Predicting Humor in Dialogues-Grobid-out.txt",
+    "title": "A Long Short-Term Memory Framework for Predicting Humor in Dialogues",
+    "score": 0.4136568709507602,
+    "method": "tfidf"
+  },
+  "256": {
+    "filename": "30.Latent Variable Dialogue Models and their Diversity-Grobid-out.txt",
+    "title": "Latent Variable Dialogue Models and their Diversity",
+    "score": 0.5823988239849749,
+    "method": "tfidf"
+  },
+  "257": {
+    "filename": "124.Multi-task Learning for Natural Language Generation in Task-Oriented Dialogue-Grobid-out.txt",
+    "title": "Multi-task Learning for Natural Language Generation in Task-Oriented Dialogue",
+    "score": 0.7072927496890279,
+    "method": "tfidf"
+  },
+  "258": {
+    "filename": null,
+    "title": null,
+    "score": 0.4745856523513794,
+    "method": "manual"
+  },
+  "259": {
+    "filename": "204.Deep Dyna-Q Integrating Planning for Task-Completion Dialogue Policy Learning-Grobid-out.txt",
+    "title": "Deep Dyna-Q Integrating Planning for Task-Completion Dialogue Policy Learning",
+    "score": 0.7910269358891152,
+    "method": "tfidf"
+  },
+  "260": {
+    "filename": "150.The Teams Corpus and Entrainment in Multi-Party Spoken Dialogues-Grobid-out.txt",
+    "title": "The Teams Corpus and Entrainment in Multi-Party Spoken Dialogues",
+    "score": 0.6473560921660079,
+    "method": "tfidf"
+  },
+  "261": {
+    "filename": "565.Multimodal Transformer Networks for End-to-End Video-Grounded Dialogue Systems-Grobid-out.txt",
+    "title": "Multimodal Transformer Networks for End-to-End Video-Grounded Dialogue Systems",
+    "score": 0.6581528225277674,
+    "method": "tfidf"
+  },
+  "262": {
+    "filename": "3.Dialogue over Context and Structured Knowledge using a Neural Network Model with External Memories-Grobid-out.txt",
+    "title": "Dialogue over Context and Structured Knowledge using a Neural Network Model with External Memories",
+    "score": 0.8350849232773591,
+    "method": "tfidf"
+  },
+  "263": {
+    "filename": "29.Dialogue Response Ranking Training with Large-Scale Human Feedback Data-Grobid-out.txt",
+    "title": "Dialogue Response Ranking Training with Large-Scale Human Feedback Data",
+    "score": 0.5562583600936758,
+    "method": "tfidf"
+  },
+  "264": {
+    "filename": "534.Regularizing Dialogue Generation by Imitating Implicit Scenarios-Grobid-out.txt",
+    "title": "Regularizing Dialogue Generation by Imitating Implicit Scenarios",
+    "score": 0.5956735896183338,
+    "method": "tfidf"
+  },
+  "265": {
+    "filename": "519.Video-Grounded Dialogues with Pretrained Generation Language Models-Grobid-out.txt",
+    "title": "Video-Grounded Dialogues with Pretrained Generation Language Models",
+    "score": 0.7394687320074883,
+    "method": "tfidf"
+  },
+  "266": {
+    "filename": "79.Transferable Multi-Domain State Generator for Task-Oriented Dialogue Systems-Grobid-out.txt",
+    "title": "Transferable Multi-Domain State Generator for Task-Oriented Dialogue Systems",
+    "score": 0.503969250994114,
+    "method": "tfidf"
+  },
+  "267": {
+    "filename": "16.Multi-domain Neural Network Language Generation for Spoken Dialogue Systems-Grobid-out.txt",
+    "title": "Multi-domain Neural Network Language Generation for Spoken Dialogue Systems",
+    "score": 0.6829483745041305,
+    "method": "tfidf"
+  },
+  "268": {
+    "filename": "204.Recommendation as a Communication Game Self-Supervised Bot-Play for Goal-oriented Dialogue-Grobid-out.txt",
+    "title": "Recommendation as a Communication Game Self-Supervised Bot-Play for Goal-oriented Dialogue",
+    "score": 0.6166765810237986,
+    "method": "tfidf"
+  },
+  "269": {
+    "filename": "362.Incremental Learning from Scratch for Task-Oriented Dialogue Systems-Grobid-out.txt",
+    "title": "Incremental Learning from Scratch for Task-Oriented Dialogue Systems",
+    "score": 0.448132787385825,
+    "method": "tfidf"
+  },
+  "270": {
+    "filename": "17.Learning Goal-oriented Dialogue Policy with opposite Agent Awareness-Grobid-out.txt",
+    "title": "Learning Goal-oriented Dialogue Policy with opposite Agent Awareness",
+    "score": 0.6000950720873341,
+    "method": "tfidf"
+  },
+  "271": {
+    "filename": "58.Improving Dialogue State Tracking by Discerning the Relevant Context-Grobid-out.txt",
+    "title": "Improving Dialogue State Tracking by Discerning the Relevant Context",
+    "score": 0.6177669810324157,
+    "method": "tfidf"
+  },
+  "272": {
+    "filename": null,
+    "title": null,
+    "score": 0.47054407000541687,
+    "method": "manual"
+  },
+  "273": {
+    "filename": "403.Towards Emotion-aided Multi-modal Dialogue Act Classification-Grobid-out.txt",
+    "title": "Towards Emotion-aided Multi-modal Dialogue Act Classification",
+    "score": 0.6377745051918757,
+    "method": "tfidf"
+  },
+  "275": {
+    "filename": "53.Dialogue focus tracking for zero pronoun resolution-Grobid-out.txt",
+    "title": "Dialogue focus tracking for zero pronoun resolution",
+    "score": 0.5091220724787312,
+    "method": "tfidf"
+  },
+  "276": {
+    "filename": "197.Scalable and Accurate Dialogue State Tracking via Hierarchical Sequence Generation-Grobid-out.txt",
+    "title": "Scalable and Accurate Dialogue State Tracking via Hierarchical Sequence Generation",
+    "score": 0.5446367673807926,
+    "method": "tfidf"
+  },
+  "277": {
+    "filename": "129.Sampling Matters! An Empirical Study of Negative Sampling Strategies for Learning of Matching Models in Retrieval-based Dialogue Systems-Grobid-out.txt",
+    "title": "Sampling Matters! An Empirical Study of Negative Sampling Strategies for Learning of Matching Models in Retrieval-based Dialogue Systems",
+    "score": 0.8519218113972201,
+    "method": "tfidf"
+  },
+  "278": {
+    "filename": "536.Know More about Each Other Evolving Dialogue Strategy via Compound Assessment-Grobid-out.txt",
+    "title": "Know More about Each Other Evolving Dialogue Strategy via Compound Assessment",
+    "score": 0.33450796431428637,
+    "method": "tfidf"
+  },
+  "279": {
+    "filename": "189.Adaptive Parameterization for Neural Dialogue Generation-Grobid-out.txt",
+    "title": "Adaptive Parameterization for Neural Dialogue Generation",
+    "score": 0.8315334490857832,
+    "method": "tfidf"
+  },
+  "280": {
+    "filename": "48.Adversarial Over-Sensitivity and Over-Stability Strategies for Dialogue Models-Grobid-out.txt",
+    "title": "Adversarial Over-Sensitivity and Over-Stability Strategies for Dialogue Models",
+    "score": 0.7252018190965484,
+    "method": "tfidf"
+  },
+  "281": {
+    "filename": "176.Box of Lies Multimodal Deception Detection in Dialogues-Grobid-out.txt",
+    "title": "Box of Lies Multimodal Deception Detection in Dialogues",
+    "score": 0.38820060859733274,
+    "method": "tfidf"
+  },
+  "282": {
+    "filename": "544.Reading Turn by Turn Hierarchical Attention Architecture for Spoken Dialogue Comprehension-Grobid-out.txt",
+    "title": "Reading Turn by Turn Hierarchical Attention Architecture for Spoken Dialogue Comprehension",
+    "score": 0.5188887569663805,
+    "method": "tfidf"
+  },
+  "283": {
+    "filename": "274.MinTL Minimalist Transfer Learning for Task-Oriented Dialogue Systems-Grobid-out.txt",
+    "title": "MinTL Minimalist Transfer Learning for Task-Oriented Dialogue Systems",
+    "score": 0.6878508409567252,
+    "method": "tfidf"
+  },
+  "284": {
+    "filename": "2.One Time of Interaction May Not Be Enough Go Deep with an Interaction-over-Interaction Network for Response Selection in Dialogues-Grobid-out.txt",
+    "title": "One Time of Interaction May Not Be Enough Go Deep with an Interaction-over-Interaction Network for Response Selection in Dialogues",
+    "score": 0.8531143879764574,
+    "method": "tfidf"
+  },
+  "285": {
+    "filename": "135.An End-to-end Approach for Handling Unknown Slot Values in Dialogue State Tracking-Grobid-out.txt",
+    "title": "An End-to-end Approach for Handling Unknown Slot Values in Dialogue State Tracking",
+    "score": 0.562663807973382,
+    "method": "tfidf"
+  },
+  "286": {
+    "filename": "248.Learning to Plan and Realize Separately for Open-Ended Dialogue Systems-Grobid-out.txt",
+    "title": "Learning to Plan and Realize Separately for Open-Ended Dialogue Systems",
+    "score": 0.7897925208986313,
+    "method": "tfidf"
+  },
+  "287": {
+    "filename": "22.DeepPavlov Open-Source Library for Dialogue Systems-Grobid-out.txt",
+    "title": "DeepPavlov Open-Source Library for Dialogue Systems",
+    "score": 0.6024815906221804,
+    "method": "tfidf"
+  },
+  "288": {
+    "filename": "100.Learning the Information Status of Noun Phrases in Spoken Dialogues-Grobid-out.txt",
+    "title": "Learning the Information Status of Noun Phrases in Spoken Dialogues",
+    "score": 0.5537732558527175,
+    "method": "tfidf"
+  },
+  "289": {
+    "filename": "278.Dialogue Distillation Open-Domain Dialogue Augmentation Using Unpaired Data-Grobid-out.txt",
+    "title": "Dialogue Distillation Open-Domain Dialogue Augmentation Using Unpaired Data",
+    "score": 0.8089860964071264,
+    "method": "tfidf"
+  },
+  "290": {
+    "filename": null,
+    "title": null,
+    "score": 0.6562198996543884,
+    "method": "manual"
+  },
+  "291": {
+    "filename": "19.An Impossible Dialogue! Nominal Utterances and Populist Rhetoric in an Italian Twitter Corpus of Hate Speech against Immigrants-Grobid-out.txt",
+    "title": "An Impossible Dialogue! Nominal Utterances and Populist Rhetoric in an Italian Twitter Corpus of Hate Speech against Immigrants",
+    "score": 0.4026374618819399,
+    "method": "tfidf"
+  },
+  "292": {
+    "filename": "55.End-to-End Neural Pipeline for Goal-Oriented Dialogue Systems using GPT-2-Grobid-out.txt",
+    "title": "End-to-End Neural Pipeline for Goal-Oriented Dialogue Systems using GPT-2",
+    "score": 0.4657469104244411,
+    "method": "tfidf"
+  },
+  "293": {
+    "filename": "6.FERNet Fine-grained Extraction and Reasoning Network for Emotion Recognition in Dialogues-Grobid-out.txt",
+    "title": "FERNet Fine-grained Extraction and Reasoning Network for Emotion Recognition in Dialogues",
+    "score": 0.6913296892283625,
+    "method": "tfidf"
+  },
+  "295": {
+    "filename": null,
+    "title": null,
+    "score": 0.4241549074649811,
+    "method": "manual"
+  },
+  "296": {
+    "filename": "348.Joint Turn and Dialogue level User Satisfaction Estimation on Multi-Domain Conversations-Grobid-out.txt",
+    "title": "Joint Turn and Dialogue level User Satisfaction Estimation on Multi-Domain Conversations",
+    "score": 0.4308873781275165,
+    "method": "tfidf"
+  },
+  "297": {
+    "filename": "211.MultiDM-GCN Aspect-guided Response Generation in Multi-domain Multi-modal Dialogue System using Graph Convolutional Network-Grobid-out.txt",
+    "title": "MultiDM-GCN Aspect-guided Response Generation in Multi-domain Multi-modal Dialogue System using Graph Convolutional Network",
+    "score": 0.6785168630795557,
+    "method": "tfidf"
+  },
+  "298": {
+    "filename": "48.Single-Agent vs. Multi-Agent Techniques for Concurrent Reinforcement Learning of Negotiation Dialogue Policies-Grobid-out.txt",
+    "title": "Single-Agent vs. Multi-Agent Techniques for Concurrent Reinforcement Learning of Negotiation Dialogue Policies",
+    "score": 0.5521704888732879,
+    "method": "tfidf"
+  },
+  "299": {
+    "filename": "27.uBLEU Uncertainty-Aware Automatic Evaluation Method for Open-Domain Dialogue Systems-Grobid-out.txt",
+    "title": "uBLEU Uncertainty-Aware Automatic Evaluation Method for Open-Domain Dialogue Systems",
+    "score": 0.457345798413163,
+    "method": "tfidf"
+  },
+  "300": {
+    "filename": "200.Semantically Conditioned LSTM-based Natural Language Generation for Spoken Dialogue Systems-Grobid-out.txt",
+    "title": "Semantically Conditioned LSTM-based Natural Language Generation for Spoken Dialogue Systems",
+    "score": 0.5018756172569678,
+    "method": "tfidf"
+  },
+  "301": {
+    "filename": "41.Movie-DiC a Movie Dialogue Corpus for Research and Development-Grobid-out.txt",
+    "title": "Movie-DiC a Movie Dialogue Corpus for Research and Development",
+    "score": 0.42576087792043366,
+    "method": "tfidf"
+  },
+  "302": {
+    "filename": "23.Chatbot with a Discourse Structure-Driven Dialogue Management-Grobid-out.txt",
+    "title": "Chatbot with a Discourse Structure-Driven Dialogue Management",
+    "score": 0.6885595151230732,
+    "method": "tfidf"
+  },
+  "303": {
+    "filename": "261.Agent-Aware Dropout DQN for Safe and Efficient On-line Dialogue Policy Learning-Grobid-out.txt",
+    "title": "Agent-Aware Dropout DQN for Safe and Efficient On-line Dialogue Policy Learning",
+    "score": 0.5612216984164249,
+    "method": "tfidf"
+  },
+  "304": {
+    "filename": "149.Conversation Model Fine-Tuning for Classifying Client Utterances in Counseling Dialogues-Grobid-out.txt",
+    "title": "Conversation Model Fine-Tuning for Classifying Client Utterances in Counseling Dialogues",
+    "score": 0.6805105375897593,
+    "method": "tfidf"
+  },
+  "305": {
+    "filename": "356.Generalizable and Explainable Dialogue Generation via Explicit Action Learning-Grobid-out.txt",
+    "title": "Generalizable and Explainable Dialogue Generation via Explicit Action Learning",
+    "score": 0.7122289473331485,
+    "method": "tfidf"
+  },
+  "306": {
+    "filename": "46.Towards End-to-End Reinforcement Learning of Dialogue Agents for Information Access-Grobid-out.txt",
+    "title": "Towards End-to-End Reinforcement Learning of Dialogue Agents for Information Access",
+    "score": 0.547861419381367,
+    "method": "tfidf"
+  },
+  "307": {
+    "filename": "104.Towards an Automatic Turing Test Learning to Evaluate Dialogue Responses-Grobid-out.txt",
+    "title": "Towards an Automatic Turing Test Learning to Evaluate Dialogue Responses",
+    "score": 0.6098688797871292,
+    "method": "tfidf"
+  },
+  "308": {
+    "filename": "376.Self-Supervised Dialogue Learning-Grobid-out.txt",
+    "title": "Self-Supervised Dialogue Learning",
+    "score": 0.7399452064717055,
+    "method": "tfidf"
+  },
+  "309": {
+    "filename": "429.Don\u2019t Say That! Making Inconsistent Dialogue Unlikely with Unlikelihood Training-Grobid-out.txt",
+    "title": "Don\u2019t Say That! Making Inconsistent Dialogue Unlikely with Unlikelihood Training",
+    "score": 0.6864991646454557,
+    "method": "tfidf"
+  },
+  "310": {
+    "filename": "128.Deep Reinforcement Learning for Dialogue Generation-Grobid-out.txt",
+    "title": "Deep Reinforcement Learning for Dialogue Generation",
+    "score": 0.5805772218221178,
+    "method": "tfidf"
+  },
+  "311": {
+    "filename": "69.Efficient Context and Schema Fusion Networks for Multi-Domain Dialogue State Tracking-Grobid-out.txt",
+    "title": "Efficient Context and Schema Fusion Networks for Multi-Domain Dialogue State Tracking",
+    "score": 0.6522473388056182,
+    "method": "tfidf"
+  },
+  "313": {
+    "filename": "32.PolyResponse A Rank-based Approach to Task-Oriented Dialogue with Application in Restaurant Search and Booking-Grobid-out.txt",
+    "title": "PolyResponse A Rank-based Approach to Task-Oriented Dialogue with Application in Restaurant Search and Booking",
+    "score": 0.5547748873507223,
+    "method": "tfidf"
+  },
+  "314": {
+    "filename": "11.Slot-consistent NLG for Task-oriented Dialogue Systems with Iterative Rectification Network-Grobid-out.txt",
+    "title": "Slot-consistent NLG for Task-oriented Dialogue Systems with Iterative Rectification Network",
+    "score": 0.6021440078071301,
+    "method": "tfidf"
+  },
+  "315": {
+    "filename": "401.Improving Limited Labeled Dialogue State Tracking with Self-Supervision-Grobid-out.txt",
+    "title": "Improving Limited Labeled Dialogue State Tracking with Self-Supervision",
+    "score": 0.5148093597240379,
+    "method": "tfidf"
+  },
+  "316": {
+    "filename": "17.ScoutBot A Dialogue System for Collaborative Navigation-Grobid-out.txt",
+    "title": "ScoutBot A Dialogue System for Collaborative Navigation",
+    "score": 0.5394372393032512,
+    "method": "tfidf"
+  },
+  "317": {
+    "filename": "276.Bridging the Gap between Prior and Posterior Knowledge Selection for Knowledge-Grounded Dialogue Generation-Grobid-out.txt",
+    "title": "Bridging the Gap between Prior and Posterior Knowledge Selection for Knowledge-Grounded Dialogue Generation",
+    "score": 0.7215000510054295,
+    "method": "tfidf"
+  },
+  "318": {
+    "filename": "381.Evaluating Coherence in Dialogue Systems using Entailment-Grobid-out.txt",
+    "title": "Evaluating Coherence in Dialogue Systems using Entailment",
+    "score": 0.5325192255258113,
+    "method": "tfidf"
+  },
+  "1": {
+    "filename": "299.Training Millions of Personalized Dialogue Agents-Grobid-out.txt",
+    "title": "Training Millions of Personalized Dialogue Agents",
+    "score": 0.6763719916343689,
+    "method": "semantic"
+  }
+}

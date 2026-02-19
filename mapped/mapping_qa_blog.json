@@ -1,0 +1,122 @@
+{
+  "0": {
+    "filename": "Exploring Models and Data for Image Question Answering \u00b7 Papers I Read-Grobid-out.txt",
+    "title": "txt",
+    "score": 0.7577896574598623,
+    "method": "tfidf"
+  },
+  "1": {
+    "filename": "Learning to Count Objects in Natural Images for Visual Question Answering \u00b7 Papers I Read-Grobid-out.txt",
+    "title": "txt",
+    "score": 0.8693005440619848,
+    "method": "tfidf"
+  },
+  "2": {
+    "filename": "Simple Baseline for Visual Question Answering \u00b7 Papers I Read-Grobid-out.txt",
+    "title": "txt",
+    "score": 0.6989619036952557,
+    "method": "tfidf"
+  },
+  "3": {
+    "filename": "Word Embedding, Character Embedding and Contextual Embedding in BiDAF \u2014 an Illustrated Guide _ by Meraldo Antonio _ Towards Data Science-Grobid-out.txt",
+    "title": "txt",
+    "score": 0.8521797323268606,
+    "method": "tfidf"
+  },
+  "4": {
+    "filename": "Day 127_ NLP Papers Summary - Neural Approaches to Conversational AI - Introduction - Ryan Ong-Grobid-out.txt",
+    "title": "txt",
+    "score": 0.47204376514120333,
+    "method": "tfidf"
+  },
+  "5": {
+    "filename": "Visual Question Answering with Deep Learning _ by Tulrose Deori _ Towards Data Science-Grobid-out.txt",
+    "title": "txt",
+    "score": 0.8351146203175339,
+    "method": "tfidf"
+  },
+  "6": {
+    "filename": "VQA-Visual Question Answering \u00b7 Papers I Read-Grobid-out.txt",
+    "title": "txt",
+    "score": 0.7623383437411133,
+    "method": "tfidf"
+  },
+  "7": {
+    "filename": "Day 128_ NLP Papers Summary - Neural Approaches to Conversational AI - KB-QA (Symbolic Methods) - Ryan Ong-Grobid-out.txt",
+    "title": "txt",
+    "score": 0.6503844248572468,
+    "method": "tfidf"
+  },
+  "8": {
+    "filename": "Notes for _Towards AI-Complete Question Answering_ A Set of Prerequisite Toy Tasks_ Paper-Grobid-out.txt",
+    "title": "txt",
+    "score": 0.7310245718588456,
+    "method": "tfidf"
+  },
+  "9": {
+    "filename": "Notes for _Question Answering with Subgraph Embeddings_ paper-Grobid-out.txt",
+    "title": "txt",
+    "score": 0.7979792498314731,
+    "method": "tfidf"
+  },
+  "10": {
+    "filename": "Making the V in VQA Matter - Elevating the Role of Image Understanding in Visual Question Answering \u00b7 Papers I Read-Grobid-out.txt",
+    "title": "txt",
+    "score": 0.7589910533156702,
+    "method": "tfidf"
+  },
+  "11": {
+    "filename": "Attention Mechanism in Seq2Seq and BiDAF \u2014 an Illustrated Guide _ by Meraldo Antonio _ Towards Data Science-Grobid-out.txt",
+    "title": "txt",
+    "score": 0.8404765474626239,
+    "method": "tfidf"
+  },
+  "12": {
+    "filename": "Training Question Answering Models from Synthetic Data (Research Paper Summary) _ by Prakhar Mishra _ Towards Data Science-Grobid-out.txt",
+    "title": "txt",
+    "score": 0.7787904105634281,
+    "method": "tfidf"
+  },
+  "13": {
+    "filename": "Day 192_ NLP Papers Summary - Guiding Extractive Summarization with Question-Answering Rewards - Ryan Ong-Grobid-out.txt",
+    "title": "txt",
+    "score": 0.7078144450257713,
+    "method": "tfidf"
+  },
+  "14": {
+    "filename": "Reading Wikipedia to Answer Open-Domain Questions \u00b7 Papers I Read-Grobid-out.txt",
+    "title": "txt",
+    "score": 0.6597950954410216,
+    "method": "tfidf"
+  },
+  "15": {
+    "filename": "Question Answering in Natural Language Processing [Part-I] _ by Ranjan Satapathy _ Lingvo Masino _ Medium-Grobid-out.txt",
+    "title": "txt",
+    "score": 0.5107912114471143,
+    "method": "tfidf"
+  },
+  "16": {
+    "filename": "An Illustrated Guide to Bi-Directional Attention Flow (BiDAF) _ by Meraldo Antonio _ Towards Data Science-Grobid-out.txt",
+    "title": "txt",
+    "score": 0.8156693772187855,
+    "method": "tfidf"
+  },
+  "17": {
+    "filename": "Memory Networks _ the morning paper-Grobid-out.txt",
+    "title": "txt",
+    "score": 0.8066807212535709,
+    "method": "tfidf"
+  },
+  "18": {
+    "filename": "Day 129_ NLP Papers Summary - Neural Approaches to Conversational AI - KB-QA (Neural Methods) - Ryan Ong-Grobid-out.txt",
+    "title": "txt",
+    "score": 0.6498056243793287,
+    "method": "tfidf"
+  },
+  "19": {
+    "filename": "Swedish Question Answering with BERT _ by Susumu Okazawa, PhD _ Towards Data Science-Grobid-out.txt",
+    "title": "txt",
+    "score": 0.755906522250856,
+    "method": "tfidf"
+  }
+}

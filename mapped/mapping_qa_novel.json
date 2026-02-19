@@ -1,0 +1,518 @@
+{
+  "0": {
+    "filename": "565.Mind Your Outliers! Investigating the Negative Impact of Outliers on Active Learning for Visual Question Answering-Grobid-out.txt",
+    "title": "Mind Your Outliers! Investigating the Negative Impact of Outliers on Active Learning for Visual Question Answering",
+    "score": 0.5730609938725161,
+    "method": "tfidf"
+  },
+  "1": {
+    "filename": "584.Will this Question be Answered Question Filtering via Answer Model Distillation for Efficient Question Answering-Grobid-out.txt",
+    "title": "Will this Question be Answered Question Filtering via Answer Model Distillation for Efficient Question Answering",
+    "score": 0.5842621489390348,
+    "method": "tfidf"
+  },
+  "2": {
+    "filename": "443.CoSQA 20,000+ Web Queries for Code Search and Question Answering-Grobid-out.txt",
+    "title": "CoSQA 20,000+ Web Queries for Code Search and Question Answering",
+    "score": 0.5408687445451693,
+    "method": "tfidf"
+  },
+  "3": {
+    "filename": "497.Simple Entity-Centric Questions Challenge Dense Retrievers-Grobid-out.txt",
+    "title": "Simple Entity-Centric Questions Challenge Dense Retrievers",
+    "score": 0.5828601100505559,
+    "method": "tfidf"
+  },
+  "4": {
+    "filename": "293.Answering Open-Domain Questions of Varying Reasoning Steps from Text-Grobid-out.txt",
+    "title": "Answering Open-Domain Questions of Varying Reasoning Steps from Text",
+    "score": 0.6939210741484367,
+    "method": "tfidf"
+  },
+  "5": {
+    "filename": "518.On the Efficacy of Adversarial Data Collection for Question Answering Results from a Large-Scale Randomized Study-Grobid-out.txt",
+    "title": "On the Efficacy of Adversarial Data Collection for Question Answering Results from a Large-Scale Randomized Study",
+    "score": 0.6784682273864746,
+    "method": "semantic"
+  },
+  "6": {
+    "filename": "521.Question Answering Over Temporal Knowledge Graphs-Grobid-out.txt",
+    "title": "Question Answering Over Temporal Knowledge Graphs",
+    "score": 0.4243312816536955,
+    "method": "tfidf"
+  },
+  "7": {
+    "filename": "119.Addressing Semantic Drift in Generative Question Answering with Auxiliary Extraction-Grobid-out.txt",
+    "title": "Addressing Semantic Drift in Generative Question Answering with Auxiliary Extraction",
+    "score": 0.6880454848668908,
+    "method": "tfidf"
+  },
+  "8": {
+    "filename": "520.End-to-End Training of Neural Retrievers for Open-Domain Question Answering-Grobid-out.txt",
+    "title": "End-to-End Training of Neural Retrievers for Open-Domain Question Answering",
+    "score": 0.669138910720467,
+    "method": "tfidf"
+  },
+  "9": {
+    "filename": "779.QA-Align Representing Cross-Text Content Overlap by Aligning Question-Answer Propositions-Grobid-out.txt",
+    "title": "QA-Align Representing Cross-Text Content Overlap by Aligning Question-Answer Propositions",
+    "score": 0.3566184024355355,
+    "method": "tfidf"
+  },
+  "10": {
+    "filename": "755.Contrastive Domain Adaptation for Question Answering using Limited Text Corpora-Grobid-out.txt",
+    "title": "Contrastive Domain Adaptation for Question Answering using Limited Text Corpora",
+    "score": 0.7203036405354055,
+    "method": "tfidf"
+  },
+  "11": {
+    "filename": "107.UoR at SemEval-2021 Task 4 Using Pre-trained BERT Token Embeddings for Question Answering of Abstract Meaning-Grobid-out.txt",
+    "title": "UoR at SemEval-2021 Task 4 Using Pre-trained BERT Token Embeddings for Question Answering of Abstract Meaning",
+    "score": 0.39185925997285576,
+    "method": "tfidf"
+  },
+  "12": {
+    "filename": "341.Improving Unsupervised Question Answering via Summarization-Informed Question Generation-Grobid-out.txt",
+    "title": "Improving Unsupervised Question Answering via Summarization-Informed Question Generation",
+    "score": 0.6532014184126759,
+    "method": "tfidf"
+  },
+  "13": {
+    "filename": "361.Joint Multi-modal Aspect-Sentiment Analysis with Auxiliary Cross-modal Relation Detection-Grobid-out.txt",
+    "title": "Joint Multi-modal Aspect-Sentiment Analysis with Auxiliary Cross-modal Relation Detection",
+    "score": 0.6472030217307762,
+    "method": "tfidf"
+  },
+  "14": {
+    "filename": "503.Controllable Open-ended Question Generation with A New Question Type Ontology-Grobid-out.txt",
+    "title": "Controllable Open-ended Question Generation with A New Question Type Ontology",
+    "score": 0.679202036841418,
+    "method": "tfidf"
+  },
+  "15": {
+    "filename": "23.Learning Implicit Sentiment in Aspect-based Sentiment Analysis with Supervised Contrastive Pre-Training-Grobid-out.txt",
+    "title": "Learning Implicit Sentiment in Aspect-based Sentiment Analysis with Supervised Contrastive Pre-Training",
+    "score": 0.6356099244665503,
+    "method": "tfidf"
+  },
+  "16": {
+    "filename": "728.Cross-lingual Aspect-based Sentiment Analysis with Aspect Term Code-Switching-Grobid-out.txt",
+    "title": "Cross-lingual Aspect-based Sentiment Analysis with Aspect Term Code-Switching",
+    "score": 0.7276026041443912,
+    "method": "tfidf"
+  },
+  "17": {
+    "filename": "343.Topic Transferable Table Question Answering-Grobid-out.txt",
+    "title": "Topic Transferable Table Question Answering",
+    "score": 0.6740703061270286,
+    "method": "tfidf"
+  },
+  "18": {
+    "filename": "564.Have You Seen That Number Investigating Extrapolation in Question Answering Models-Grobid-out.txt",
+    "title": "Have You Seen That Number Investigating Extrapolation in Question Answering Models",
+    "score": 0.6055919170194713,
+    "method": "tfidf"
+  },
+  "19": {
+    "filename": "123.Multi-Scale Progressive Attention Network for Video Question Answering-Grobid-out.txt",
+    "title": "Multi-Scale Progressive Attention Network for Video Question Answering",
+    "score": 0.4886029324699594,
+    "method": "tfidf"
+  },
+  "20": {
+    "filename": "697.Improving Question Answering Model Robustness with Synthetic Adversarial Data Generation-Grobid-out.txt",
+    "title": "Improving Question Answering Model Robustness with Synthetic Adversarial Data Generation",
+    "score": 0.44051630270521447,
+    "method": "tfidf"
+  },
+  "21": {
+    "filename": "478.xMoCo Cross Momentum Contrastive Learning for Open-Domain Question Answering-Grobid-out.txt",
+    "title": "xMoCo Cross Momentum Contrastive Learning for Open-Domain Question Answering",
+    "score": 0.6213711076581511,
+    "method": "tfidf"
+  },
+  "22": {
+    "filename": "294.Adaptive Information Seeking for Open-Domain Question Answering-Grobid-out.txt",
+    "title": "Adaptive Information Seeking for Open-Domain Question Answering",
+    "score": 0.5434996253637504,
+    "method": "tfidf"
+  },
+  "23": {
+    "filename": "718.NB-MLM Efficient Domain Adaptation of Masked Language Models for Sentiment Analysis-Grobid-out.txt",
+    "title": "NB-MLM Efficient Domain Adaptation of Masked Language Models for Sentiment Analysis",
+    "score": 0.8860026196327448,
+    "method": "tfidf"
+  },
+  "24": {
+    "filename": "66.UPB at SemEval-2021 Task 8 Extracting Semantic Information on Measurements as Multi-Turn Question Answering-Grobid-out.txt",
+    "title": "UPB at SemEval-2021 Task 8 Extracting Semantic Information on Measurements as Multi-Turn Question Answering",
+    "score": 0.5660149434927747,
+    "method": "tfidf"
+  },
+  "25": {
+    "filename": "498.Mitigating False-Negative Contexts in Multi-document Question Answering with Retrieval Marginalization-Grobid-out.txt",
+    "title": "Mitigating False-Negative Contexts in Multi-document Question Answering with Retrieval Marginalization",
+    "score": 0.7083648803751131,
+    "method": "tfidf"
+  },
+  "26": {
+    "filename": "562.Generative Context Pair Selection for Multi-hop Question Answering-Grobid-out.txt",
+    "title": "Generative Context Pair Selection for Multi-hop Question Answering",
+    "score": 0.5791228302134868,
+    "method": "tfidf"
+  },
+  "27": {
+    "filename": "757.Distantly-Supervised Dense Retrieval Enables Open-Domain Question Answering without Evidence Annotation-Grobid-out.txt",
+    "title": "Distantly-Supervised Dense Retrieval Enables Open-Domain Question Answering without Evidence Annotation",
+    "score": 0.7109562014524531,
+    "method": "tfidf"
+  },
+  "28": {
+    "filename": "699.MLEC-QA A Chinese Multi-Choice Biomedical Question Answering Dataset-Grobid-out.txt",
+    "title": "MLEC-QA A Chinese Multi-Choice Biomedical Question Answering Dataset",
+    "score": 0.459744282275626,
+    "method": "tfidf"
+  },
+  "29": {
+    "filename": "40.ReTraCk A Flexible and Efficient Framework for Knowledge Base Question Answering-Grobid-out.txt",
+    "title": "ReTraCk A Flexible and Efficient Framework for Knowledge Base Question Answering",
+    "score": 0.4127217904046511,
+    "method": "tfidf"
+  },
+  "30": {
+    "filename": "302.A Neural Model for Joint Document and Snippet Ranking in Question Answering for Large Document Collections-Grobid-out.txt",
+    "title": "A Neural Model for Joint Document and Snippet Ranking in Question Answering for Large Document Collections",
+    "score": 0.8137794195934813,
+    "method": "tfidf"
+  },
+  "31": {
+    "filename": "566.Entity-Based Knowledge Conflicts in Question Answering-Grobid-out.txt",
+    "title": "Entity-Based Knowledge Conflicts in Question Answering",
+    "score": 0.4869387780334922,
+    "method": "tfidf"
+  },
+  "32": {
+    "filename": "190.Multimodal Phased Transformer for Sentiment Analysis-Grobid-out.txt",
+    "title": "Multimodal Phased Transformer for Sentiment Analysis",
+    "score": 0.6725812036786097,
+    "method": "tfidf"
+  },
+  "33": {
+    "filename": "34.Reinforcement Learning for Abstractive Question Summarization with Question-aware Semantic Rewards-Grobid-out.txt",
+    "title": "Reinforcement Learning for Abstractive Question Summarization with Question-aware Semantic Rewards",
+    "score": 0.5642974217758053,
+    "method": "tfidf"
+  },
+  "34": {
+    "filename": "347.Improving Query Graph Generation for Complex Question Answering over Knowledge Base-Grobid-out.txt",
+    "title": "Improving Query Graph Generation for Complex Question Answering over Knowledge Base",
+    "score": 0.67608654394187,
+    "method": "tfidf"
+  },
+  "35": {
+    "filename": "253.Joint Models for Answer Verification in Question Answering Systems-Grobid-out.txt",
+    "title": "Joint Models for Answer Verification in Question Answering Systems",
+    "score": 0.7309024784663763,
+    "method": "tfidf"
+  },
+  "36": {
+    "filename": "322.Improving Federated Learning for Aspect-based Sentiment Analysis via Topic Memories-Grobid-out.txt",
+    "title": "Improving Federated Learning for Aspect-based Sentiment Analysis via Topic Memories",
+    "score": 0.7774478361352665,
+    "method": "tfidf"
+  },
+  "37": {
+    "filename": "25.Reinforced Counterfactual Data Augmentation for Dual Sentiment Classification-Grobid-out.txt",
+    "title": "Reinforced Counterfactual Data Augmentation for Dual Sentiment Classification",
+    "score": 0.734439479652233,
+    "method": "tfidf"
+  },
+  "38": {
+    "filename": "563.Synthetic Data Augmentation for Zero-Shot Cross-Lingual Question Answering-Grobid-out.txt",
+    "title": "Synthetic Data Augmentation for Zero-Shot Cross-Lingual Question Answering",
+    "score": 0.5526408353306059,
+    "method": "tfidf"
+  },
+  "39": {
+    "filename": "695.Expanding End-to-End Question Answering on Differentiable Knowledge Graphs with Intersection-Grobid-out.txt",
+    "title": "Expanding End-to-End Question Answering on Differentiable Knowledge Graphs with Intersection",
+    "score": 0.6475817364794758,
+    "method": "tfidf"
+  },
+  "40": {
+    "filename": "203.Asking Questions Like Educational Experts Automatically Generating Question-Answer Pairs on Real-World Examination Data-Grobid-out.txt",
+    "title": "Asking Questions Like Educational Experts Automatically Generating Question-Answer Pairs on Real-World Examination Data",
+    "score": 0.6969884468746981,
+    "method": "tfidf"
+  },
+  "43": {
+    "filename": "305.Which Linguist Invented the Lightbulb Presupposition Verification for Question-Answering-Grobid-out.txt",
+    "title": "Which Linguist Invented the Lightbulb Presupposition Verification for Question-Answering",
+    "score": 0.55835788689586,
+    "method": "tfidf"
+  },
+  "44": {
+    "filename": "255.TAT-QA A Question Answering Benchmark on a Hybrid of Tabular and Textual Content in Finance-Grobid-out.txt",
+    "title": "TAT-QA A Question Answering Benchmark on a Hybrid of Tabular and Textual Content in Finance",
+    "score": 0.6287692517523452,
+    "method": "tfidf"
+  },
+  "45": {
+    "filename": "513.Discovering the Unknown Knowns Turning Implicit Knowledge in the Dataset into Explicit Training Examples for Visual Question Answering-Grobid-out.txt",
+    "title": "Discovering the Unknown Knowns Turning Implicit Knowledge in the Dataset into Explicit Training Examples for Visual Question Answering",
+    "score": 0.7947585708106476,
+    "method": "tfidf"
+  },
+  "46": {
+    "filename": "518.Weakly-Supervised Visual-Retriever-Reader for Knowledge-based Question Answering-Grobid-out.txt",
+    "title": "Weakly-Supervised Visual-Retriever-Reader for Knowledge-based Question Answering",
+    "score": 0.6635159947418938,
+    "method": "tfidf"
+  },
+  "47": {
+    "filename": "61.In Factuality Efficient Integration of Relevant Facts for Visual Question Answering-Grobid-out.txt",
+    "title": "In Factuality Efficient Integration of Relevant Facts for Visual Question Answering",
+    "score": 0.5093058249063934,
+    "method": "tfidf"
+  },
+  "48": {
+    "filename": "20.Beta Distribution Guided Aspect-aware Graph for Aspect Category Sentiment Analysis with Affective Knowledge-Grobid-out.txt",
+    "title": "Beta Distribution Guided Aspect-aware Graph for Aspect Category Sentiment Analysis with Affective Knowledge",
+    "score": 0.7762881966263879,
+    "method": "tfidf"
+  },
+  "49": {
+    "filename": "363.Semantics-Preserved Data Augmentation for Aspect-Based Sentiment Analysis-Grobid-out.txt",
+    "title": "Semantics-Preserved Data Augmentation for Aspect-Based Sentiment Analysis",
+    "score": 0.49249939799887094,
+    "method": "tfidf"
+  },
+  "50": {
+    "filename": "297.Large-Scale Relation Learning for Question Answering over Knowledge Bases with Pre-trained Language Models-Grobid-out.txt",
+    "title": "Large-Scale Relation Learning for Question Answering over Knowledge Bases with Pre-trained Language Models",
+    "score": 0.6408626663845044,
+    "method": "tfidf"
+  },
+  "51": {
+    "filename": "119.Challenges in Information-Seeking QA Unanswerable Questions and Paragraph Retrieval-Grobid-out.txt",
+    "title": "Challenges in Information-Seeking QA Unanswerable Questions and Paragraph Retrieval",
+    "score": 0.46720606251329955,
+    "method": "tfidf"
+  },
+  "52": {
+    "filename": "89.Question Generation for Adaptive Education-Grobid-out.txt",
+    "title": "Question Generation for Adaptive Education",
+    "score": 0.8304185849633392,
+    "method": "tfidf"
+  },
+  "53": {
+    "filename": "417.Generating Self-Contained and Summary-Centric Question Answer Pairs via Differentiable Reward Imitation Learning-Grobid-out.txt",
+    "title": "Generating Self-Contained and Summary-Centric Question Answer Pairs via Differentiable Reward Imitation Learning",
+    "score": 0.688629143977754,
+    "method": "tfidf"
+  },
+  "54": {
+    "filename": "696.Structured Context and High-Coverage Grammar for Conversational Question Answering over Knowledge Graphs-Grobid-out.txt",
+    "title": "Structured Context and High-Coverage Grammar for Conversational Question Answering over Knowledge Graphs",
+    "score": 0.5750476578360627,
+    "method": "tfidf"
+  },
+  "55": {
+    "filename": "725.BERT4GCN Using BERT Intermediate Layers to Augment GCN for Aspect-based Sentiment Classification-Grobid-out.txt",
+    "title": "BERT4GCN Using BERT Intermediate Layers to Augment GCN for Aspect-based Sentiment Classification",
+    "score": 0.6716095213136063,
+    "method": "tfidf"
+  },
+  "56": {
+    "filename": null,
+    "title": null,
+    "score": 0.4978981614112854,
+    "method": "manual"
+  },
+  "57": {
+    "filename": "510.Open Aspect Target Sentiment Classification with Natural Language Prompts-Grobid-out.txt",
+    "title": "Open Aspect Target Sentiment Classification with Natural Language Prompts",
+    "score": 0.620380041421321,
+    "method": "tfidf"
+  },
+  "58": {
+    "filename": "240.Few-Shot Question Answering by Pretraining Span Selection-Grobid-out.txt",
+    "title": "Few-Shot Question Answering by Pretraining Span Selection",
+    "score": 0.5668468195740749,
+    "method": "tfidf"
+  },
+  "59": {
+    "filename": "4.Engage the Public Poll Question Generation for Social Media Posts-Grobid-out.txt",
+    "title": "Engage the Public Poll Question Generation for Social Media Posts",
+    "score": 0.5320295243977128,
+    "method": "tfidf"
+  },
+  "60": {
+    "filename": "319.Seeking Common but Distinguishing Difference, A Joint Aspect-based Sentiment Analysis Model-Grobid-out.txt",
+    "title": "Seeking Common but Distinguishing Difference, A Joint Aspect-based Sentiment Analysis Model",
+    "score": 0.5909175808688371,
+    "method": "tfidf"
+  },
+  "61": {
+    "filename": "254.Answering Ambiguous Questions through Generative Evidence Fusion and Round-Trip Prediction-Grobid-out.txt",
+    "title": "Answering Ambiguous Questions through Generative Evidence Fusion and Round-Trip Prediction",
+    "score": 0.5861249948557559,
+    "method": "tfidf"
+  },
+  "62": {
+    "filename": "364.The Effect of Round-Trip Translation on Fairness in Sentiment Analysis-Grobid-out.txt",
+    "title": "The Effect of Round-Trip Translation on Fairness in Sentiment Analysis",
+    "score": 0.8448877149671685,
+    "method": "tfidf"
+  },
+  "63": {
+    "filename": "36.Neural Retrieval for Question Answering with Cross-Attention Supervised Data Augmentation-Grobid-out.txt",
+    "title": "Neural Retrieval for Question Answering with Cross-Attention Supervised Data Augmentation",
+    "score": 0.7414478059470314,
+    "method": "tfidf"
+  },
+  "64": {
+    "filename": "439.Learning to Ask Conversational Questions by Optimizing Levenshtein Distance-Grobid-out.txt",
+    "title": "Learning to Ask Conversational Questions by Optimizing Levenshtein Distance",
+    "score": 0.6410046585108119,
+    "method": "tfidf"
+  },
+  "65": {
+    "filename": "256.Modeling Transitions of Focal Entities for Conversational Knowledge Base Question Answering-Grobid-out.txt",
+    "title": "Modeling Transitions of Focal Entities for Conversational Knowledge Base Question Answering",
+    "score": 0.6805428315643764,
+    "method": "tfidf"
+  },
+  "66": {
+    "filename": "202.Iterative GNN-based Decoder for Question Generation-Grobid-out.txt",
+    "title": "Iterative GNN-based Decoder for Question Generation",
+    "score": 0.6930009387444805,
+    "method": "tfidf"
+  },
+  "67": {
+    "filename": "496.Single-dataset Experts for Multi-dataset Question Answering-Grobid-out.txt",
+    "title": "Single-dataset Experts for Multi-dataset Question Answering",
+    "score": 0.6813108667665912,
+    "method": "tfidf"
+  },
+  "68": {
+    "filename": "318.Check It AgainProgressive Visual Question Answering via Visual Entailment-Grobid-out.txt",
+    "title": "Check It AgainProgressive Visual Question Answering via Visual Entailment",
+    "score": 0.7035178905799065,
+    "method": "tfidf"
+  },
+  "69": {
+    "filename": "238.A Semantic-based Method for Unsupervised Commonsense Question Answering-Grobid-out.txt",
+    "title": "A Semantic-based Method for Unsupervised Commonsense Question Answering",
+    "score": 0.6762686051864752,
+    "method": "tfidf"
+  },
+  "70": {
+    "filename": "466.Guiding the Growth Difficulty-Controllable Question Generation through Step-by-Step Rewriting-Grobid-out.txt",
+    "title": "Guiding the Growth Difficulty-Controllable Question Generation through Step-by-Step Rewriting",
+    "score": 0.6389232747396676,
+    "method": "tfidf"
+  },
+  "71": {
+    "filename": "620.Q2 Evaluating Factual Consistency in Knowledge-Grounded Dialogues via Question Generation and Question Answering-Grobid-out.txt",
+    "title": "Q2 Evaluating Factual Consistency in Knowledge-Grounded Dialogues via Question Generation and Question Answering",
+    "score": 0.44079561033520653,
+    "method": "tfidf"
+  },
+  "72": {
+    "filename": "732.PASTE A Tagging-Free Decoding Framework Using Pointer Networks for Aspect Sentiment Triplet Extraction-Grobid-out.txt",
+    "title": "PASTE A Tagging-Free Decoding Framework Using Pointer Networks for Aspect Sentiment Triplet Extraction",
+    "score": 0.5590305207587637,
+    "method": "tfidf"
+  },
+  "73": {
+    "filename": null,
+    "title": null,
+    "score": 0.5068714022636414,
+    "method": "manual"
+  },
+  "74": {
+    "filename": "342.TransferNet An Effective and Transparent Framework for Multi-hop Question Answering over Relation Graph-Grobid-out.txt",
+    "title": "TransferNet An Effective and Transparent Framework for Multi-hop Question Answering over Relation Graph",
+    "score": 0.712507837308639,
+    "method": "tfidf"
+  },
+  "75": {
+    "filename": "58.Training Adaptive Computation for Open-Domain Question Answering with Computational Constraints-Grobid-out.txt",
+    "title": "Training Adaptive Computation for Open-Domain Question Answering with Computational Constraints",
+    "score": 0.7437634013432086,
+    "method": "tfidf"
+  },
+  "76": {
+    "filename": "479.Learn to Resolve Conversational Dependency A Consistency Training Framework for Conversational Question Answering-Grobid-out.txt",
+    "title": "Learn to Resolve Conversational Dependency A Consistency Training Framework for Conversational Question Answering",
+    "score": 0.6353852921193113,
+    "method": "tfidf"
+  },
+  "77": {
+    "filename": "35.A Semantics-aware Transformer Model of Relation Linking for Knowledge Base Question Answering-Grobid-out.txt",
+    "title": "A Semantics-aware Transformer Model of Relation Linking for Knowledge Base Question Answering",
+    "score": 0.7915811882837998,
+    "method": "tfidf"
+  },
+  "78": {
+    "filename": "126.UIT-E10dot3 at SemEval-2021 Task 5 Toxic Spans Detection with Named Entity Recognition and Question-Answering Approaches-Grobid-out.txt",
+    "title": "UIT-E10dot3 at SemEval-2021 Task 5 Toxic Spans Detection with Named Entity Recognition and Question-Answering Approaches",
+    "score": 0.3294922848873862,
+    "method": "tfidf"
+  },
+  "79": {
+    "filename": "316.Dual Reader-Parser on Hybrid Textual and Tabular Evidence for Open Domain Question Answering-Grobid-out.txt",
+    "title": "Dual Reader-Parser on Hybrid Textual and Tabular Evidence for Open Domain Question Answering",
+    "score": 0.7802015910584617,
+    "method": "tfidf"
+  },
+  "80": {
+    "filename": "25.CLTR An End-to-End, Transformer-Based System for Cell-Level Table Retrieval and Table Question Answering-Grobid-out.txt",
+    "title": "CLTR An End-to-End, Transformer-Based System for Cell-Level Table Retrieval and Table Question Answering",
+    "score": 0.695602447123971,
+    "method": "tfidf"
+  },
+  "81": {
+    "filename": "551.CLASSIC Continual and Contrastive Learning of Aspect Sentiment Classification Tasks-Grobid-out.txt",
+    "title": "CLASSIC Continual and Contrastive Learning of Aspect Sentiment Classification Tasks",
+    "score": 0.6649628666908083,
+    "method": "tfidf"
+  },
+  "82": {
+    "filename": "22.Improving the Robustness of QA Models to Challenge Sets with Variational Question-Answer Pair Generation-Grobid-out.txt",
+    "title": "Improving the Robustness of QA Models to Challenge Sets with Variational Question-Answer Pair Generation",
+    "score": 0.4762455507868439,
+    "method": "tfidf"
+  },
+  "83": {
+    "filename": "299.Neural Natural Logic Inference for Interpretable Question Answering-Grobid-out.txt",
+    "title": "Neural Natural Logic Inference for Interpretable Question Answering",
+    "score": 0.6039241741648527,
+    "method": "tfidf"
+  },
+  "84": {
+    "filename": "319.A Mutual Information Maximization Approach for the Spurious Solution Problem in Weakly Supervised Question Answering-Grobid-out.txt",
+    "title": "A Mutual Information Maximization Approach for the Spurious Solution Problem in Weakly Supervised Question Answering",
+    "score": 0.5980813873700678,
+    "method": "tfidf"
+  },
+  "85": {
+    "filename": "722.YASO A Targeted Sentiment Analysis Evaluation Dataset for Open-Domain Reviews-Grobid-out.txt",
+    "title": "YASO A Targeted Sentiment Analysis Evaluation Dataset for Open-Domain Reviews",
+    "score": 0.31255680340704545,
+    "method": "tfidf"
+  },
+  "86": {
+    "filename": "272.GTM A Generative Triple-wise Model for Conversational Question Generation-Grobid-out.txt",
+    "title": "GTM A Generative Triple-wise Model for Conversational Question Generation",
+    "score": 0.6014862700999785,
+    "method": "tfidf"
+  },
+  "87": {
+    "filename": "679.Cross-Policy Compliance Detection via Question Answering-Grobid-out.txt",
+    "title": "Cross-Policy Compliance Detection via Question Answering",
+    "score": 0.48756036639503936,
+    "method": "tfidf"
+  }
+}

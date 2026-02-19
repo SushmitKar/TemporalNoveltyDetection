@@ -1,0 +1,1334 @@
+{
+  "0": {
+    "filename": "38.Scene Graph Parsing as Dependency Parsing-Grobid-out.txt",
+    "title": "Scene Graph Parsing as Dependency Parsing",
+    "score": 0.5344248925304377,
+    "method": "tfidf"
+  },
+  "1": {
+    "filename": "90.Transition-based Parsing with Stack-Transformers-Grobid-out.txt",
+    "title": "Transition-based Parsing with Stack-Transformers",
+    "score": 0.5725843769563249,
+    "method": "tfidf"
+  },
+  "2": {
+    "filename": "17.Peking at MRP 2019 Factorization- and Composition-Based Parsing for Elementary Dependency Structures-Grobid-out.txt",
+    "title": "Peking at MRP 2019 Factorization- and Composition-Based Parsing for Elementary Dependency Structures",
+    "score": 0.40316702417789274,
+    "method": "tfidf"
+  },
+  "3": {
+    "filename": "55.Vine Pruning for Efficient Multi-Pass Dependency Parsing-Grobid-out.txt",
+    "title": "Vine Pruning for Efficient Multi-Pass Dependency Parsing",
+    "score": 0.5751651480604291,
+    "method": "tfidf"
+  },
+  "4": {
+    "filename": "250.Constituency Parsing with a Self-Attentive Encoder-Grobid-out.txt",
+    "title": "Constituency Parsing with a Self-Attentive Encoder",
+    "score": 0.5737900917734119,
+    "method": "tfidf"
+  },
+  "5": {
+    "filename": "255.Transition-Based Dependency Parsing with Heuristic Backtracking-Grobid-out.txt",
+    "title": "Transition-Based Dependency Parsing with Heuristic Backtracking",
+    "score": 0.7778523209628051,
+    "method": "tfidf"
+  },
+  "6": {
+    "filename": "289.Pushing the Limits of AMR Parsing with Self-Learning-Grobid-out.txt",
+    "title": "Pushing the Limits of AMR Parsing with Self-Learning",
+    "score": 0.7017560813114108,
+    "method": "tfidf"
+  },
+  "7": {
+    "filename": "182.LSTM Shift-Reduce CCG Parsing-Grobid-out.txt",
+    "title": "LSTM Shift-Reduce CCG Parsing",
+    "score": 0.6633897746132105,
+    "method": "tfidf"
+  },
+  "8": {
+    "filename": "226.Improving Compositional Generalization in Semantic Parsing-Grobid-out.txt",
+    "title": "Improving Compositional Generalization in Semantic Parsing",
+    "score": 0.672647112110213,
+    "method": "tfidf"
+  },
+  "9": {
+    "filename": "184.UofR at SemEval-2016 Task 8 Learning Synchronous Hyperedge Replacement Grammar for AMR Parsing-Grobid-out.txt",
+    "title": "UofR at SemEval-2016 Task 8 Learning Synchronous Hyperedge Replacement Grammar for AMR Parsing",
+    "score": 0.5615385045895029,
+    "method": "tfidf"
+  },
+  "10": {
+    "filename": "16.The SLT-Interactions Parsing System at the CoNLL 2018 Shared Task-Grobid-out.txt",
+    "title": "The SLT-Interactions Parsing System at the CoNLL 2018 Shared Task",
+    "score": 0.6747144100568963,
+    "method": "tfidf"
+  },
+  "11": {
+    "filename": "408.Conversational Semantic Parsing-Grobid-out.txt",
+    "title": "Conversational Semantic Parsing",
+    "score": 0.6569064674083805,
+    "method": "tfidf"
+  },
+  "12": {
+    "filename": "3.Joint Evaluation of Morphological Segmentation and Syntactic Parsing-Grobid-out.txt",
+    "title": "Joint Evaluation of Morphological Segmentation and Syntactic Parsing",
+    "score": 0.3067357600742495,
+    "method": "tfidf"
+  },
+  "13": {
+    "filename": "266.Cross-Lingual Dependency Parsing by POS-Guided Word Reordering-Grobid-out.txt",
+    "title": "Cross-Lingual Dependency Parsing by POS-Guided Word Reordering",
+    "score": 0.7098365027209101,
+    "method": "tfidf"
+  },
+  "14": {
+    "filename": "37.Evaluating Dependency Parsing Robust and Heuristics-Free Cross-Annotation Evaluation-Grobid-out.txt",
+    "title": "Evaluating Dependency Parsing Robust and Heuristics-Free Cross-Annotation Evaluation",
+    "score": 0.6705708503723145,
+    "method": "semantic"
+  },
+  "15": {
+    "filename": null,
+    "title": null,
+    "score": 0.5739487409591675,
+    "method": "manual"
+  },
+  "16": {
+    "filename": "66.Rethinking Self-Attention Towards Interpretability in Neural Parsing-Grobid-out.txt",
+    "title": "Rethinking Self-Attention Towards Interpretability in Neural Parsing",
+    "score": 0.5261638948251314,
+    "method": "tfidf"
+  },
+  "17": {
+    "filename": null,
+    "title": null,
+    "score": 0.1939423382282257,
+    "method": "manual"
+  },
+  "18": {
+    "filename": "19.Arc-swift A Novel Transition System for Dependency Parsing-Grobid-out.txt",
+    "title": "Arc-swift A Novel Transition System for Dependency Parsing",
+    "score": 0.7945433327314171,
+    "method": "tfidf"
+  },
+  "19": {
+    "filename": null,
+    "title": null,
+    "score": 0.6295780539512634,
+    "method": "manual"
+  },
+  "20": {
+    "filename": "21.Easy-First POS Tagging and Dependency Parsing with Beam Search-Grobid-out.txt",
+    "title": "Easy-First POS Tagging and Dependency Parsing with Beam Search",
+    "score": 0.5450825080025936,
+    "method": "tfidf"
+  },
+  "21": {
+    "filename": "689.Exploring Contextualized Neural Language Models for Temporal Dependency Parsing-Grobid-out.txt",
+    "title": "Exploring Contextualized Neural Language Models for Temporal Dependency Parsing",
+    "score": 0.641727319418913,
+    "method": "tfidf"
+  },
+  "22": {
+    "filename": "16.A non-DNN Feature Engineering Approach to Dependency Parsing \u2013 FBAML at CoNLL 2017 Shared Task-Grobid-out.txt",
+    "title": "A non-DNN Feature Engineering Approach to Dependency Parsing \u2013 FBAML at CoNLL 2017 Shared Task",
+    "score": 0.48928547069063083,
+    "method": "tfidf"
+  },
+  "23": {
+    "filename": "558.Grounded Adaptation for Zero-shot Executable Semantic Parsing-Grobid-out.txt",
+    "title": "Grounded Adaptation for Zero-shot Executable Semantic Parsing",
+    "score": 0.673769130842592,
+    "method": "tfidf"
+  },
+  "24": {
+    "filename": "39.UCM-2 a Rule-Based Approach to Infer the Scope of Negation via Dependency Parsing-Grobid-out.txt",
+    "title": "UCM-2 a Rule-Based Approach to Infer the Scope of Negation via Dependency Parsing",
+    "score": 0.3626693430233705,
+    "method": "tfidf"
+  },
+  "25": {
+    "filename": "10.JBNU at MRP 2019 Multi-level Biaffine Attention for Semantic Dependency Parsing-Grobid-out.txt",
+    "title": "JBNU at MRP 2019 Multi-level Biaffine Attention for Semantic Dependency Parsing",
+    "score": 0.7944226210394527,
+    "method": "tfidf"
+  },
+  "26": {
+    "filename": "439.Bridging Textual and Tabular Data for Cross-Domain Text-to-SQL Semantic Parsing-Grobid-out.txt",
+    "title": "Bridging Textual and Tabular Data for Cross-Domain Text-to-SQL Semantic Parsing",
+    "score": 0.7010642506549676,
+    "method": "tfidf"
+  },
+  "27": {
+    "filename": "22.Universal Morpho-Syntactic Parsing and the Contribution of Lexica Analyzing the ONLP Lab Submission to the CoNLL 2018 Shared Task-Grobid-out.txt",
+    "title": "Universal Morpho-Syntactic Parsing and the Contribution of Lexica Analyzing the ONLP Lab Submission to the CoNLL 2018 Shared Task",
+    "score": 0.3886845647930135,
+    "method": "tfidf"
+  },
+  "28": {
+    "filename": "226.Joint Syntacto-Discourse Parsing and the Syntacto-Discourse Treebank-Grobid-out.txt",
+    "title": "Joint Syntacto-Discourse Parsing and the Syntacto-Discourse Treebank",
+    "score": 0.7412212732405161,
+    "method": "tfidf"
+  },
+  "29": {
+    "filename": "53.Integrated Learning of Dialog Strategies and Semantic Parsing-Grobid-out.txt",
+    "title": "Integrated Learning of Dialog Strategies and Semantic Parsing",
+    "score": 0.6898818375212497,
+    "method": "tfidf"
+  },
+  "30": {
+    "filename": "12.Hitachi at MRP 2019 Unified Encoder-to-Biaffine Network for Cross-Framework Meaning Representation Parsing-Grobid-out.txt",
+    "title": "Hitachi at MRP 2019 Unified Encoder-to-Biaffine Network for Cross-Framework Meaning Representation Parsing",
+    "score": 0.32282621965276254,
+    "method": "tfidf"
+  },
+  "31": {
+    "filename": "36.Addressing the Data Sparsity Issue in Neural AMR Parsing-Grobid-out.txt",
+    "title": "Addressing the Data Sparsity Issue in Neural AMR Parsing",
+    "score": 0.44640746797834036,
+    "method": "tfidf"
+  },
+  "32": {
+    "filename": "393.Unsupervised Parsing with S-DIORA Single Tree Encoding for Deep Inside-Outside Recursive Autoencoders-Grobid-out.txt",
+    "title": "Unsupervised Parsing with S-DIORA Single Tree Encoding for Deep Inside-Outside Recursive Autoencoders",
+    "score": 0.8934243745640243,
+    "method": "tfidf"
+  },
+  "33": {
+    "filename": null,
+    "title": null,
+    "score": 0.4951867163181305,
+    "method": "manual"
+  },
+  "34": {
+    "filename": "12.Optimistic Backtracking - A Backtracking Overlay for Deterministic Incremental Parsing-Grobid-out.txt",
+    "title": "Optimistic Backtracking - A Backtracking Overlay for Deterministic Incremental Parsing",
+    "score": 0.5035952181320543,
+    "method": "tfidf"
+  },
+  "35": {
+    "filename": "107.On WordNet Semantic Classes and Dependency Parsing-Grobid-out.txt",
+    "title": "On WordNet Semantic Classes and Dependency Parsing",
+    "score": 0.6542130550771837,
+    "method": "tfidf"
+  },
+  "36": {
+    "filename": "263.Global Neural CCG Parsing with Optimality Guarantees-Grobid-out.txt",
+    "title": "Global Neural CCG Parsing with Optimality Guarantees",
+    "score": 0.572116918323002,
+    "method": "tfidf"
+  },
+  "37": {
+    "filename": "5.Turbo Parsers Dependency Parsing by Approximate Variational Inference-Grobid-out.txt",
+    "title": "Turbo Parsers Dependency Parsing by Approximate Variational Inference",
+    "score": 0.30567179224037144,
+    "method": "tfidf"
+  },
+  "38": {
+    "filename": "249.Global Transition-based Non-projective Dependency Parsing-Grobid-out.txt",
+    "title": "Global Transition-based Non-projective Dependency Parsing",
+    "score": 0.734350055301324,
+    "method": "tfidf"
+  },
+  "39": {
+    "filename": "35.Semantic Parsing with Syntax- and Table-Aware SQL Generation-Grobid-out.txt",
+    "title": "Semantic Parsing with Syntax- and Table-Aware SQL Generation",
+    "score": 0.5857586865090243,
+    "method": "tfidf"
+  },
+  "40": {
+    "filename": null,
+    "title": null,
+    "score": 0.4562884271144867,
+    "method": "manual"
+  },
+  "41": {
+    "filename": "184.Neural Shift-Reduce CCG Semantic Parsing-Grobid-out.txt",
+    "title": "Neural Shift-Reduce CCG Semantic Parsing",
+    "score": 0.37847140860661277,
+    "method": "tfidf"
+  },
+  "42": {
+    "filename": "69.Coarse-to-Fine Decoding for Neural Semantic Parsing-Grobid-out.txt",
+    "title": "Coarse-to-Fine Decoding for Neural Semantic Parsing",
+    "score": 0.6681521684410555,
+    "method": "tfidf"
+  },
+  "43": {
+    "filename": null,
+    "title": null,
+    "score": 0.5049985647201538,
+    "method": "manual"
+  },
+  "44": {
+    "filename": "69.English Multiword Expression-aware Dependency Parsing Including Named Entities-Grobid-out.txt",
+    "title": "English Multiword Expression-aware Dependency Parsing Including Named Entities",
+    "score": 0.59687630332318,
+    "method": "tfidf"
+  },
+  "45": {
+    "filename": "614.On the Role of Supervision in Unsupervised Constituency Parsing-Grobid-out.txt",
+    "title": "On the Role of Supervision in Unsupervised Constituency Parsing",
+    "score": 0.46539483367283496,
+    "method": "tfidf"
+  },
+  "46": {
+    "filename": "21.A Transition-based System for Universal Dependency Parsing-Grobid-out.txt",
+    "title": "A Transition-based System for Universal Dependency Parsing",
+    "score": 0.7556788325309753,
+    "method": "semantic"
+  },
+  "47": {
+    "filename": null,
+    "title": null,
+    "score": 0.5881803631782532,
+    "method": "manual"
+  },
+  "48": {
+    "filename": "188.IHS-RD-Belarus at SemEval-2016 Task 9 Transition-based Chinese Semantic Dependency Parsing with Online Reordering and Bootstrapping.-Grobid-out.txt",
+    "title": "IHS-RD-Belarus at SemEval-2016 Task 9 Transition-based Chinese Semantic Dependency Parsing with Online Reordering and Bootstrapping.",
+    "score": 0.3697778498691161,
+    "method": "tfidf"
+  },
+  "49": {
+    "filename": "68.Multiword Expression Identification with Tree Substitution Grammars A Parsing tour de force with French-Grobid-out.txt",
+    "title": "Multiword Expression Identification with Tree Substitution Grammars A Parsing tour de force with French",
+    "score": 0.3869710030321383,
+    "method": "tfidf"
+  },
+  "50": {
+    "filename": "202.Service-oriented Text-to-SQL Parsing-Grobid-out.txt",
+    "title": "Service-oriented Text-to-SQL Parsing",
+    "score": 0.35596598230215887,
+    "method": "tfidf"
+  },
+  "51": {
+    "filename": "577.An Unsupervised Joint System for Text Generation from Knowledge Graphs and Semantic Parsing-Grobid-out.txt",
+    "title": "An Unsupervised Joint System for Text Generation from Knowledge Graphs and Semantic Parsing",
+    "score": 0.7314024131046016,
+    "method": "tfidf"
+  },
+  "52": {
+    "filename": "53.Approximate PCFG Parsing Using Tensor Decomposition-Grobid-out.txt",
+    "title": "Approximate PCFG Parsing Using Tensor Decomposition",
+    "score": 0.6376316644121861,
+    "method": "tfidf"
+  },
+  "53": {
+    "filename": "83.Leveraging Domain-Independent Information in Semantic Parsing-Grobid-out.txt",
+    "title": "Leveraging Domain-Independent Information in Semantic Parsing",
+    "score": 0.616804466715498,
+    "method": "tfidf"
+  },
+  "54": {
+    "filename": null,
+    "title": null,
+    "score": 0.6657978296279907,
+    "method": "manual"
+  },
+  "55": {
+    "filename": null,
+    "title": null,
+    "score": 0.22628472745418549,
+    "method": "manual"
+  },
+  "56": {
+    "filename": "20.Joint Inference for Heterogeneous Dependency Parsing-Grobid-out.txt",
+    "title": "Joint Inference for Heterogeneous Dependency Parsing",
+    "score": 0.6412941711025537,
+    "method": "tfidf"
+  },
+  "57": {
+    "filename": "8.Neural Architectures for Multilingual Semantic Parsing-Grobid-out.txt",
+    "title": "Neural Architectures for Multilingual Semantic Parsing",
+    "score": 0.5530191967352823,
+    "method": "tfidf"
+  },
+  "59": {
+    "filename": "69.Effective Greedy Inference for Graph-based Non-Projective Dependency Parsing-Grobid-out.txt",
+    "title": "Effective Greedy Inference for Graph-based Non-Projective Dependency Parsing",
+    "score": 0.5873595560306188,
+    "method": "tfidf"
+  },
+  "60": {
+    "filename": "63.An Exploration of Forest-to-String Translation Does Translation Help or Hurt Parsing-Grobid-out.txt",
+    "title": "An Exploration of Forest-to-String Translation Does Translation Help or Hurt Parsing",
+    "score": 0.46780696803805516,
+    "method": "tfidf"
+  },
+  "61": {
+    "filename": "49.Efficient Disfluency Detection with Transition-based Parsing-Grobid-out.txt",
+    "title": "Efficient Disfluency Detection with Transition-based Parsing",
+    "score": 0.7233687215986407,
+    "method": "tfidf"
+  },
+  "62": {
+    "filename": null,
+    "title": null,
+    "score": 0.44167715311050415,
+    "method": "manual"
+  },
+  "63": {
+    "filename": "6.The HIT-SCIR System for End-to-End Parsing of Universal Dependencies-Grobid-out.txt",
+    "title": "The HIT-SCIR System for End-to-End Parsing of Universal Dependencies",
+    "score": 0.5468012556390368,
+    "method": "tfidf"
+  },
+  "64": {
+    "filename": "424.Compressing Transformer-Based Semantic Parsing Models using Compositional Code Embeddings-Grobid-out.txt",
+    "title": "Compressing Transformer-Based Semantic Parsing Models using Compositional Code Embeddings",
+    "score": 0.6983901307066088,
+    "method": "tfidf"
+  },
+  "65": {
+    "filename": "9.Parsing with Context Embeddings-Grobid-out.txt",
+    "title": "Parsing with Context Embeddings",
+    "score": 0.5232094331914262,
+    "method": "tfidf"
+  },
+  "66": {
+    "filename": "89.Parsing Tweets into Universal Dependencies-Grobid-out.txt",
+    "title": "Parsing Tweets into Universal Dependencies",
+    "score": 0.4034410586688643,
+    "method": "tfidf"
+  },
+  "67": {
+    "filename": "111.Feature Optimization for Constituent Parsing via Neural Networks-Grobid-out.txt",
+    "title": "Feature Optimization for Constituent Parsing via Neural Networks",
+    "score": 0.671958594501176,
+    "method": "tfidf"
+  },
+  "68": {
+    "filename": "108.End-to-End Graph-Based TAG Parsing with Neural Networks-Grobid-out.txt",
+    "title": "End-to-End Graph-Based TAG Parsing with Neural Networks",
+    "score": 0.5397713915867812,
+    "method": "tfidf"
+  },
+  "69": {
+    "filename": "70.Uptraining for Accurate Deterministic Question Parsing-Grobid-out.txt",
+    "title": "Uptraining for Accurate Deterministic Question Parsing",
+    "score": 0.5034932755561997,
+    "method": "tfidf"
+  },
+  "70": {
+    "filename": "389.Keep it Surprisingly Simple A Simple First Order Graph Based Parsing Model for Joint Morphosyntactic Parsing in Sanskrit-Grobid-out.txt",
+    "title": "Keep it Surprisingly Simple A Simple First Order Graph Based Parsing Model for Joint Morphosyntactic Parsing in Sanskrit",
+    "score": 0.8573210362633903,
+    "method": "tfidf"
+  },
+  "71": {
+    "filename": "33.Getting More from Morphology in Multilingual Dependency Parsing-Grobid-out.txt",
+    "title": "Getting More from Morphology in Multilingual Dependency Parsing",
+    "score": 0.4900824024595222,
+    "method": "tfidf"
+  },
+  "72": {
+    "filename": "4.Combining Global Models for Parsing Universal Dependencies-Grobid-out.txt",
+    "title": "Combining Global Models for Parsing Universal Dependencies",
+    "score": 0.6221151306045,
+    "method": "tfidf"
+  },
+  "73": {
+    "filename": "192.Large-Scale QA-SRL Parsing-Grobid-out.txt",
+    "title": "Large-Scale QA-SRL Parsing",
+    "score": 0.48702037599388714,
+    "method": "tfidf"
+  },
+  "74": {
+    "filename": "24.Initial Explorations of CCG Supertagging for Universal Dependency Parsing-Grobid-out.txt",
+    "title": "Initial Explorations of CCG Supertagging for Universal Dependency Parsing",
+    "score": 0.5387221700993358,
+    "method": "tfidf"
+  },
+  "75": {
+    "filename": "10.Tokenizing, POS Tagging, Lemmatizing and Parsing UD 2.0 with UDPipe-Grobid-out.txt",
+    "title": "Tokenizing, POS Tagging, Lemmatizing and Parsing UD 2.0 with UDPipe",
+    "score": 0.7353484630584717,
+    "method": "semantic"
+  },
+  "76": {
+    "filename": "22.Approximate Dynamic Oracle for Dependency Parsing with Reinforcement Learning-Grobid-out.txt",
+    "title": "Approximate Dynamic Oracle for Dependency Parsing with Reinforcement Learning",
+    "score": 0.5846309990707184,
+    "method": "tfidf"
+  },
+  "77": {
+    "filename": "14.Amazon at MRP 2019 Parsing Meaning Representations with Lexical and Phrasal Anchoring-Grobid-out.txt",
+    "title": "Amazon at MRP 2019 Parsing Meaning Representations with Lexical and Phrasal Anchoring",
+    "score": 0.5253537669796298,
+    "method": "tfidf"
+  },
+  "78": {
+    "filename": "178.Combining Generative and Discriminative Approaches to Unsupervised Dependency Parsing via Dual Decomposition-Grobid-out.txt",
+    "title": "Combining Generative and Discriminative Approaches to Unsupervised Dependency Parsing via Dual Decomposition",
+    "score": 0.7452832231089713,
+    "method": "tfidf"
+  },
+  "79": {
+    "filename": "32.An Effective Neural Network Model for Graph-based Dependency Parsing-Grobid-out.txt",
+    "title": "An Effective Neural Network Model for Graph-based Dependency Parsing",
+    "score": 0.5977018489717449,
+    "method": "tfidf"
+  },
+  "80": {
+    "filename": "219.Parsing Gapping Constructions Based on Grammatical and Semantic Roles-Grobid-out.txt",
+    "title": "Parsing Gapping Constructions Based on Grammatical and Semantic Roles",
+    "score": 0.30515908339502684,
+    "method": "tfidf"
+  },
+  "81": {
+    "filename": "181.UDapter Language Adaptation for Truly Universal Dependency Parsing-Grobid-out.txt",
+    "title": "UDapter Language Adaptation for Truly Universal Dependency Parsing",
+    "score": 0.8322730073804058,
+    "method": "tfidf"
+  },
+  "82": {
+    "filename": null,
+    "title": null,
+    "score": 0.5711284279823303,
+    "method": "manual"
+  },
+  "83": {
+    "filename": "93.Online Back-Parsing for AMR-to-Text Generation-Grobid-out.txt",
+    "title": "Online Back-Parsing for AMR-to-Text Generation",
+    "score": 0.6696656043308771,
+    "method": "tfidf"
+  },
+  "84": {
+    "filename": "112.Identifying Cascading Errors using Constraints in Dependency Parsing-Grobid-out.txt",
+    "title": "Identifying Cascading Errors using Constraints in Dependency Parsing",
+    "score": 0.696321710884694,
+    "method": "tfidf"
+  },
+  "85": {
+    "filename": "17.Semantic Parsing to Probabilistic Programs for Situated Question Answering-Grobid-out.txt",
+    "title": "Semantic Parsing to Probabilistic Programs for Situated Question Answering",
+    "score": 0.42655099611505204,
+    "method": "tfidf"
+  },
+  "86": {
+    "filename": "17.Universal Dependency Parsing from Scratch-Grobid-out.txt",
+    "title": "Universal Dependency Parsing from Scratch",
+    "score": 0.5519515683235232,
+    "method": "tfidf"
+  },
+  "87": {
+    "filename": "68.Improved Fully Unsupervised Parsing with Zoomed Learning-Grobid-out.txt",
+    "title": "Improved Fully Unsupervised Parsing with Zoomed Learning",
+    "score": 0.675255912817825,
+    "method": "tfidf"
+  },
+  "88": {
+    "filename": "8.Parsing Speech a Neural Approach to Integrating Lexical and Acoustic-Prosodic Information-Grobid-out.txt",
+    "title": "Parsing Speech a Neural Approach to Integrating Lexical and Acoustic-Prosodic Information",
+    "score": 0.5702128382909141,
+    "method": "tfidf"
+  },
+  "89": {
+    "filename": "14.Effects of Noun Phrase Bracketing in Dependency Parsing and Machine Translation-Grobid-out.txt",
+    "title": "Effects of Noun Phrase Bracketing in Dependency Parsing and Machine Translation",
+    "score": 0.6155627598475919,
+    "method": "tfidf"
+  },
+  "90": {
+    "filename": "226.Joint Syntacto-Discourse Parsing and the Syntacto-Discourse Treebank-Grobid-out.txt",
+    "title": "Joint Syntacto-Discourse Parsing and the Syntacto-Discourse Treebank",
+    "score": 0.560949041241918,
+    "method": "tfidf"
+  },
+  "91": {
+    "filename": "2.Higher-order Constituent Parsing and Parser Combination-Grobid-out.txt",
+    "title": "Higher-order Constituent Parsing and Parser Combination",
+    "score": 0.3291449898673927,
+    "method": "tfidf"
+  },
+  "92": {
+    "filename": "181.TAG Parsing with Neural Networks and Vector Representations of Supertags-Grobid-out.txt",
+    "title": "TAG Parsing with Neural Networks and Vector Representations of Supertags",
+    "score": 0.5253008099995783,
+    "method": "tfidf"
+  },
+  "93": {
+    "filename": "20.Transition-based Parsing with Lighter Feed-Forward Networks-Grobid-out.txt",
+    "title": "Transition-based Parsing with Lighter Feed-Forward Networks",
+    "score": 0.5087111144278129,
+    "method": "tfidf"
+  },
+  "94": {
+    "filename": "9.Accurate Parsing with Compact Tree-Substitution Grammars Double-DOP-Grobid-out.txt",
+    "title": "Accurate Parsing with Compact Tree-Substitution Grammars Double-DOP",
+    "score": 0.6973050253894193,
+    "method": "tfidf"
+  },
+  "95": {
+    "filename": "176.Stack-based Multi-layer Attention for Transition-based Dependency Parsing-Grobid-out.txt",
+    "title": "Stack-based Multi-layer Attention for Transition-based Dependency Parsing",
+    "score": 0.6536208878213097,
+    "method": "tfidf"
+  },
+  "96": {
+    "filename": "12.82 Treebanks, 34 Models Universal Dependency Parsing with Multi-Treebank Models-Grobid-out.txt",
+    "title": "82 Treebanks, 34 Models Universal Dependency Parsing with Multi-Treebank Models",
+    "score": 0.4312084961620301,
+    "method": "tfidf"
+  },
+  "97": {
+    "filename": "610.Semantic Role Labeling as Syntactic Dependency Parsing-Grobid-out.txt",
+    "title": "Semantic Role Labeling as Syntactic Dependency Parsing",
+    "score": 0.3392864025788381,
+    "method": "tfidf"
+  },
+  "98": {
+    "filename": "67.Polyglot Semantic Parsing in APIs-Grobid-out.txt",
+    "title": "Polyglot Semantic Parsing in APIs",
+    "score": 0.4754407229597931,
+    "method": "tfidf"
+  },
+  "99": {
+    "filename": "12.82 Treebanks, 34 Models Universal Dependency Parsing with Multi-Treebank Models-Grobid-out.txt",
+    "title": "82 Treebanks, 34 Models Universal Dependency Parsing with Multi-Treebank Models",
+    "score": 0.6556743383407593,
+    "method": "semantic"
+  },
+  "100": {
+    "filename": "33.Structured Training for Neural Network Transition-Based Parsing-Grobid-out.txt",
+    "title": "Structured Training for Neural Network Transition-Based Parsing",
+    "score": 0.6612928360516783,
+    "method": "tfidf"
+  },
+  "101": {
+    "filename": "5.SJTU-NICT at MRP 2019 Multi-Task Learning for End-to-End Uniform Semantic Graph Parsing-Grobid-out.txt",
+    "title": "SJTU-NICT at MRP 2019 Multi-Task Learning for End-to-End Uniform Semantic Graph Parsing",
+    "score": 0.5681579040272682,
+    "method": "tfidf"
+  },
+  "102": {
+    "filename": "251.Pre- and In-Parsing Models for Neural Empty Category Detection-Grobid-out.txt",
+    "title": "Pre- and In-Parsing Models for Neural Empty Category Detection",
+    "score": 0.5740439604964649,
+    "method": "tfidf"
+  },
+  "103": {
+    "filename": "4.Quasi-Second-Order Parsing for 1-Endpoint-Crossing, Pagenumber-2 Graphs-Grobid-out.txt",
+    "title": "Quasi-Second-Order Parsing for 1-Endpoint-Crossing, Pagenumber-2 Graphs",
+    "score": 0.3866732614110829,
+    "method": "tfidf"
+  },
+  "104": {
+    "filename": null,
+    "title": null,
+    "score": 0.537257194519043,
+    "method": "manual"
+  },
+  "105": {
+    "filename": "15.A Novel Neural Network Model for Joint POS Tagging and Graph-based Dependency Parsing-Grobid-out.txt",
+    "title": "A Novel Neural Network Model for Joint POS Tagging and Graph-based Dependency Parsing",
+    "score": 0.5816243989329205,
+    "method": "tfidf"
+  },
+  "106": {
+    "filename": "109.The Effect of Higher-Order Dependency Features in Discriminative Phrase-Structure Parsing-Grobid-out.txt",
+    "title": "The Effect of Higher-Order Dependency Features in Discriminative Phrase-Structure Parsing",
+    "score": 0.5696832932346284,
+    "method": "tfidf"
+  },
+  "107": {
+    "filename": null,
+    "title": null,
+    "score": 0.5324651002883911,
+    "method": "manual"
+  },
+  "108": {
+    "filename": "215.Evaluating Induced CCG Parsers on Grounded Semantic Parsing-Grobid-out.txt",
+    "title": "Evaluating Induced CCG Parsers on Grounded Semantic Parsing",
+    "score": 0.300901226724393,
+    "method": "tfidf"
+  },
+  "110": {
+    "filename": "110.Joint Transition-based Dependency Parsing and Disfluency Detection for Automatic Speech Recognition Texts-Grobid-out.txt",
+    "title": "Joint Transition-based Dependency Parsing and Disfluency Detection for Automatic Speech Recognition Texts",
+    "score": 0.8353002141292416,
+    "method": "tfidf"
+  },
+  "111": {
+    "filename": "413.Low-Resource Domain Adaptation for Compositional Task-Oriented Semantic Parsing-Grobid-out.txt",
+    "title": "Low-Resource Domain Adaptation for Compositional Task-Oriented Semantic Parsing",
+    "score": 0.6414210829471211,
+    "method": "tfidf"
+  },
+  "112": {
+    "filename": "13.Neural Machine Translation with Source-Side Latent Graph Parsing-Grobid-out.txt",
+    "title": "Neural Machine Translation with Source-Side Latent Graph Parsing",
+    "score": 0.7403064263744885,
+    "method": "tfidf"
+  },
+  "113": {
+    "filename": "131.Incremental Predictive Parsing with TurboParser-Grobid-out.txt",
+    "title": "Incremental Predictive Parsing with TurboParser",
+    "score": 0.5187851798944172,
+    "method": "tfidf"
+  },
+  "114": {
+    "filename": "5.Semi-Supervised Neural System for Tagging, Parsing and Lematization-Grobid-out.txt",
+    "title": "Semi-Supervised Neural System for Tagging, Parsing and Lematization",
+    "score": 0.5536361602249719,
+    "method": "tfidf"
+  },
+  "115": {
+    "filename": "99.Neural Semantic Parsing over Multiple Knowledge-bases-Grobid-out.txt",
+    "title": "Neural Semantic Parsing over Multiple Knowledge-bases",
+    "score": 0.5742910724772247,
+    "method": "tfidf"
+  },
+  "116": {
+    "filename": "109.Joint Dependency Parsing and Multiword Expression Tokenization-Grobid-out.txt",
+    "title": "Joint Dependency Parsing and Multiword Expression Tokenization",
+    "score": 0.5946620009178056,
+    "method": "tfidf"
+  },
+  "117": {
+    "filename": "36.Multitask Parsing Across Semantic Representations-Grobid-out.txt",
+    "title": "Multitask Parsing Across Semantic Representations",
+    "score": 0.541058524240442,
+    "method": "tfidf"
+  },
+  "118": {
+    "filename": "84.Beyond Sentential Semantic Parsing Tackling the Math SAT with a Cascade of Tree Transducers-Grobid-out.txt",
+    "title": "Beyond Sentential Semantic Parsing Tackling the Math SAT with a Cascade of Tree Transducers",
+    "score": 0.5356261836385862,
+    "method": "tfidf"
+  },
+  "119": {
+    "filename": "25.A Morphology-Based Representation Model for LSTM-Based Dependency Parsing of Agglutinative Languages-Grobid-out.txt",
+    "title": "A Morphology-Based Representation Model for LSTM-Based Dependency Parsing of Agglutinative Languages",
+    "score": 0.633707272598236,
+    "method": "tfidf"
+  },
+  "120": {
+    "filename": "13.Tree-Stack LSTM in Transition Based Dependency Parsing-Grobid-out.txt",
+    "title": "Tree-Stack LSTM in Transition Based Dependency Parsing",
+    "score": 0.35177230614984123,
+    "method": "tfidf"
+  },
+  "121": {
+    "filename": "96.Robust Subgraph Generation Improves Abstract Meaning Representation Parsing-Grobid-out.txt",
+    "title": "Robust Subgraph Generation Improves Abstract Meaning Representation Parsing",
+    "score": 0.4547562827582885,
+    "method": "tfidf"
+  },
+  "122": {
+    "filename": "172.CRF Autoencoder for Unsupervised Dependency Parsing-Grobid-out.txt",
+    "title": "CRF Autoencoder for Unsupervised Dependency Parsing",
+    "score": 0.5068360805299271,
+    "method": "tfidf"
+  },
+  "123": {
+    "filename": "109.Straight to the Tree Constituency Parsing with Neural Syntactic Distance-Grobid-out.txt",
+    "title": "Straight to the Tree Constituency Parsing with Neural Syntactic Distance",
+    "score": 0.414510963389865,
+    "method": "tfidf"
+  },
+  "124": {
+    "filename": "31.Neural CRF Parsing-Grobid-out.txt",
+    "title": "Neural CRF Parsing",
+    "score": 0.5338332305316109,
+    "method": "tfidf"
+  },
+  "125": {
+    "filename": "34.Creating POS Tagging and Dependency Parsing Experts via Topic Modeling-Grobid-out.txt",
+    "title": "Creating POS Tagging and Dependency Parsing Experts via Topic Modeling",
+    "score": 0.8326598599992288,
+    "method": "tfidf"
+  },
+  "126": {
+    "filename": "8.Adversarial Training for Cross-Domain Universal Dependency Parsing-Grobid-out.txt",
+    "title": "Adversarial Training for Cross-Domain Universal Dependency Parsing",
+    "score": 0.6942983620629191,
+    "method": "tfidf"
+  },
+  "127": {
+    "filename": "31.The Challenges of Parsing Chinese with Combinatory Categorial Grammar-Grobid-out.txt",
+    "title": "The Challenges of Parsing Chinese with Combinatory Categorial Grammar",
+    "score": 0.5368563524917105,
+    "method": "tfidf"
+  },
+  "128": {
+    "filename": "75.NJU-Parser Achievements on Semantic Dependency Parsing-Grobid-out.txt",
+    "title": "NJU-Parser Achievements on Semantic Dependency Parsing",
+    "score": 0.378929571498619,
+    "method": "tfidf"
+  },
+  "129": {
+    "filename": "256.Graph-to-Tree Neural Networks for Learning Structured Input-Output Translation with Applications to Semantic Parsing and Math Word Problem-Grobid-out.txt",
+    "title": "Graph-to-Tree Neural Networks for Learning Structured Input-Output Translation with Applications to Semantic Parsing and Math Word Problem",
+    "score": 0.4618464070860335,
+    "method": "tfidf"
+  },
+  "130": {
+    "filename": null,
+    "title": null,
+    "score": 0.5691937804222107,
+    "method": "manual"
+  },
+  "131": {
+    "filename": "372.Character-level Representations Improve DRS-based Semantic Parsing Even in the Age of BERT-Grobid-out.txt",
+    "title": "Character-level Representations Improve DRS-based Semantic Parsing Even in the Age of BERT",
+    "score": 0.5196318399172879,
+    "method": "tfidf"
+  },
+  "132": {
+    "filename": "399.Parsing All Syntax and Semantics, Dependencies and Spans-Grobid-out.txt",
+    "title": "Parsing All Syntax and Semantics, Dependencies and Spans",
+    "score": 0.5639599260897264,
+    "method": "tfidf"
+  },
+  "133": {
+    "filename": null,
+    "title": null,
+    "score": 0.48776814341545105,
+    "method": "manual"
+  },
+  "134": {
+    "filename": "66.AMR Parsing with an Incremental Joint Model-Grobid-out.txt",
+    "title": "AMR Parsing with an Incremental Joint Model",
+    "score": 0.45815969914198296,
+    "method": "tfidf"
+  },
+  "135": {
+    "filename": "239.Bi-directional Attention with Agreement for Dependency Parsing-Grobid-out.txt",
+    "title": "Bi-directional Attention with Agreement for Dependency Parsing",
+    "score": 0.7148019476574673,
+    "method": "tfidf"
+  },
+  "136": {
+    "filename": "27.A Simple yet Effective Joint Training Method for Cross-Lingual Universal Dependency Parsing-Grobid-out.txt",
+    "title": "A Simple yet Effective Joint Training Method for Cross-Lingual Universal Dependency Parsing",
+    "score": 0.34232127777480376,
+    "method": "tfidf"
+  },
+  "137": {
+    "filename": "196.XL-AMR Enabling Cross-Lingual AMR Parsing with Transfer Learning Techniques-Grobid-out.txt",
+    "title": "XL-AMR Enabling Cross-Lingual AMR Parsing with Transfer Learning Techniques",
+    "score": 0.7402184794332257,
+    "method": "tfidf"
+  },
+  "138": {
+    "filename": "22.Efficient Top-Down BTG Parsing for Machine Translation Preordering-Grobid-out.txt",
+    "title": "Efficient Top-Down BTG Parsing for Machine Translation Preordering",
+    "score": 0.4308821933078331,
+    "method": "tfidf"
+  },
+  "139": {
+    "filename": "106.Iterative Transformation of Annotation Guidelines for Constituency Parsing-Grobid-out.txt",
+    "title": "Iterative Transformation of Annotation Guidelines for Constituency Parsing",
+    "score": 0.5735757046955768,
+    "method": "tfidf"
+  },
+  "141": {
+    "filename": "185.Syntactic Parsing of Web Queries-Grobid-out.txt",
+    "title": "Syntactic Parsing of Web Queries",
+    "score": 0.3960440376513413,
+    "method": "tfidf"
+  },
+  "142": {
+    "filename": null,
+    "title": null,
+    "score": 0.6589173078536987,
+    "method": "manual"
+  },
+  "143": {
+    "filename": "134.Learning Contextually Informed Representations for Linear-Time Discourse Parsing-Grobid-out.txt",
+    "title": "Learning Contextually Informed Representations for Linear-Time Discourse Parsing",
+    "score": 0.6338909770369964,
+    "method": "tfidf"
+  },
+  "144": {
+    "filename": "107.Nonparametric Bayesian Inference and Efficient Parsing for Tree-adjoining Grammars-Grobid-out.txt",
+    "title": "Nonparametric Bayesian Inference and Efficient Parsing for Tree-adjoining Grammars",
+    "score": 0.35397014496593865,
+    "method": "tfidf"
+  },
+  "145": {
+    "filename": "11.Universal Dependency Parsing with a General Transition-Based DAG Parser-Grobid-out.txt",
+    "title": "Universal Dependency Parsing with a General Transition-Based DAG Parser",
+    "score": 0.4514741347926495,
+    "method": "tfidf"
+  },
+  "146": {
+    "filename": "295.Graph-to-Graph Transformer for Transition-based Dependency Parsing-Grobid-out.txt",
+    "title": "Graph-to-Graph Transformer for Transition-based Dependency Parsing",
+    "score": 0.6316810500972942,
+    "method": "tfidf"
+  },
+  "147": {
+    "filename": "259.Human-in-the-Loop Parsing-Grobid-out.txt",
+    "title": "Human-in-the-Loop Parsing",
+    "score": 0.7125304341316223,
+    "method": "semantic"
+  },
+  "148": {
+    "filename": "23.SParse Ko\u00e7 University Graph-Based Parsing System for the CoNLL 2018 Shared Task-Grobid-out.txt",
+    "title": "SParse Ko\u00e7 University Graph-Based Parsing System for the CoNLL 2018 Shared Task",
+    "score": 0.4001275870002808,
+    "method": "tfidf"
+  },
+  "149": {
+    "filename": "148.Parsing as Reduction-Grobid-out.txt",
+    "title": "Parsing as Reduction",
+    "score": 0.36127309212745734,
+    "method": "tfidf"
+  },
+  "150": {
+    "filename": "365.A Pilot Study of Text-to-SQL Semantic Parsing for Vietnamese-Grobid-out.txt",
+    "title": "A Pilot Study of Text-to-SQL Semantic Parsing for Vietnamese",
+    "score": 0.7135813739531566,
+    "method": "tfidf"
+  },
+  "151": {
+    "filename": "71.StructVAE Tree-structured Latent Variable Models for Semi-supervised Semantic Parsing-Grobid-out.txt",
+    "title": "StructVAE Tree-structured Latent Variable Models for Semi-supervised Semantic Parsing",
+    "score": 0.6726722934991811,
+    "method": "tfidf"
+  },
+  "152": {
+    "filename": "9.An Improved Neural Network Model for Joint POS Tagging and Dependency Parsing-Grobid-out.txt",
+    "title": "An Improved Neural Network Model for Joint POS Tagging and Dependency Parsing",
+    "score": 0.6218460863452501,
+    "method": "tfidf"
+  },
+  "153": {
+    "filename": "31.Error-repair Dependency Parsing for Ungrammatical Texts-Grobid-out.txt",
+    "title": "Error-repair Dependency Parsing for Ungrammatical Texts",
+    "score": 0.4722163354410228,
+    "method": "tfidf"
+  },
+  "154": {
+    "filename": "13.\u00daFAL MRPipe at MRP 2019 UDPipe Goes Semantic in the Meaning Representation Parsing Shared Task-Grobid-out.txt",
+    "title": "\u00daFAL MRPipe at MRP 2019 UDPipe Goes Semantic in the Meaning Representation Parsing Shared Task",
+    "score": 0.4149237114157061,
+    "method": "tfidf"
+  },
+  "155": {
+    "filename": "105.Cross-Lingual Abstract Meaning Representation Parsing-Grobid-out.txt",
+    "title": "Cross-Lingual Abstract Meaning Representation Parsing",
+    "score": 0.585451183051503,
+    "method": "tfidf"
+  },
+  "156": {
+    "filename": "24.Delexicalized Word Embeddings for Cross-lingual Dependency Parsing-Grobid-out.txt",
+    "title": "Delexicalized Word Embeddings for Cross-lingual Dependency Parsing",
+    "score": 0.5912326754067024,
+    "method": "tfidf"
+  },
+  "157": {
+    "filename": "8.SMT Helps Bitext Dependency Parsing-Grobid-out.txt",
+    "title": "SMT Helps Bitext Dependency Parsing",
+    "score": 0.4332641541116518,
+    "method": "tfidf"
+  },
+  "158": {
+    "filename": "24.ELMoLex Connecting ELMo and Lexicon Features for Dependency Parsing-Grobid-out.txt",
+    "title": "ELMoLex Connecting ELMo and Lexicon Features for Dependency Parsing",
+    "score": 0.6711080843173756,
+    "method": "tfidf"
+  },
+  "159": {
+    "filename": "126.Macro Grammars and Holistic Triggering for Efficient Semantic Parsing-Grobid-out.txt",
+    "title": "Macro Grammars and Holistic Triggering for Efficient Semantic Parsing",
+    "score": 0.47675766379385104,
+    "method": "tfidf"
+  },
+  "160": {
+    "filename": "9.SJTU at MRP 2019 A Transition-Based Multi-Task Parser for Cross-Framework Meaning Representation Parsing-Grobid-out.txt",
+    "title": "SJTU at MRP 2019 A Transition-Based Multi-Task Parser for Cross-Framework Meaning Representation Parsing",
+    "score": 0.45130997657176986,
+    "method": "tfidf"
+  },
+  "161": {
+    "filename": "8.Multilingual Universal Dependency Parsing from Raw Text with Low-Resource Language Enhancement-Grobid-out.txt",
+    "title": "Multilingual Universal Dependency Parsing from Raw Text with Low-Resource Language Enhancement",
+    "score": 0.5205387490631194,
+    "method": "tfidf"
+  },
+  "162": {
+    "filename": "118.Equation Parsing  Mapping Sentences to Grounded Equations-Grobid-out.txt",
+    "title": "Equation Parsing  Mapping Sentences to Grounded Equations",
+    "score": 0.6712101101875305,
+    "method": "semantic"
+  },
+  "163": {
+    "filename": "271.An Instance Level Approach for Shallow Semantic Parsing in Scientific Procedural Text-Grobid-out.txt",
+    "title": "An Instance Level Approach for Shallow Semantic Parsing in Scientific Procedural Text",
+    "score": 0.6129858995059001,
+    "method": "tfidf"
+  },
+  "165": {
+    "filename": null,
+    "title": null,
+    "score": 0.5932149887084961,
+    "method": "manual"
+  },
+  "166": {
+    "filename": "26.A Fast and Lightweight System for Multilingual Dependency Parsing-Grobid-out.txt",
+    "title": "A Fast and Lightweight System for Multilingual Dependency Parsing",
+    "score": 0.48223386642583915,
+    "method": "tfidf"
+  },
+  "167": {
+    "filename": "26.AntNLP at CoNLL 2018 Shared Task A Graph-Based Parser for Universal Dependency Parsing-Grobid-out.txt",
+    "title": "AntNLP at CoNLL 2018 Shared Task A Graph-Based Parser for Universal Dependency Parsing",
+    "score": 0.30574221033853505,
+    "method": "tfidf"
+  },
+  "168": {
+    "filename": "106.Sentences with Gapping Parsing and Reconstructing Elided Predicates-Grobid-out.txt",
+    "title": "Sentences with Gapping Parsing and Reconstructing Elided Predicates",
+    "score": 0.5307707904514853,
+    "method": "tfidf"
+  },
+  "169": {
+    "filename": null,
+    "title": null,
+    "score": 0.529680073261261,
+    "method": "manual"
+  },
+  "170": {
+    "filename": "22.Corpus Selection Approaches for Multilingual Parsing from Raw Text to Universal Dependencies-Grobid-out.txt",
+    "title": "Corpus Selection Approaches for Multilingual Parsing from Raw Text to Universal Dependencies",
+    "score": 0.38507696283223103,
+    "method": "tfidf"
+  },
+  "171": {
+    "filename": "180.ICL-HD at SemEval-2016 Task 8 Meaning Representation Parsing - Augmenting AMR Parsing with a Preposition Semantic Role Labeling Neural Network-Grobid-out.txt",
+    "title": "ICL-HD at SemEval-2016 Task 8 Meaning Representation Parsing - Augmenting AMR Parsing with a Preposition Semantic Role Labeling Neural Network",
+    "score": 0.4978141456061391,
+    "method": "tfidf"
+  },
+  "172": {
+    "filename": "177.RIGA at SemEval-2016 Task 8 Impact of Smatch Extensions and Character-Level Neural Translation on AMR Parsing Accuracy-Grobid-out.txt",
+    "title": "RIGA at SemEval-2016 Task 8 Impact of Smatch Extensions and Character-Level Neural Translation on AMR Parsing Accuracy",
+    "score": 0.6107547228379308,
+    "method": "tfidf"
+  },
+  "173": {
+    "filename": "74.Unsupervised Neural Dependency Parsing-Grobid-out.txt",
+    "title": "Unsupervised Neural Dependency Parsing",
+    "score": 0.5502007260807431,
+    "method": "tfidf"
+  },
+  "174": {
+    "filename": "10.Dependency Parsing with your Eyes Dependency Structure Predicts Eye Regressions During Reading-Grobid-out.txt",
+    "title": "Dependency Parsing with your Eyes Dependency Structure Predicts Eye Regressions During Reading",
+    "score": 0.6894120907912104,
+    "method": "tfidf"
+  },
+  "175": {
+    "filename": "5.Using Left-corner Parsing to Encode Universal Structural Constraints in Grammar Induction-Grobid-out.txt",
+    "title": "Using Left-corner Parsing to Encode Universal Structural Constraints in Grammar Induction",
+    "score": 0.5556010379912268,
+    "method": "tfidf"
+  },
+  "176": {
+    "filename": "7.A System for Multilingual Dependency Parsing based on Bidirectional LSTM Feature Representations-Grobid-out.txt",
+    "title": "A System for Multilingual Dependency Parsing based on Bidirectional LSTM Feature Representations",
+    "score": 0.6752142980206074,
+    "method": "tfidf"
+  },
+  "177": {
+    "filename": "26.Improving Neural Parsing by Disentangling Model Combination and Reranking Effects-Grobid-out.txt",
+    "title": "Improving Neural Parsing by Disentangling Model Combination and Reranking Effects",
+    "score": 0.8393378879877958,
+    "method": "tfidf"
+  },
+  "178": {
+    "filename": "258.Parsing as Language Modeling-Grobid-out.txt",
+    "title": "Parsing as Language Modeling",
+    "score": 0.6378489625710728,
+    "method": "tfidf"
+  },
+  "179": {
+    "filename": "10.Semantic Parsing as Machine Translation-Grobid-out.txt",
+    "title": "Semantic Parsing as Machine Translation",
+    "score": 0.3411972781052944,
+    "method": "tfidf"
+  },
+  "180": {
+    "filename": "23.Parsing Universal Dependencies without training-Grobid-out.txt",
+    "title": "Parsing Universal Dependencies without training",
+    "score": 0.642525708642516,
+    "method": "tfidf"
+  },
+  "181": {
+    "filename": "390.Unsupervised Parsing via Constituency Tests-Grobid-out.txt",
+    "title": "Unsupervised Parsing via Constituency Tests",
+    "score": 0.42324763122279657,
+    "method": "tfidf"
+  },
+  "182": {
+    "filename": "16.Improving Semantic Parsing via Answer Type Inference-Grobid-out.txt",
+    "title": "Improving Semantic Parsing via Answer Type Inference",
+    "score": 0.5343853944211747,
+    "method": "tfidf"
+  },
+  "183": {
+    "filename": "30.A Two-Stage Parsing Method for Text-Level Discourse Analysis-Grobid-out.txt",
+    "title": "A Two-Stage Parsing Method for Text-Level Discourse Analysis",
+    "score": 0.5107641069860039,
+    "method": "tfidf"
+  },
+  "184": {
+    "filename": "41.Discourse Representation Structure Parsing-Grobid-out.txt",
+    "title": "Discourse Representation Structure Parsing",
+    "score": 0.42571773564215754,
+    "method": "tfidf"
+  },
+  "185": {
+    "filename": "106.Semantic Parsing for Single-Relation Question Answering-Grobid-out.txt",
+    "title": "Semantic Parsing for Single-Relation Question Answering",
+    "score": 0.5919765005010924,
+    "method": "tfidf"
+  },
+  "186": {
+    "filename": "64.Dependency Parsing as Head Selection-Grobid-out.txt",
+    "title": "Dependency Parsing as Head Selection",
+    "score": 0.5631592144141253,
+    "method": "tfidf"
+  },
+  "187": {
+    "filename": null,
+    "title": null,
+    "score": 0.5273555517196655,
+    "method": "manual"
+  },
+  "188": {
+    "filename": "222.Discontinuous Constituent Parsing as Sequence Labeling-Grobid-out.txt",
+    "title": "Discontinuous Constituent Parsing as Sequence Labeling",
+    "score": 0.4104831922603135,
+    "method": "tfidf"
+  },
+  "189": {
+    "filename": "6.ShanghaiTech at MRP 2019 Sequence-to-Graph Transduction with Second-Order Edge Inference for Cross-Framework Meaning Representation Parsing-Grobid-out.txt",
+    "title": "ShanghaiTech at MRP 2019 Sequence-to-Graph Transduction with Second-Order Edge Inference for Cross-Framework Meaning Representation Parsing",
+    "score": 0.4797297316666274,
+    "method": "tfidf"
+  },
+  "190": {
+    "filename": "7.Mind the Gap Data Enrichment in Dependency Parsing of Elliptical Constructions-Grobid-out.txt",
+    "title": "Mind the Gap Data Enrichment in Dependency Parsing of Elliptical Constructions",
+    "score": 0.46922848686708946,
+    "method": "tfidf"
+  },
+  "191": {
+    "filename": "70.Confidence Modeling for Neural Semantic Parsing-Grobid-out.txt",
+    "title": "Confidence Modeling for Neural Semantic Parsing",
+    "score": 0.6221841963277067,
+    "method": "tfidf"
+  },
+  "192": {
+    "filename": "72.Sequence-to-Action End-to-End Semantic Graph Generation for Semantic Parsing-Grobid-out.txt",
+    "title": "Sequence-to-Action End-to-End Semantic Graph Generation for Semantic Parsing",
+    "score": 0.6514259236656706,
+    "method": "tfidf"
+  },
+  "193": {
+    "filename": "22.Cross-Lingual Dependency Parsing with Late Decoding for Truly Low-Resource Languages-Grobid-out.txt",
+    "title": "Cross-Lingual Dependency Parsing with Late Decoding for Truly Low-Resource Languages",
+    "score": 0.4742133714791311,
+    "method": "tfidf"
+  },
+  "194": {
+    "filename": "25.Parsing Graphs with Regular Graph Grammars-Grobid-out.txt",
+    "title": "Parsing Graphs with Regular Graph Grammars",
+    "score": 0.6924625635147095,
+    "method": "semantic"
+  },
+  "195": {
+    "filename": "62.Post-ordering by Parsing for Japanese-English Statistical Machine Translation-Grobid-out.txt",
+    "title": "Post-ordering by Parsing for Japanese-English Statistical Machine Translation",
+    "score": 0.38919138502719924,
+    "method": "tfidf"
+  },
+  "196": {
+    "filename": "10.IBM Research at the CoNLL 2018 Shared Task on Multilingual Parsing-Grobid-out.txt",
+    "title": "IBM Research at the CoNLL 2018 Shared Task on Multilingual Parsing",
+    "score": 0.45688752777036923,
+    "method": "tfidf"
+  },
+  "197": {
+    "filename": "128.Cross-domain Semantic Parsing via Paraphrasing-Grobid-out.txt",
+    "title": "Cross-domain Semantic Parsing via Paraphrasing",
+    "score": 0.5511947300243695,
+    "method": "tfidf"
+  },
+  "198": {
+    "filename": "30.An Exact Dual Decomposition Algorithm for Shallow Semantic Parsing with Constraints-Grobid-out.txt",
+    "title": "An Exact Dual Decomposition Algorithm for Shallow Semantic Parsing with Constraints",
+    "score": 0.39216647610257166,
+    "method": "tfidf"
+  },
+  "199": {
+    "filename": "131.AMR Parsing using Stack-LSTMs-Grobid-out.txt",
+    "title": "AMR Parsing using Stack-LSTMs",
+    "score": 0.3529944891115528,
+    "method": "tfidf"
+  },
+  "200": {
+    "filename": "70.Concavity and Initialization for Unsupervised Dependency Parsing-Grobid-out.txt",
+    "title": "Concavity and Initialization for Unsupervised Dependency Parsing",
+    "score": 0.5808971032567547,
+    "method": "tfidf"
+  },
+  "201": {
+    "filename": "39.Accurate SHRG-Based Semantic Parsing-Grobid-out.txt",
+    "title": "Accurate SHRG-Based Semantic Parsing",
+    "score": 0.4770767732289396,
+    "method": "tfidf"
+  },
+  "202": {
+    "filename": "4.Utilizing Extra-Sentential Context for Parsing-Grobid-out.txt",
+    "title": "Utilizing Extra-Sentential Context for Parsing",
+    "score": 0.5062315243515821,
+    "method": "tfidf"
+  },
+  "203": {
+    "filename": "21.Evaluating Semantic Parsing against a Simple Web-based Question Answering Model-Grobid-out.txt",
+    "title": "Evaluating Semantic Parsing against a Simple Web-based Question Answering Model",
+    "score": 0.597371178862154,
+    "method": "tfidf"
+  },
+  "204": {
+    "filename": "111.A Lattice-based Framework for Joint Chinese Word Segmentation, POS Tagging and Parsing-Grobid-out.txt",
+    "title": "A Lattice-based Framework for Joint Chinese Word Segmentation, POS Tagging and Parsing",
+    "score": 0.9091689386625215,
+    "method": "tfidf"
+  },
+  "205": {
+    "filename": "38.AMR Parsing as Graph Prediction with Latent Alignment-Grobid-out.txt",
+    "title": "AMR Parsing as Graph Prediction with Latent Alignment",
+    "score": 0.4352593388060642,
+    "method": "tfidf"
+  },
+  "206": {
+    "filename": "7.Joint Learning of POS and Dependencies for Multilingual Universal Dependency Parsing-Grobid-out.txt",
+    "title": "Joint Learning of POS and Dependencies for Multilingual Universal Dependency Parsing",
+    "score": 0.33481778936649276,
+    "method": "tfidf"
+  },
+  "207": {
+    "filename": "67.Top-Down Nearly-Context-Sensitive Parsing-Grobid-out.txt",
+    "title": "Top-Down Nearly-Context-Sensitive Parsing",
+    "score": 0.36965552328510004,
+    "method": "tfidf"
+  },
+  "208": {
+    "filename": "36.Discourse Parsing with Attention-based Hierarchical Neural Networks-Grobid-out.txt",
+    "title": "Discourse Parsing with Attention-based Hierarchical Neural Networks",
+    "score": 0.4552720466411593,
+    "method": "tfidf"
+  },
+  "209": {
+    "filename": "34.Transition-Based Dependency Parsing with Stack Long Short-Term Memory-Grobid-out.txt",
+    "title": "Transition-Based Dependency Parsing with Stack Long Short-Term Memory",
+    "score": 0.49712528162976233,
+    "method": "tfidf"
+  },
+  "210": {
+    "filename": "179.Effective Inference for Generative Neural Parsing-Grobid-out.txt",
+    "title": "Effective Inference for Generative Neural Parsing",
+    "score": 0.5239670027808282,
+    "method": "tfidf"
+  },
+  "211": {
+    "filename": "197.Improving AMR Parsing with Sequence-to-Sequence Pre-training-Grobid-out.txt",
+    "title": "Improving AMR Parsing with Sequence-to-Sequence Pre-training",
+    "score": 0.6812133625830059,
+    "method": "tfidf"
+  },
+  "212": {
+    "filename": "108.Enforcing Structural Diversity in Cube-pruned Dependency Parsing-Grobid-out.txt",
+    "title": "Enforcing Structural Diversity in Cube-pruned Dependency Parsing",
+    "score": 0.585353744238144,
+    "method": "tfidf"
+  },
+  "213": {
+    "filename": "651.Conversational Semantic Parsing for Dialog State Tracking-Grobid-out.txt",
+    "title": "Conversational Semantic Parsing for Dialog State Tracking",
+    "score": 0.5428329434550156,
+    "method": "tfidf"
+  },
+  "214": {
+    "filename": "6.Towards Better UD Parsing Deep Contextualized Word Embeddings, Ensemble, and Treebank Concatenation-Grobid-out.txt",
+    "title": "Towards Better UD Parsing Deep Contextualized Word Embeddings, Ensemble, and Treebank Concatenation",
+    "score": 0.5790286762925297,
+    "method": "tfidf"
+  },
+  "215": {
+    "filename": "119.Unsupervised Dependency Parsing without Gold Part-of-Speech Tags-Grobid-out.txt",
+    "title": "Unsupervised Dependency Parsing without Gold Part-of-Speech Tags",
+    "score": 0.5292034784178574,
+    "method": "tfidf"
+  },
+  "216": {
+    "filename": "8.HIT-SCIR at MRP 2019 A Unified Pipeline for Meaning Representation Parsing via Efficient Training and Effective Encoding-Grobid-out.txt",
+    "title": "HIT-SCIR at MRP 2019 A Unified Pipeline for Meaning Representation Parsing via Efficient Training and Effective Encoding",
+    "score": 0.32097859497510384,
+    "method": "tfidf"
+  },
+  "217": {
+    "filename": "65.Tackling Error Propagation through Reinforcement Learning A Case of Greedy Dependency Parsing-Grobid-out.txt",
+    "title": "Tackling Error Propagation through Reinforcement Learning A Case of Greedy Dependency Parsing",
+    "score": 0.45017912225487317,
+    "method": "tfidf"
+  },
+  "218": {
+    "filename": "19.An Empirical Examination of Challenges in Chinese Parsing-Grobid-out.txt",
+    "title": "An Empirical Examination of Challenges in Chinese Parsing",
+    "score": 0.30117775555495807,
+    "method": "tfidf"
+  },
+  "219": {
+    "filename": "71.A Unified Framework for Scope Learning via Simplified Shallow Semantic Parsing-Grobid-out.txt",
+    "title": "A Unified Framework for Scope Learning via Simplified Shallow Semantic Parsing",
+    "score": 0.8026530902145158,
+    "method": "tfidf"
+  },
+  "220": {
+    "filename": "10.Universal Semantic Parsing-Grobid-out.txt",
+    "title": "Universal Semantic Parsing",
+    "score": 0.4611338327867407,
+    "method": "tfidf"
+  },
+  "221": {
+    "filename": null,
+    "title": null,
+    "score": 0.3921310603618622,
+    "method": "manual"
+  },
+  "222": {
+    "filename": "132.Twitter Universal Dependency Parsing for African-American and Mainstream American English-Grobid-out.txt",
+    "title": "Twitter Universal Dependency Parsing for African-American and Mainstream American English",
+    "score": 0.6908638372342358,
+    "method": "tfidf"
+  },
+  "223": {
+    "filename": "2.Span-Based Constituency Parsing with a Structure-Label System and Provably Optimal Dynamic Oracles-Grobid-out.txt",
+    "title": "Span-Based Constituency Parsing with a Structure-Label System and Provably Optimal Dynamic Oracles",
+    "score": 0.5017488431679441,
+    "method": "tfidf"
+  },
+  "224": {
+    "filename": "107.Character Composition Model with Convolutional Neural Networks for Dependency Parsing on Morphologically Rich Languages-Grobid-out.txt",
+    "title": "Character Composition Model with Convolutional Neural Networks for Dependency Parsing on Morphologically Rich Languages",
+    "score": 0.8118432311053065,
+    "method": "tfidf"
+  },
+  "225": {
+    "filename": "91.Universal Dependency Parsing for Hindi-English Code-Switching-Grobid-out.txt",
+    "title": "Universal Dependency Parsing for Hindi-English Code-Switching",
+    "score": 0.5875731315633704,
+    "method": "tfidf"
+  }
+}

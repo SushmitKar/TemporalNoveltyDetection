@@ -1,0 +1,422 @@
+{
+  "0": {
+    "filename": "419.MIMOQA Multimodal Input Multimodal Output Question Answering-Grobid-out.txt",
+    "title": "MIMOQA Multimodal Input Multimodal Output Question Answering",
+    "score": 0.6281834558822981,
+    "method": "tfidf"
+  },
+  "1": {
+    "filename": "99.Robust Question Answering Through Sub-part Alignment-Grobid-out.txt",
+    "title": "Robust Question Answering Through Sub-part Alignment",
+    "score": 0.566804590721486,
+    "method": "tfidf"
+  },
+  "2": {
+    "filename": "168.ASAP A Chinese Review Dataset Towards Aspect Category Sentiment Analysis and Rating Prediction-Grobid-out.txt",
+    "title": "ASAP A Chinese Review Dataset Towards Aspect Category Sentiment Analysis and Rating Prediction",
+    "score": 0.6956064001559188,
+    "method": "tfidf"
+  },
+  "3": {
+    "filename": "47.XOR QA Cross-lingual Open-Retrieval Question Answering-Grobid-out.txt",
+    "title": "XOR QA Cross-lingual Open-Retrieval Question Answering",
+    "score": 0.5786362122411369,
+    "method": "tfidf"
+  },
+  "4": {
+    "filename": "557.Hate Speech Detection Based on Sentiment Knowledge Sharing-Grobid-out.txt",
+    "title": "Hate Speech Detection Based on Sentiment Knowledge Sharing",
+    "score": 0.6628878816655122,
+    "method": "tfidf"
+  },
+  "5": {
+    "filename": "366.A Dataset of Information-Seeking Questions and Answers Anchored in Research Papers-Grobid-out.txt",
+    "title": "A Dataset of Information-Seeking Questions and Answers Anchored in Research Papers",
+    "score": 0.3511367361661269,
+    "method": "tfidf"
+  },
+  "6": {
+    "filename": "44.Open Domain Question Answering over Tables via Dense Retrieval-Grobid-out.txt",
+    "title": "Open Domain Question Answering over Tables via Dense Retrieval",
+    "score": 0.48967768742565343,
+    "method": "tfidf"
+  },
+  "7": {
+    "filename": "189.A Unified Generative Framework for Aspect-based Sentiment Analysis-Grobid-out.txt",
+    "title": "A Unified Generative Framework for Aspect-based Sentiment Analysis",
+    "score": 0.5045955054056757,
+    "method": "tfidf"
+  },
+  "8": {
+    "filename": "284.X-METRA-ADA Cross-lingual Meta-Transfer learning Adaptation to Natural Language Understanding and Question Answering-Grobid-out.txt",
+    "title": "X-METRA-ADA Cross-lingual Meta-Transfer learning Adaptation to Natural Language Understanding and Question Answering",
+    "score": 0.8414315658280878,
+    "method": "tfidf"
+  },
+  "9": {
+    "filename": "228.Multi-task Learning of Negation and Speculation for Targeted Sentiment Classification-Grobid-out.txt",
+    "title": "Multi-task Learning of Negation and Speculation for Targeted Sentiment Classification",
+    "score": 0.5883456789800378,
+    "method": "tfidf"
+  },
+  "10": {
+    "filename": "171.KPQA A Metric for Generative Question Answering Using Keyphrase Weights-Grobid-out.txt",
+    "title": "KPQA A Metric for Generative Question Answering Using Keyphrase Weights",
+    "score": 0.6753939410290286,
+    "method": "tfidf"
+  },
+  "11": {
+    "filename": "470.Unsupervised Multi-hop Question Answering by Question Generation-Grobid-out.txt",
+    "title": "Unsupervised Multi-hop Question Answering by Question Generation",
+    "score": 0.7749065132435388,
+    "method": "tfidf"
+  },
+  "12": {
+    "filename": "362.Solving Aspect Category Sentiment Analysis as a Text Generation Task-Grobid-out.txt",
+    "title": "Solving Aspect Category Sentiment Analysis as a Text Generation Task",
+    "score": 0.6108508101053238,
+    "method": "tfidf"
+  },
+  "13": {
+    "filename": "230.Graph Ensemble Learning over Multiple Dependency Trees for Aspect-level Sentiment Classification-Grobid-out.txt",
+    "title": "Graph Ensemble Learning over Multiple Dependency Trees for Aspect-level Sentiment Classification",
+    "score": 0.7780844831965381,
+    "method": "tfidf"
+  },
+  "14": {
+    "filename": "30.Aspect-Category-Opinion-Sentiment Quadruple Extraction with Implicit Aspects and Opinions-Grobid-out.txt",
+    "title": "Aspect-Category-Opinion-Sentiment Quadruple Extraction with Implicit Aspects and Opinions",
+    "score": 0.7057256913830604,
+    "method": "tfidf"
+  },
+  "15": {
+    "filename": "361.Joint Multi-modal Aspect-Sentiment Analysis with Auxiliary Cross-modal Relation Detection-Grobid-out.txt",
+    "title": "Joint Multi-modal Aspect-Sentiment Analysis with Auxiliary Cross-modal Relation Detection",
+    "score": 0.6703594014361692,
+    "method": "tfidf"
+  },
+  "16": {
+    "filename": "23.Learning Implicit Sentiment in Aspect-based Sentiment Analysis with Supervised Contrastive Pre-Training-Grobid-out.txt",
+    "title": "Learning Implicit Sentiment in Aspect-based Sentiment Analysis with Supervised Contrastive Pre-Training",
+    "score": 0.6830872923496664,
+    "method": "tfidf"
+  },
+  "17": {
+    "filename": "147.Does syntax matter A strong baseline for Aspect-based Sentiment Analysis with RoBERTa-Grobid-out.txt",
+    "title": "Does syntax matter A strong baseline for Aspect-based Sentiment Analysis with RoBERTa",
+    "score": 0.8037891415152787,
+    "method": "tfidf"
+  },
+  "18": {
+    "filename": "728.Cross-lingual Aspect-based Sentiment Analysis with Aspect Term Code-Switching-Grobid-out.txt",
+    "title": "Cross-lingual Aspect-based Sentiment Analysis with Aspect Term Code-Switching",
+    "score": 0.7206831399793872,
+    "method": "tfidf"
+  },
+  "19": {
+    "filename": "101.RECONSIDER Improved Re-Ranking using Span-Focused Cross-Attention for Open Domain Question Answering-Grobid-out.txt",
+    "title": "RECONSIDER Improved Re-Ranking using Span-Focused Cross-Attention for Open Domain Question Answering",
+    "score": 0.6538115633280699,
+    "method": "tfidf"
+  },
+  "20": {
+    "filename": "105.Looking Beyond Sentence-Level Natural Language Inference for Question Answering and Text Summarization-Grobid-out.txt",
+    "title": "Looking Beyond Sentence-Level Natural Language Inference for Question Answering and Text Summarization",
+    "score": 0.6173479083835104,
+    "method": "tfidf"
+  },
+  "21": {
+    "filename": "45.Open-Domain Question Answering Goes Conversational via Question Rewriting-Grobid-out.txt",
+    "title": "Open-Domain Question Answering Goes Conversational via Question Rewriting",
+    "score": 0.5273377471917621,
+    "method": "tfidf"
+  },
+  "22": {
+    "filename": "547.Powering Comparative Classification with Sentiment Analysis via Domain Adaptive Knowledge Transfer-Grobid-out.txt",
+    "title": "Powering Comparative Classification with Sentiment Analysis via Domain Adaptive Knowledge Transfer",
+    "score": 0.6109996382367152,
+    "method": "tfidf"
+  },
+  "23": {
+    "filename": "161.Generating An Optimal Interview Question Plan Using A Knowledge Graph And Integer Linear Programming-Grobid-out.txt",
+    "title": "Generating An Optimal Interview Question Plan Using A Knowledge Graph And Integer Linear Programming",
+    "score": 0.44750792999390954,
+    "method": "tfidf"
+  },
+  "24": {
+    "filename": "718.NB-MLM Efficient Domain Adaptation of Masked Language Models for Sentiment Analysis-Grobid-out.txt",
+    "title": "NB-MLM Efficient Domain Adaptation of Masked Language Models for Sentiment Analysis",
+    "score": 0.865985073790714,
+    "method": "tfidf"
+  },
+  "25": {
+    "filename": "227.Domain Adaptation for Arabic Cross-Domain and Cross-Dialect Sentiment Analysis from Contextualized Word Embedding-Grobid-out.txt",
+    "title": "Domain Adaptation for Arabic Cross-Domain and Cross-Dialect Sentiment Analysis from Contextualized Word Embedding",
+    "score": 0.5058855326393006,
+    "method": "tfidf"
+  },
+  "26": {
+    "filename": "341.Ask what\u2019s missing and what\u2019s useful Improving Clarification Question Generation using Global Knowledge-Grobid-out.txt",
+    "title": "Ask what\u2019s missing and what\u2019s useful Improving Clarification Question Generation using Global Knowledge",
+    "score": 0.5810751336273627,
+    "method": "tfidf"
+  },
+  "27": {
+    "filename": "190.Multimodal Phased Transformer for Sentiment Analysis-Grobid-out.txt",
+    "title": "Multimodal Phased Transformer for Sentiment Analysis",
+    "score": 0.6593342007549436,
+    "method": "tfidf"
+  },
+  "28": {
+    "filename": "322.Improving Federated Learning for Aspect-based Sentiment Analysis via Topic Memories-Grobid-out.txt",
+    "title": "Improving Federated Learning for Aspect-based Sentiment Analysis via Topic Memories",
+    "score": 0.7738451731876472,
+    "method": "tfidf"
+  },
+  "29": {
+    "filename": "457.Towards Sentiment and Emotion aided Multi-modal Speech Act Classification in Twitter-Grobid-out.txt",
+    "title": "Towards Sentiment and Emotion aided Multi-modal Speech Act Classification in Twitter",
+    "score": 0.5968786404459118,
+    "method": "tfidf"
+  },
+  "30": {
+    "filename": "48.SPARTA Efficient Open-Domain Question Answering via Sparse Transformer Matching Retrieval-Grobid-out.txt",
+    "title": "SPARTA Efficient Open-Domain Question Answering via Sparse Transformer Matching Retrieval",
+    "score": 0.549574689441224,
+    "method": "tfidf"
+  },
+  "31": {
+    "filename": "25.Reinforced Counterfactual Data Augmentation for Dual Sentiment Classification-Grobid-out.txt",
+    "title": "Reinforced Counterfactual Data Augmentation for Dual Sentiment Classification",
+    "score": 0.7227077556737868,
+    "method": "tfidf"
+  },
+  "32": {
+    "filename": "469.Designing a Minimal Retrieve-and-Read System for Open-Domain Question Answering-Grobid-out.txt",
+    "title": "Designing a Minimal Retrieve-and-Read System for Open-Domain Question Answering",
+    "score": 0.43257973576129083,
+    "method": "tfidf"
+  },
+  "33": {
+    "filename": "264.Supervised Neural Clustering via Latent Structured Output Learning Application to Question Intents-Grobid-out.txt",
+    "title": "Supervised Neural Clustering via Latent Structured Output Learning Application to Question Intents",
+    "score": 0.607354837392823,
+    "method": "tfidf"
+  },
+  "34": {
+    "filename": "264.Structured Sentiment Analysis as Dependency Graph Parsing-Grobid-out.txt",
+    "title": "Structured Sentiment Analysis as Dependency Graph Parsing",
+    "score": 0.6747288826770962,
+    "method": "tfidf"
+  },
+  "35": {
+    "filename": "154.Worldly Wise (WoW) - Cross-Lingual Knowledge Fusion for Fact-based Visual Spoken-Question Answering-Grobid-out.txt",
+    "title": "Worldly Wise (WoW) - Cross-Lingual Knowledge Fusion for Fact-based Visual Spoken-Question Answering",
+    "score": 0.40630973639708157,
+    "method": "tfidf"
+  },
+  "36": {
+    "filename": "187.DynaSent A Dynamic Benchmark for Sentiment Analysis-Grobid-out.txt",
+    "title": "DynaSent A Dynamic Benchmark for Sentiment Analysis",
+    "score": 0.46820897124623084,
+    "method": "tfidf"
+  },
+  "37": {
+    "filename": "20.Beta Distribution Guided Aspect-aware Graph for Aspect Category Sentiment Analysis with Affective Knowledge-Grobid-out.txt",
+    "title": "Beta Distribution Guided Aspect-aware Graph for Aspect Category Sentiment Analysis with Affective Knowledge",
+    "score": 0.735648092256664,
+    "method": "tfidf"
+  },
+  "38": {
+    "filename": "363.Semantics-Preserved Data Augmentation for Aspect-Based Sentiment Analysis-Grobid-out.txt",
+    "title": "Semantics-Preserved Data Augmentation for Aspect-Based Sentiment Analysis",
+    "score": 0.537691340555287,
+    "method": "tfidf"
+  },
+  "39": {
+    "filename": "725.BERT4GCN Using BERT Intermediate Layers to Augment GCN for Aspect-based Sentiment Classification-Grobid-out.txt",
+    "title": "BERT4GCN Using BERT Intermediate Layers to Augment GCN for Aspect-based Sentiment Classification",
+    "score": 0.6711165962984562,
+    "method": "tfidf"
+  },
+  "40": {
+    "filename": "510.Open Aspect Target Sentiment Classification with Natural Language Prompts-Grobid-out.txt",
+    "title": "Open Aspect Target Sentiment Classification with Natural Language Prompts",
+    "score": 0.642067162645351,
+    "method": "tfidf"
+  },
+  "41": {
+    "filename": "322.Grey-box Adversarial Attack And Defence For Sentiment Classification-Grobid-out.txt",
+    "title": "Grey-box Adversarial Attack And Defence For Sentiment Classification",
+    "score": 0.5997121908789979,
+    "method": "tfidf"
+  },
+  "42": {
+    "filename": "319.Seeking Common but Distinguishing Difference, A Joint Aspect-based Sentiment Analysis Model-Grobid-out.txt",
+    "title": "Seeking Common but Distinguishing Difference, A Joint Aspect-based Sentiment Analysis Model",
+    "score": 0.6023081055741993,
+    "method": "tfidf"
+  },
+  "43": {
+    "filename": "102.On the Transferability of Minimal Prediction Preserving Inputs in Question Answering-Grobid-out.txt",
+    "title": "On the Transferability of Minimal Prediction Preserving Inputs in Question Answering",
+    "score": 0.7487208966290955,
+    "method": "tfidf"
+  },
+  "44": {
+    "filename": "364.The Effect of Round-Trip Translation on Fairness in Sentiment Analysis-Grobid-out.txt",
+    "title": "The Effect of Round-Trip Translation on Fairness in Sentiment Analysis",
+    "score": 0.8393880796407805,
+    "method": "tfidf"
+  },
+  "45": {
+    "filename": "365.SPARTQA A Textual Question Answering Benchmark for Spatial Reasoning-Grobid-out.txt",
+    "title": "SPARTQA A Textual Question Answering Benchmark for Spatial Reasoning",
+    "score": 0.6914364469326718,
+    "method": "tfidf"
+  },
+  "46": {
+    "filename": "364.If You Want to Go Far Go Together Unsupervised Joint Candidate Evidence Retrieval for Multi-hop Question Answering-Grobid-out.txt",
+    "title": "If You Want to Go Far Go Together Unsupervised Joint Candidate Evidence Retrieval for Multi-hop Question Answering",
+    "score": 0.8412159878357609,
+    "method": "tfidf"
+  },
+  "47": {
+    "filename": "24.Answering Product-Questions by Utilizing Questions from Other Contextually Similar Products-Grobid-out.txt",
+    "title": "Answering Product-Questions by Utilizing Questions from Other Contextually Similar Products",
+    "score": 0.5452771677804954,
+    "method": "tfidf"
+  },
+  "48": {
+    "filename": "495.Dual Graph Convolutional Networks for Aspect-based Sentiment Analysis-Grobid-out.txt",
+    "title": "Dual Graph Convolutional Networks for Aspect-based Sentiment Analysis",
+    "score": 0.7504718647998856,
+    "method": "tfidf"
+  },
+  "49": {
+    "filename": "29.Multimodal Sentiment Detection Based on Multi-channel Graph Neural Networks-Grobid-out.txt",
+    "title": "Multimodal Sentiment Detection Based on Multi-channel Graph Neural Networks",
+    "score": 0.7121107873614141,
+    "method": "tfidf"
+  },
+  "50": {
+    "filename": "465.Breadth First Reasoning Graph for Multi-hop Question Answering-Grobid-out.txt",
+    "title": "Breadth First Reasoning Graph for Multi-hop Question Answering",
+    "score": 0.6580488756525877,
+    "method": "tfidf"
+  },
+  "51": {
+    "filename": "467.RocketQA An Optimized Training Approach to Dense Passage Retrieval for Open-Domain Question Answering-Grobid-out.txt",
+    "title": "RocketQA An Optimized Training Approach to Dense Passage Retrieval for Open-Domain Question Answering",
+    "score": 0.6026836789098244,
+    "method": "tfidf"
+  },
+  "52": {
+    "filename": "727.Aspect Sentiment Quad Prediction as Paraphrase Generation-Grobid-out.txt",
+    "title": "Aspect Sentiment Quad Prediction as Paraphrase Generation",
+    "score": 0.6617074258216129,
+    "method": "tfidf"
+  },
+  "53": {
+    "filename": "46.QA-GNN Reasoning with Language Models and Knowledge Graphs for Question Answering-Grobid-out.txt",
+    "title": "QA-GNN Reasoning with Language Models and Knowledge Graphs for Question Answering",
+    "score": 0.6750713367530584,
+    "method": "tfidf"
+  },
+  "54": {
+    "filename": null,
+    "title": null,
+    "score": 0.3515012860298157,
+    "method": "manual"
+  },
+  "55": {
+    "filename": "466.Improving Zero-Shot Cross-lingual Transfer for Multilingual Question Answering over Knowledge Graph-Grobid-out.txt",
+    "title": "Improving Zero-Shot Cross-lingual Transfer for Multilingual Question Answering over Knowledge Graph",
+    "score": 0.5667799249430581,
+    "method": "tfidf"
+  },
+  "56": {
+    "filename": "732.PASTE A Tagging-Free Decoding Framework Using Pointer Networks for Aspect Sentiment Triplet Extraction-Grobid-out.txt",
+    "title": "PASTE A Tagging-Free Decoding Framework Using Pointer Networks for Aspect Sentiment Triplet Extraction",
+    "score": 0.5442176892444675,
+    "method": "tfidf"
+  },
+  "57": {
+    "filename": "379.Adapting BERT for Continual Learning of a Sequence of Aspect Sentiment Classification Tasks-Grobid-out.txt",
+    "title": "Adapting BERT for Continual Learning of a Sequence of Aspect Sentiment Classification Tasks",
+    "score": 0.740638510451374,
+    "method": "tfidf"
+  },
+  "58": {
+    "filename": "232.Aspect-based Sentiment Analysis with Type-aware Graph Convolutional Networks and Layer Ensemble-Grobid-out.txt",
+    "title": "Aspect-based Sentiment Analysis with Type-aware Graph Convolutional Networks and Layer Ensemble",
+    "score": 0.7856074138642383,
+    "method": "tfidf"
+  },
+  "59": {
+    "filename": "552.Implicit Sentiment Analysis with Event-centered Text Representation-Grobid-out.txt",
+    "title": "Implicit Sentiment Analysis with Event-centered Text Representation",
+    "score": 0.7138731284033928,
+    "method": "tfidf"
+  },
+  "60": {
+    "filename": "368.Learning Span-Level Interactions for Aspect Sentiment Triplet Extraction-Grobid-out.txt",
+    "title": "Learning Span-Level Interactions for Aspect Sentiment Triplet Extraction",
+    "score": 0.5589353285924102,
+    "method": "tfidf"
+  },
+  "61": {
+    "filename": "413.AVA an Automatic eValuation Approach for Question Answering Systems-Grobid-out.txt",
+    "title": "AVA an Automatic eValuation Approach for Question Answering Systems",
+    "score": 0.6478631015935798,
+    "method": "tfidf"
+  },
+  "62": {
+    "filename": "197.Video Question Answering with Phrases via Semantic Roles-Grobid-out.txt",
+    "title": "Video Question Answering with Phrases via Semantic Roles",
+    "score": 0.5005604803396881,
+    "method": "tfidf"
+  },
+  "63": {
+    "filename": "290.CLEVR_HYP A Challenge Dataset and Baselines for Visual Question Answering with Hypothetical Actions over Images-Grobid-out.txt",
+    "title": "CLEVR_HYP A Challenge Dataset and Baselines for Visual Question Answering with Hypothetical Actions over Images",
+    "score": 0.7817356586456299,
+    "method": "semantic"
+  },
+  "64": {
+    "filename": "551.CLASSIC Continual and Contrastive Learning of Aspect Sentiment Classification Tasks-Grobid-out.txt",
+    "title": "CLASSIC Continual and Contrastive Learning of Aspect Sentiment Classification Tasks",
+    "score": 0.6704958911372768,
+    "method": "tfidf"
+  },
+  "65": {
+    "filename": "97.Capturing Row and Column Semantics in Transformer Based Question Answering over Tables-Grobid-out.txt",
+    "title": "Capturing Row and Column Semantics in Transformer Based Question Answering over Tables",
+    "score": 0.7148090126821476,
+    "method": "tfidf"
+  },
+  "66": {
+    "filename": "724.Improving Multimodal Fusion with Hierarchical Mutual Information Maximization for Multimodal Sentiment Analysis-Grobid-out.txt",
+    "title": "Improving Multimodal Fusion with Hierarchical Mutual Information Maximization for Multimodal Sentiment Analysis",
+    "score": 0.6512779251519286,
+    "method": "tfidf"
+  },
+  "67": {
+    "filename": "394.Hurdles to Progress in Long-form Question Answering-Grobid-out.txt",
+    "title": "Hurdles to Progress in Long-form Question Answering",
+    "score": 0.5328072380883742,
+    "method": "tfidf"
+  },
+  "68": {
+    "filename": "722.YASO A Targeted Sentiment Analysis Evaluation Dataset for Open-Domain Reviews-Grobid-out.txt",
+    "title": "YASO A Targeted Sentiment Analysis Evaluation Dataset for Open-Domain Reviews",
+    "score": 0.31562924558654004,
+    "method": "tfidf"
+  },
+  "69": {
+    "filename": "413.CTFN Hierarchical Learning for Multimodal Sentiment Analysis Using Coupled-Translation Fusion Network-Grobid-out.txt",
+    "title": "CTFN Hierarchical Learning for Multimodal Sentiment Analysis Using Coupled-Translation Fusion Network",
+    "score": 0.6894005120103367,
+    "method": "tfidf"
+  }
+}

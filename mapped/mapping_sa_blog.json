@@ -1,0 +1,98 @@
+{
+  "0": {
+    "filename": "Day 112_ NLP Papers Summary - A Challenge Dataset and Effective Models for Aspect-Based Sentiment Analysis - Ryan Ong-Grobid-out.txt",
+    "title": "txt",
+    "score": 0.7371461446316961,
+    "method": "tfidf"
+  },
+  "1": {
+    "filename": "A Deep Learning Approach to Improve Emotion-Cause Extraction _ by elvis _ DAIR.AI _ Medium-Grobid-out.txt",
+    "title": "AI _ Medium",
+    "score": 0.9027062937849154,
+    "method": "tfidf"
+  },
+  "2": {
+    "filename": "DialogueRNN_ Emotion Classification in Conversation _ by elvis _ DAIR.AI _ Medium-Grobid-out.txt",
+    "title": "AI _ Medium",
+    "score": 0.8753088695091671,
+    "method": "tfidf"
+  },
+  "3": {
+    "filename": "Day 236_ NLP Papers Summary \u2013 A BERT based Sentiment Analysis and Key Entity Detection Approach for Online Financial Texts - Ryan Ong-Grobid-out.txt",
+    "title": "txt",
+    "score": 0.8300585472207975,
+    "method": "tfidf"
+  },
+  "4": {
+    "filename": "Day 104_ NLP Papers Summary - SentiHood_ Targeted Aspect Based Sentiment Analysis Dataset for Urban Neighbourhoods - Ryan Ong-Grobid-out.txt",
+    "title": "txt",
+    "score": 0.5917895901528123,
+    "method": "tfidf"
+  },
+  "5": {
+    "filename": "Day 123_ NLP Papers Summary - Context-aware Embedding for Targeted Aspect-based Sentiment Analysis - Ryan Ong-Grobid-out.txt",
+    "title": "txt",
+    "score": 0.8055905469519508,
+    "method": "tfidf"
+  },
+  "6": {
+    "filename": "Deep Learning and Time Embeddings To Predict Emojis _ by elvis _ DAIR.AI _ Medium-Grobid-out.txt",
+    "title": "AI _ Medium",
+    "score": 0.8569091230574455,
+    "method": "tfidf"
+  },
+  "7": {
+    "filename": "Unsupervised Sentiment Neuron-Grobid-out.txt",
+    "title": "txt",
+    "score": 0.7176854940092238,
+    "method": "tfidf"
+  },
+  "8": {
+    "filename": "Detecting Sarcasm with Deep Convolutional Neural Networks _ by elvis _ DAIR.AI _ Medium-Grobid-out.txt",
+    "title": "AI _ Medium",
+    "score": 0.7786810100575896,
+    "method": "tfidf"
+  },
+  "9": {
+    "filename": "State of the art Multimodal Sentiment Classification in Videos _ by elvis _ DAIR.AI _ Medium-Grobid-out.txt",
+    "title": "AI _ Medium",
+    "score": 0.7166003943186835,
+    "method": "tfidf"
+  },
+  "10": {
+    "filename": "Summary of _Recursive Deep Models for Semantic Compositionality Over a Sentiment Treebank_ paper-Grobid-out.txt",
+    "title": "txt",
+    "score": 0.7456053336649616,
+    "method": "tfidf"
+  },
+  "11": {
+    "filename": "Day 105_ NLP Papers Summary - Aspect Level Sentiment Classification with Attention-over-Attention Neural Networks - Ryan Ong-Grobid-out.txt",
+    "title": "txt",
+    "score": 0.8286154071560125,
+    "method": "tfidf"
+  },
+  "12": {
+    "filename": "Learning sentence embeddings by Natural Language Inference _ by Edward Ma _ Towards Data Science-Grobid-out.txt",
+    "title": "txt",
+    "score": 0.7030776312124537,
+    "method": "tfidf"
+  },
+  "13": {
+    "filename": "A Deep Learning Approach to Improve Emotion-Cause Extraction \u2013 DAIR.AI-Grobid-out.txt",
+    "title": "AI",
+    "score": 0.8993088785564666,
+    "method": "tfidf"
+  },
+  "14": {
+    "filename": "Day 103_ NLP Papers Summary - Utilizing BERT for Aspect-Based Sentiment Analysis via Constructing Auxiliary Sentence - Ryan Ong-Grobid-out.txt",
+    "title": "txt",
+    "score": 0.6803941453976076,
+    "method": "tfidf"
+  },
+  "15": {
+    "filename": "Day 124_ NLP Papers Summary - TLDR_ Extreme Summarization of Scientific Documents - Ryan Ong-Grobid-out.txt",
+    "title": "txt",
+    "score": 0.717237449410821,
+    "method": "tfidf"
+  }
+}

@@ -1,0 +1,1796 @@
+{
+  "0": {
+    "filename": "11.Investigating Softmax Tempering for Training Neural Machine Translation Models-Grobid-out.txt",
+    "title": "Investigating Softmax Tempering for Training Neural Machine Translation Models",
+    "score": 0.8050713043146738,
+    "method": "tfidf"
+  },
+  "2": {
+    "filename": "7.Towards Making the Most of Dialogue Characteristics for Neural Chat Translation-Grobid-out.txt",
+    "title": "Towards Making the Most of Dialogue Characteristics for Neural Chat Translation",
+    "score": 0.6998351065113827,
+    "method": "tfidf"
+  },
+  "3": {
+    "filename": "91.HW-TSC\u2019s Submissions to the WMT21 Biomedical Translation Task-Grobid-out.txt",
+    "title": "HW-TSC\u2019s Submissions to the WMT21 Biomedical Translation Task",
+    "score": 0.6104258810261527,
+    "method": "tfidf"
+  },
+  "4": {
+    "filename": "21.Product Review Translation using Phrase Replacement and Attention Guided Noise Augmentation-Grobid-out.txt",
+    "title": "Product Review Translation using Phrase Replacement and Attention Guided Noise Augmentation",
+    "score": 0.5443208208741178,
+    "method": "tfidf"
+  },
+  "5": {
+    "filename": "95.Towards Modeling the Style of Translators in Neural Machine Translation-Grobid-out.txt",
+    "title": "Towards Modeling the Style of Translators in Neural Machine Translation",
+    "score": 0.6119035095707608,
+    "method": "tfidf"
+  },
+  "6": {
+    "filename": "88.High Frequent In-domain Words Segmentation and Forward Translation for the WMT21 Biomedical Task-Grobid-out.txt",
+    "title": "High Frequent In-domain Words Segmentation and Forward Translation for the WMT21 Biomedical Task",
+    "score": 0.3462540380537566,
+    "method": "tfidf"
+  },
+  "7": {
+    "filename": "7.The TALP-UPC Participation in WMT21 News Translation Task an mBART-based NMT Approach-Grobid-out.txt",
+    "title": "The TALP-UPC Participation in WMT21 News Translation Task an mBART-based NMT Approach",
+    "score": 0.43984895322260764,
+    "method": "tfidf"
+  },
+  "8": {
+    "filename": "314.Multi-Task Learning with Shared Encoder for Non-Autoregressive Machine Translation-Grobid-out.txt",
+    "title": "Multi-Task Learning with Shared Encoder for Non-Autoregressive Machine Translation",
+    "score": 0.3621100261996518,
+    "method": "tfidf"
+  },
+  "9": {
+    "filename": "312.Self-Training for Unsupervised Neural Machine Translation in Unbalanced Training Data Scenarios-Grobid-out.txt",
+    "title": "Self-Training for Unsupervised Neural Machine Translation in Unbalanced Training Data Scenarios",
+    "score": 0.6644902263577579,
+    "method": "tfidf"
+  },
+  "10": {
+    "filename": "459.Distributionally Robust Multilingual Machine Translation-Grobid-out.txt",
+    "title": "Distributionally Robust Multilingual Machine Translation",
+    "score": 0.5836990077518354,
+    "method": "tfidf"
+  },
+  "11": {
+    "filename": "66.Do Context-Aware Translation Models Pay the Right Attention-Grobid-out.txt",
+    "title": "Do Context-Aware Translation Models Pay the Right Attention",
+    "score": 0.6327418514732367,
+    "method": "tfidf"
+  },
+  "12": {
+    "filename": "38.HW-TSC\u2019s Participation in the WMT 2021 Triangular MT Shared Task-Grobid-out.txt",
+    "title": "HW-TSC\u2019s Participation in the WMT 2021 Triangular MT Shared Task",
+    "score": 0.6567858545618173,
+    "method": "tfidf"
+  },
+  "14": {
+    "filename": null,
+    "title": null,
+    "score": 0.5575903058052063,
+    "method": "manual"
+  },
+  "15": {
+    "filename": "572.Vocabulary Learning via Optimal Transport for Neural Machine Translation-Grobid-out.txt",
+    "title": "Vocabulary Learning via Optimal Transport for Neural Machine Translation",
+    "score": 0.5712514909706685,
+    "method": "tfidf"
+  },
+  "16": {
+    "filename": "253.SentSim Crosslingual Semantic Evaluation of Machine Translation-Grobid-out.txt",
+    "title": "SentSim Crosslingual Semantic Evaluation of Machine Translation",
+    "score": 0.8367090917331421,
+    "method": "tfidf"
+  },
+  "17": {
+    "filename": "3.Investigating Active Learning in Interactive Neural Machine Translation-Grobid-out.txt",
+    "title": "Investigating Active Learning in Interactive Neural Machine Translation",
+    "score": 0.7162576652846484,
+    "method": "tfidf"
+  },
+  "18": {
+    "filename": "13.MiSS@WMT21 Contrastive Learning-reinforced Domain Adaptation in Neural Machine Translation-Grobid-out.txt",
+    "title": "MiSS@WMT21 Contrastive Learning-reinforced Domain Adaptation in Neural Machine Translation",
+    "score": 0.5026113361606036,
+    "method": "tfidf"
+  },
+  "19": {
+    "filename": "43.CUNI systems for WMT21 Multilingual Low-Resource Translation for Indo-European Languages Shared Task-Grobid-out.txt",
+    "title": "CUNI systems for WMT21 Multilingual Low-Resource Translation for Indo-European Languages Shared Task",
+    "score": 0.750557450327312,
+    "method": "tfidf"
+  },
+  "20": {
+    "filename": "2.Findings of the 2021 Conference on Machine Translation (WMT21)-Grobid-out.txt",
+    "title": "Findings of the 2021 Conference on Machine Translation (WMT21)",
+    "score": 0.32062124188035246,
+    "method": "tfidf"
+  },
+  "21": {
+    "filename": "225.Cascade versus Direct Speech Translation Do the Differences Still Make a Difference-Grobid-out.txt",
+    "title": "Cascade versus Direct Speech Translation Do the Differences Still Make a Difference",
+    "score": 0.5696439747286903,
+    "method": "tfidf"
+  },
+  "22": {
+    "filename": "96.TUDa at WMT21 Sentence-Level Direct Assessment with Adapters-Grobid-out.txt",
+    "title": "TUDa at WMT21 Sentence-Level Direct Assessment with Adapters",
+    "score": 0.7051923901131927,
+    "method": "tfidf"
+  },
+  "23": {
+    "filename": "27.The NiuTrans Machine Translation Systems for WMT21-Grobid-out.txt",
+    "title": "The NiuTrans Machine Translation Systems for WMT21",
+    "score": 0.7005980365364842,
+    "method": "tfidf"
+  },
+  "24": {
+    "filename": "329.Improving Speech Translation by Understanding and Learning from the Auxiliary Text Translation Task-Grobid-out.txt",
+    "title": "Improving Speech Translation by Understanding and Learning from the Auxiliary Text Translation Task",
+    "score": 0.5111579469780679,
+    "method": "tfidf"
+  },
+  "25": {
+    "filename": "266.Learning to Rewrite for Non-Autoregressive Neural Machine Translation-Grobid-out.txt",
+    "title": "Learning to Rewrite for Non-Autoregressive Neural Machine Translation",
+    "score": 0.7196243942665944,
+    "method": "tfidf"
+  },
+  "26": {
+    "filename": "55.Multilingual Machine Translation Systems from Microsoft for WMT21 Shared Task-Grobid-out.txt",
+    "title": "Multilingual Machine Translation Systems from Microsoft for WMT21 Shared Task",
+    "score": 0.5368504411083511,
+    "method": "tfidf"
+  },
+  "27": {
+    "filename": "37.ISTIC\u2019s Triangular Machine Translation System for WMT2021-Grobid-out.txt",
+    "title": "ISTIC\u2019s Triangular Machine Translation System for WMT2021",
+    "score": 0.48844763746529524,
+    "method": "tfidf"
+  },
+  "28": {
+    "filename": null,
+    "title": null,
+    "score": 0.4779616594314575,
+    "method": "manual"
+  },
+  "29": {
+    "filename": "20.Modeling Target-side Inflection in Placeholder Translation-Grobid-out.txt",
+    "title": "Modeling Target-side Inflection in Placeholder Translation",
+    "score": 0.6477132125822652,
+    "method": "tfidf"
+  },
+  "30": {
+    "filename": "104.The IICT-Yverdon System for the WMT 2021 Unsupervised MT and Very Low Resource Supervised MT Task-Grobid-out.txt",
+    "title": "The IICT-Yverdon System for the WMT 2021 Unsupervised MT and Very Low Resource Supervised MT Task",
+    "score": 0.729378890470341,
+    "method": "tfidf"
+  },
+  "31": {
+    "filename": "24.WeChat Neural Machine Translation Systems for WMT21-Grobid-out.txt",
+    "title": "WeChat Neural Machine Translation Systems for WMT21",
+    "score": 0.6657742215052119,
+    "method": "tfidf"
+  },
+  "33": {
+    "filename": "93.HW-TSC\u2019s Participation at WMT 2021 Quality Estimation Shared Task-Grobid-out.txt",
+    "title": "HW-TSC\u2019s Participation at WMT 2021 Quality Estimation Shared Task",
+    "score": 0.5804238656798154,
+    "method": "tfidf"
+  },
+  "34": {
+    "filename": "102.Direct Exploitation of Attention Weights for Translation Quality Estimation-Grobid-out.txt",
+    "title": "Direct Exploitation of Attention Weights for Translation Quality Estimation",
+    "score": 0.7716295044996118,
+    "method": "tfidf"
+  },
+  "35": {
+    "filename": "82.Dynamic Terminology Integration for COVID-19 and Other Emerging Domains-Grobid-out.txt",
+    "title": "Dynamic Terminology Integration for COVID-19 and Other Emerging Domains",
+    "score": 0.5701862106671997,
+    "method": "tfidf"
+  },
+  "36": {
+    "filename": "3.Findings of the WMT 2021 Shared Task on Large-Scale Multilingual Machine Translation-Grobid-out.txt",
+    "title": "Findings of the WMT 2021 Shared Task on Large-Scale Multilingual Machine Translation",
+    "score": 0.5250953526771172,
+    "method": "tfidf"
+  },
+  "37": {
+    "filename": "445.Modeling Bilingual Conversational Characteristics for Neural Chat Translation-Grobid-out.txt",
+    "title": "Modeling Bilingual Conversational Characteristics for Neural Chat Translation",
+    "score": 0.5011250837525674,
+    "method": "tfidf"
+  },
+  "38": {
+    "filename": null,
+    "title": null,
+    "score": 0.5793424248695374,
+    "method": "manual"
+  },
+  "39": {
+    "filename": "309.Pruning-then-Expanding Model for Domain Adaptation of Neural Machine Translation-Grobid-out.txt",
+    "title": "Pruning-then-Expanding Model for Domain Adaptation of Neural Machine Translation",
+    "score": 0.7035956668924203,
+    "method": "tfidf"
+  },
+  "40": {
+    "filename": "313.Smart-Start Decoding for Neural Machine Translation-Grobid-out.txt",
+    "title": "Smart-Start Decoding for Neural Machine Translation",
+    "score": 0.5306048912195037,
+    "method": "tfidf"
+  },
+  "41": {
+    "filename": "8.CUNI Systems in WMT21 Revisiting Backtranslation Techniques for English-Czech NMT-Grobid-out.txt",
+    "title": "CUNI Systems in WMT21 Revisiting Backtranslation Techniques for English-Czech NMT",
+    "score": 0.4466847778721694,
+    "method": "tfidf"
+  },
+  "42": {
+    "filename": "577.Robust Open-Vocabulary Translation from Visual Text Representations-Grobid-out.txt",
+    "title": "Robust Open-Vocabulary Translation from Visual Text Representations",
+    "score": 0.6492217249715072,
+    "method": "tfidf"
+  },
+  "43": {
+    "filename": "58.To Ship or Not to Ship An Extensive Evaluation of Automatic Metrics for Machine Translation-Grobid-out.txt",
+    "title": "To Ship or Not to Ship An Extensive Evaluation of Automatic Metrics for Machine Translation",
+    "score": 0.40430774732008345,
+    "method": "tfidf"
+  },
+  "44": {
+    "filename": null,
+    "title": null,
+    "score": 0.5604318976402283,
+    "method": "manual"
+  },
+  "45": {
+    "filename": "9.Surprise Language Challenge Developing a Neural Machine Translation System between Pashto and English in Two Months-Grobid-out.txt",
+    "title": "Surprise Language Challenge Developing a Neural Machine Translation System between Pashto and English in Two Months",
+    "score": 0.5646082609871113,
+    "method": "tfidf"
+  },
+  "46": {
+    "filename": null,
+    "title": null,
+    "score": 0.6460500955581665,
+    "method": "manual"
+  },
+  "47": {
+    "filename": "70.When is Char Better Than Subword A Systematic Study of Segmentation Algorithms for Neural Machine Translation-Grobid-out.txt",
+    "title": "When is Char Better Than Subword A Systematic Study of Segmentation Algorithms for Neural Machine Translation",
+    "score": 0.7585926018590418,
+    "method": "tfidf"
+  },
+  "48": {
+    "filename": "79.Lingua Custodia\u2019s Participation at the WMT 2021 Machine Translation Using Terminologies Shared Task-Grobid-out.txt",
+    "title": "Lingua Custodia\u2019s Participation at the WMT 2021 Machine Translation Using Terminologies Shared Task",
+    "score": 0.4776126296206907,
+    "method": "tfidf"
+  },
+  "49": {
+    "filename": "5.Neural Machine Translation in Low-Resource Setting a Case Study in English-Marathi Pair-Grobid-out.txt",
+    "title": "Neural Machine Translation in Low-Resource Setting a Case Study in English-Marathi Pair",
+    "score": 0.6483089909938233,
+    "method": "tfidf"
+  },
+  "50": {
+    "filename": "5.The University of Edinburgh\u2019s English-German and English-Hausa Submissions to the WMT21 News Translation Task-Grobid-out.txt",
+    "title": "The University of Edinburgh\u2019s English-German and English-Hausa Submissions to the WMT21 News Translation Task",
+    "score": 0.453205287581666,
+    "method": "tfidf"
+  },
+  "51": {
+    "filename": "160.Active2 Learning Actively reducing redundancies in Active Learning methods for Sequence Tagging and Machine Translation-Grobid-out.txt",
+    "title": "Active2 Learning Actively reducing redundancies in Active Learning methods for Sequence Tagging and Machine Translation",
+    "score": 0.519846097964015,
+    "method": "tfidf"
+  },
+  "52": {
+    "filename": "462.Context-aware Decoder for Neural Machine Translation using a Target-side Document-Level Language Model-Grobid-out.txt",
+    "title": "Context-aware Decoder for Neural Machine Translation using a Target-side Document-Level Language Model",
+    "score": 0.624135567067331,
+    "method": "tfidf"
+  },
+  "53": {
+    "filename": "18.Data Augmentation with Unsupervised Machine Translation Improves the Structural Similarity of Cross-lingual Word Embeddings-Grobid-out.txt",
+    "title": "Data Augmentation with Unsupervised Machine Translation Improves the Structural Similarity of Cross-lingual Word Embeddings",
+    "score": 0.6917883246768748,
+    "method": "tfidf"
+  },
+  "54": {
+    "filename": "26.Learning Language Specific Sub-network for Multilingual Machine Translation-Grobid-out.txt",
+    "title": "Learning Language Specific Sub-network for Multilingual Machine Translation",
+    "score": 0.8272869744545152,
+    "method": "tfidf"
+  },
+  "55": {
+    "filename": "54.TenTrans Large-Scale Multilingual Machine Translation System for WMT21-Grobid-out.txt",
+    "title": "TenTrans Large-Scale Multilingual Machine Translation System for WMT21",
+    "score": 0.5382255138847547,
+    "method": "tfidf"
+  },
+  "56": {
+    "filename": "113.Regressive Ensemble for Machine Translation Quality Evaluation-Grobid-out.txt",
+    "title": "Regressive Ensemble for Machine Translation Quality Evaluation",
+    "score": 0.44767304410690106,
+    "method": "tfidf"
+  },
+  "57": {
+    "filename": "84.PROMT Systems for WMT21 Terminology Translation Task-Grobid-out.txt",
+    "title": "PROMT Systems for WMT21 Terminology Translation Task",
+    "score": 0.4185627250864349,
+    "method": "tfidf"
+  },
+  "58": {
+    "filename": "109.NoahNMT at WMT 2021 Dual Transfer for Very Low Resource Supervised Machine Translation-Grobid-out.txt",
+    "title": "NoahNMT at WMT 2021 Dual Transfer for Very Low Resource Supervised Machine Translation",
+    "score": 0.5163730703120781,
+    "method": "tfidf"
+  },
+  "59": {
+    "filename": "80.Kakao Enterprise\u2019s WMT21 Machine Translation Using Terminologies Task Submission-Grobid-out.txt",
+    "title": "Kakao Enterprise\u2019s WMT21 Machine Translation Using Terminologies Task Submission",
+    "score": 0.6157180792687198,
+    "method": "tfidf"
+  },
+  "60": {
+    "filename": "115.RoBLEURT Submission for WMT2021 Metrics Task-Grobid-out.txt",
+    "title": "RoBLEURT Submission for WMT2021 Metrics Task",
+    "score": 0.6607710444490058,
+    "method": "tfidf"
+  },
+  "61": {
+    "filename": "42.Machine Translation of Low-Resource Indo-European Languages-Grobid-out.txt",
+    "title": "Machine Translation of Low-Resource Indo-European Languages",
+    "score": 0.5330647821050644,
+    "method": "tfidf"
+  },
+  "62": {
+    "filename": "581.Uncertainty-Aware Balancing for Multilingual and Multi-Domain Neural Machine Translation Training-Grobid-out.txt",
+    "title": "Uncertainty-Aware Balancing for Multilingual and Multi-Domain Neural Machine Translation Training",
+    "score": 0.6587837172083979,
+    "method": "tfidf"
+  },
+  "63": {
+    "filename": "223.Breaking the Corpus Bottleneck for Context-Aware Neural Machine Translation with Cross-Task Pre-training-Grobid-out.txt",
+    "title": "Breaking the Corpus Bottleneck for Context-Aware Neural Machine Translation with Cross-Task Pre-training",
+    "score": 0.6427124334077609,
+    "method": "tfidf"
+  },
+  "64": {
+    "filename": "124.GFST Gender-Filtered Self-Training for More Accurate Gender in Translation-Grobid-out.txt",
+    "title": "GFST Gender-Filtered Self-Training for More Accurate Gender in Translation",
+    "score": 0.6723259316756565,
+    "method": "tfidf"
+  },
+  "65": {
+    "filename": "72.Findings of the WMT 2021 Shared Task on Quality Estimation-Grobid-out.txt",
+    "title": "Findings of the WMT 2021 Shared Task on Quality Estimation",
+    "score": 0.3205285194222224,
+    "method": "tfidf"
+  },
+  "66": {
+    "filename": "371.GWLAN General Word-Level AutocompletioN for Computer-Aided Translation-Grobid-out.txt",
+    "title": "GWLAN General Word-Level AutocompletioN for Computer-Aided Translation",
+    "score": 0.5400943614187126,
+    "method": "tfidf"
+  },
+  "67": {
+    "filename": "25.An Alignment-Based Approach to Semi-Supervised Bilingual Lexicon Induction with Small Parallel Corpora-Grobid-out.txt",
+    "title": "An Alignment-Based Approach to Semi-Supervised Bilingual Lexicon Induction with Small Parallel Corpora",
+    "score": 0.6170903293924817,
+    "method": "tfidf"
+  },
+  "68": {
+    "filename": "35.Netmarble AI Center\u2019s WMT21 Automatic Post-Editing Shared Task Submission-Grobid-out.txt",
+    "title": "Netmarble AI Center\u2019s WMT21 Automatic Post-Editing Shared Task Submission",
+    "score": 0.5251786769098158,
+    "method": "tfidf"
+  },
+  "69": {
+    "filename": "74.Results of the WMT21 Metrics Shared Task Evaluating Metrics with Expert-based Human Evaluations on TED and News Domain-Grobid-out.txt",
+    "title": "Results of the WMT21 Metrics Shared Task Evaluating Metrics with Expert-based Human Evaluations on TED and News Domain",
+    "score": 0.6907313057251296,
+    "method": "tfidf"
+  },
+  "70": {
+    "filename": "69.Findings of the WMT 2021 Shared Task on Efficient Translation-Grobid-out.txt",
+    "title": "Findings of the WMT 2021 Shared Task on Efficient Translation",
+    "score": 0.33401217814696843,
+    "method": "tfidf"
+  },
+  "71": {
+    "filename": "105.Unsupervised Translation of German\u2013Lower Sorbian Exploring Training and Novel Transfer Methods on a Low-Resource Language-Grobid-out.txt",
+    "title": "Unsupervised Translation of German\u2013Lower Sorbian Exploring Training and Novel Transfer Methods on a Low-Resource Language",
+    "score": 0.7498029306804919,
+    "method": "tfidf"
+  },
+  "72": {
+    "filename": "60.A Fine-Grained Analysis of BERTScore-Grobid-out.txt",
+    "title": "A Fine-Grained Analysis of BERTScore",
+    "score": 0.75559192938841,
+    "method": "tfidf"
+  },
+  "73": {
+    "filename": "48.To Optimize, or Not to Optimize, That Is the Question TelU-KU Models for WMT21 Large-Scale Multilingual Machine Translation-Grobid-out.txt",
+    "title": "To Optimize, or Not to Optimize, That Is the Question TelU-KU Models for WMT21 Large-Scale Multilingual Machine Translation",
+    "score": 0.5804139685020023,
+    "method": "tfidf"
+  },
+  "74": {
+    "filename": "226.Unsupervised Neural Machine Translation for Low-Resource Domains via Meta-Learning-Grobid-out.txt",
+    "title": "Unsupervised Neural Machine Translation for Low-Resource Domains via Meta-Learning",
+    "score": 0.7773796192815435,
+    "method": "tfidf"
+  },
+  "75": {
+    "filename": "32.Multilingual Agreement for Multilingual Neural Machine Translation-Grobid-out.txt",
+    "title": "Multilingual Agreement for Multilingual Neural Machine Translation",
+    "score": 0.46771309797798305,
+    "method": "tfidf"
+  },
+  "76": {
+    "filename": "44.Transfer Learning with Shallow Decoders BSC at WMT2021\u2019s Multilingual Low-Resource Translation for Indo-European Languages Shared Task-Grobid-out.txt",
+    "title": "Transfer Learning with Shallow Decoders BSC at WMT2021\u2019s Multilingual Low-Resource Translation for Indo-European Languages Shared Task",
+    "score": 0.352458266211839,
+    "method": "tfidf"
+  },
+  "77": {
+    "filename": "51.Back-translation for Large-Scale Multilingual Machine Translation-Grobid-out.txt",
+    "title": "Back-translation for Large-Scale Multilingual Machine Translation",
+    "score": 0.5585927668123244,
+    "method": "tfidf"
+  },
+  "78": {
+    "filename": "8.NeurST Neural Speech Translation Toolkit-Grobid-out.txt",
+    "title": "NeurST Neural Speech Translation Toolkit",
+    "score": 0.661972051446793,
+    "method": "tfidf"
+  },
+  "79": {
+    "filename": "22.HW-TSC\u2019s Participation in the WMT 2021 News Translation Shared Task-Grobid-out.txt",
+    "title": "HW-TSC\u2019s Participation in the WMT 2021 News Translation Shared Task",
+    "score": 0.7029734714630752,
+    "method": "tfidf"
+  },
+  "80": {
+    "filename": "18.Neural Machine Translation without Embeddings-Grobid-out.txt",
+    "title": "Neural Machine Translation without Embeddings",
+    "score": 0.6621055153073717,
+    "method": "tfidf"
+  },
+  "81": {
+    "filename": "264.Improving Neural Machine Translation by Bidirectional Training-Grobid-out.txt",
+    "title": "Improving Neural Machine Translation by Bidirectional Training",
+    "score": 0.6626930099945424,
+    "method": "tfidf"
+  },
+  "82": {
+    "filename": "478.Rule-based Morphological Inflection Improves Neural Terminology Translation-Grobid-out.txt",
+    "title": "Rule-based Morphological Inflection Improves Neural Terminology Translation",
+    "score": 0.804851930096166,
+    "method": "tfidf"
+  },
+  "83": {
+    "filename": "23.Introducing Mouse Actions into Interactive-Predictive Neural Machine Translation-Grobid-out.txt",
+    "title": "Introducing Mouse Actions into Interactive-Predictive Neural Machine Translation",
+    "score": 0.512299144610527,
+    "method": "tfidf"
+  },
+  "84": {
+    "filename": "460.Training Data Augmentation for Code-Mixed Translation-Grobid-out.txt",
+    "title": "Training Data Augmentation for Code-Mixed Translation",
+    "score": 0.45853413251431846,
+    "method": "tfidf"
+  },
+  "85": {
+    "filename": "12.Illinois Japanese \u2194 English News Translation for WMT 2021-Grobid-out.txt",
+    "title": "Illinois Japanese \u2194 English News Translation for WMT 2021",
+    "score": 0.47472704834512797,
+    "method": "tfidf"
+  },
+  "86": {
+    "filename": "126.mT6 Multilingual Pretrained Text-to-Text Transformer with Translation Pairs-Grobid-out.txt",
+    "title": "mT6 Multilingual Pretrained Text-to-Text Transformer with Translation Pairs",
+    "score": 0.7066552157845404,
+    "method": "tfidf"
+  },
+  "87": {
+    "filename": "25.Small Model and In-Domain Data Are All You Need-Grobid-out.txt",
+    "title": "Small Model and In-Domain Data Are All You Need",
+    "score": 0.31050434129190535,
+    "method": "tfidf"
+  },
+  "88": {
+    "filename": "102.Improving Zero-Shot Translation by Disentangling Positional Information-Grobid-out.txt",
+    "title": "Improving Zero-Shot Translation by Disentangling Positional Information",
+    "score": 0.7021029951221932,
+    "method": "tfidf"
+  },
+  "89": {
+    "filename": "48.Adaptive Nearest Neighbor Machine Translation-Grobid-out.txt",
+    "title": "Adaptive Nearest Neighbor Machine Translation",
+    "score": 0.823001191142006,
+    "method": "tfidf"
+  },
+  "90": {
+    "filename": "38.Many-to-English Machine Translation Tools, Data, and Pretrained Models-Grobid-out.txt",
+    "title": "Many-to-English Machine Translation Tools, Data, and Pretrained Models",
+    "score": 0.34314958577957577,
+    "method": "tfidf"
+  },
+  "91": {
+    "filename": "6.Translating Headers of Tabular Data A Pilot Study of Schema Translation-Grobid-out.txt",
+    "title": "Translating Headers of Tabular Data A Pilot Study of Schema Translation",
+    "score": 0.8116178814341194,
+    "method": "tfidf"
+  },
+  "92": {
+    "filename": "92.Analyzing the Source and Target Contributions to Predictions in Neural Machine Translation-Grobid-out.txt",
+    "title": "Analyzing the Source and Target Contributions to Predictions in Neural Machine Translation",
+    "score": 0.5557550218546169,
+    "method": "tfidf"
+  },
+  "93": {
+    "filename": "3.Zero-Shot Cross-Lingual Transfer of Neural Machine Translation with Multilingual Pretrained Encoders-Grobid-out.txt",
+    "title": "Zero-Shot Cross-Lingual Transfer of Neural Machine Translation with Multilingual Pretrained Encoders",
+    "score": 0.7793640545516143,
+    "method": "tfidf"
+  },
+  "94": {
+    "filename": "92.Assessing Reference-Free Peer Evaluation for Machine Translation-Grobid-out.txt",
+    "title": "Assessing Reference-Free Peer Evaluation for Machine Translation",
+    "score": 0.5540188031057811,
+    "method": "tfidf"
+  },
+  "95": {
+    "filename": "664.Document Graph for Neural Machine Translation-Grobid-out.txt",
+    "title": "Document Graph for Neural Machine Translation",
+    "score": 0.6042046509981982,
+    "method": "tfidf"
+  },
+  "96": {
+    "filename": "8.Probing Word Translations in the Transformer and Trading Decoder for Encoder Layers-Grobid-out.txt",
+    "title": "Probing Word Translations in the Transformer and Trading Decoder for Encoder Layers",
+    "score": 0.6785686994558378,
+    "method": "tfidf"
+  },
+  "97": {
+    "filename": "15.Adam Mickiewicz University\u2019s English-Hausa Submissions to the WMT 2021 News Translation Task-Grobid-out.txt",
+    "title": "Adam Mickiewicz University\u2019s English-Hausa Submissions to the WMT 2021 News Translation Task",
+    "score": 0.5080637509688694,
+    "method": "tfidf"
+  },
+  "98": {
+    "filename": "29.T4T Solution WMT21 Similar Language Task for the Spanish-Catalan and Spanish-Portuguese Language Pair-Grobid-out.txt",
+    "title": "T4T Solution WMT21 Similar Language Task for the Spanish-Catalan and Spanish-Portuguese Language Pair",
+    "score": 0.6204100847244263,
+    "method": "semantic"
+  },
+  "99": {
+    "filename": "474.Improving Simultaneous Translation by Incorporating Pseudo-References with Fewer Reorderings-Grobid-out.txt",
+    "title": "Improving Simultaneous Translation by Incorporating Pseudo-References with Fewer Reorderings",
+    "score": 0.5166089697091858,
+    "method": "tfidf"
+  },
+  "100": {
+    "filename": "243.Online Learning Meets Machine Translation Evaluation Finding the Best Systems with the Least Human Effort-Grobid-out.txt",
+    "title": "Online Learning Meets Machine Translation Evaluation Finding the Best Systems with the Least Human Effort",
+    "score": 0.36623418278223413,
+    "method": "tfidf"
+  },
+  "101": {
+    "filename": "800.Investigating the Helpfulness of Word-Level Quality Estimation for Post-Editing Machine Translation Output-Grobid-out.txt",
+    "title": "Investigating the Helpfulness of Word-Level Quality Estimation for Post-Editing Machine Translation Output",
+    "score": 0.619851522454808,
+    "method": "tfidf"
+  },
+  "102": {
+    "filename": "117.Pruning Neural Machine Translation for Speed Using Group Lasso-Grobid-out.txt",
+    "title": "Pruning Neural Machine Translation for Speed Using Group Lasso",
+    "score": 0.6157114633073307,
+    "method": "tfidf"
+  },
+  "103": {
+    "filename": "259.Recurrent Attention for Neural Machine Translation-Grobid-out.txt",
+    "title": "Recurrent Attention for Neural Machine Translation",
+    "score": 0.7308525110364372,
+    "method": "tfidf"
+  },
+  "104": {
+    "filename": "797.Chinese Opinion Role Labeling with Corpus Translation A Pivot Study-Grobid-out.txt",
+    "title": "Chinese Opinion Role Labeling with Corpus Translation A Pivot Study",
+    "score": 0.5082116501335857,
+    "method": "tfidf"
+  },
+  "105": {
+    "filename": "24.Neural Machine Translation with Inflected Lexicon-Grobid-out.txt",
+    "title": "Neural Machine Translation with Inflected Lexicon",
+    "score": 0.6684234910665663,
+    "method": "tfidf"
+  },
+  "106": {
+    "filename": null,
+    "title": null,
+    "score": 0.5484378933906555,
+    "method": "manual"
+  },
+  "107": {
+    "filename": "105.Diverse Pretrained Context Encodings Improve Document Translation-Grobid-out.txt",
+    "title": "Diverse Pretrained Context Encodings Improve Document Translation",
+    "score": 0.6300293681968645,
+    "method": "tfidf"
+  },
+  "108": {
+    "filename": "104.Lightweight Adapter Tuning for Multilingual Speech Translation-Grobid-out.txt",
+    "title": "Lightweight Adapter Tuning for Multilingual Speech Translation",
+    "score": 0.5999664937830301,
+    "method": "tfidf"
+  },
+  "109": {
+    "filename": "19.The Case for Translation-Invariant Self-Attention in Transformer-Based Language Models-Grobid-out.txt",
+    "title": "The Case for Translation-Invariant Self-Attention in Transformer-Based Language Models",
+    "score": 0.5460564295674534,
+    "method": "tfidf"
+  },
+  "110": {
+    "filename": "119.Learning Feature Weights using Reward Modeling for Denoising Parallel Corpora-Grobid-out.txt",
+    "title": "Learning Feature Weights using Reward Modeling for Denoising Parallel Corpora",
+    "score": 0.6272491028239853,
+    "method": "tfidf"
+  },
+  "111": {
+    "filename": null,
+    "title": null,
+    "score": 0.5749709010124207,
+    "method": "manual"
+  },
+  "112": {
+    "filename": "261.Enlivening Redundant Heads in Multi-head Self-attention for Machine Translation-Grobid-out.txt",
+    "title": "Enlivening Redundant Heads in Multi-head Self-attention for Machine Translation",
+    "score": 0.7206055702747488,
+    "method": "tfidf"
+  },
+  "113": {
+    "filename": "534.Multilingual Unsupervised Neural Machine Translation with Denoising Adapters-Grobid-out.txt",
+    "title": "Multilingual Unsupervised Neural Machine Translation with Denoising Adapters",
+    "score": 0.8883226371204441,
+    "method": "tfidf"
+  },
+  "114": {
+    "filename": "26.The Mininglamp Machine Translation System for WMT21-Grobid-out.txt",
+    "title": "The Mininglamp Machine Translation System for WMT21",
+    "score": 0.38767694089388804,
+    "method": "tfidf"
+  },
+  "115": {
+    "filename": "537.A Generative Framework for Simultaneous Machine Translation-Grobid-out.txt",
+    "title": "A Generative Framework for Simultaneous Machine Translation",
+    "score": 0.7762995158213173,
+    "method": "tfidf"
+  },
+  "116": {
+    "filename": "90.Harnessing Multilinguality in Unsupervised Machine Translation for Rare Languages-Grobid-out.txt",
+    "title": "Harnessing Multilinguality in Unsupervised Machine Translation for Rare Languages",
+    "score": 0.5724172072040645,
+    "method": "tfidf"
+  },
+  "117": {
+    "filename": "2.AligNART Non-autoregressive Neural Machine Translation by Jointly Learning to Estimate Alignment and Translate-Grobid-out.txt",
+    "title": "AligNART Non-autoregressive Neural Machine Translation by Jointly Learning to Estimate Alignment and Translate",
+    "score": 0.7550296328456758,
+    "method": "tfidf"
+  },
+  "118": {
+    "filename": "5.Cross Attention Augmented Transducer Networks for Simultaneous Translation-Grobid-out.txt",
+    "title": "Cross Attention Augmented Transducer Networks for Simultaneous Translation",
+    "score": 0.7003736266244877,
+    "method": "tfidf"
+  },
+  "119": {
+    "filename": "21.Tencent Translation System for the WMT21 News Translation Task-Grobid-out.txt",
+    "title": "Tencent Translation System for the WMT21 News Translation Task",
+    "score": 0.6743327931936698,
+    "method": "tfidf"
+  },
+  "120": {
+    "filename": "535.BERT, mBERT, or BiBERT A Study on Contextualized Embeddings for Neural Machine Translation-Grobid-out.txt",
+    "title": "BERT, mBERT, or BiBERT A Study on Contextualized Embeddings for Neural Machine Translation",
+    "score": 0.7359966390793949,
+    "method": "tfidf"
+  },
+  "121": {
+    "filename": "314.Multi-Task Learning with Shared Encoder for Non-Autoregressive Machine Translation-Grobid-out.txt",
+    "title": "Multi-Task Learning with Shared Encoder for Non-Autoregressive Machine Translation",
+    "score": 0.8842897969469429,
+    "method": "tfidf"
+  },
+  "122": {
+    "filename": "130.HintedBT Augmenting Back-Translation with Quality and Transliteration Hints-Grobid-out.txt",
+    "title": "HintedBT Augmenting Back-Translation with Quality and Transliteration Hints",
+    "score": 0.8337869711019664,
+    "method": "tfidf"
+  },
+  "123": {
+    "filename": "57.On the Stability of System Rankings at WMT-Grobid-out.txt",
+    "title": "On the Stability of System Rankings at WMT",
+    "score": 0.5160818191661085,
+    "method": "tfidf"
+  },
+  "124": {
+    "filename": "34.ChrEnTranslate Cherokee-English Machine Translation Demo with Quality Estimation and Corrective Feedback-Grobid-out.txt",
+    "title": "ChrEnTranslate Cherokee-English Machine Translation Demo with Quality Estimation and Corrective Feedback",
+    "score": 0.5140237475712078,
+    "method": "tfidf"
+  },
+  "125": {
+    "filename": "670.Rethinking Data Augmentation for Low-Resource Neural Machine Translation A Multi-Task Learning Approach-Grobid-out.txt",
+    "title": "Rethinking Data Augmentation for Low-Resource Neural Machine Translation A Multi-Task Learning Approach",
+    "score": 0.7541900177563954,
+    "method": "tfidf"
+  },
+  "126": {
+    "filename": "33.NITK-UoH Tamil-Telugu Machine Translation Systems for the WMT21 Similar Language Translation Task-Grobid-out.txt",
+    "title": "NITK-UoH Tamil-Telugu Machine Translation Systems for the WMT21 Similar Language Translation Task",
+    "score": 0.7578501105308533,
+    "method": "semantic"
+  },
+  "127": {
+    "filename": "95.The JHU-Microsoft Submission for WMT21 Quality Estimation Shared Task-Grobid-out.txt",
+    "title": "The JHU-Microsoft Submission for WMT21 Quality Estimation Shared Task",
+    "score": 0.646652591163747,
+    "method": "tfidf"
+  },
+  "128": {
+    "filename": "3.IntelliCAT Intelligent Machine Translation Post-Editing with Quality Estimation and Translation Suggestion-Grobid-out.txt",
+    "title": "IntelliCAT Intelligent Machine Translation Post-Editing with Quality Estimation and Translation Suggestion",
+    "score": 0.7631084726329586,
+    "method": "tfidf"
+  },
+  "129": {
+    "filename": "50.The LMU Munich System for the WMT 2021 Large-Scale Multilingual Machine Translation Shared Task-Grobid-out.txt",
+    "title": "The LMU Munich System for the WMT 2021 Large-Scale Multilingual Machine Translation Shared Task",
+    "score": 0.34267329878427744,
+    "method": "tfidf"
+  },
+  "130": {
+    "filename": "326.Mutual-Learning Improves End-to-End Speech Translation-Grobid-out.txt",
+    "title": "Mutual-Learning Improves End-to-End Speech Translation",
+    "score": 0.6154566174850129,
+    "method": "tfidf"
+  },
+  "131": {
+    "filename": "31.Low Resource Similar Language Neural Machine Translation for Tamil-Telugu-Grobid-out.txt",
+    "title": "Low Resource Similar Language Neural Machine Translation for Tamil-Telugu",
+    "score": 0.32005319624142076,
+    "method": "tfidf"
+  },
+  "132": {
+    "filename": "8.Integrating Unsupervised Data Generation into Self-Supervised Neural Machine Translation for Low-Resource Languages-Grobid-out.txt",
+    "title": "Integrating Unsupervised Data Generation into Self-Supervised Neural Machine Translation for Low-Resource Languages",
+    "score": 0.7615200951372872,
+    "method": "tfidf"
+  },
+  "133": {
+    "filename": "17.Sentiment-based Candidate Selection for NMT-Grobid-out.txt",
+    "title": "Sentiment-based Candidate Selection for NMT",
+    "score": 0.6392173904132603,
+    "method": "tfidf"
+  },
+  "134": {
+    "filename": "14.The Fujitsu DMATH Submissions for WMT21 News Translation and Biomedical Translation Tasks-Grobid-out.txt",
+    "title": "The Fujitsu DMATH Submissions for WMT21 News Translation and Biomedical Translation Tasks",
+    "score": 0.4844556511871751,
+    "method": "tfidf"
+  },
+  "135": {
+    "filename": "121.Simultaneous Neural Machine Translation with Constituent Label Prediction-Grobid-out.txt",
+    "title": "Simultaneous Neural Machine Translation with Constituent Label Prediction",
+    "score": 0.31473277551679646,
+    "method": "tfidf"
+  },
+  "136": {
+    "filename": "98.ICL\u2019s Submission to the WMT21 Critical Error Detection Shared Task-Grobid-out.txt",
+    "title": "ICL\u2019s Submission to the WMT21 Critical Error Detection Shared Task",
+    "score": 0.5285706317726807,
+    "method": "tfidf"
+  },
+  "137": {
+    "filename": "131.Translation-based Supervision for Policy Generation in Simultaneous Neural Machine Translation-Grobid-out.txt",
+    "title": "Translation-based Supervision for Policy Generation in Simultaneous Neural Machine Translation",
+    "score": 0.81155353886272,
+    "method": "tfidf"
+  },
+  "138": {
+    "filename": "75.Efficient Machine Translation with Model Pruning and Quantization-Grobid-out.txt",
+    "title": "Efficient Machine Translation with Model Pruning and Quantization",
+    "score": 0.507981320121105,
+    "method": "tfidf"
+  },
+  "139": {
+    "filename": "568.Neural Machine Translation with Monolingual Translation Memory-Grobid-out.txt",
+    "title": "Neural Machine Translation with Monolingual Translation Memory",
+    "score": 0.8574056274861713,
+    "method": "tfidf"
+  },
+  "140": {
+    "filename": "198.From Masked Language Modeling to Translation Non-English Auxiliary Tasks Improve Zero-shot Spoken Language Understanding-Grobid-out.txt",
+    "title": "From Masked Language Modeling to Translation Non-English Auxiliary Tasks Improve Zero-shot Spoken Language Understanding",
+    "score": 0.6126926036532332,
+    "method": "tfidf"
+  },
+  "141": {
+    "filename": "17.Improving the Lexical Ability of Pretrained Language Models for Unsupervised Neural Machine Translation-Grobid-out.txt",
+    "title": "Improving the Lexical Ability of Pretrained Language Models for Unsupervised Neural Machine Translation",
+    "score": 0.7878303125881082,
+    "method": "tfidf"
+  },
+  "142": {
+    "filename": "23.LISN @ WMT 2021-Grobid-out.txt",
+    "title": "LISN @ WMT 2021",
+    "score": 0.395659445347299,
+    "method": "tfidf"
+  },
+  "143": {
+    "filename": "106.The LMU Munich Systems for the WMT21 Unsupervised and Very Low-Resource Translation Task-Grobid-out.txt",
+    "title": "The LMU Munich Systems for the WMT21 Unsupervised and Very Low-Resource Translation Task",
+    "score": 0.5493609334878505,
+    "method": "tfidf"
+  },
+  "144": {
+    "filename": "156.Glancing Transformer for Non-Autoregressive Neural Machine Translation-Grobid-out.txt",
+    "title": "Glancing Transformer for Non-Autoregressive Neural Machine Translation",
+    "score": 0.8365712493168057,
+    "method": "tfidf"
+  },
+  "146": {
+    "filename": "87.FJWU Participation for the WMT21 Biomedical Translation Task-Grobid-out.txt",
+    "title": "FJWU Participation for the WMT21 Biomedical Translation Task",
+    "score": 0.4712731184586488,
+    "method": "tfidf"
+  },
+  "147": {
+    "filename": null,
+    "title": null,
+    "score": 0.6536784768104553,
+    "method": "manual"
+  },
+  "148": {
+    "filename": "118.Phrase-level Active Learning for Neural Machine Translation-Grobid-out.txt",
+    "title": "Phrase-level Active Learning for Neural Machine Translation",
+    "score": 0.7660054822978941,
+    "method": "tfidf"
+  },
+  "150": {
+    "filename": "505.Selective Knowledge Distillation for Neural Machine Translation-Grobid-out.txt",
+    "title": "Selective Knowledge Distillation for Neural Machine Translation",
+    "score": 0.6282700500555733,
+    "method": "tfidf"
+  },
+  "151": {
+    "filename": "674.Vision Matters When It Should Sanity Checking Multimodal Machine Translation Models-Grobid-out.txt",
+    "title": "Vision Matters When It Should Sanity Checking Multimodal Machine Translation Models",
+    "score": 0.49450997475765435,
+    "method": "tfidf"
+  },
+  "152": {
+    "filename": "34.A3-108 Machine Translation System for Similar Language Translation Shared Task 2021-Grobid-out.txt",
+    "title": "A3-108 Machine Translation System for Similar Language Translation Shared Task 2021",
+    "score": 0.41457705903732256,
+    "method": "tfidf"
+  },
+  "153": {
+    "filename": "125.\u201cWikily\u201d Supervised Neural Translation Tailored to Cross-Lingual Tasks-Grobid-out.txt",
+    "title": "\u201cWikily\u201d Supervised Neural Translation Tailored to Cross-Lingual Tasks",
+    "score": 0.6692882756580287,
+    "method": "tfidf"
+  },
+  "154": {
+    "filename": "151.Source and Target Bidirectional Knowledge Distillation for End-to-end Speech Translation-Grobid-out.txt",
+    "title": "Source and Target Bidirectional Knowledge Distillation for End-to-end Speech Translation",
+    "score": 0.8604670273770955,
+    "method": "tfidf"
+  },
+  "155": {
+    "filename": "23.Understanding the Properties of Minimum Bayes Risk Decoding in Neural Machine Translation-Grobid-out.txt",
+    "title": "Understanding the Properties of Minimum Bayes Risk Decoding in Neural Machine Translation",
+    "score": 0.81438281909771,
+    "method": "tfidf"
+  },
+  "156": {
+    "filename": "129.Is \u201cmoby dick\u201d a Whale or a Bird Named Entities and Terminology in Speech Translation-Grobid-out.txt",
+    "title": "Is \u201cmoby dick\u201d a Whale or a Bird Named Entities and Terminology in Speech Translation",
+    "score": 0.7067761317576368,
+    "method": "tfidf"
+  },
+  "157": {
+    "filename": "18.Neural Machine Translation without Embeddings-Grobid-out.txt",
+    "title": "Neural Machine Translation without Embeddings",
+    "score": 0.6155748963356018,
+    "method": "semantic"
+  },
+  "158": {
+    "filename": "77.The NiuTrans System for the WMT 2021 Efficiency Task-Grobid-out.txt",
+    "title": "The NiuTrans System for the WMT 2021 Efficiency Task",
+    "score": 0.7921267550463115,
+    "method": "tfidf"
+  },
+  "159": {
+    "filename": "20.Facebook AI\u2019s WMT21 News Translation Task Submission-Grobid-out.txt",
+    "title": "Facebook AI\u2019s WMT21 News Translation Task Submission",
+    "score": 0.6756814338234512,
+    "method": "tfidf"
+  },
+  "160": {
+    "filename": "39.DUTNLP Machine Translation System for WMT21 Triangular Translation Task-Grobid-out.txt",
+    "title": "DUTNLP Machine Translation System for WMT21 Triangular Translation Task",
+    "score": 0.4962112720358957,
+    "method": "tfidf"
+  },
+  "161": {
+    "filename": "6.Difficulty-Aware Machine Translation Evaluation-Grobid-out.txt",
+    "title": "Difficulty-Aware Machine Translation Evaluation",
+    "score": 0.6562413289825257,
+    "method": "tfidf"
+  },
+  "162": {
+    "filename": "47.The University of Maryland, College Park Submission to Large-Scale Multilingual Shared Task at WMT 2021-Grobid-out.txt",
+    "title": "The University of Maryland, College Park Submission to Large-Scale Multilingual Shared Task at WMT 2021",
+    "score": 0.605949988497199,
+    "method": "tfidf"
+  },
+  "163": {
+    "filename": "444.Rewriter-Evaluator Architecture for Neural Machine Translation-Grobid-out.txt",
+    "title": "Rewriter-Evaluator Architecture for Neural Machine Translation",
+    "score": 0.8251725208288583,
+    "method": "tfidf"
+  },
+  "164": {
+    "filename": "99.Papago\u2019s Submission for the WMT21 Quality Estimation Shared Task-Grobid-out.txt",
+    "title": "Papago\u2019s Submission for the WMT21 Quality Estimation Shared Task",
+    "score": 0.5674326645725178,
+    "method": "tfidf"
+  },
+  "165": {
+    "filename": "18.Studying The Impact Of Document-level Context On Simultaneous Neural Machine Translation-Grobid-out.txt",
+    "title": "Studying The Impact Of Document-level Context On Simultaneous Neural Machine Translation",
+    "score": 0.7077496639777964,
+    "method": "tfidf"
+  },
+  "166": {
+    "filename": "89.Huawei AARC\u2019s Submissions to the WMT21 Biomedical Translation Task Domain Adaption from a Practical Perspective-Grobid-out.txt",
+    "title": "Huawei AARC\u2019s Submissions to the WMT21 Biomedical Translation Task Domain Adaption from a Practical Perspective",
+    "score": 0.38391801154862093,
+    "method": "tfidf"
+  },
+  "167": {
+    "filename": "459.Non-Autoregressive Translation by Learning Target Categorical Codes-Grobid-out.txt",
+    "title": "Non-Autoregressive Translation by Learning Target Categorical Codes",
+    "score": 0.7660730255613046,
+    "method": "tfidf"
+  },
+  "168": {
+    "filename": "578.Don\u2019t Go Far Off An Empirical Study on Neural Poetry Translation-Grobid-out.txt",
+    "title": "Don\u2019t Go Far Off An Empirical Study on Neural Poetry Translation",
+    "score": 0.8940395772349924,
+    "method": "tfidf"
+  },
+  "169": {
+    "filename": "100.NICT Kyoto Submission for the WMT\u201921 Quality Estimation Task Multimetric Multilingual Pretraining for Critical Error Detection-Grobid-out.txt",
+    "title": "NICT Kyoto Submission for the WMT\u201921 Quality Estimation Task Multimetric Multilingual Pretraining for Critical Error Detection",
+    "score": 0.6012366371570042,
+    "method": "tfidf"
+  },
+  "170": {
+    "filename": "528.Mid-Air Hand Gestures for Post-Editing of Machine Translation-Grobid-out.txt",
+    "title": "Mid-Air Hand Gestures for Post-Editing of Machine Translation",
+    "score": 0.3962370125759826,
+    "method": "tfidf"
+  },
+  "171": {
+    "filename": "318.Restoring and Mining the Records of the Joseon Dynasty via Neural Language Modeling and Machine Translation-Grobid-out.txt",
+    "title": "Restoring and Mining the Records of the Joseon Dynasty via Neural Language Modeling and Machine Translation",
+    "score": 0.4802123624856364,
+    "method": "tfidf"
+  },
+  "172": {
+    "filename": "349.SemFace Pre-training Encoder and Decoder with a Semantic Interface for Neural Machine Translation-Grobid-out.txt",
+    "title": "SemFace Pre-training Encoder and Decoder with a Semantic Interface for Neural Machine Translation",
+    "score": 0.8271793361396707,
+    "method": "tfidf"
+  },
+  "173": {
+    "filename": "112.Are References Really Needed Unbabel-IST 2021 Submission for the Metrics Shared Task-Grobid-out.txt",
+    "title": "Are References Really Needed Unbabel-IST 2021 Submission for the Metrics Shared Task",
+    "score": 0.6078637620305222,
+    "method": "tfidf"
+  },
+  "174": {
+    "filename": "128.Speechformer Reducing Information Loss in Direct Speech Translation-Grobid-out.txt",
+    "title": "Speechformer Reducing Information Loss in Direct Speech Translation",
+    "score": 0.7274975735671986,
+    "method": "tfidf"
+  },
+  "175": {
+    "filename": "94.Towards Continual Learning for Multilingual Machine Translation via Vocabulary Substitution-Grobid-out.txt",
+    "title": "Towards Continual Learning for Multilingual Machine Translation via Vocabulary Substitution",
+    "score": 0.45149705397358114,
+    "method": "tfidf"
+  },
+  "176": {
+    "filename": null,
+    "title": null,
+    "score": 0.5274295210838318,
+    "method": "manual"
+  },
+  "177": {
+    "filename": "31.SGL Speaking the Graph Languages of Semantic Parsing via Multilingual Translation-Grobid-out.txt",
+    "title": "SGL Speaking the Graph Languages of Semantic Parsing via Multilingual Translation",
+    "score": 0.6100108006642742,
+    "method": "tfidf"
+  },
+  "178": {
+    "filename": "61.Evaluating Multiway Multilingual NMT in the Turkic Languages-Grobid-out.txt",
+    "title": "Evaluating Multiway Multilingual NMT in the Turkic Languages",
+    "score": 0.37448791667007525,
+    "method": "tfidf"
+  },
+  "179": {
+    "filename": "247.Fast and Accurate Neural Machine Translation with Translation Memory-Grobid-out.txt",
+    "title": "Fast and Accurate Neural Machine Translation with Translation Memory",
+    "score": 0.6324101550224003,
+    "method": "tfidf"
+  },
+  "180": {
+    "filename": "282.Context-Interactive Pre-Training for Document Machine Translation-Grobid-out.txt",
+    "title": "Context-Interactive Pre-Training for Document Machine Translation",
+    "score": 0.5998212390849645,
+    "method": "tfidf"
+  },
+  "181": {
+    "filename": "120.Monotonic Simultaneous Translation with Chunk-wise Reordering and Refinement-Grobid-out.txt",
+    "title": "Monotonic Simultaneous Translation with Chunk-wise Reordering and Refinement",
+    "score": 0.5445532177070729,
+    "method": "tfidf"
+  },
+  "182": {
+    "filename": "582.Universal Simultaneous Machine Translation with Mixture-of-Experts Wait-k Policy-Grobid-out.txt",
+    "title": "Universal Simultaneous Machine Translation with Mixture-of-Experts Wait-k Policy",
+    "score": 0.8293929085564468,
+    "method": "tfidf"
+  },
+  "183": {
+    "filename": "262.Unsupervised Neural Machine Translation with Universal Grammar-Grobid-out.txt",
+    "title": "Unsupervised Neural Machine Translation with Universal Grammar",
+    "score": 0.5327562862885178,
+    "method": "tfidf"
+  },
+  "184": {
+    "filename": "45.EdinSaar@WMT21 North-Germanic Low-Resource Multilingual NMT-Grobid-out.txt",
+    "title": "EdinSaar@WMT21 North-Germanic Low-Resource Multilingual NMT",
+    "score": 0.44992474235923846,
+    "method": "tfidf"
+  },
+  "185": {
+    "filename": "564.Discriminative Reranking for Neural Machine Translation-Grobid-out.txt",
+    "title": "Discriminative Reranking for Neural Machine Translation",
+    "score": 0.8191916286137539,
+    "method": "tfidf"
+  },
+  "186": {
+    "filename": "104.Attention Calibration for Transformer in Neural Machine Translation-Grobid-out.txt",
+    "title": "Attention Calibration for Transformer in Neural Machine Translation",
+    "score": 0.6485110367639176,
+    "method": "tfidf"
+  },
+  "187": {
+    "filename": "154.Crafting Adversarial Examples for Neural Machine Translation-Grobid-out.txt",
+    "title": "Crafting Adversarial Examples for Neural Machine Translation",
+    "score": 0.5081540866616046,
+    "method": "tfidf"
+  },
+  "188": {
+    "filename": "71.Findings of the WMT 2021 Biomedical Translation Shared Task Summaries of Animal Experiments as New Test Set-Grobid-out.txt",
+    "title": "Findings of the WMT 2021 Biomedical Translation Shared Task Summaries of Animal Experiments as New Test Set",
+    "score": 0.5048113968034238,
+    "method": "tfidf"
+  },
+  "189": {
+    "filename": "463.Machine Translated Text Detection Through Text Similarity with Round-Trip Translation-Grobid-out.txt",
+    "title": "Machine Translated Text Detection Through Text Similarity with Round-Trip Translation",
+    "score": 0.6441604459688886,
+    "method": "tfidf"
+  },
+  "190": {
+    "filename": "364.The Effect of Round-Trip Translation on Fairness in Sentiment Analysis-Grobid-out.txt",
+    "title": "The Effect of Round-Trip Translation on Fairness in Sentiment Analysis",
+    "score": 0.8056875618449814,
+    "method": "tfidf"
+  },
+  "191": {
+    "filename": "111.MTEQA at WMT21 Metrics Shared Task-Grobid-out.txt",
+    "title": "MTEQA at WMT21 Metrics Shared Task",
+    "score": 0.34871615327588945,
+    "method": "tfidf"
+  },
+  "192": {
+    "filename": "370.PhoMT A High-Quality and Large-Scale Benchmark Dataset for Vietnamese-English Machine Translation-Grobid-out.txt",
+    "title": "PhoMT A High-Quality and Large-Scale Benchmark Dataset for Vietnamese-English Machine Translation",
+    "score": 0.6317450896555963,
+    "method": "tfidf"
+  },
+  "193": {
+    "filename": "538.It Is Not As Good As You Think! Evaluating Simultaneous Machine Translation on Interpretation Data-Grobid-out.txt",
+    "title": "It Is Not As Good As You Think! Evaluating Simultaneous Machine Translation on Interpretation Data",
+    "score": 0.5097637427117816,
+    "method": "tfidf"
+  },
+  "194": {
+    "filename": "76.HW-TSC\u2019s Participation in the WMT 2021 Efficiency Shared Task-Grobid-out.txt",
+    "title": "HW-TSC\u2019s Participation in the WMT 2021 Efficiency Shared Task",
+    "score": 0.7347914539107328,
+    "method": "tfidf"
+  },
+  "195": {
+    "filename": "73.Findings of the WMT 2021 Shared Tasks in Unsupervised MT and Very Low Resource Supervised MT-Grobid-out.txt",
+    "title": "Findings of the WMT 2021 Shared Tasks in Unsupervised MT and Very Low Resource Supervised MT",
+    "score": 0.7128680243536681,
+    "method": "tfidf"
+  },
+  "196": {
+    "filename": "101.QEMind Alibaba\u2019s Submission to the WMT21 Quality Estimation Shared Task-Grobid-out.txt",
+    "title": "QEMind Alibaba\u2019s Submission to the WMT21 Quality Estimation Shared Task",
+    "score": 0.7480079059529716,
+    "method": "tfidf"
+  },
+  "197": {
+    "filename": "446.Importance-based Neuron Allocation for Multilingual Neural Machine Translation-Grobid-out.txt",
+    "title": "Importance-based Neuron Allocation for Multilingual Neural Machine Translation",
+    "score": 0.4765799955295932,
+    "method": "tfidf"
+  },
+  "198": {
+    "filename": "24.Multi-Head Highly Parallelized LSTM Decoder for Neural Machine Translation-Grobid-out.txt",
+    "title": "Multi-Head Highly Parallelized LSTM Decoder for Neural Machine Translation",
+    "score": 0.8120479008949975,
+    "method": "tfidf"
+  },
+  "199": {
+    "filename": "105.Unsupervised Translation of German\u2013Lower Sorbian Exploring Training and Novel Transfer Methods on a Low-Resource Language-Grobid-out.txt",
+    "title": "Unsupervised Translation of German\u2013Lower Sorbian Exploring Training and Novel Transfer Methods on a Low-Resource Language",
+    "score": 0.4889650236642035,
+    "method": "tfidf"
+  },
+  "200": {
+    "filename": "93.The Curious Case of Hallucinations in Neural Machine Translation-Grobid-out.txt",
+    "title": "The Curious Case of Hallucinations in Neural Machine Translation",
+    "score": 0.44809885475800004,
+    "method": "tfidf"
+  },
+  "201": {
+    "filename": null,
+    "title": null,
+    "score": 0.5855061411857605,
+    "method": "manual"
+  },
+  "202": {
+    "filename": "224.Guiding Teacher Forcing with Seer Forcing for Neural Machine Translation-Grobid-out.txt",
+    "title": "Guiding Teacher Forcing with Seer Forcing for Neural Machine Translation",
+    "score": 0.7027950456153005,
+    "method": "tfidf"
+  },
+  "203": {
+    "filename": "41.Papago\u2019s Submissions to the WMT21 Triangular Translation Task-Grobid-out.txt",
+    "title": "Papago\u2019s Submissions to the WMT21 Triangular Translation Task",
+    "score": 0.4584124749051122,
+    "method": "tfidf"
+  },
+  "204": {
+    "filename": "22.Optimizing Word Alignments with Better Subword Tokenization-Grobid-out.txt",
+    "title": "Optimizing Word Alignments with Better Subword Tokenization",
+    "score": 0.41379772393866737,
+    "method": "tfidf"
+  },
+  "205": {
+    "filename": "665.An Empirical Investigation of Word Alignment Supervision for Zero-Shot Multilingual Neural Machine Translation-Grobid-out.txt",
+    "title": "An Empirical Investigation of Word Alignment Supervision for Zero-Shot Multilingual Neural Machine Translation",
+    "score": 0.5663673694765834,
+    "method": "tfidf"
+  },
+  "206": {
+    "filename": "30.Neural Machine Translation for Tamil\u2013Telugu Pair-Grobid-out.txt",
+    "title": "Neural Machine Translation for Tamil\u2013Telugu Pair",
+    "score": 0.5727260738947393,
+    "method": "tfidf"
+  },
+  "207": {
+    "filename": "10.Video-guided Machine Translation with Spatial Hierarchical Attention Network-Grobid-out.txt",
+    "title": "Video-guided Machine Translation with Spatial Hierarchical Attention Network",
+    "score": 0.8345052068920108,
+    "method": "tfidf"
+  },
+  "208": {
+    "filename": "205.Stacked Acoustic-and-Textual Encoding Integrating the Pre-trained Models into Speech Translation Encoders-Grobid-out.txt",
+    "title": "Stacked Acoustic-and-Textual Encoding Integrating the Pre-trained Models into Speech Translation Encoders",
+    "score": 0.7565943103048469,
+    "method": "tfidf"
+  },
+  "209": {
+    "filename": "10.Like Chalk and Cheese On the Effects of Translationese in MT Training-Grobid-out.txt",
+    "title": "Like Chalk and Cheese On the Effects of Translationese in MT Training",
+    "score": 0.7386759764229663,
+    "method": "tfidf"
+  },
+  "210": {
+    "filename": "311.Continual Learning for Neural Machine Translation-Grobid-out.txt",
+    "title": "Continual Learning for Neural Machine Translation",
+    "score": 0.647411872018532,
+    "method": "tfidf"
+  },
+  "211": {
+    "filename": "63.Continual Learning in Multilingual NMT via Language-Specific Embeddings-Grobid-out.txt",
+    "title": "Continual Learning in Multilingual NMT via Language-Specific Embeddings",
+    "score": 0.4778494266323383,
+    "method": "tfidf"
+  },
+  "212": {
+    "filename": "114.Multilingual Machine Translation Evaluation Metrics Fine-tuned on Pseudo-Negative Examples for WMT 2021 Metrics Task-Grobid-out.txt",
+    "title": "Multilingual Machine Translation Evaluation Metrics Fine-tuned on Pseudo-Negative Examples for WMT 2021 Metrics Task",
+    "score": 0.49612478686676315,
+    "method": "tfidf"
+  },
+  "213": {
+    "filename": "308.Point, Disambiguate and Copy Incorporating Bilingual Dictionaries for Neural Machine Translation-Grobid-out.txt",
+    "title": "Point, Disambiguate and Copy Incorporating Bilingual Dictionaries for Neural Machine Translation",
+    "score": 0.6632204817685927,
+    "method": "tfidf"
+  },
+  "214": {
+    "filename": "265.Scheduled Sampling Based on Decoding Steps for Neural Machine Translation-Grobid-out.txt",
+    "title": "Scheduled Sampling Based on Decoding Steps for Neural Machine Translation",
+    "score": 0.5954050488638953,
+    "method": "tfidf"
+  },
+  "215": {
+    "filename": "246.From Machine Translation to Code-Switching Generating High-Quality Code-Switched Text-Grobid-out.txt",
+    "title": "From Machine Translation to Code-Switching Generating High-Quality Code-Switched Text",
+    "score": 0.7899131456331323,
+    "method": "tfidf"
+  },
+  "216": {
+    "filename": null,
+    "title": null,
+    "score": 0.5149865746498108,
+    "method": "manual"
+  },
+  "217": {
+    "filename": "46.TenTrans Multilingual Low-Resource Translation System for WMT21 Indo-European Languages Task-Grobid-out.txt",
+    "title": "TenTrans Multilingual Low-Resource Translation System for WMT21 Indo-European Languages Task",
+    "score": 0.6957507910082419,
+    "method": "tfidf"
+  },
+  "218": {
+    "filename": "667.Improving the Quality Trade-Off for Neural Machine Translation Multi-Domain Adaptation-Grobid-out.txt",
+    "title": "Improving the Quality Trade-Off for Neural Machine Translation Multi-Domain Adaptation",
+    "score": 0.7925721347703462,
+    "method": "tfidf"
+  },
+  "219": {
+    "filename": "563.Beyond Noise Mitigating the Impact of Fine-grained Semantic Divergences on Neural Machine Translation-Grobid-out.txt",
+    "title": "Beyond Noise Mitigating the Impact of Fine-grained Semantic Divergences on Neural Machine Translation",
+    "score": 0.7381927682882384,
+    "method": "tfidf"
+  },
+  "220": {
+    "filename": "40.Pivot Based Transfer Learning for Neural Machine Translation CFILT IITB @ WMT 2021 Triangular MT-Grobid-out.txt",
+    "title": "Pivot Based Transfer Learning for Neural Machine Translation CFILT IITB @ WMT 2021 Triangular MT",
+    "score": 0.7317592851417655,
+    "method": "tfidf"
+  },
+  "221": {
+    "filename": "100.AfroMT Pretraining Strategies and Reproducible Benchmarks for Translation of 8 African Languages-Grobid-out.txt",
+    "title": "AfroMT Pretraining Strategies and Reproducible Benchmarks for Translation of 8 African Languages",
+    "score": 0.6143592748075358,
+    "method": "tfidf"
+  },
+  "222": {
+    "filename": "67.Improving Machine Translation of Rare and Unseen Word Senses-Grobid-out.txt",
+    "title": "Improving Machine Translation of Rare and Unseen Word Senses",
+    "score": 0.6653325199121248,
+    "method": "tfidf"
+  },
+  "223": {
+    "filename": "4.Transformer-Based Direct Hidden Markov Model for Machine Translation-Grobid-out.txt",
+    "title": "Transformer-Based Direct Hidden Markov Model for Machine Translation",
+    "score": 0.478097274646875,
+    "method": "tfidf"
+  },
+  "224": {
+    "filename": "222.Self-Training Sampling with Monolingual Data Uncertainty for Neural Machine Translation-Grobid-out.txt",
+    "title": "Self-Training Sampling with Monolingual Data Uncertainty for Neural Machine Translation",
+    "score": 0.5011663410586406,
+    "method": "tfidf"
+  },
+  "225": {
+    "filename": "78.TenTrans High-Performance Inference Toolkit for WMT2021 Efficiency Task-Grobid-out.txt",
+    "title": "TenTrans High-Performance Inference Toolkit for WMT2021 Efficiency Task",
+    "score": 0.6993326369290993,
+    "method": "tfidf"
+  },
+  "226": {
+    "filename": "49.MMTAfrica Multilingual Machine Translation for African Languages-Grobid-out.txt",
+    "title": "MMTAfrica Multilingual Machine Translation for African Languages",
+    "score": 0.49448878888903447,
+    "method": "tfidf"
+  },
+  "227": {
+    "filename": "458.Generative Imagination Elevates Machine Translation-Grobid-out.txt",
+    "title": "Generative Imagination Elevates Machine Translation",
+    "score": 0.7392920513577005,
+    "method": "tfidf"
+  },
+  "228": {
+    "filename": "2.Learning Curricula for Multilingual Neural Machine Translation Training-Grobid-out.txt",
+    "title": "Learning Curricula for Multilingual Neural Machine Translation Training",
+    "score": 0.7548362413339789,
+    "method": "tfidf"
+  },
+  "229": {
+    "filename": "53.Data Processing Matters SRPH-Konvergen AI\u2019s Machine Translation System for WMT\u201921-Grobid-out.txt",
+    "title": "Data Processing Matters SRPH-Konvergen AI\u2019s Machine Translation System for WMT\u201921",
+    "score": 0.6285598760497785,
+    "method": "tfidf"
+  },
+  "230": {
+    "filename": "350.Energy-Based Reranking Improving Neural Machine Translation Using Energy-Based Models-Grobid-out.txt",
+    "title": "Energy-Based Reranking Improving Neural Machine Translation Using Energy-Based Models",
+    "score": 0.7968349946983231,
+    "method": "tfidf"
+  },
+  "231": {
+    "filename": "13.Make the Blind Translator See The World A Novel Transfer Learning Solution for Multimodal Machine Translation-Grobid-out.txt",
+    "title": "Make the Blind Translator See The World A Novel Transfer Learning Solution for Multimodal Machine Translation",
+    "score": 0.4621239545575009,
+    "method": "tfidf"
+  },
+  "232": {
+    "filename": null,
+    "title": null,
+    "score": 0.5247156023979187,
+    "method": "manual"
+  },
+  "233": {
+    "filename": null,
+    "title": null,
+    "score": 0.6494667530059814,
+    "method": "manual"
+  },
+  "234": {
+    "filename": "110.cushLEPOR customising hLEPOR metric using Optuna for higher agreement with human judgments or pre-trained language model LaBSE-Grobid-out.txt",
+    "title": "cushLEPOR customising hLEPOR metric using Optuna for higher agreement with human judgments or pre-trained language model LaBSE",
+    "score": 0.7662911023836243,
+    "method": "tfidf"
+  },
+  "235": {
+    "filename": "95.Improving Lexically Constrained Neural Machine Translation with Source-Conditioned Masked Span Prediction-Grobid-out.txt",
+    "title": "Improving Lexically Constrained Neural Machine Translation with Source-Conditioned Masked Span Prediction",
+    "score": 0.5342403048967357,
+    "method": "tfidf"
+  },
+  "236": {
+    "filename": "65.Multilingual Domain Adaptation for NMT Decoupling Language and Domain Information with Adapters-Grobid-out.txt",
+    "title": "Multilingual Domain Adaptation for NMT Decoupling Language and Domain Information with Adapters",
+    "score": 0.7647506864602327,
+    "method": "tfidf"
+  },
+  "237": {
+    "filename": "82.Dynamic Terminology Integration for COVID-19 and Other Emerging Domains-Grobid-out.txt",
+    "title": "Dynamic Terminology Integration for COVID-19 and Other Emerging Domains",
+    "score": 0.40325128954633715,
+    "method": "tfidf"
+  },
+  "238": {
+    "filename": "263.Encouraging Lexical Translation Consistency for Document-Level Neural Machine Translation-Grobid-out.txt",
+    "title": "Encouraging Lexical Translation Consistency for Document-Level Neural Machine Translation",
+    "score": 0.6337299187614407,
+    "method": "tfidf"
+  },
+  "239": {
+    "filename": "7.The Effect of Domain and Diacritics in Yoruba\u2013English Neural Machine Translation-Grobid-out.txt",
+    "title": "The Effect of Domain and Diacritics in Yoruba\u2013English Neural Machine Translation",
+    "score": 0.8199415399008013,
+    "method": "tfidf"
+  },
+  "241": {
+    "filename": "28.Improving Similar Language Translation With Transfer Learning-Grobid-out.txt",
+    "title": "Improving Similar Language Translation With Transfer Learning",
+    "score": 0.5148879129748909,
+    "method": "tfidf"
+  },
+  "242": {
+    "filename": "90.Tencent AI Lab Machine Translation Systems for the WMT21 Biomedical Translation Task-Grobid-out.txt",
+    "title": "Tencent AI Lab Machine Translation Systems for the WMT21 Biomedical Translation Task",
+    "score": 0.4809512363359179,
+    "method": "tfidf"
+  },
+  "243": {
+    "filename": "311.Towards User-Driven Neural Machine Translation-Grobid-out.txt",
+    "title": "Towards User-Driven Neural Machine Translation",
+    "score": 0.6852060805280565,
+    "method": "tfidf"
+  },
+  "244": {
+    "filename": "34.Neural Machine Translation with Synchronous Latent Phrase Structure-Grobid-out.txt",
+    "title": "Neural Machine Translation with Synchronous Latent Phrase Structure",
+    "score": 0.7469597533839755,
+    "method": "tfidf"
+  },
+  "245": {
+    "filename": "369.On Compositional Generalization of Neural Machine Translation-Grobid-out.txt",
+    "title": "On Compositional Generalization of Neural Machine Translation",
+    "score": 0.6286887210426351,
+    "method": "tfidf"
+  },
+  "246": {
+    "filename": "9.Ensembling of Distilled Models from Multi-task Teachers for Constrained Resource Language Pairs-Grobid-out.txt",
+    "title": "Ensembling of Distilled Models from Multi-task Teachers for Constrained Resource Language Pairs",
+    "score": 0.5260794991837747,
+    "method": "tfidf"
+  },
+  "247": {
+    "filename": "4.Crosslingual Embeddings are Essential in UNMT for distant languages An English to IndoAryan Case Study-Grobid-out.txt",
+    "title": "Crosslingual Embeddings are Essential in UNMT for distant languages An English to IndoAryan Case Study",
+    "score": 0.8307303388527949,
+    "method": "tfidf"
+  },
+  "248": {
+    "filename": "19.NVIDIA NeMo\u2019s Neural Machine Translation Systems for English-German and English-Russian News and Biomedical Tasks at WMT21-Grobid-out.txt",
+    "title": "NVIDIA NeMo\u2019s Neural Machine Translation Systems for English-German and English-Russian News and Biomedical Tasks at WMT21",
+    "score": 0.7081354204639856,
+    "method": "tfidf"
+  },
+  "249": {
+    "filename": null,
+    "title": null,
+    "score": 0.6270685195922852,
+    "method": "manual"
+  },
+  "250": {
+    "filename": "481.Good for Misconceived Reasons An Empirical Revisiting on the Need for Visual Context in Multimodal Machine Translation-Grobid-out.txt",
+    "title": "Good for Misconceived Reasons An Empirical Revisiting on the Need for Visual Context in Multimodal Machine Translation",
+    "score": 0.7633440676286223,
+    "method": "tfidf"
+  },
+  "251": {
+    "filename": "675.Efficient Inference for Multilingual Neural Machine Translation-Grobid-out.txt",
+    "title": "Efficient Inference for Multilingual Neural Machine Translation",
+    "score": 0.4988521894795883,
+    "method": "tfidf"
+  },
+  "252": {
+    "filename": "310.Multi-Hop Transformer for Document-Level Machine Translation-Grobid-out.txt",
+    "title": "Multi-Hop Transformer for Document-Level Machine Translation",
+    "score": 0.7748202475852132,
+    "method": "tfidf"
+  },
+  "253": {
+    "filename": "134.Revisiting the Weaknesses of Reinforcement Learning for Neural Machine Translation-Grobid-out.txt",
+    "title": "Revisiting the Weaknesses of Reinforcement Learning for Neural Machine Translation",
+    "score": 0.5774589693556538,
+    "method": "tfidf"
+  },
+  "254": {
+    "filename": "69.Multilingual Speech Translation from Efficient Finetuning of Pretrained Models-Grobid-out.txt",
+    "title": "Multilingual Speech Translation from Efficient Finetuning of Pretrained Models",
+    "score": 0.8279028580170362,
+    "method": "tfidf"
+  },
+  "255": {
+    "filename": "65.Towards Generative Aspect-Based Sentiment Analysis-Grobid-out.txt",
+    "title": "Towards Generative Aspect-Based Sentiment Analysis",
+    "score": 0.505300081013354,
+    "method": "tfidf"
+  },
+  "256": {
+    "filename": "18.The Volctrans GLAT System Non-autoregressive Translation Meets WMT21-Grobid-out.txt",
+    "title": "The Volctrans GLAT System Non-autoregressive Translation Meets WMT21",
+    "score": 0.6639506375269029,
+    "method": "tfidf"
+  },
+  "257": {
+    "filename": "64.Deep Context- and Relation-Aware Learning for Aspect-based Sentiment Analysis-Grobid-out.txt",
+    "title": "Deep Context- and Relation-Aware Learning for Aspect-based Sentiment Analysis",
+    "score": 0.6878657233460215,
+    "method": "tfidf"
+  },
+  "258": {
+    "filename": "314.Multi-Task Learning with Shared Encoder for Non-Autoregressive Machine Translation-Grobid-out.txt",
+    "title": "Multi-Task Learning with Shared Encoder for Non-Autoregressive Machine Translation",
+    "score": 0.6378235644136573,
+    "method": "tfidf"
+  },
+  "259": {
+    "filename": "269.Generalised Unsupervised Domain Adaptation of Neural Machine Translation with Cross-Lingual Data Selection-Grobid-out.txt",
+    "title": "Generalised Unsupervised Domain Adaptation of Neural Machine Translation with Cross-Lingual Data Selection",
+    "score": 0.6823776417168604,
+    "method": "tfidf"
+  },
+  "260": {
+    "filename": null,
+    "title": null,
+    "score": 0.6052420139312744,
+    "method": "manual"
+  },
+  "261": {
+    "filename": "268.Self-Supervised Quality Estimation for Machine Translation-Grobid-out.txt",
+    "title": "Self-Supervised Quality Estimation for Machine Translation",
+    "score": 0.5673913637701841,
+    "method": "tfidf"
+  },
+  "262": {
+    "filename": "257.Neural Machine Translation with Heterogeneous Topic Knowledge Embeddings-Grobid-out.txt",
+    "title": "Neural Machine Translation with Heterogeneous Topic Knowledge Embeddings",
+    "score": 0.9043384134337451,
+    "method": "tfidf"
+  },
+  "263": {
+    "filename": "103.IST-Unbabel 2021 Submission for the Quality Estimation Shared Task-Grobid-out.txt",
+    "title": "IST-Unbabel 2021 Submission for the Quality Estimation Shared Task",
+    "score": 0.4495596410574875,
+    "method": "tfidf"
+  },
+  "264": {
+    "filename": "580.Learning Kernel-Smoothed Machine Translation with Retrieved Examples-Grobid-out.txt",
+    "title": "Learning Kernel-Smoothed Machine Translation with Retrieved Examples",
+    "score": 0.8604444165743733,
+    "method": "tfidf"
+  },
+  "265": {
+    "filename": "62.Extending Challenge Sets to Uncover Gender Bias in Machine Translation Impact of Stereotypical Verbs and Adjectives-Grobid-out.txt",
+    "title": "Extending Challenge Sets to Uncover Gender Bias in Machine Translation Impact of Stereotypical Verbs and Adjectives",
+    "score": 0.5950781363054609,
+    "method": "tfidf"
+  },
+  "266": {
+    "filename": "116.BERTTune Fine-Tuning Neural Machine Translation with BERTScore-Grobid-out.txt",
+    "title": "BERTTune Fine-Tuning Neural Machine Translation with BERTScore",
+    "score": 0.5414516929947877,
+    "method": "tfidf"
+  },
+  "267": {
+    "filename": "47.Modeling Task-Aware MIMO Cardinality for Efficient Multilingual Neural Machine Translation-Grobid-out.txt",
+    "title": "Modeling Task-Aware MIMO Cardinality for Efficient Multilingual Neural Machine Translation",
+    "score": 0.6984634851214981,
+    "method": "tfidf"
+  },
+  "268": {
+    "filename": "14.Sentiment Preservation in Review Translation using Curriculum-based Re-inforcement Framework-Grobid-out.txt",
+    "title": "Sentiment Preservation in Review Translation using Curriculum-based Re-inforcement Framework",
+    "score": 0.6507567629724071,
+    "method": "tfidf"
+  },
+  "269": {
+    "filename": "663.Machine Translation Decoding beyond Beam Search-Grobid-out.txt",
+    "title": "Machine Translation Decoding beyond Beam Search",
+    "score": 0.5940988980287356,
+    "method": "tfidf"
+  },
+  "270": {
+    "filename": "140.Don\u2019t Rule Out Monolingual Speakers A Method For Crowdsourcing Machine Translation Data-Grobid-out.txt",
+    "title": "Don\u2019t Rule Out Monolingual Speakers A Method For Crowdsourcing Machine Translation Data",
+    "score": 0.6394757728766004,
+    "method": "tfidf"
+  },
+  "271": {
+    "filename": "201.Beyond Sentence-Level End-to-End Speech Translation Context Helps-Grobid-out.txt",
+    "title": "Beyond Sentence-Level End-to-End Speech Translation Context Helps",
+    "score": 0.8083506110762644,
+    "method": "tfidf"
+  },
+  "272": {
+    "filename": "122.Contrastive Learning for Context-aware Neural Machine Translation Using Coreference Information-Grobid-out.txt",
+    "title": "Contrastive Learning for Context-aware Neural Machine Translation Using Coreference Information",
+    "score": 0.7425314784545423,
+    "method": "tfidf"
+  },
+  "273": {
+    "filename": "52.Maastricht University\u2019s Large-Scale Multilingual Machine Translation System for WMT 2021-Grobid-out.txt",
+    "title": "Maastricht University\u2019s Large-Scale Multilingual Machine Translation System for WMT 2021",
+    "score": 0.6275665231293025,
+    "method": "tfidf"
+  },
+  "274": {
+    "filename": "677.Comparing Feature-Engineering and Feature-Learning Approaches for Multilingual Translationese Classification-Grobid-out.txt",
+    "title": "Comparing Feature-Engineering and Feature-Learning Approaches for Multilingual Translationese Classification",
+    "score": 0.7058926500820597,
+    "method": "tfidf"
+  },
+  "275": {
+    "filename": "579.Improving Multilingual Translation by Representation and Gradient Regularization-Grobid-out.txt",
+    "title": "Improving Multilingual Translation by Representation and Gradient Regularization",
+    "score": 0.7689924233143919,
+    "method": "tfidf"
+  },
+  "276": {
+    "filename": "107.Language Model Pretraining and Transfer Learning for Very Low Resource Languages-Grobid-out.txt",
+    "title": "Language Model Pretraining and Transfer Learning for Very Low Resource Languages",
+    "score": 0.791789114917295,
+    "method": "tfidf"
+  },
+  "277": {
+    "filename": "536.Controlling Machine Translation for Multiple Attributes with Additive Interventions-Grobid-out.txt",
+    "title": "Controlling Machine Translation for Multiple Attributes with Additive Interventions",
+    "score": 0.5582974366971637,
+    "method": "tfidf"
+  },
+  "278": {
+    "filename": null,
+    "title": null,
+    "score": 0.5866241455078125,
+    "method": "manual"
+  },
+  "279": {
+    "filename": "59.Just Ask! Evaluating Machine Translation by Asking and Answering Questions-Grobid-out.txt",
+    "title": "Just Ask! Evaluating Machine Translation by Asking and Answering Questions",
+    "score": 0.5170375786022537,
+    "method": "tfidf"
+  },
+  "280": {
+    "filename": "66.Bilingual Mutual Information Based Adaptive Training for Neural Machine Translation-Grobid-out.txt",
+    "title": "Bilingual Mutual Information Based Adaptive Training for Neural Machine Translation",
+    "score": 0.77614909250889,
+    "method": "tfidf"
+  },
+  "281": {
+    "filename": "36.Adapting Neural Machine Translation for Automatic Post-Editing-Grobid-out.txt",
+    "title": "Adapting Neural Machine Translation for Automatic Post-Editing",
+    "score": 0.5819083045162702,
+    "method": "tfidf"
+  },
+  "282": {
+    "filename": "133.Cross-Attention is All You Need Adapting Pretrained Transformers for Machine Translation-Grobid-out.txt",
+    "title": "Cross-Attention is All You Need Adapting Pretrained Transformers for Machine Translation",
+    "score": 0.7190768910405816,
+    "method": "tfidf"
+  },
+  "283": {
+    "filename": "23.IIE-NLP-Eyas at SemEval-2021 Task 4 Enhancing PLM for ReCAM with Special Tokens, Re-Ranking, Siamese Encoders and Back Translation-Grobid-out.txt",
+    "title": "IIE-NLP-Eyas at SemEval-2021 Task 4 Enhancing PLM for ReCAM with Special Tokens, Re-Ranking, Siamese Encoders and Back Translation",
+    "score": 0.6489448432471727,
+    "method": "tfidf"
+  },
+  "284": {
+    "filename": "22.Contrastive Learning for Many-to-many Multilingual Neural Machine Translation-Grobid-out.txt",
+    "title": "Contrastive Learning for Many-to-many Multilingual Neural Machine Translation",
+    "score": 0.8562728152489782,
+    "method": "tfidf"
+  },
+  "286": {
+    "filename": "17.Machine Translation into Low-resource Language Varieties-Grobid-out.txt",
+    "title": "Machine Translation into Low-resource Language Varieties",
+    "score": 0.7522066451991728,
+    "method": "tfidf"
+  },
+  "287": {
+    "filename": "12.Scrambled Translation Problem A Problem of Denoising UNMT-Grobid-out.txt",
+    "title": "Scrambled Translation Problem A Problem of Denoising UNMT",
+    "score": 0.5051873847670362,
+    "method": "tfidf"
+  },
+  "288": {
+    "filename": null,
+    "title": null,
+    "score": 0.48291459679603577,
+    "method": "manual"
+  },
+  "289": {
+    "filename": "506.Measuring and Increasing Context Usage in Context-Aware Machine Translation-Grobid-out.txt",
+    "title": "Measuring and Increasing Context Usage in Context-Aware Machine Translation",
+    "score": 0.6139643209228106,
+    "method": "tfidf"
+  },
+  "290": {
+    "filename": "37.Synchronous Syntactic Attention for Transformer Neural Machine Translation-Grobid-out.txt",
+    "title": "Synchronous Syntactic Attention for Transformer Neural Machine Translation",
+    "score": 0.5083983354330209,
+    "method": "tfidf"
+  },
+  "291": {
+    "filename": "308.Almost Free Semantic Draft for Neural Machine Translation-Grobid-out.txt",
+    "title": "Almost Free Semantic Draft for Neural Machine Translation",
+    "score": 0.7350617409237403,
+    "method": "tfidf"
+  },
+  "292": {
+    "filename": null,
+    "title": null,
+    "score": 0.4017445147037506,
+    "method": "manual"
+  },
+  "294": {
+    "filename": "70.Findings of the WMT Shared Task on Machine Translation Using Terminologies-Grobid-out.txt",
+    "title": "Findings of the WMT Shared Task on Machine Translation Using Terminologies",
+    "score": 0.344999062110723,
+    "method": "tfidf"
+  },
+  "295": {
+    "filename": "269.Prevent the Language Model from being Overconfident in Neural Machine Translation-Grobid-out.txt",
+    "title": "Prevent the Language Model from being Overconfident in Neural Machine Translation",
+    "score": 0.7242400266551119,
+    "method": "tfidf"
+  },
+  "296": {
+    "filename": "56.HW-TSC\u2019s Participation in the WMT 2021 Large-Scale Multilingual Translation Task-Grobid-out.txt",
+    "title": "HW-TSC\u2019s Participation in the WMT 2021 Large-Scale Multilingual Translation Task",
+    "score": 0.6003378584693987,
+    "method": "tfidf"
+  },
+  "297": {
+    "filename": "16.A Comparison of Sentence-Weighting Techniques for NMT-Grobid-out.txt",
+    "title": "A Comparison of Sentence-Weighting Techniques for NMT",
+    "score": 0.4862863079772018,
+    "method": "tfidf"
+  },
+  "298": {
+    "filename": "800.Investigating the Helpfulness of Word-Level Quality Estimation for Post-Editing Machine Translation Output-Grobid-out.txt",
+    "title": "Investigating the Helpfulness of Word-Level Quality Estimation for Post-Editing Machine Translation Output",
+    "score": 0.5855861763591063,
+    "method": "tfidf"
+  },
+  "299": {
+    "filename": "97.Quality Estimation Using Dual Encoders with Transfer Learning-Grobid-out.txt",
+    "title": "Quality Estimation Using Dual Encoders with Transfer Learning",
+    "score": 0.5235762455809305,
+    "method": "tfidf"
+  },
+  "300": {
+    "filename": "66.Translation Transformers Rediscover Inherent Data Domains-Grobid-out.txt",
+    "title": "Translation Transformers Rediscover Inherent Data Domains",
+    "score": 0.7076832499426291,
+    "method": "tfidf"
+  },
+  "301": {
+    "filename": "685.Preventing Author Profiling through Zero-Shot Multilingual Back-Translation-Grobid-out.txt",
+    "title": "Preventing Author Profiling through Zero-Shot Multilingual Back-Translation",
+    "score": 0.6942035008503172,
+    "method": "tfidf"
+  },
+  "302": {
+    "filename": "94.Ensemble Fine-tuned mBERT for Translation Quality Estimation-Grobid-out.txt",
+    "title": "Ensemble Fine-tuned mBERT for Translation Quality Estimation",
+    "score": 0.47784465590676034,
+    "method": "tfidf"
+  },
+  "303": {
+    "filename": "95.Zero-Shot Information Extraction as a Unified Text-to-Triple Translation-Grobid-out.txt",
+    "title": "Zero-Shot Information Extraction as a Unified Text-to-Triple Translation",
+    "score": 0.5589800491121936,
+    "method": "tfidf"
+  },
+  "304": {
+    "filename": "19.Counterfactual Data Augmentation for Neural Machine Translation-Grobid-out.txt",
+    "title": "Counterfactual Data Augmentation for Neural Machine Translation",
+    "score": 0.5213082208796987,
+    "method": "tfidf"
+  },
+  "305": {
+    "filename": "413.CTFN Hierarchical Learning for Multimodal Sentiment Analysis Using Coupled-Translation Fusion Network-Grobid-out.txt",
+    "title": "CTFN Hierarchical Learning for Multimodal Sentiment Analysis Using Coupled-Translation Fusion Network",
+    "score": 0.7015579010642797,
+    "method": "tfidf"
+  },
+  "306": {
+    "filename": "6.Transformers for Low-Resource Languages Is F\u00e9idir Linn!-Grobid-out.txt",
+    "title": "Transformers for Low-Resource Languages Is F\u00e9idir Linn!",
+    "score": 0.5513830819426753,
+    "method": "tfidf"
+  }
+}

@@ -1,0 +1,3680 @@
+{
+  "0": {
+    "filename": "344.Investigating Dynamic Routing in Tree-Structured LSTM for Sentiment Analysis-Grobid-out.txt",
+    "title": "Investigating Dynamic Routing in Tree-Structured LSTM for Sentiment Analysis",
+    "score": 0.637272293297133,
+    "method": "tfidf"
+  },
+  "1": {
+    "filename": "54.Solving Data Sparsity for Aspect Based Sentiment Analysis Using Cross-Linguality and Multi-Linguality-Grobid-out.txt",
+    "title": "Solving Data Sparsity for Aspect Based Sentiment Analysis Using Cross-Linguality and Multi-Linguality",
+    "score": 0.6160381217939886,
+    "method": "tfidf"
+  },
+  "2": {
+    "filename": "293.Tasty Burgers, Soggy Fries Probing Aspect Robustness in Aspect-Based Sentiment Analysis-Grobid-out.txt",
+    "title": "Tasty Burgers, Soggy Fries Probing Aspect Robustness in Aspect-Based Sentiment Analysis",
+    "score": 0.5256907679566546,
+    "method": "tfidf"
+  },
+  "3": {
+    "filename": null,
+    "title": null,
+    "score": 0.6287244558334351,
+    "method": "manual"
+  },
+  "4": {
+    "filename": "171.Recursive Deep Models for Semantic Compositionality Over a Sentiment Treebank-Grobid-out.txt",
+    "title": "Recursive Deep Models for Semantic Compositionality Over a Sentiment Treebank",
+    "score": 0.5933517324691305,
+    "method": "tfidf"
+  },
+  "5": {
+    "filename": "61.Cross-Lingual Mixture Model for Sentiment Classification-Grobid-out.txt",
+    "title": "Cross-Lingual Mixture Model for Sentiment Classification",
+    "score": 0.6336017939513797,
+    "method": "tfidf"
+  },
+  "6": {
+    "filename": "138.Multi-Channel Convolutional Neural Network for Twitter Emotion and Sentiment Recognition-Grobid-out.txt",
+    "title": "Multi-Channel Convolutional Neural Network for Twitter Emotion and Sentiment Recognition",
+    "score": 0.3123987897769959,
+    "method": "tfidf"
+  },
+  "7": {
+    "filename": "33.VCU-TSA at Semeval-2016 Task 4 Sentiment Analysis in Twitter-Grobid-out.txt",
+    "title": "VCU-TSA at Semeval-2016 Task 4 Sentiment Analysis in Twitter",
+    "score": 0.49486200351491466,
+    "method": "tfidf"
+  },
+  "8": {
+    "filename": "29.SentiSys at SemEval-2016 Task 4 Feature-Based System for Sentiment Analysis in Twitter-Grobid-out.txt",
+    "title": "SentiSys at SemEval-2016 Task 4 Feature-Based System for Sentiment Analysis in Twitter",
+    "score": 0.7207081913948059,
+    "method": "semantic"
+  },
+  "9": {
+    "filename": "129.Lsislif CRF and Logistic Regression for Opinion Target Extraction and Sentiment Polarity Analysis-Grobid-out.txt",
+    "title": "Lsislif CRF and Logistic Regression for Opinion Target Extraction and Sentiment Polarity Analysis",
+    "score": 0.7246349453926086,
+    "method": "semantic"
+  },
+  "10": {
+    "filename": "19.Hierarchical Attention Based Position-Aware Network for Aspect-Level Sentiment Analysis-Grobid-out.txt",
+    "title": "Hierarchical Attention Based Position-Aware Network for Aspect-Level Sentiment Analysis",
+    "score": 0.5738959986882999,
+    "method": "tfidf"
+  },
+  "11": {
+    "filename": "654.A Challenge Dataset and Effective Models for Aspect-Based Sentiment Analysis-Grobid-out.txt",
+    "title": "A Challenge Dataset and Effective Models for Aspect-Based Sentiment Analysis",
+    "score": 0.660404014572581,
+    "method": "tfidf"
+  },
+  "12": {
+    "filename": "59.Attention-based LSTM for Aspect-level Sentiment Classification-Grobid-out.txt",
+    "title": "Attention-based LSTM for Aspect-level Sentiment Classification",
+    "score": 0.4505746059286075,
+    "method": "tfidf"
+  },
+  "14": {
+    "filename": null,
+    "title": null,
+    "score": 0.7457551956176758,
+    "method": "manual"
+  },
+  "15": {
+    "filename": "259.Adversarial Category Alignment Network for Cross-domain Sentiment Classification-Grobid-out.txt",
+    "title": "Adversarial Category Alignment Network for Cross-domain Sentiment Classification",
+    "score": 0.6483467733411987,
+    "method": "tfidf"
+  },
+  "16": {
+    "filename": null,
+    "title": null,
+    "score": 0.7282021641731262,
+    "method": "manual"
+  },
+  "17": {
+    "filename": "173.Cached Long Short-Term Memory Neural Networks for Document-Level Sentiment Classification-Grobid-out.txt",
+    "title": "Cached Long Short-Term Memory Neural Networks for Document-Level Sentiment Classification",
+    "score": 0.6786736786069288,
+    "method": "tfidf"
+  },
+  "18": {
+    "filename": "42.Knowledge-Enriched Two-Layered Attention Network for Sentiment Analysis-Grobid-out.txt",
+    "title": "Knowledge-Enriched Two-Layered Attention Network for Sentiment Analysis",
+    "score": 0.6958803150204272,
+    "method": "tfidf"
+  },
+  "19": {
+    "filename": null,
+    "title": null,
+    "score": 0.5972241163253784,
+    "method": "manual"
+  },
+  "20": {
+    "filename": "147.Learning Sentiment-Specific Word Embedding for Twitter Sentiment Classification-Grobid-out.txt",
+    "title": "Learning Sentiment-Specific Word Embedding for Twitter Sentiment Classification",
+    "score": 0.35232621657785995,
+    "method": "tfidf"
+  },
+  "21": {
+    "filename": "102.deepSA at SemEval-2017 Task 4 Interpolated Deep Neural Networks for Sentiment Analysis in Twitter-Grobid-out.txt",
+    "title": "deepSA at SemEval-2017 Task 4 Interpolated Deep Neural Networks for Sentiment Analysis in Twitter",
+    "score": 0.6544318227147415,
+    "method": "tfidf"
+  },
+  "22": {
+    "filename": "95.nlp.cs.aueb.gr Two Stage Sentiment Analysis-Grobid-out.txt",
+    "title": "nlp.cs.aueb.gr Two Stage Sentiment Analysis",
+    "score": 0.45276971037630825,
+    "method": "tfidf"
+  },
+  "23": {
+    "filename": "122.IIITG-ADBU at SemEval-2020 Task 9 SVM for Sentiment Analysis of English-Hindi Code-Mixed Text-Grobid-out.txt",
+    "title": "IIITG-ADBU at SemEval-2020 Task 9 SVM for Sentiment Analysis of English-Hindi Code-Mixed Text",
+    "score": 0.4940367204837631,
+    "method": "tfidf"
+  },
+  "24": {
+    "filename": "19.Baselines and Bigrams Simple, Good Sentiment and Topic Classification-Grobid-out.txt",
+    "title": "Baselines and Bigrams Simple, Good Sentiment and Topic Classification",
+    "score": 0.6752899057970398,
+    "method": "tfidf"
+  },
+  "25": {
+    "filename": "61.UWaterloo at SemEval-2016 Task 5 Minimally Supervised Approaches to Aspect-Based Sentiment Analysis-Grobid-out.txt",
+    "title": "UWaterloo at SemEval-2016 Task 5 Minimally Supervised Approaches to Aspect-Based Sentiment Analysis",
+    "score": 0.3230714582988147,
+    "method": "tfidf"
+  },
+  "26": {
+    "filename": "35.IIP at SemEval-2016 Task 4 Prioritizing Classes in Ensemble Classification for Sentiment Analysis of Tweets-Grobid-out.txt",
+    "title": "IIP at SemEval-2016 Task 4 Prioritizing Classes in Ensemble Classification for Sentiment Analysis of Tweets",
+    "score": 0.6636918759217413,
+    "method": "tfidf"
+  },
+  "27": {
+    "filename": "551.Capsule Network with Interactive Attention for Aspect-Level Sentiment Classification-Grobid-out.txt",
+    "title": "Capsule Network with Interactive Attention for Aspect-Level Sentiment Classification",
+    "score": 0.6806798028546167,
+    "method": "tfidf"
+  },
+  "28": {
+    "filename": "41.YNU-HPCC at SemEval-2018 Task 1 BiLSTM with Attention based Sentiment Analysis for Affect in Tweets-Grobid-out.txt",
+    "title": "YNU-HPCC at SemEval-2018 Task 1 BiLSTM with Attention based Sentiment Analysis for Affect in Tweets",
+    "score": 0.506030208006358,
+    "method": "tfidf"
+  },
+  "29": {
+    "filename": "121.DsUniPi An SVM-based Approach for Sentiment Analysis of Figurative Language on Twitter-Grobid-out.txt",
+    "title": "DsUniPi An SVM-based Approach for Sentiment Analysis of Figurative Language on Twitter",
+    "score": 0.3496068107349272,
+    "method": "tfidf"
+  },
+  "30": {
+    "filename": null,
+    "title": null,
+    "score": 0.6767809987068176,
+    "method": "manual"
+  },
+  "31": {
+    "filename": "381.Multi-grained Attention Network for Aspect-Level Sentiment Classification-Grobid-out.txt",
+    "title": "Multi-grained Attention Network for Aspect-Level Sentiment Classification",
+    "score": 0.6563856340845206,
+    "method": "tfidf"
+  },
+  "32": {
+    "filename": "91.Exploring Sentiment in Social Media Bootstrapping Subjectivity Clues from Multilingual Twitter Streams-Grobid-out.txt",
+    "title": "Exploring Sentiment in Social Media Bootstrapping Subjectivity Clues from Multilingual Twitter Streams",
+    "score": 0.6632262848903319,
+    "method": "tfidf"
+  },
+  "33": {
+    "filename": "49.GPLSI Supervised Sentiment Analysis in Twitter using Skipgrams-Grobid-out.txt",
+    "title": "GPLSI Supervised Sentiment Analysis in Twitter using Skipgrams",
+    "score": 0.3734420241630938,
+    "method": "tfidf"
+  },
+  "34": {
+    "filename": null,
+    "title": null,
+    "score": 0.6423901319503784,
+    "method": "manual"
+  },
+  "35": {
+    "filename": "12.Assessing the Efficacy of Clinical Sentiment Analysis and Topic Extraction in Psychiatric Readmission Risk Prediction-Grobid-out.txt",
+    "title": "Assessing the Efficacy of Clinical Sentiment Analysis and Topic Extraction in Psychiatric Readmission Risk Prediction",
+    "score": 0.7060750501603107,
+    "method": "tfidf"
+  },
+  "36": {
+    "filename": "147.Learning Sentiment-Specific Word Embedding for Twitter Sentiment Classification-Grobid-out.txt",
+    "title": "Learning Sentiment-Specific Word Embedding for Twitter Sentiment Classification",
+    "score": 0.8487313973342215,
+    "method": "tfidf"
+  },
+  "37": {
+    "filename": "3.Sentiment Analysis Is Not Solved! Assessing and Probing Sentiment Classification-Grobid-out.txt",
+    "title": "Sentiment Analysis Is Not Solved! Assessing and Probing Sentiment Classification",
+    "score": 0.32982115307350357,
+    "method": "tfidf"
+  },
+  "38": {
+    "filename": "467.Transferable End-to-End Aspect-based Sentiment Analysis with Selective Adversarial Learning-Grobid-out.txt",
+    "title": "Transferable End-to-End Aspect-based Sentiment Analysis with Selective Adversarial Learning",
+    "score": 0.7466282293015984,
+    "method": "tfidf"
+  },
+  "39": {
+    "filename": "346.Aspect Sentiment Classification Towards Question-Answering with Reinforced Bidirectional Attention Network-Grobid-out.txt",
+    "title": "Aspect Sentiment Classification Towards Question-Answering with Reinforced Bidirectional Attention Network",
+    "score": 0.7285235818093748,
+    "method": "tfidf"
+  },
+  "40": {
+    "filename": "93.SZTE-NLP Sentiment Detection on Twitter Messages-Grobid-out.txt",
+    "title": "SZTE-NLP Sentiment Detection on Twitter Messages",
+    "score": 0.5723510411132197,
+    "method": "tfidf"
+  },
+  "41": {
+    "filename": "174.SwissCheese at SemEval-2016 Task 4 Sentiment Classification Using an Ensemble of Convolutional Neural Networks with Distant Supervision-Grobid-out.txt",
+    "title": "SwissCheese at SemEval-2016 Task 4 Sentiment Classification Using an Ensemble of Convolutional Neural Networks with Distant Supervision",
+    "score": 0.5749694006716629,
+    "method": "tfidf"
+  },
+  "42": {
+    "filename": null,
+    "title": null,
+    "score": 0.638031005859375,
+    "method": "manual"
+  },
+  "43": {
+    "filename": null,
+    "title": null,
+    "score": 0.7250484824180603,
+    "method": "manual"
+  },
+  "46": {
+    "filename": "236.A Helping Hand Transfer Learning for Deep Sentiment Analysis-Grobid-out.txt",
+    "title": "A Helping Hand Transfer Learning for Deep Sentiment Analysis",
+    "score": 0.5710940300063726,
+    "method": "tfidf"
+  },
+  "47": {
+    "filename": "6.Detecting Event-Related Links and Sentiments from Social Media Texts-Grobid-out.txt",
+    "title": "Detecting Event-Related Links and Sentiments from Social Media Texts",
+    "score": 0.3767290577663403,
+    "method": "tfidf"
+  },
+  "48": {
+    "filename": "161.A Bayesian Model for Joint Unsupervised Induction of Sentiment, Aspect and Discourse Representations-Grobid-out.txt",
+    "title": "A Bayesian Model for Joint Unsupervised Induction of Sentiment, Aspect and Discourse Representations",
+    "score": 0.627542469278749,
+    "method": "tfidf"
+  },
+  "49": {
+    "filename": "468.CAN Constrained Attention Networks for Multi-Aspect Sentiment Analysis-Grobid-out.txt",
+    "title": "CAN Constrained Attention Networks for Multi-Aspect Sentiment Analysis",
+    "score": 0.6898850567003164,
+    "method": "tfidf"
+  },
+  "50": {
+    "filename": "70.[LVIC-LIMSI] Using Syntactic Features and Multi-polarity Words for Sentiment Analysis in Twitter-Grobid-out.txt",
+    "title": "[LVIC-LIMSI] Using Syntactic Features and Multi-polarity Words for Sentiment Analysis in Twitter",
+    "score": 0.43181866909966815,
+    "method": "tfidf"
+  },
+  "51": {
+    "filename": "141.Sentiment Adaptive End-to-End Dialog Systems-Grobid-out.txt",
+    "title": "Sentiment Adaptive End-to-End Dialog Systems",
+    "score": 0.5196314070565596,
+    "method": "tfidf"
+  },
+  "52": {
+    "filename": "78.NRC-Canada-2014 Recent Improvements in the Sentiment Analysis of Tweets-Grobid-out.txt",
+    "title": "NRC-Canada-2014 Recent Improvements in the Sentiment Analysis of Tweets",
+    "score": 0.6084698962131907,
+    "method": "tfidf"
+  },
+  "53": {
+    "filename": null,
+    "title": null,
+    "score": 0.6666161417961121,
+    "method": "manual"
+  },
+  "54": {
+    "filename": "47.An Embedding Model for Estimating Legislative Preferences from the Frequency and Sentiment of Tweets-Grobid-out.txt",
+    "title": "An Embedding Model for Estimating Legislative Preferences from the Frequency and Sentiment of Tweets",
+    "score": 0.8144188711674746,
+    "method": "tfidf"
+  },
+  "55": {
+    "filename": "184.Zyy1510 Team at SemEval-2020 Task 9 Sentiment Analysis for Code-Mixed Social Media Text with Sub-word Level Representations-Grobid-out.txt",
+    "title": "Zyy1510 Team at SemEval-2020 Task 9 Sentiment Analysis for Code-Mixed Social Media Text with Sub-word Level Representations",
+    "score": 0.5576217358385833,
+    "method": "tfidf"
+  },
+  "56": {
+    "filename": null,
+    "title": null,
+    "score": 0.4009469151496887,
+    "method": "manual"
+  },
+  "57": {
+    "filename": "287.Convolution over Hierarchical Syntactic and Lexical Graphs for Aspect Level Sentiment Analysis-Grobid-out.txt",
+    "title": "Convolution over Hierarchical Syntactic and Lexical Graphs for Aspect Level Sentiment Analysis",
+    "score": 0.7164359005379088,
+    "method": "tfidf"
+  },
+  "58": {
+    "filename": "5.Graph Attention Network with Memory Fusion for Aspect-level Sentiment Analysis-Grobid-out.txt",
+    "title": "Graph Attention Network with Memory Fusion for Aspect-level Sentiment Analysis",
+    "score": 0.6863200372255059,
+    "method": "tfidf"
+  },
+  "59": {
+    "filename": "111.WarwickDCS From Phrase-Based to Target-Specific Sentiment Recognition-Grobid-out.txt",
+    "title": "WarwickDCS From Phrase-Based to Target-Specific Sentiment Recognition",
+    "score": 0.4893560352175757,
+    "method": "tfidf"
+  },
+  "60": {
+    "filename": "172.Open Domain Targeted Sentiment-Grobid-out.txt",
+    "title": "Open Domain Targeted Sentiment",
+    "score": 0.44442870616414976,
+    "method": "tfidf"
+  },
+  "61": {
+    "filename": null,
+    "title": null,
+    "score": 0.7055341601371765,
+    "method": "manual"
+  },
+  "62": {
+    "filename": "140.Joint Aspect and Polarity Classification for Aspect-based Sentiment Analysis with End-to-End Neural Networks-Grobid-out.txt",
+    "title": "Joint Aspect and Polarity Classification for Aspect-based Sentiment Analysis with End-to-End Neural Networks",
+    "score": 0.4983310620150862,
+    "method": "tfidf"
+  },
+  "64": {
+    "filename": "46.Recurrent Entity Networks with Delayed Memory Update for Targeted Aspect-Based Sentiment Analysis-Grobid-out.txt",
+    "title": "Recurrent Entity Networks with Delayed Memory Update for Targeted Aspect-Based Sentiment Analysis",
+    "score": 0.5703653703883411,
+    "method": "tfidf"
+  },
+  "65": {
+    "filename": "90.GTI An Unsupervised Approach for Sentiment Analysis in Twitter-Grobid-out.txt",
+    "title": "GTI An Unsupervised Approach for Sentiment Analysis in Twitter",
+    "score": 0.6180078387260437,
+    "method": "semantic"
+  },
+  "67": {
+    "filename": "123.XJSA at SemEval-2017 Task 4 A Deep System for Sentiment Classification in Twitter-Grobid-out.txt",
+    "title": "XJSA at SemEval-2017 Task 4 A Deep System for Sentiment Classification in Twitter",
+    "score": 0.44433286846874276,
+    "method": "tfidf"
+  },
+  "69": {
+    "filename": "141.IBA-Sys at SemEval-2017 Task 5 Fine-Grained Sentiment Analysis on Financial Microblogs and News-Grobid-out.txt",
+    "title": "IBA-Sys at SemEval-2017 Task 5 Fine-Grained Sentiment Analysis on Financial Microblogs and News",
+    "score": 0.44420047560427584,
+    "method": "tfidf"
+  },
+  "70": {
+    "filename": null,
+    "title": null,
+    "score": 0.5677545070648193,
+    "method": "manual"
+  },
+  "71": {
+    "filename": "603.MEGA RST Discourse Treebanks with Structure and Nuclearity from Scalable Distant Sentiment Supervision-Grobid-out.txt",
+    "title": "MEGA RST Discourse Treebanks with Structure and Nuclearity from Scalable Distant Sentiment Supervision",
+    "score": 0.5869516441425102,
+    "method": "tfidf"
+  },
+  "72": {
+    "filename": null,
+    "title": null,
+    "score": 0.6329240798950195,
+    "method": "manual"
+  },
+  "73": {
+    "filename": "36.PotTS at SemEval-2016 Task 4 Sentiment Analysis of Twitter Using Character-level Convolutional Neural Networks.-Grobid-out.txt",
+    "title": "PotTS at SemEval-2016 Task 4 Sentiment Analysis of Twitter Using Character-level Convolutional Neural Networks.",
+    "score": 0.3854884018060346,
+    "method": "tfidf"
+  },
+  "74": {
+    "filename": "18.Biocom Usp Tweet Sentiment Analysis with Adaptive Boosting Ensemble-Grobid-out.txt",
+    "title": "Biocom Usp Tweet Sentiment Analysis with Adaptive Boosting Ensemble",
+    "score": 0.3485495988904437,
+    "method": "tfidf"
+  },
+  "76": {
+    "filename": "122.Pretraining Sentiment Classifiers with Unlabeled Dialog Data-Grobid-out.txt",
+    "title": "Pretraining Sentiment Classifiers with Unlabeled Dialog Data",
+    "score": 0.5198125070942523,
+    "method": "tfidf"
+  },
+  "77": {
+    "filename": "14.Automatically Extracting Polarity-Bearing Topics for Cross-Domain Sentiment Classification-Grobid-out.txt",
+    "title": "Automatically Extracting Polarity-Bearing Topics for Cross-Domain Sentiment Classification",
+    "score": 0.7787882329211893,
+    "method": "tfidf"
+  },
+  "78": {
+    "filename": "11.Benchmarking Machine Translated Sentiment Analysis for Arabic Tweets-Grobid-out.txt",
+    "title": "Benchmarking Machine Translated Sentiment Analysis for Arabic Tweets",
+    "score": 0.6905210411577557,
+    "method": "tfidf"
+  },
+  "79": {
+    "filename": "146.UWB Machine Learning Approach to Aspect-Based Sentiment Analysis-Grobid-out.txt",
+    "title": "UWB Machine Learning Approach to Aspect-Based Sentiment Analysis",
+    "score": 0.40378307499023536,
+    "method": "tfidf"
+  },
+  "81": {
+    "filename": "176.NITS-Hinglish-SentiMix at SemEval-2020 Task 9 Sentiment Analysis for Code-Mixed Social Media Text Using an Ensemble Model-Grobid-out.txt",
+    "title": "NITS-Hinglish-SentiMix at SemEval-2020 Task 9 Sentiment Analysis for Code-Mixed Social Media Text Using an Ensemble Model",
+    "score": 0.6729355454444885,
+    "method": "semantic"
+  },
+  "82": {
+    "filename": null,
+    "title": null,
+    "score": 0.2473430037498474,
+    "method": "manual"
+  },
+  "83": {
+    "filename": "65.CityU-DAC Disambiguating Sentiment-Ambiguous Adjectives within Context-Grobid-out.txt",
+    "title": "CityU-DAC Disambiguating Sentiment-Ambiguous Adjectives within Context",
+    "score": 0.6269063708345801,
+    "method": "tfidf"
+  },
+  "84": {
+    "filename": "408.Improving Aspect-based Sentiment Analysis with Gated Graph Convolutional Networks and Syntax-based Regulation-Grobid-out.txt",
+    "title": "Improving Aspect-based Sentiment Analysis with Gated Graph Convolutional Networks and Syntax-based Regulation",
+    "score": 0.688333651013215,
+    "method": "tfidf"
+  },
+  "85": {
+    "filename": "104.A Hierarchical Model of Reviews for Aspect-based Sentiment Analysis-Grobid-out.txt",
+    "title": "A Hierarchical Model of Reviews for Aspect-based Sentiment Analysis",
+    "score": 0.5666444514475258,
+    "method": "tfidf"
+  },
+  "86": {
+    "filename": "115.MI&T Lab at SemEval-2017 task 4 An Integrated Training Method of Word Vector for Sentiment Classification-Grobid-out.txt",
+    "title": "MI&T Lab at SemEval-2017 task 4 An Integrated Training Method of Word Vector for Sentiment Classification",
+    "score": 0.7120447158813477,
+    "method": "semantic"
+  },
+  "87": {
+    "filename": "101.SemEval-2020 Task 9 Overview of Sentiment Analysis of Code-Mixed Tweets-Grobid-out.txt",
+    "title": "SemEval-2020 Task 9 Overview of Sentiment Analysis of Code-Mixed Tweets",
+    "score": 0.5084845798230173,
+    "method": "tfidf"
+  },
+  "88": {
+    "filename": "126.Emotion Detection in Code-switching Texts via Bilingual and Sentimental Information-Grobid-out.txt",
+    "title": "Emotion Detection in Code-switching Texts via Bilingual and Sentimental Information",
+    "score": 0.4953969612991044,
+    "method": "tfidf"
+  },
+  "89": {
+    "filename": "54.INSIGHT-1 at SemEval-2016 Task 5 Deep Learning for Multilingual Aspect-based Sentiment Analysis-Grobid-out.txt",
+    "title": "INSIGHT-1 at SemEval-2016 Task 5 Deep Learning for Multilingual Aspect-based Sentiment Analysis",
+    "score": 0.6271364264146118,
+    "method": "tfidf"
+  },
+  "90": {
+    "filename": "29.THU_NGN at SemEval-2018 Task 1 Fine-grained Tweet Sentiment Intensity Analysis with Attention CNN-LSTM-Grobid-out.txt",
+    "title": "THU_NGN at SemEval-2018 Task 1 Fine-grained Tweet Sentiment Intensity Analysis with Attention CNN-LSTM",
+    "score": 0.6790754534453147,
+    "method": "tfidf"
+  },
+  "91": {
+    "filename": "294.Modelling Context and Syntactical Features for Aspect-based Sentiment Analysis-Grobid-out.txt",
+    "title": "Modelling Context and Syntactical Features for Aspect-based Sentiment Analysis",
+    "score": 0.5473149665695297,
+    "method": "tfidf"
+  },
+  "92": {
+    "filename": "37.A Variational Approach to Weakly Supervised Document-Level Multi-Aspect Sentiment Classification-Grobid-out.txt",
+    "title": "A Variational Approach to Weakly Supervised Document-Level Multi-Aspect Sentiment Classification",
+    "score": 0.6121314331224862,
+    "method": "tfidf"
+  },
+  "93": {
+    "filename": "32.All-in-One A Deep Attentive Multi-task Learning Framework for Humour, Sarcasm, Offensive, Motivation, and Sentiment on Memes-Grobid-out.txt",
+    "title": "All-in-One A Deep Attentive Multi-task Learning Framework for Humour, Sarcasm, Offensive, Motivation, and Sentiment on Memes",
+    "score": 0.3634943508094684,
+    "method": "tfidf"
+  },
+  "94": {
+    "filename": "180.UPB at SemEval-2020 Task 9 Identifying Sentiment in Code-Mixed Social Media Texts Using Transformers and Multi-Task Learning-Grobid-out.txt",
+    "title": "UPB at SemEval-2020 Task 9 Identifying Sentiment in Code-Mixed Social Media Texts Using Transformers and Multi-Task Learning",
+    "score": 0.657881736128915,
+    "method": "tfidf"
+  },
+  "95": {
+    "filename": "151.IITK at SemEval-2020 Task 8 Unimodal and Bimodal Sentiment Analysis of Internet Memes-Grobid-out.txt",
+    "title": "IITK at SemEval-2020 Task 8 Unimodal and Bimodal Sentiment Analysis of Internet Memes",
+    "score": 0.5011271708094321,
+    "method": "tfidf"
+  },
+  "96": {
+    "filename": "100.Towards Debugging Sentiment Lexicons-Grobid-out.txt",
+    "title": "Towards Debugging Sentiment Lexicons",
+    "score": 0.43596956283632265,
+    "method": "tfidf"
+  },
+  "97": {
+    "filename": "42.The Haves and the Have-Nots Leveraging Unlabelled Corpora for Sentiment Analysis-Grobid-out.txt",
+    "title": "The Haves and the Have-Nots Leveraging Unlabelled Corpora for Sentiment Analysis",
+    "score": 0.3711114838110727,
+    "method": "tfidf"
+  },
+  "98": {
+    "filename": "5.SemEval-2014 Task 4 Aspect Based Sentiment Analysis-Grobid-out.txt",
+    "title": "SemEval-2014 Task 4 Aspect Based Sentiment Analysis",
+    "score": 0.48185509964018997,
+    "method": "tfidf"
+  },
+  "99": {
+    "filename": "110.TWINA at SemEval-2017 Task 4 Twitter Sentiment Analysis with Ensemble Gradient Boost Tree Classifier-Grobid-out.txt",
+    "title": "TWINA at SemEval-2017 Task 4 Twitter Sentiment Analysis with Ensemble Gradient Boost Tree Classifier",
+    "score": 0.44520542547223413,
+    "method": "tfidf"
+  },
+  "100": {
+    "filename": "130.TopicThunder at SemEval-2017 Task 4 Sentiment Classification Using a Convolutional Neural Network with Distant Supervision-Grobid-out.txt",
+    "title": "TopicThunder at SemEval-2017 Task 4 Sentiment Classification Using a Convolutional Neural Network with Distant Supervision",
+    "score": 0.5588456176446442,
+    "method": "tfidf"
+  },
+  "101": {
+    "filename": "195.Towards Fine-grained Text Sentiment Transfer-Grobid-out.txt",
+    "title": "Towards Fine-grained Text Sentiment Transfer",
+    "score": 0.631894217317042,
+    "method": "tfidf"
+  },
+  "102": {
+    "filename": "344.CH-SIMS A Chinese Multimodal Sentiment Analysis Dataset with Fine-grained Annotation of Modality-Grobid-out.txt",
+    "title": "CH-SIMS A Chinese Multimodal Sentiment Analysis Dataset with Fine-grained Annotation of Modality",
+    "score": 0.7863917784275888,
+    "method": "tfidf"
+  },
+  "103": {
+    "filename": null,
+    "title": null,
+    "score": 0.32187125086784363,
+    "method": "manual"
+  },
+  "104": {
+    "filename": "16.AUEB Two Stage Sentiment Analysis of Social Network Messages-Grobid-out.txt",
+    "title": "AUEB Two Stage Sentiment Analysis of Social Network Messages",
+    "score": 0.4511236059340717,
+    "method": "tfidf"
+  },
+  "105": {
+    "filename": "13.Topic-Specific Sentiment Analysis Can Help Identify Political Ideology-Grobid-out.txt",
+    "title": "Topic-Specific Sentiment Analysis Can Help Identify Political Ideology",
+    "score": 0.5195264672426952,
+    "method": "tfidf"
+  },
+  "106": {
+    "filename": "45.DMCB at SemEval-2018 Task 1 Transfer Learning of Sentiment Classification Using Group LSTM for Emotion Intensity prediction-Grobid-out.txt",
+    "title": "DMCB at SemEval-2018 Task 1 Transfer Learning of Sentiment Classification Using Group LSTM for Emotion Intensity prediction",
+    "score": 0.7370902420263219,
+    "method": "tfidf"
+  },
+  "107": {
+    "filename": "108.TwitterHawk A Feature Bucket Based Approach to Sentiment Analysis-Grobid-out.txt",
+    "title": "TwitterHawk A Feature Bucket Based Approach to Sentiment Analysis",
+    "score": 0.5113582136418438,
+    "method": "tfidf"
+  },
+  "108": {
+    "filename": "120.YNUDLG at SemEval-2017 Task 4 A GRU-SVM Model for Sentiment Classification and Quantification in Twitter-Grobid-out.txt",
+    "title": "YNUDLG at SemEval-2017 Task 4 A GRU-SVM Model for Sentiment Classification and Quantification in Twitter",
+    "score": 0.5557712163620534,
+    "method": "tfidf"
+  },
+  "109": {
+    "filename": null,
+    "title": null,
+    "score": 0.3299703896045685,
+    "method": "manual"
+  },
+  "111": {
+    "filename": "126.Sentiment Analysis How to Derive Prior Polarities from SentiWordNet-Grobid-out.txt",
+    "title": "Sentiment Analysis How to Derive Prior Polarities from SentiWordNet",
+    "score": 0.5413025378426236,
+    "method": "tfidf"
+  },
+  "112": {
+    "filename": "92.IOA Improving SVM Based Sentiment Classification Through Post Processing-Grobid-out.txt",
+    "title": "IOA Improving SVM Based Sentiment Classification Through Post Processing",
+    "score": 0.3239248560244049,
+    "method": "tfidf"
+  },
+  "113": {
+    "filename": null,
+    "title": null,
+    "score": 0.4148682653903961,
+    "method": "manual"
+  },
+  "114": {
+    "filename": "6.Semi-Stacking for Semi-supervised Sentiment Classification-Grobid-out.txt",
+    "title": "Semi-Stacking for Semi-supervised Sentiment Classification",
+    "score": 0.5362444147919042,
+    "method": "tfidf"
+  },
+  "115": {
+    "filename": "119.CPH Sentiment analysis of Figurative Language on Twitter #easypeasy #not-Grobid-out.txt",
+    "title": "CPH Sentiment analysis of Figurative Language on Twitter #easypeasy #not",
+    "score": 0.3424700053031085,
+    "method": "tfidf"
+  },
+  "116": {
+    "filename": "58.A Multilayer Perceptron based Ensemble Technique for Fine-grained Financial Sentiment Analysis-Grobid-out.txt",
+    "title": "A Multilayer Perceptron based Ensemble Technique for Fine-grained Financial Sentiment Analysis",
+    "score": 0.5663808354381664,
+    "method": "tfidf"
+  },
+  "117": {
+    "filename": "89.Target-Sensitive Memory Networks for Aspect Sentiment Classification-Grobid-out.txt",
+    "title": "Target-Sensitive Memory Networks for Aspect Sentiment Classification",
+    "score": 0.5366523475724881,
+    "method": "tfidf"
+  },
+  "118": {
+    "filename": "30.An Empirical Study on the Effect of Negation Words on Sentiment-Grobid-out.txt",
+    "title": "An Empirical Study on the Effect of Negation Words on Sentiment",
+    "score": 0.5217013632486698,
+    "method": "tfidf"
+  },
+  "119": {
+    "filename": "96.Lsislif Feature Extraction and Label Weighting for Sentiment Analysis in Twitter-Grobid-out.txt",
+    "title": "Lsislif Feature Extraction and Label Weighting for Sentiment Analysis in Twitter",
+    "score": 0.4276519302058355,
+    "method": "tfidf"
+  },
+  "120": {
+    "filename": null,
+    "title": null,
+    "score": 0.5737624168395996,
+    "method": "manual"
+  },
+  "122": {
+    "filename": "87.RTRGO Enhancing the GU-MLT-LT System for Sentiment Analysis of Short Messages-Grobid-out.txt",
+    "title": "RTRGO Enhancing the GU-MLT-LT System for Sentiment Analysis of Short Messages",
+    "score": 0.35442403807060113,
+    "method": "tfidf"
+  },
+  "123": {
+    "filename": "150.Detecting Turnarounds in Sentiment Analysis Thwarting-Grobid-out.txt",
+    "title": "Detecting Turnarounds in Sentiment Analysis Thwarting",
+    "score": 0.49113562805025895,
+    "method": "tfidf"
+  },
+  "124": {
+    "filename": "451.Inducing Target-Specific Latent Structures for Aspect Sentiment Classification-Grobid-out.txt",
+    "title": "Inducing Target-Specific Latent Structures for Aspect Sentiment Classification",
+    "score": 0.6374267921427232,
+    "method": "tfidf"
+  },
+  "125": {
+    "filename": "64.Building Sentiment Lexicons for All Major Languages-Grobid-out.txt",
+    "title": "Building Sentiment Lexicons for All Major Languages",
+    "score": 0.4196959878793559,
+    "method": "tfidf"
+  },
+  "126": {
+    "filename": null,
+    "title": null,
+    "score": 0.6048053503036499,
+    "method": "manual"
+  },
+  "127": {
+    "filename": "152.COMMIT at SemEval-2017 Task 5 Ontology-based Method for Sentiment Analysis of Financial Headlines-Grobid-out.txt",
+    "title": "COMMIT at SemEval-2017 Task 5 Ontology-based Method for Sentiment Analysis of Financial Headlines",
+    "score": 0.4987090608530433,
+    "method": "tfidf"
+  },
+  "128": {
+    "filename": "134.Cross-Lingual Sentiment Classification with Bilingual Document Representation Learning-Grobid-out.txt",
+    "title": "Cross-Lingual Sentiment Classification with Bilingual Document Representation Learning",
+    "score": 0.7693051489706842,
+    "method": "tfidf"
+  },
+  "129": {
+    "filename": "46.NLANGP at SemEval-2016 Task 5 Improving Aspect Based Sentiment Analysis using Neural Network Features-Grobid-out.txt",
+    "title": "NLANGP at SemEval-2016 Task 5 Improving Aspect Based Sentiment Analysis using Neural Network Features",
+    "score": 0.41018286024768347,
+    "method": "tfidf"
+  },
+  "130": {
+    "filename": "24.Tweester at SemEval-2016 Task 4 Sentiment Analysis in Twitter Using Semantic-Affective Model Adaptation-Grobid-out.txt",
+    "title": "Tweester at SemEval-2016 Task 4 Sentiment Analysis in Twitter Using Semantic-Affective Model Adaptation",
+    "score": 0.4830961516052483,
+    "method": "tfidf"
+  },
+  "131": {
+    "filename": "82.Context-Dependent Sentiment Analysis in User-Generated Videos-Grobid-out.txt",
+    "title": "Context-Dependent Sentiment Analysis in User-Generated Videos",
+    "score": 0.7430689409267273,
+    "method": "tfidf"
+  },
+  "132": {
+    "filename": "133.TakeLab at SemEval-2017 Task 4 Recent Deaths and the Power of Nostalgia in Sentiment Analysis in Twitter-Grobid-out.txt",
+    "title": "TakeLab at SemEval-2017 Task 4 Recent Deaths and the Power of Nostalgia in Sentiment Analysis in Twitter",
+    "score": 0.35851355481218455,
+    "method": "tfidf"
+  },
+  "133": {
+    "filename": "718.Sentiment Analysis of Tweets using Heterogeneous Multi-layer Network Representation and Embedding-Grobid-out.txt",
+    "title": "Sentiment Analysis of Tweets using Heterogeneous Multi-layer Network Representation and Embedding",
+    "score": 0.7999528548030844,
+    "method": "tfidf"
+  },
+  "134": {
+    "filename": "553.Specificity-Driven Cascading Approach for Unsupervised Sentiment Modification-Grobid-out.txt",
+    "title": "Specificity-Driven Cascading Approach for Unsupervised Sentiment Modification",
+    "score": 0.6173667536606438,
+    "method": "tfidf"
+  },
+  "135": {
+    "filename": "126.ECNU Extracting Effective Features from Multiple Sequential Sentences for Target-dependent Sentiment Analysis in Reviews-Grobid-out.txt",
+    "title": "ECNU Extracting Effective Features from Multiple Sequential Sentences for Target-dependent Sentiment Analysis in Reviews",
+    "score": 0.4385803852290901,
+    "method": "tfidf"
+  },
+  "136": {
+    "filename": "42.Learning to Adapt Credible Knowledge in Cross-lingual Sentiment Analysis-Grobid-out.txt",
+    "title": "Learning to Adapt Credible Knowledge in Cross-lingual Sentiment Analysis",
+    "score": 0.3954233097479625,
+    "method": "tfidf"
+  },
+  "137": {
+    "filename": "34.Unsupervised Aspect-Level Sentiment Controllable Style Transfer-Grobid-out.txt",
+    "title": "Unsupervised Aspect-Level Sentiment Controllable Style Transfer",
+    "score": 0.5250443985245727,
+    "method": "tfidf"
+  },
+  "138": {
+    "filename": null,
+    "title": null,
+    "score": 0.5489992499351501,
+    "method": "manual"
+  },
+  "139": {
+    "filename": "58.Sentiment Classification Using Document Embeddings Trained with Cosine Similarity-Grobid-out.txt",
+    "title": "Sentiment Classification Using Document Embeddings Trained with Cosine Similarity",
+    "score": 0.5995793501177262,
+    "method": "tfidf"
+  },
+  "140": {
+    "filename": "131.INGEOTEC at SemEval 2017 Task 4 A B4MSA Ensemble based on Genetic Programming for Twitter Sentiment Analysis-Grobid-out.txt",
+    "title": "INGEOTEC at SemEval 2017 Task 4 A B4MSA Ensemble based on Genetic Programming for Twitter Sentiment Analysis",
+    "score": 0.6091312401566864,
+    "method": "tfidf"
+  },
+  "141": {
+    "filename": "36.Attention and Lexicon Regularized LSTM for Aspect-based Sentiment Analysis-Grobid-out.txt",
+    "title": "Attention and Lexicon Regularized LSTM for Aspect-based Sentiment Analysis",
+    "score": 0.6206248197732785,
+    "method": "tfidf"
+  },
+  "142": {
+    "filename": "55.IITPatna Supervised Approach for Sentiment Analysis in Twitter-Grobid-out.txt",
+    "title": "IITPatna Supervised Approach for Sentiment Analysis in Twitter",
+    "score": 0.4292615014920185,
+    "method": "tfidf"
+  },
+  "143": {
+    "filename": "168.Document Modeling with Gated Recurrent Neural Network for Sentiment Classification-Grobid-out.txt",
+    "title": "Document Modeling with Gated Recurrent Neural Network for Sentiment Classification",
+    "score": 0.7189418711239339,
+    "method": "tfidf"
+  },
+  "144": {
+    "filename": "378.IARM Inter-Aspect Relation Modeling with Memory Networks in Aspect-Based Sentiment Analysis-Grobid-out.txt",
+    "title": "IARM Inter-Aspect Relation Modeling with Memory Networks in Aspect-Based Sentiment Analysis",
+    "score": 0.5455304771232856,
+    "method": "tfidf"
+  },
+  "146": {
+    "filename": "120.UPF-taln SemEval 2015 Tasks 10 and 11. Sentiment Analysis of Literal and Figurative Language in Twitter-Grobid-out.txt",
+    "title": "UPF-taln SemEval 2015 Tasks 10 and 11. Sentiment Analysis of Literal and Figurative Language in Twitter",
+    "score": 0.4464153844863441,
+    "method": "tfidf"
+  },
+  "147": {
+    "filename": "56.Sentiment Tagging with Partial Labels using Modular Architectures-Grobid-out.txt",
+    "title": "Sentiment Tagging with Partial Labels using Modular Architectures",
+    "score": 0.5895748305689907,
+    "method": "tfidf"
+  },
+  "148": {
+    "filename": "14.Active Learning for Imbalanced Sentiment Classification-Grobid-out.txt",
+    "title": "Active Learning for Imbalanced Sentiment Classification",
+    "score": 0.7392134055865551,
+    "method": "tfidf"
+  },
+  "149": {
+    "filename": "155.Linguistically Regularized LSTM for Sentiment Classification-Grobid-out.txt",
+    "title": "Linguistically Regularized LSTM for Sentiment Classification",
+    "score": 0.5233350114045655,
+    "method": "tfidf"
+  },
+  "150": {
+    "filename": "589.Dependency Graph Enhanced Dual-transformer Structure for Aspect-based Sentiment Classification-Grobid-out.txt",
+    "title": "Dependency Graph Enhanced Dual-transformer Structure for Aspect-based Sentiment Classification",
+    "score": 0.8101364328593689,
+    "method": "tfidf"
+  },
+  "151": {
+    "filename": null,
+    "title": null,
+    "score": 0.573218822479248,
+    "method": "manual"
+  },
+  "152": {
+    "filename": "59.Sentiment Intensity Ranking among Adjectives Using Sentiment Bearing Word Embeddings-Grobid-out.txt",
+    "title": "Sentiment Intensity Ranking among Adjectives Using Sentiment Bearing Word Embeddings",
+    "score": 0.5960992501203917,
+    "method": "tfidf"
+  },
+  "153": {
+    "filename": "404.Summarizing Opinions Aspect Extraction Meets Sentiment Prediction and They Are Both Weakly Supervised-Grobid-out.txt",
+    "title": "Summarizing Opinions Aspect Extraction Meets Sentiment Prediction and They Are Both Weakly Supervised",
+    "score": 0.6221172045571934,
+    "method": "tfidf"
+  },
+  "155": {
+    "filename": "6.Examining Gender and Race Bias in Two Hundred Sentiment Analysis Systems-Grobid-out.txt",
+    "title": "Examining Gender and Race Bias in Two Hundred Sentiment Analysis Systems",
+    "score": 0.6526184678077698,
+    "method": "semantic"
+  },
+  "156": {
+    "filename": "18.Multi-task Learning for Automated Essay Scoring with Sentiment Analysis-Grobid-out.txt",
+    "title": "Multi-task Learning for Automated Essay Scoring with Sentiment Analysis",
+    "score": 0.6402374059721929,
+    "method": "tfidf"
+  },
+  "157": {
+    "filename": null,
+    "title": null,
+    "score": 0.5103433728218079,
+    "method": "manual"
+  },
+  "158": {
+    "filename": "298.JEAM A Novel Model for Cross-Domain Sentiment Classification Based on Emotion Analysis-Grobid-out.txt",
+    "title": "JEAM A Novel Model for Cross-Domain Sentiment Classification Based on Emotion Analysis",
+    "score": 0.4855547011179888,
+    "method": "tfidf"
+  },
+  "159": {
+    "filename": "45.An Ensemble of Humour, Sarcasm, and Hate Speechfor Sentiment Classification in Online Reviews-Grobid-out.txt",
+    "title": "An Ensemble of Humour, Sarcasm, and Hate Speechfor Sentiment Classification in Online Reviews",
+    "score": 0.6884759734260075,
+    "method": "tfidf"
+  },
+  "160": {
+    "filename": "30.Sentiment Domain Adaptation with Multiple Sources-Grobid-out.txt",
+    "title": "Sentiment Domain Adaptation with Multiple Sources",
+    "score": 0.8046767954968731,
+    "method": "tfidf"
+  },
+  "161": {
+    "filename": "94.Modeling Sentiment Association in Discourse for Humor Recognition-Grobid-out.txt",
+    "title": "Modeling Sentiment Association in Discourse for Humor Recognition",
+    "score": 0.4302334709167833,
+    "method": "tfidf"
+  },
+  "162": {
+    "filename": "16.NLPZZX at SemEval-2018 Task 1 Using Ensemble Method for Emotion and Sentiment Intensity Determination-Grobid-out.txt",
+    "title": "NLPZZX at SemEval-2018 Task 1 Using Ensemble Method for Emotion and Sentiment Intensity Determination",
+    "score": 0.6109361509376378,
+    "method": "tfidf"
+  },
+  "163": {
+    "filename": "60.Sentiment Lexicon Expansion Based on Neural PU Learning, Double Dictionary Lookup, and Polarity Association-Grobid-out.txt",
+    "title": "Sentiment Lexicon Expansion Based on Neural PU Learning, Double Dictionary Lookup, and Polarity Association",
+    "score": 0.7779616699650067,
+    "method": "tfidf"
+  },
+  "164": {
+    "filename": null,
+    "title": null,
+    "score": 0.6018919348716736,
+    "method": "manual"
+  },
+  "165": {
+    "filename": "3.SemEval-2016 Task 5 Aspect Based Sentiment Analysis-Grobid-out.txt",
+    "title": "SemEval-2016 Task 5 Aspect Based Sentiment Analysis",
+    "score": 0.4442695615057762,
+    "method": "tfidf"
+  },
+  "166": {
+    "filename": "121.LSIS at SemEval-2017 Task 4 Using Adapted Sentiment Similarity Seed Words For English and Arabic Tweet Polarity Classification-Grobid-out.txt",
+    "title": "LSIS at SemEval-2017 Task 4 Using Adapted Sentiment Similarity Seed Words For English and Arabic Tweet Polarity Classification",
+    "score": 0.3405304506061052,
+    "method": "tfidf"
+  },
+  "167": {
+    "filename": null,
+    "title": null,
+    "score": 0.5368722677230835,
+    "method": "manual"
+  },
+  "168": {
+    "filename": "89.Kea Expression-level Sentiment Analysis from Twitter Data-Grobid-out.txt",
+    "title": "Kea Expression-level Sentiment Analysis from Twitter Data",
+    "score": 0.3875783478734307,
+    "method": "tfidf"
+  },
+  "169": {
+    "filename": "232.Bilingual Sentiment Embeddings Joint Projection of Sentiment Across Languages-Grobid-out.txt",
+    "title": "Bilingual Sentiment Embeddings Joint Projection of Sentiment Across Languages",
+    "score": 0.6973779618144824,
+    "method": "tfidf"
+  },
+  "170": {
+    "filename": "4.Implicit Subjective and Sentimental Usages in Multi-sense Word Embeddings-Grobid-out.txt",
+    "title": "Implicit Subjective and Sentimental Usages in Multi-sense Word Embeddings",
+    "score": 0.4420485182985878,
+    "method": "tfidf"
+  },
+  "171": {
+    "filename": null,
+    "title": null,
+    "score": 0.3194583058357239,
+    "method": "manual"
+  },
+  "172": {
+    "filename": "235.Aspect Based Sentiment Analysis with Gated Convolutional Networks-Grobid-out.txt",
+    "title": "Aspect Based Sentiment Analysis with Gated Convolutional Networks",
+    "score": 0.5258673839756279,
+    "method": "tfidf"
+  },
+  "173": {
+    "filename": "132.TJUdeM A Combination Classifier for Aspect Category Detection and Sentiment Polarity Classification-Grobid-out.txt",
+    "title": "TJUdeM A Combination Classifier for Aspect Category Detection and Sentiment Polarity Classification",
+    "score": 0.44477946462288376,
+    "method": "tfidf"
+  },
+  "174": {
+    "filename": "32.DiegoLab16 at SemEval-2016 Task 4 Sentiment Analysis in Twitter using Centroids, Clusters, and Sentiment Lexicons-Grobid-out.txt",
+    "title": "DiegoLab16 at SemEval-2016 Task 4 Sentiment Analysis in Twitter using Centroids, Clusters, and Sentiment Lexicons",
+    "score": 0.3805896896070578,
+    "method": "tfidf"
+  },
+  "175": {
+    "filename": null,
+    "title": null,
+    "score": 0.6768422722816467,
+    "method": "manual"
+  },
+  "176": {
+    "filename": "8.Learning Word Embeddings for Data Sparse and Sentiment Rich Data Sets-Grobid-out.txt",
+    "title": "Learning Word Embeddings for Data Sparse and Sentiment Rich Data Sets",
+    "score": 0.6846183258948428,
+    "method": "tfidf"
+  },
+  "178": {
+    "filename": "92.Random Decision Syntax Trees at SemEval-2018 Task 3 LSTMs and Sentiment Scores for Irony Detection-Grobid-out.txt",
+    "title": "Random Decision Syntax Trees at SemEval-2018 Task 3 LSTMs and Sentiment Scores for Irony Detection",
+    "score": 0.4977289184423006,
+    "method": "tfidf"
+  },
+  "179": {
+    "filename": "383.Contextual Inter-modal Attention for Multi-modal Sentiment Analysis-Grobid-out.txt",
+    "title": "Contextual Inter-modal Attention for Multi-modal Sentiment Analysis",
+    "score": 0.7755642482537235,
+    "method": "tfidf"
+  },
+  "180": {
+    "filename": "103.SESAM at SemEval-2020 Task 8 Investigating the Relationship between Image and Text in Sentiment Analysis of Memes-Grobid-out.txt",
+    "title": "SESAM at SemEval-2020 Task 8 Investigating the Relationship between Image and Text in Sentiment Analysis of Memes",
+    "score": 0.41656943972477045,
+    "method": "tfidf"
+  },
+  "181": {
+    "filename": "10.Dr Sentiment Knows Everything!-Grobid-out.txt",
+    "title": "Dr Sentiment Knows Everything!",
+    "score": 0.7521478533744812,
+    "method": "semantic"
+  },
+  "183": {
+    "filename": null,
+    "title": null,
+    "score": 0.5079265832901001,
+    "method": "manual"
+  },
+  "184": {
+    "filename": "124.Adullam at SemEval-2017 Task 4 Sentiment Analyzer Using Lexicon Integrated Convolutional Neural Networks with Attention-Grobid-out.txt",
+    "title": "Adullam at SemEval-2017 Task 4 Sentiment Analyzer Using Lexicon Integrated Convolutional Neural Networks with Attention",
+    "score": 0.5113967759492323,
+    "method": "tfidf"
+  },
+  "185": {
+    "filename": "141.IBA-Sys at SemEval-2017 Task 5 Fine-Grained Sentiment Analysis on Financial Microblogs and News-Grobid-out.txt",
+    "title": "IBA-Sys at SemEval-2017 Task 5 Fine-Grained Sentiment Analysis on Financial Microblogs and News",
+    "score": 0.503043574596602,
+    "method": "tfidf"
+  },
+  "186": {
+    "filename": "61.UNITOR Combining Syntactic and Semantic Kernels for Twitter Sentiment Analysis-Grobid-out.txt",
+    "title": "UNITOR Combining Syntactic and Semantic Kernels for Twitter Sentiment Analysis",
+    "score": 0.4464705426271775,
+    "method": "tfidf"
+  },
+  "187": {
+    "filename": "100.UNIBA Sentiment Analysis of English Tweets Combining Micro-blogging, Lexicon and Semantic Features-Grobid-out.txt",
+    "title": "UNIBA Sentiment Analysis of English Tweets Combining Micro-blogging, Lexicon and Semantic Features",
+    "score": 0.45122887589791766,
+    "method": "tfidf"
+  },
+  "188": {
+    "filename": "506.Revisiting the Importance of Encoding Logic Rules in Sentiment Classification-Grobid-out.txt",
+    "title": "Revisiting the Importance of Encoding Logic Rules in Sentiment Classification",
+    "score": 0.6178233957193807,
+    "method": "tfidf"
+  },
+  "189": {
+    "filename": "22.Mazajak An Online Arabic Sentiment Analyser-Grobid-out.txt",
+    "title": "Mazajak An Online Arabic Sentiment Analyser",
+    "score": 0.5636895148666826,
+    "method": "tfidf"
+  },
+  "190": {
+    "filename": "44.NileTMRG at SemEval-2016 Task 5 Deep Convolutional Neural Networks for Aspect Category and Sentiment Extraction-Grobid-out.txt",
+    "title": "NileTMRG at SemEval-2016 Task 5 Deep Convolutional Neural Networks for Aspect Category and Sentiment Extraction",
+    "score": 0.6047290380827078,
+    "method": "tfidf"
+  },
+  "191": {
+    "filename": "101.Discourse Connectors for Latent Subjectivity in Sentiment Analysis-Grobid-out.txt",
+    "title": "Discourse Connectors for Latent Subjectivity in Sentiment Analysis",
+    "score": 0.82325288685543,
+    "method": "tfidf"
+  },
+  "192": {
+    "filename": "104.Subjectivity and Sentiment Analysis of Modern Standard Arabic-Grobid-out.txt",
+    "title": "Subjectivity and Sentiment Analysis of Modern Standard Arabic",
+    "score": 0.6881040701691067,
+    "method": "tfidf"
+  },
+  "193": {
+    "filename": "67.AraSenTi Large-Scale Twitter-Specific Arabic Sentiment Lexicons-Grobid-out.txt",
+    "title": "AraSenTi Large-Scale Twitter-Specific Arabic Sentiment Lexicons",
+    "score": 0.5597497650418545,
+    "method": "tfidf"
+  },
+  "194": {
+    "filename": "137.Parameterized Convolutional Neural Networks for Aspect Level Sentiment Classification-Grobid-out.txt",
+    "title": "Parameterized Convolutional Neural Networks for Aspect Level Sentiment Classification",
+    "score": 0.5869126205974423,
+    "method": "tfidf"
+  },
+  "195": {
+    "filename": "42.ECNU A Combination Method and Multiple Features for Aspect Extraction and Sentiment Polarity Classification-Grobid-out.txt",
+    "title": "ECNU A Combination Method and Multiple Features for Aspect Extraction and Sentiment Polarity Classification",
+    "score": 0.3039285651995296,
+    "method": "tfidf"
+  },
+  "196": {
+    "filename": "112.UIR-PKU Twitter-OpinMiner System for Sentiment Analysis in Twitter at SemEval 2015-Grobid-out.txt",
+    "title": "UIR-PKU Twitter-OpinMiner System for Sentiment Analysis in Twitter at SemEval 2015",
+    "score": 0.4317820642926744,
+    "method": "tfidf"
+  },
+  "197": {
+    "filename": "18.Biocom Usp Tweet Sentiment Analysis with Adaptive Boosting Ensemble-Grobid-out.txt",
+    "title": "Biocom Usp Tweet Sentiment Analysis with Adaptive Boosting Ensemble",
+    "score": 0.3485495988904437,
+    "method": "tfidf"
+  },
+  "198": {
+    "filename": "51.New Word Detection for Sentiment Analysis-Grobid-out.txt",
+    "title": "New Word Detection for Sentiment Analysis",
+    "score": 0.4420091297707478,
+    "method": "tfidf"
+  },
+  "199": {
+    "filename": "384.Adaptive Semi-supervised Learning for Cross-domain Sentiment Classification-Grobid-out.txt",
+    "title": "Adaptive Semi-supervised Learning for Cross-domain Sentiment Classification",
+    "score": 0.6402461438648474,
+    "method": "tfidf"
+  },
+  "200": {
+    "filename": "654.A Challenge Dataset and Effective Models for Aspect-Based Sentiment Analysis-Grobid-out.txt",
+    "title": "A Challenge Dataset and Effective Models for Aspect-Based Sentiment Analysis",
+    "score": 0.6833421098806755,
+    "method": "tfidf"
+  },
+  "201": {
+    "filename": "96.NILC_USP A Hybrid System for Sentiment Analysis in Twitter Messages-Grobid-out.txt",
+    "title": "NILC_USP A Hybrid System for Sentiment Analysis in Twitter Messages",
+    "score": 0.47529005183125744,
+    "method": "tfidf"
+  },
+  "202": {
+    "filename": "77.OPTWIMA Comparing Knowledge-rich and Knowledge-poor Approaches for Sentiment Analysis in Short Informal Texts-Grobid-out.txt",
+    "title": "OPTWIMA Comparing Knowledge-rich and Knowledge-poor Approaches for Sentiment Analysis in Short Informal Texts",
+    "score": 0.4659659669353883,
+    "method": "tfidf"
+  },
+  "203": {
+    "filename": "229.SemAxis A Lightweight Framework to Characterize Domain-Specific Word Semantics Beyond Sentiment-Grobid-out.txt",
+    "title": "SemAxis A Lightweight Framework to Characterize Domain-Specific Word Semantics Beyond Sentiment",
+    "score": 0.6137222320869546,
+    "method": "tfidf"
+  },
+  "204": {
+    "filename": null,
+    "title": null,
+    "score": 0.4402036666870117,
+    "method": "manual"
+  },
+  "205": {
+    "filename": "375.SKEP Sentiment Knowledge Enhanced Pre-training for Sentiment Analysis-Grobid-out.txt",
+    "title": "SKEP Sentiment Knowledge Enhanced Pre-training for Sentiment Analysis",
+    "score": 0.7674008964029524,
+    "method": "tfidf"
+  },
+  "207": {
+    "filename": "44.Learning to Relate Literal and Sentimental Descriptions of Visual Properties-Grobid-out.txt",
+    "title": "Learning to Relate Literal and Sentimental Descriptions of Visual Properties",
+    "score": 0.4153985329234675,
+    "method": "tfidf"
+  },
+  "208": {
+    "filename": "92.Learning to Detect Opinion Snippet for Aspect-Based Sentiment Analysis-Grobid-out.txt",
+    "title": "Learning to Detect Opinion Snippet for Aspect-Based Sentiment Analysis",
+    "score": 0.5829485285947317,
+    "method": "tfidf"
+  },
+  "209": {
+    "filename": "23.C-Feel-It A Sentiment Analyzer for Micro-blogs-Grobid-out.txt",
+    "title": "C-Feel-It A Sentiment Analyzer for Micro-blogs",
+    "score": 0.3347813439715459,
+    "method": "tfidf"
+  },
+  "210": {
+    "filename": "72.Subsentential Sentiment on a Shoestring A Crosslingual Analysis of Compositional Classification-Grobid-out.txt",
+    "title": "Subsentential Sentiment on a Shoestring A Crosslingual Analysis of Compositional Classification",
+    "score": 0.31331635376187345,
+    "method": "tfidf"
+  },
+  "211": {
+    "filename": null,
+    "title": null,
+    "score": 0.6882485747337341,
+    "method": "manual"
+  },
+  "212": {
+    "filename": "112.OMAM at SemEval-2017 Task 4 English Sentiment Analysis with Conditional Random Fields-Grobid-out.txt",
+    "title": "OMAM at SemEval-2017 Task 4 English Sentiment Analysis with Conditional Random Fields",
+    "score": 0.30314570804452506,
+    "method": "tfidf"
+  },
+  "213": {
+    "filename": "101.HITSZ_CITYU Combine Collocation, Context Words and Neighboring Sentence Sentiment in Sentiment Adjectives Disambiguation-Grobid-out.txt",
+    "title": "HITSZ_CITYU Combine Collocation, Context Words and Neighboring Sentence Sentiment in Sentiment Adjectives Disambiguation",
+    "score": 0.4398798145843594,
+    "method": "tfidf"
+  },
+  "214": {
+    "filename": "118.CS-Embed at SemEval-2020 Task 9 The Effectiveness of Code-switched Word Embeddings for Sentiment Analysis-Grobid-out.txt",
+    "title": "CS-Embed at SemEval-2020 Task 9 The Effectiveness of Code-switched Word Embeddings for Sentiment Analysis",
+    "score": 0.6887869391759452,
+    "method": "tfidf"
+  },
+  "216": {
+    "filename": "459.An Investigation of Transfer Learning-Based Sentiment Analysis in Japanese-Grobid-out.txt",
+    "title": "An Investigation of Transfer Learning-Based Sentiment Analysis in Japanese",
+    "score": 0.5946207069923529,
+    "method": "tfidf"
+  },
+  "217": {
+    "filename": "61.Optimizing Informativeness and Readability for Sentiment Summarization-Grobid-out.txt",
+    "title": "Optimizing Informativeness and Readability for Sentiment Summarization",
+    "score": 0.7502047858540071,
+    "method": "tfidf"
+  },
+  "218": {
+    "filename": "98.Towards a Unified End-to-End Approach for Fully Unsupervised Cross-Lingual Sentiment Analysis-Grobid-out.txt",
+    "title": "Towards a Unified End-to-End Approach for Fully Unsupervised Cross-Lingual Sentiment Analysis",
+    "score": 0.7157737772462308,
+    "method": "tfidf"
+  },
+  "219": {
+    "filename": "14.NEUROSENT-PDI at SemEval-2018 Task 1 Leveraging a Multi-Domain Sentiment Model for Inferring Polarity in Micro-blog Text-Grobid-out.txt",
+    "title": "NEUROSENT-PDI at SemEval-2018 Task 1 Leveraging a Multi-Domain Sentiment Model for Inferring Polarity in Micro-blog Text",
+    "score": 0.3851258451799428,
+    "method": "tfidf"
+  },
+  "220": {
+    "filename": "72.Detecting Risks in the Banking System by Sentiment Analysis-Grobid-out.txt",
+    "title": "Detecting Risks in the Banking System by Sentiment Analysis",
+    "score": 0.4539859314133915,
+    "method": "tfidf"
+  },
+  "221": {
+    "filename": "80.UNITN Training Deep Convolutional Neural Network for Twitter Sentiment Classification-Grobid-out.txt",
+    "title": "UNITN Training Deep Convolutional Neural Network for Twitter Sentiment Classification",
+    "score": 0.31931382286047755,
+    "method": "tfidf"
+  },
+  "222": {
+    "filename": "90.Identifying Transferable Information Across Domains for Cross-domain Sentiment Classification-Grobid-out.txt",
+    "title": "Identifying Transferable Information Across Domains for Cross-domain Sentiment Classification",
+    "score": 0.7203353219777822,
+    "method": "tfidf"
+  },
+  "223": {
+    "filename": null,
+    "title": null,
+    "score": 0.44662511348724365,
+    "method": "manual"
+  },
+  "224": {
+    "filename": "66.Kea Sentiment Analysis of Phrases Within Short Texts-Grobid-out.txt",
+    "title": "Kea Sentiment Analysis of Phrases Within Short Texts",
+    "score": 0.5816848020685875,
+    "method": "tfidf"
+  },
+  "225": {
+    "filename": "10.LyS at SemEval-2016 Task 4 Exploiting Neural Activation Values for Twitter Sentiment Classification and Quantification-Grobid-out.txt",
+    "title": "LyS at SemEval-2016 Task 4 Exploiting Neural Activation Values for Twitter Sentiment Classification and Quantification",
+    "score": 0.3823456485809338,
+    "method": "tfidf"
+  },
+  "226": {
+    "filename": "168.HCMS at SemEval-2020 Task 9 A Neural Approach to Sentiment Analysis for Code-Mixed Texts-Grobid-out.txt",
+    "title": "HCMS at SemEval-2020 Task 9 A Neural Approach to Sentiment Analysis for Code-Mixed Texts",
+    "score": 0.36940847784355185,
+    "method": "tfidf"
+  },
+  "227": {
+    "filename": "32.Learning Stock Market Sentiment Lexicon and Sentiment-Oriented Word Vector from StockTwits-Grobid-out.txt",
+    "title": "Learning Stock Market Sentiment Lexicon and Sentiment-Oriented Word Vector from StockTwits",
+    "score": 0.575080190222699,
+    "method": "tfidf"
+  },
+  "228": {
+    "filename": "157.Active Sentiment Domain Adaptation-Grobid-out.txt",
+    "title": "Active Sentiment Domain Adaptation",
+    "score": 0.8208133954723446,
+    "method": "tfidf"
+  },
+  "229": {
+    "filename": "72.NTNU Domain Semi-Independent Short Message Sentiment Classification-Grobid-out.txt",
+    "title": "NTNU Domain Semi-Independent Short Message Sentiment Classification",
+    "score": 0.5601522850233402,
+    "method": "tfidf"
+  },
+  "230": {
+    "filename": "111.Tw-StAR at SemEval-2017 Task 4 Sentiment Classification of Arabic Tweets-Grobid-out.txt",
+    "title": "Tw-StAR at SemEval-2017 Task 4 Sentiment Classification of Arabic Tweets",
+    "score": 0.3850478165340895,
+    "method": "tfidf"
+  },
+  "231": {
+    "filename": "296.Relational Graph Attention Network for Aspect-based Sentiment Analysis-Grobid-out.txt",
+    "title": "Relational Graph Attention Network for Aspect-based Sentiment Analysis",
+    "score": 0.7518577074342616,
+    "method": "tfidf"
+  },
+  "232": {
+    "filename": "79.SemEval-2015 Task 10 Sentiment Analysis in Twitter-Grobid-out.txt",
+    "title": "SemEval-2015 Task 10 Sentiment Analysis in Twitter",
+    "score": 0.34730345472923935,
+    "method": "tfidf"
+  },
+  "233": {
+    "filename": "568.Weakly-Supervised Aspect-Based Sentiment Analysis via Joint Aspect-Sentiment Topic Embedding-Grobid-out.txt",
+    "title": "Weakly-Supervised Aspect-Based Sentiment Analysis via Joint Aspect-Sentiment Topic Embedding",
+    "score": 0.6708897860492186,
+    "method": "tfidf"
+  },
+  "234": {
+    "filename": "24.Learning Sentence Embeddings with Auxiliary Tasks for Cross-Domain Sentiment Classification-Grobid-out.txt",
+    "title": "Learning Sentence Embeddings with Auxiliary Tasks for Cross-Domain Sentiment Classification",
+    "score": 0.7150813749111623,
+    "method": "tfidf"
+  },
+  "235": {
+    "filename": "183.Will_go at SemEval-2020 Task 9 An Accurate Approach for Sentiment Analysis on Hindi-English Tweets Based on Bert and Pesudo Label Strategy-Grobid-out.txt",
+    "title": "Will_go at SemEval-2020 Task 9 An Accurate Approach for Sentiment Analysis on Hindi-English Tweets Based on Bert and Pesudo Label Strategy",
+    "score": 0.5689934016266627,
+    "method": "tfidf"
+  },
+  "236": {
+    "filename": "54.Progressive Self-Supervised Attention Learning for Aspect-Level Sentiment Analysis-Grobid-out.txt",
+    "title": "Progressive Self-Supervised Attention Learning for Aspect-Level Sentiment Analysis",
+    "score": 0.5481092976487868,
+    "method": "tfidf"
+  },
+  "237": {
+    "filename": null,
+    "title": null,
+    "score": 0.5845741629600525,
+    "method": "manual"
+  },
+  "238": {
+    "filename": "59.Attention-based LSTM for Aspect-level Sentiment Classification-Grobid-out.txt",
+    "title": "Attention-based LSTM for Aspect-level Sentiment Classification",
+    "score": 0.6441470036047974,
+    "method": "tfidf"
+  },
+  "239": {
+    "filename": "150.UW-FinSent at SemEval-2017 Task 5 Sentiment Analysis on Financial News Headlines using Training Dataset Augmentation-Grobid-out.txt",
+    "title": "UW-FinSent at SemEval-2017 Task 5 Sentiment Analysis on Financial News Headlines using Training Dataset Augmentation",
+    "score": 0.4258877620594905,
+    "method": "tfidf"
+  },
+  "240": {
+    "filename": "132.Topic Modeling based Sentiment Analysis on Social Media for Stock Market Prediction-Grobid-out.txt",
+    "title": "Topic Modeling based Sentiment Analysis on Social Media for Stock Market Prediction",
+    "score": 0.6302877883256693,
+    "method": "tfidf"
+  },
+  "241": {
+    "filename": "129.Aspect-Level Cross-lingual Sentiment Classification with Constrained SMT-Grobid-out.txt",
+    "title": "Aspect-Level Cross-lingual Sentiment Classification with Constrained SMT",
+    "score": 0.30072647061901986,
+    "method": "tfidf"
+  },
+  "242": {
+    "filename": "79.UWB at SemEval-2016 Task 7 Novel Method for Automatic Sentiment Intensity Determination-Grobid-out.txt",
+    "title": "UWB at SemEval-2016 Task 7 Novel Method for Automatic Sentiment Intensity Determination",
+    "score": 0.3216794803475401,
+    "method": "tfidf"
+  },
+  "243": {
+    "filename": "9.Weakly Supervised Models of Aspect-Sentiment for Online Course Discussion Forums-Grobid-out.txt",
+    "title": "Weakly Supervised Models of Aspect-Sentiment for Online Course Discussion Forums",
+    "score": 0.4176335568418681,
+    "method": "tfidf"
+  },
+  "244": {
+    "filename": "67.SINAI Machine Learning and Emotion of the Crowd for Sentiment Analysis in Microblogs-Grobid-out.txt",
+    "title": "SINAI Machine Learning and Emotion of the Crowd for Sentiment Analysis in Microblogs",
+    "score": 0.3463928773510872,
+    "method": "tfidf"
+  },
+  "245": {
+    "filename": null,
+    "title": null,
+    "score": 0.5559315085411072,
+    "method": "manual"
+  },
+  "246": {
+    "filename": "52.ReNew A Semi-Supervised Framework for Generating Domain-Specific Lexicons and Sentiment Analysis-Grobid-out.txt",
+    "title": "ReNew A Semi-Supervised Framework for Generating Domain-Specific Lexicons and Sentiment Analysis",
+    "score": 0.6180482724589034,
+    "method": "tfidf"
+  },
+  "247": {
+    "filename": "49.A Cognition Based Attention Model for Sentiment Analysis-Grobid-out.txt",
+    "title": "A Cognition Based Attention Model for Sentiment Analysis",
+    "score": 0.7552016894639688,
+    "method": "tfidf"
+  },
+  "248": {
+    "filename": "17.Linking News Sentiment to Microblogs A Distributional Semantics Approach to Enhance Microblog Sentiment Classification-Grobid-out.txt",
+    "title": "Linking News Sentiment to Microblogs A Distributional Semantics Approach to Enhance Microblog Sentiment Classification",
+    "score": 0.7084983860401618,
+    "method": "tfidf"
+  },
+  "249": {
+    "filename": "54.Towards a Universal Sentiment Classifier in Multiple languages-Grobid-out.txt",
+    "title": "Towards a Universal Sentiment Classifier in Multiple languages",
+    "score": 0.5000385435963363,
+    "method": "tfidf"
+  },
+  "250": {
+    "filename": "127.DataStories at SemEval-2017 Task 4 Deep LSTM with Attention for Message-level and Topic-based Sentiment Analysis-Grobid-out.txt",
+    "title": "DataStories at SemEval-2017 Task 4 Deep LSTM with Attention for Message-level and Topic-based Sentiment Analysis",
+    "score": 0.47016817941777184,
+    "method": "tfidf"
+  },
+  "251": {
+    "filename": "87.CodeX Combining an SVM Classifier and Character N-gram Language Models for Sentiment Analysis on Twitter Text-Grobid-out.txt",
+    "title": "CodeX Combining an SVM Classifier and Character N-gram Language Models for Sentiment Analysis on Twitter Text",
+    "score": 0.34952122100553873,
+    "method": "tfidf"
+  },
+  "252": {
+    "filename": "25.UofL at SemEval-2016 Task 4 Multi Domain word2vec for Twitter Sentiment Classification-Grobid-out.txt",
+    "title": "UofL at SemEval-2016 Task 4 Multi Domain word2vec for Twitter Sentiment Classification",
+    "score": 0.5090836708521023,
+    "method": "tfidf"
+  },
+  "253": {
+    "filename": "132.BUSEM at SemEval-2017 Task 4A Sentiment Analysis with Word Embedding and Long Short Term Memory RNN Approaches-Grobid-out.txt",
+    "title": "BUSEM at SemEval-2017 Task 4A Sentiment Analysis with Word Embedding and Long Short Term Memory RNN Approaches",
+    "score": 0.5610338009229646,
+    "method": "tfidf"
+  },
+  "254": {
+    "filename": "36.DAEDALUS at SemEval-2014 Task 9 Comparing Approaches for Sentiment Analysis in Twitter-Grobid-out.txt",
+    "title": "DAEDALUS at SemEval-2014 Task 9 Comparing Approaches for Sentiment Analysis in Twitter",
+    "score": 0.31711383682956445,
+    "method": "tfidf"
+  },
+  "255": {
+    "filename": "15.Semi-Supervised Recursive Autoencoders for Predicting Sentiment Distributions-Grobid-out.txt",
+    "title": "Semi-Supervised Recursive Autoencoders for Predicting Sentiment Distributions",
+    "score": 0.44668351072375606,
+    "method": "tfidf"
+  },
+  "256": {
+    "filename": "16.Ternary Twitter Sentiment Classification with Distant Supervision and Sentiment-Specific Word Embeddings-Grobid-out.txt",
+    "title": "Ternary Twitter Sentiment Classification with Distant Supervision and Sentiment-Specific Word Embeddings",
+    "score": 0.7776753669678613,
+    "method": "tfidf"
+  },
+  "258": {
+    "filename": "20.Lingmotif Sentiment Analysis for the Digital Humanities-Grobid-out.txt",
+    "title": "Lingmotif Sentiment Analysis for the Digital Humanities",
+    "score": 0.6046302403172613,
+    "method": "tfidf"
+  },
+  "260": {
+    "filename": "77.NRC-Canada-2014 Detecting Aspects and Sentiment in Customer Reviews-Grobid-out.txt",
+    "title": "NRC-Canada-2014 Detecting Aspects and Sentiment in Customer Reviews",
+    "score": 0.5097324909132394,
+    "method": "tfidf"
+  },
+  "261": {
+    "filename": "53.Sentiment Lexicon Construction with Representation Learning Based on Hierarchical Sentiment Supervision-Grobid-out.txt",
+    "title": "Sentiment Lexicon Construction with Representation Learning Based on Hierarchical Sentiment Supervision",
+    "score": 0.7743748615689575,
+    "method": "tfidf"
+  },
+  "262": {
+    "filename": "40.YZU-NLP Team at SemEval-2016 Task 4 Ordinal Sentiment Classification Using a Recurrent Convolutional Network-Grobid-out.txt",
+    "title": "YZU-NLP Team at SemEval-2016 Task 4 Ordinal Sentiment Classification Using a Recurrent Convolutional Network",
+    "score": 0.4580158033197808,
+    "method": "tfidf"
+  },
+  "263": {
+    "filename": "572.Unified Feature and Instance Based Domain Adaptation for Aspect-Based Sentiment Analysis-Grobid-out.txt",
+    "title": "Unified Feature and Instance Based Domain Adaptation for Aspect-Based Sentiment Analysis",
+    "score": 0.6846039868508252,
+    "method": "tfidf"
+  },
+  "264": {
+    "filename": "171.IUST at SemEval-2020 Task 9 Sentiment Analysis for Code-Mixed Social Media Text Using Deep Neural Networks and Linear Baselines-Grobid-out.txt",
+    "title": "IUST at SemEval-2020 Task 9 Sentiment Analysis for Code-Mixed Social Media Text Using Deep Neural Networks and Linear Baselines",
+    "score": 0.48830702077451765,
+    "method": "tfidf"
+  },
+  "265": {
+    "filename": "55.Capturing User and Product Information for Document Level Sentiment Analysis with Deep Memory Network-Grobid-out.txt",
+    "title": "Capturing User and Product Information for Document Level Sentiment Analysis with Deep Memory Network",
+    "score": 0.3011752283939523,
+    "method": "tfidf"
+  },
+  "266": {
+    "filename": "17.Instance Selection Improves Cross-Lingual Model Training for Fine-Grained Sentiment Analysis-Grobid-out.txt",
+    "title": "Instance Selection Improves Cross-Lingual Model Training for Fine-Grained Sentiment Analysis",
+    "score": 0.7123457255951259,
+    "method": "tfidf"
+  },
+  "267": {
+    "filename": "604.Learning to Control the Fine-grained Sentiment for Story Ending Generation-Grobid-out.txt",
+    "title": "Learning to Control the Fine-grained Sentiment for Story Ending Generation",
+    "score": 0.5320099564133651,
+    "method": "tfidf"
+  },
+  "268": {
+    "filename": "44.Cross-Domain Co-Extraction of Sentiment and Topic Lexicons-Grobid-out.txt",
+    "title": "Cross-Domain Co-Extraction of Sentiment and Topic Lexicons",
+    "score": 0.6303633204908782,
+    "method": "tfidf"
+  },
+  "269": {
+    "filename": "51.AUEB-ABSA at SemEval-2016 Task 5 Ensembles of Classifiers and Embeddings for Aspect Based Sentiment Analysis-Grobid-out.txt",
+    "title": "AUEB-ABSA at SemEval-2016 Task 5 Ensembles of Classifiers and Embeddings for Aspect Based Sentiment Analysis",
+    "score": 0.6876125617780994,
+    "method": "tfidf"
+  },
+  "270": {
+    "filename": "11.Sentiment analysis under temporal shift-Grobid-out.txt",
+    "title": "Sentiment analysis under temporal shift",
+    "score": 0.3395519775836952,
+    "method": "tfidf"
+  },
+  "271": {
+    "filename": "107.DeepSentiPeer Harnessing Sentiment in Review Texts to Recommend Peer Review Decisions-Grobid-out.txt",
+    "title": "DeepSentiPeer Harnessing Sentiment in Review Texts to Recommend Peer Review Decisions",
+    "score": 0.5188268331507956,
+    "method": "tfidf"
+  },
+  "272": {
+    "filename": "6.Exploiting BERT for End-to-End Aspect-based Sentiment Analysis-Grobid-out.txt",
+    "title": "Exploiting BERT for End-to-End Aspect-based Sentiment Analysis",
+    "score": 0.6291895741798004,
+    "method": "tfidf"
+  },
+  "273": {
+    "filename": "90.SAIL Sentiment Analysis using Semantic Similarity and Contrast Features-Grobid-out.txt",
+    "title": "SAIL Sentiment Analysis using Semantic Similarity and Contrast Features",
+    "score": 0.3984547672362615,
+    "method": "tfidf"
+  },
+  "274": {
+    "filename": "138.Improving Multi-label Emotion Classification via Sentiment Classification with Dual Attention Transfer Network-Grobid-out.txt",
+    "title": "Improving Multi-label Emotion Classification via Sentiment Classification with Dual Attention Transfer Network",
+    "score": 0.6292056154626104,
+    "method": "tfidf"
+  },
+  "275": {
+    "filename": "22.Aspect Level Sentiment Classification with Deep Memory Network-Grobid-out.txt",
+    "title": "Aspect Level Sentiment Classification with Deep Memory Network",
+    "score": 0.5195441150591772,
+    "method": "tfidf"
+  },
+  "276": {
+    "filename": "159.UI at SemEval-2020 Task 8 Text-Image Fusion for Sentiment Classification-Grobid-out.txt",
+    "title": "UI at SemEval-2020 Task 8 Text-Image Fusion for Sentiment Classification",
+    "score": 0.5777487485768574,
+    "method": "tfidf"
+  },
+  "277": {
+    "filename": null,
+    "title": null,
+    "score": 0.5818365216255188,
+    "method": "manual"
+  },
+  "278": {
+    "filename": "114.The Impact of Z_score on Twitter Sentiment Analysis-Grobid-out.txt",
+    "title": "The Impact of Z_score on Twitter Sentiment Analysis",
+    "score": 0.6847382223906496,
+    "method": "tfidf"
+  },
+  "279": {
+    "filename": "557.Shallow Domain Adaptive Embeddings for Sentiment Analysis-Grobid-out.txt",
+    "title": "Shallow Domain Adaptive Embeddings for Sentiment Analysis",
+    "score": 0.6288877054110737,
+    "method": "tfidf"
+  },
+  "280": {
+    "filename": "570.Diversified Multiple Instance Learning for Document-Level Multi-Aspect Sentiment Classification-Grobid-out.txt",
+    "title": "Diversified Multiple Instance Learning for Document-Level Multi-Aspect Sentiment Classification",
+    "score": 0.8205415170727627,
+    "method": "tfidf"
+  },
+  "281": {
+    "filename": "114.LLT-PolyU Identifying Sentiment Intensity in Ironic Tweets-Grobid-out.txt",
+    "title": "LLT-PolyU Identifying Sentiment Intensity in Ironic Tweets",
+    "score": 0.3090579012764091,
+    "method": "tfidf"
+  },
+  "282": {
+    "filename": "26.DL Team at SemEval-2018 Task 1 Tweet Affect Detection using Sentiment Lexicons and Embeddings-Grobid-out.txt",
+    "title": "DL Team at SemEval-2018 Task 1 Tweet Affect Detection using Sentiment Lexicons and Embeddings",
+    "score": 0.5759311393434909,
+    "method": "tfidf"
+  },
+  "283": {
+    "filename": "147.Learning Sentiment-Specific Word Embedding for Twitter Sentiment Classification-Grobid-out.txt",
+    "title": "Learning Sentiment-Specific Word Embedding for Twitter Sentiment Classification",
+    "score": 0.6459256575406612,
+    "method": "tfidf"
+  },
+  "284": {
+    "filename": "511.Cross-Lingual Unsupervised Sentiment Classification with Multi-View Transfer Learning-Grobid-out.txt",
+    "title": "Cross-Lingual Unsupervised Sentiment Classification with Multi-View Transfer Learning",
+    "score": 0.7496058469371473,
+    "method": "tfidf"
+  },
+  "285": {
+    "filename": "17.Cross Lingual Sentiment Analysis using Modified BRAE-Grobid-out.txt",
+    "title": "Cross Lingual Sentiment Analysis using Modified BRAE",
+    "score": 0.4721561277207637,
+    "method": "tfidf"
+  },
+  "286": {
+    "filename": "53.SemEval-2013 Task 2 Sentiment Analysis in Twitter-Grobid-out.txt",
+    "title": "SemEval-2013 Task 2 Sentiment Analysis in Twitter",
+    "score": 0.49755768726687183,
+    "method": "tfidf"
+  },
+  "287": {
+    "filename": "43.ECNU Expression- and Message-level Sentiment Orientation Classification in Twitter Using Multiple Effective Features-Grobid-out.txt",
+    "title": "ECNU Expression- and Message-level Sentiment Orientation Classification in Twitter Using Multiple Effective Features",
+    "score": 0.47368058911654903,
+    "method": "tfidf"
+  },
+  "288": {
+    "filename": "164.C1 at SemEval-2020 Task 9 SentiMix Sentiment Analysis for Code-Mixed Social Media Text Using Feature Engineering-Grobid-out.txt",
+    "title": "C1 at SemEval-2020 Task 9 SentiMix Sentiment Analysis for Code-Mixed Social Media Text Using Feature Engineering",
+    "score": 0.4400108143308036,
+    "method": "tfidf"
+  },
+  "289": {
+    "filename": "95.SMARTies Sentiment Models for Arabic Target entities-Grobid-out.txt",
+    "title": "SMARTies Sentiment Models for Arabic Target entities",
+    "score": 0.6613422452148169,
+    "method": "tfidf"
+  },
+  "290": {
+    "filename": null,
+    "title": null,
+    "score": 0.4236750304698944,
+    "method": "manual"
+  },
+  "291": {
+    "filename": null,
+    "title": null,
+    "score": 0.37867501378059387,
+    "method": "manual"
+  },
+  "292": {
+    "filename": null,
+    "title": null,
+    "score": 0.530422031879425,
+    "method": "manual"
+  },
+  "293": {
+    "filename": "101.Sparse, Contextually Informed Models for Irony Detection Exploiting User Communities, Entities and Sentiment-Grobid-out.txt",
+    "title": "Sparse, Contextually Informed Models for Irony Detection Exploiting User Communities, Entities and Sentiment",
+    "score": 0.5769751565385857,
+    "method": "tfidf"
+  },
+  "294": {
+    "filename": "657.Multi-Task Stance Detection with Sentiment and Stance Lexicons-Grobid-out.txt",
+    "title": "Multi-Task Stance Detection with Sentiment and Stance Lexicons",
+    "score": 0.7501566633792859,
+    "method": "tfidf"
+  },
+  "295": {
+    "filename": "101.IITPSemEval Sentiment Discovery from 140 Characters-Grobid-out.txt",
+    "title": "IITPSemEval Sentiment Discovery from 140 Characters",
+    "score": 0.4521226892225881,
+    "method": "tfidf"
+  },
+  "296": {
+    "filename": "97.Utterance-Level Multimodal Sentiment Analysis-Grobid-out.txt",
+    "title": "Utterance-Level Multimodal Sentiment Analysis",
+    "score": 0.6220688518295392,
+    "method": "tfidf"
+  },
+  "297": {
+    "filename": "52.Open-Domain Targeted Sentiment Analysis via Span-Based Extraction and Classification-Grobid-out.txt",
+    "title": "Open-Domain Targeted Sentiment Analysis via Span-Based Extraction and Classification",
+    "score": 0.6311857774869414,
+    "method": "tfidf"
+  },
+  "298": {
+    "filename": "44.Modeling Inter-Aspect Dependencies for Aspect-Based Sentiment Analysis-Grobid-out.txt",
+    "title": "Modeling Inter-Aspect Dependencies for Aspect-Based Sentiment Analysis",
+    "score": 0.4577877476899578,
+    "method": "tfidf"
+  },
+  "299": {
+    "filename": "371.Adversarial and Domain-Aware BERT for Cross-Domain Sentiment Analysis-Grobid-out.txt",
+    "title": "Adversarial and Domain-Aware BERT for Cross-Domain Sentiment Analysis",
+    "score": 0.7652735543371482,
+    "method": "tfidf"
+  },
+  "300": {
+    "filename": "5.Syntax-Ignorant N-gram Embeddings for Sentiment Analysis of Arabic Dialects-Grobid-out.txt",
+    "title": "Syntax-Ignorant N-gram Embeddings for Sentiment Analysis of Arabic Dialects",
+    "score": 0.6425960330073076,
+    "method": "tfidf"
+  },
+  "301": {
+    "filename": "93.SeemGo Conditional Random Fields Labeling and Maximum Entropy Classification for Aspect Based Sentiment Analysis-Grobid-out.txt",
+    "title": "SeemGo Conditional Random Fields Labeling and Maximum Entropy Classification for Aspect Based Sentiment Analysis",
+    "score": 0.4402140482805265,
+    "method": "tfidf"
+  },
+  "302": {
+    "filename": "655.Learning with Noisy Labels for Sentence-level Sentiment Classification-Grobid-out.txt",
+    "title": "Learning with Noisy Labels for Sentence-level Sentiment Classification",
+    "score": 0.6522994284693138,
+    "method": "tfidf"
+  },
+  "303": {
+    "filename": "273.Keep Calm and Switch On! Preserving Sentiment and Fluency in Semantic Text Exchange-Grobid-out.txt",
+    "title": "Keep Calm and Switch On! Preserving Sentiment and Fluency in Semantic Text Exchange",
+    "score": 0.7295651025490968,
+    "method": "tfidf"
+  },
+  "304": {
+    "filename": "122.Understanding Language Preference for Expression of Opinion and Sentiment What do Hindi-English Speakers do on Twitter-Grobid-out.txt",
+    "title": "Understanding Language Preference for Expression of Opinion and Sentiment What do Hindi-English Speakers do on Twitter",
+    "score": 0.3898176633590083,
+    "method": "tfidf"
+  },
+  "305": {
+    "filename": "75.Best-Worst Scaling More Reliable than Rating Scales A Case Study on Sentiment Intensity Annotation-Grobid-out.txt",
+    "title": "Best-Worst Scaling More Reliable than Rating Scales A Case Study on Sentiment Intensity Annotation",
+    "score": 0.6679597991452817,
+    "method": "tfidf"
+  },
+  "306": {
+    "filename": "188.Exploring Demographic Language Variations to Improve Multilingual Sentiment Analysis in Social Media-Grobid-out.txt",
+    "title": "Exploring Demographic Language Variations to Improve Multilingual Sentiment Analysis in Social Media",
+    "score": 0.6522612634374452,
+    "method": "tfidf"
+  },
+  "307": {
+    "filename": "10.Adaptive Recursive Neural Network for Target-dependent Twitter Sentiment Classification-Grobid-out.txt",
+    "title": "Adaptive Recursive Neural Network for Target-dependent Twitter Sentiment Classification",
+    "score": 0.7939535924640115,
+    "method": "tfidf"
+  },
+  "308": {
+    "filename": "104.CrystalNest at SemEval-2017 Task 4 Using Sarcasm Detection for Enhancing Sentiment Classification and Quantification-Grobid-out.txt",
+    "title": "CrystalNest at SemEval-2017 Task 4 Using Sarcasm Detection for Enhancing Sentiment Classification and Quantification",
+    "score": 0.3441656476070826,
+    "method": "tfidf"
+  },
+  "309": {
+    "filename": "19.PUT at SemEval-2016 Task 4 The ABC of Twitter Sentiment Analysis-Grobid-out.txt",
+    "title": "PUT at SemEval-2016 Task 4 The ABC of Twitter Sentiment Analysis",
+    "score": 0.5276430446532134,
+    "method": "tfidf"
+  },
+  "310": {
+    "filename": null,
+    "title": null,
+    "score": 0.4226013123989105,
+    "method": "manual"
+  },
+  "311": {
+    "filename": "102.Using the Past Knowledge to Improve Sentiment Classification-Grobid-out.txt",
+    "title": "Using the Past Knowledge to Improve Sentiment Classification",
+    "score": 0.47309020160035065,
+    "method": "tfidf"
+  },
+  "312": {
+    "filename": "300.A Sentiment-Controllable Topic-to-Essay Generator with Topic Knowledge Graph-Grobid-out.txt",
+    "title": "A Sentiment-Controllable Topic-to-Essay Generator with Topic Knowledge Graph",
+    "score": 0.7940931270769405,
+    "method": "tfidf"
+  },
+  "313": {
+    "filename": "103.INESC-ID A Regression Model for Large Scale Twitter Sentiment Lexicon Induction-Grobid-out.txt",
+    "title": "INESC-ID A Regression Model for Large Scale Twitter Sentiment Lexicon Induction",
+    "score": 0.5170081801918243,
+    "method": "tfidf"
+  },
+  "314": {
+    "filename": "8.Domain Adapted Word Embeddings for Improved Sentiment Classification-Grobid-out.txt",
+    "title": "Domain Adapted Word Embeddings for Improved Sentiment Classification",
+    "score": 0.6849464966614397,
+    "method": "tfidf"
+  },
+  "315": {
+    "filename": null,
+    "title": null,
+    "score": 0.2528848350048065,
+    "method": "manual"
+  },
+  "316": {
+    "filename": "154.IITPB at SemEval-2017 Task 5 Sentiment Prediction in Financial Text-Grobid-out.txt",
+    "title": "IITPB at SemEval-2017 Task 5 Sentiment Prediction in Financial Text",
+    "score": 0.5106780425804175,
+    "method": "tfidf"
+  },
+  "317": {
+    "filename": "25.ConvSent at CLPsych 2019 Task A Using Post-level Sentiment Features for Suicide Risk Prediction on Reddit-Grobid-out.txt",
+    "title": "ConvSent at CLPsych 2019 Task A Using Post-level Sentiment Features for Suicide Risk Prediction on Reddit",
+    "score": 0.49228369360245633,
+    "method": "tfidf"
+  },
+  "318": {
+    "filename": "98.Probabilistic Sense Sentiment Similarity through Hidden Emotions-Grobid-out.txt",
+    "title": "Probabilistic Sense Sentiment Similarity through Hidden Emotions",
+    "score": 0.5882850662591608,
+    "method": "tfidf"
+  },
+  "319": {
+    "filename": "139.Fortia-FBK at SemEval-2017 Task 5 Bullish or Bearish Inferring Sentiment towards Brands from Financial News Headlines-Grobid-out.txt",
+    "title": "Fortia-FBK at SemEval-2017 Task 5 Bullish or Bearish Inferring Sentiment towards Brands from Financial News Headlines",
+    "score": 0.5959141797925245,
+    "method": "tfidf"
+  },
+  "320": {
+    "filename": "122.ELiRF-UPV at SemEval-2017 Task 4 Sentiment Analysis using Deep Learning-Grobid-out.txt",
+    "title": "ELiRF-UPV at SemEval-2017 Task 4 Sentiment Analysis using Deep Learning",
+    "score": 0.38281820176559433,
+    "method": "tfidf"
+  },
+  "321": {
+    "filename": "95.ECNU Multi-level Sentiment Analysis on Twitter Using Traditional Linguistic Features and Word Embedding Features-Grobid-out.txt",
+    "title": "ECNU Multi-level Sentiment Analysis on Twitter Using Traditional Linguistic Features and Word Embedding Features",
+    "score": 0.5547039037558197,
+    "method": "tfidf"
+  },
+  "322": {
+    "filename": "118.DUTH at SemEval-2017 Task 4 A Voting Classification Approach for Twitter Sentiment Analysis-Grobid-out.txt",
+    "title": "DUTH at SemEval-2017 Task 4 A Voting Classification Approach for Twitter Sentiment Analysis",
+    "score": 0.38111777269293573,
+    "method": "tfidf"
+  },
+  "323": {
+    "filename": "74.Neural Networks for Open Domain Targeted Sentiment-Grobid-out.txt",
+    "title": "Neural Networks for Open Domain Targeted Sentiment",
+    "score": 0.567883267038328,
+    "method": "tfidf"
+  },
+  "324": {
+    "filename": "18.Aspect Based Sentiment Analysis into the Wild-Grobid-out.txt",
+    "title": "Aspect Based Sentiment Analysis into the Wild",
+    "score": 0.6346803671750976,
+    "method": "tfidf"
+  },
+  "325": {
+    "filename": null,
+    "title": null,
+    "score": 0.7251903414726257,
+    "method": "manual"
+  },
+  "326": {
+    "filename": "382.Attentive Gated Lexicon Reader with Contrastive Contextual Co-Attention for Sentiment Classification-Grobid-out.txt",
+    "title": "Attentive Gated Lexicon Reader with Contrastive Contextual Co-Attention for Sentiment Classification",
+    "score": 0.6989872160082746,
+    "method": "tfidf"
+  },
+  "327": {
+    "filename": "237.Cold-Start Aware User and Product Attention for Sentiment Classification-Grobid-out.txt",
+    "title": "Cold-Start Aware User and Product Attention for Sentiment Classification",
+    "score": 0.8272290049519347,
+    "method": "tfidf"
+  },
+  "328": {
+    "filename": "66.Combining Sentiment Lexica with a Multi-View Variational Autoencoder-Grobid-out.txt",
+    "title": "Combining Sentiment Lexica with a Multi-View Variational Autoencoder",
+    "score": 0.6962831096124551,
+    "method": "tfidf"
+  },
+  "329": {
+    "filename": "142.HHU at SemEval-2017 Task 5 Fine-Grained Sentiment Analysis on Financial Data using Machine Learning Methods-Grobid-out.txt",
+    "title": "HHU at SemEval-2017 Task 5 Fine-Grained Sentiment Analysis on Financial Data using Machine Learning Methods",
+    "score": 0.47551238481465374,
+    "method": "tfidf"
+  },
+  "330": {
+    "filename": "112.TeamX A Sentiment Analyzer with Enhanced Lexicon Mapping and Weighting Scheme for Unbalanced Data-Grobid-out.txt",
+    "title": "TeamX A Sentiment Analyzer with Enhanced Lexicon Mapping and Weighting Scheme for Unbalanced Data",
+    "score": 0.3702685405015226,
+    "method": "tfidf"
+  },
+  "331": {
+    "filename": "151.RiTUAL-UH at SemEval-2017 Task 5 Sentiment Analysis on Financial Data Using Neural Networks-Grobid-out.txt",
+    "title": "RiTUAL-UH at SemEval-2017 Task 5 Sentiment Analysis on Financial Data Using Neural Networks",
+    "score": 0.5386253148733074,
+    "method": "tfidf"
+  },
+  "332": {
+    "filename": "79.SU-Sentilab  A Classification System for Sentiment Analysis in Twitter-Grobid-out.txt",
+    "title": "SU-Sentilab  A Classification System for Sentiment Analysis in Twitter",
+    "score": 0.46156996242849985,
+    "method": "tfidf"
+  },
+  "333": {
+    "filename": "115.MI&T Lab at SemEval-2017 task 4 An Integrated Training Method of Word Vector for Sentiment Classification-Grobid-out.txt",
+    "title": "MI&T Lab at SemEval-2017 task 4 An Integrated Training Method of Word Vector for Sentiment Classification",
+    "score": 0.6033476569845837,
+    "method": "tfidf"
+  },
+  "334": {
+    "filename": "43.Learning Bilingual Sentiment Word Embeddings for Cross-language Sentiment Classification-Grobid-out.txt",
+    "title": "Learning Bilingual Sentiment Word Embeddings for Cross-language Sentiment Classification",
+    "score": 0.6548491808514204,
+    "method": "tfidf"
+  },
+  "335": {
+    "filename": "4.Improvement of a Naive Bayes Sentiment Classifier Using MRS-Based Features-Grobid-out.txt",
+    "title": "Improvement of a Naive Bayes Sentiment Classifier Using MRS-Based Features",
+    "score": 0.32596999024858814,
+    "method": "tfidf"
+  },
+  "336": {
+    "filename": "68.ECNUCS A Surface Information Based System Description of Sentiment Analysis in Twitter in the SemEval-2013 (Task 2)-Grobid-out.txt",
+    "title": "ECNUCS A Surface Information Based System Description of Sentiment Analysis in Twitter in the SemEval-2013 (Task 2)",
+    "score": 0.37679199723440726,
+    "method": "tfidf"
+  },
+  "337": {
+    "filename": "558.Domain-Invariant Feature Distillation for Cross-Domain Sentiment Classification-Grobid-out.txt",
+    "title": "Domain-Invariant Feature Distillation for Cross-Domain Sentiment Classification",
+    "score": 0.6900802937702325,
+    "method": "tfidf"
+  },
+  "338": {
+    "filename": null,
+    "title": null,
+    "score": 0.649041473865509,
+    "method": "manual"
+  },
+  "339": {
+    "filename": "96.Senti.ue Tweet Overall Sentiment Classification Approach for SemEval-2014 Task 9-Grobid-out.txt",
+    "title": "Senti.ue Tweet Overall Sentiment Classification Approach for SemEval-2014 Task 9",
+    "score": 0.5442742204521269,
+    "method": "tfidf"
+  },
+  "340": {
+    "filename": "81.SemEval-2015 Task 11 Sentiment Analysis of Figurative Language in Twitter-Grobid-out.txt",
+    "title": "SemEval-2015 Task 11 Sentiment Analysis of Figurative Language in Twitter",
+    "score": 0.3176497684522294,
+    "method": "tfidf"
+  },
+  "341": {
+    "filename": "34.Amobee at SemEval-2018 Task 1 GRU Neural Network with a CNN Attention Mechanism for Sentiment Classification-Grobid-out.txt",
+    "title": "Amobee at SemEval-2018 Task 1 GRU Neural Network with a CNN Attention Mechanism for Sentiment Classification",
+    "score": 0.31637442422976614,
+    "method": "tfidf"
+  },
+  "342": {
+    "filename": "45.XRCE at SemEval-2016 Task 5 Feedbacked Ensemble Modeling on Syntactico-Semantic Knowledge for Aspect Based Sentiment Analysis-Grobid-out.txt",
+    "title": "XRCE at SemEval-2016 Task 5 Feedbacked Ensemble Modeling on Syntactico-Semantic Knowledge for Aspect Based Sentiment Analysis",
+    "score": 0.3650394514463957,
+    "method": "tfidf"
+  },
+  "343": {
+    "filename": "15.Using Multiple Sources to Construct a Sentiment Sensitive Thesaurus for Cross-Domain Sentiment Classification-Grobid-out.txt",
+    "title": "Using Multiple Sources to Construct a Sentiment Sensitive Thesaurus for Cross-Domain Sentiment Classification",
+    "score": 0.6026760749218981,
+    "method": "tfidf"
+  },
+  "344": {
+    "filename": "10.Applying Transformers and Aspect-based Sentiment Analysis approaches on Sarcasm Detection-Grobid-out.txt",
+    "title": "Applying Transformers and Aspect-based Sentiment Analysis approaches on Sarcasm Detection",
+    "score": 0.5356158354469346,
+    "method": "tfidf"
+  },
+  "345": {
+    "filename": "342.SentiBERT A Transferable Transformer-Based Architecture for Compositional Sentiment Semantics-Grobid-out.txt",
+    "title": "SentiBERT A Transferable Transformer-Based Architecture for Compositional Sentiment Semantics",
+    "score": 0.8708073698210296,
+    "method": "tfidf"
+  },
+  "346": {
+    "filename": "75.NILC_USP An Improved Hybrid System for Sentiment Analysis in Twitter Messages-Grobid-out.txt",
+    "title": "NILC_USP An Improved Hybrid System for Sentiment Analysis in Twitter Messages",
+    "score": 0.4054051471690029,
+    "method": "tfidf"
+  },
+  "347": {
+    "filename": "101.NILC-USP at SemEval-2017 Task 4 A Multi-view Ensemble for Twitter Sentiment Analysis-Grobid-out.txt",
+    "title": "NILC-USP at SemEval-2017 Task 4 A Multi-view Ensemble for Twitter Sentiment Analysis",
+    "score": 0.42160353914105253,
+    "method": "tfidf"
+  },
+  "348": {
+    "filename": "25.Adversarial Attack on Sentiment Classification-Grobid-out.txt",
+    "title": "Adversarial Attack on Sentiment Classification",
+    "score": 0.530056708919959,
+    "method": "tfidf"
+  },
+  "349": {
+    "filename": "33.COMMIT-P1WP3 A Co-occurrence Based Approach to Aspect-Level Sentiment Analysis-Grobid-out.txt",
+    "title": "COMMIT-P1WP3 A Co-occurrence Based Approach to Aspect-Level Sentiment Analysis",
+    "score": 0.3439892001310043,
+    "method": "tfidf"
+  },
+  "350": {
+    "filename": "308.Public Sentiment Drift Analysis Based on Hierarchical Variational Auto-encoder-Grobid-out.txt",
+    "title": "Public Sentiment Drift Analysis Based on Hierarchical Variational Auto-encoder",
+    "score": 0.6739561796757569,
+    "method": "tfidf"
+  },
+  "351": {
+    "filename": "34.Joint Bilingual Sentiment Classification with Unlabeled Parallel Corpora-Grobid-out.txt",
+    "title": "Joint Bilingual Sentiment Classification with Unlabeled Parallel Corpora",
+    "score": 0.7306813625582006,
+    "method": "tfidf"
+  },
+  "352": {
+    "filename": null,
+    "title": null,
+    "score": 0.5537068247795105,
+    "method": "manual"
+  },
+  "353": {
+    "filename": "36.Learning Cognitive Features from Gaze Data for Sentiment and Sarcasm Classification using Convolutional Neural Network-Grobid-out.txt",
+    "title": "Learning Cognitive Features from Gaze Data for Sentiment and Sarcasm Classification using Convolutional Neural Network",
+    "score": 0.7243284471429845,
+    "method": "tfidf"
+  },
+  "354": {
+    "filename": "14.thecerealkiller at SemEval-2016 Task 4 Deep Learning based System for Classifying Sentiment of Tweets on Two Point Scale-Grobid-out.txt",
+    "title": "thecerealkiller at SemEval-2016 Task 4 Deep Learning based System for Classifying Sentiment of Tweets on Two Point Scale",
+    "score": 0.5553548380002602,
+    "method": "tfidf"
+  },
+  "355": {
+    "filename": "34.UniPI at SemEval-2016 Task 4 Convolutional Neural Networks for Sentiment Classification-Grobid-out.txt",
+    "title": "UniPI at SemEval-2016 Task 4 Convolutional Neural Networks for Sentiment Classification",
+    "score": 0.32400310374112207,
+    "method": "tfidf"
+  },
+  "356": {
+    "filename": "63.uOttawa System description for SemEval 2013 Task 2 Sentiment Analysis in Twitter-Grobid-out.txt",
+    "title": "uOttawa System description for SemEval 2013 Task 2 Sentiment Analysis in Twitter",
+    "score": 0.3636801627545175,
+    "method": "tfidf"
+  },
+  "357": {
+    "filename": "49.An Interactive Multi-Task Learning Network for End-to-End Aspect-Based Sentiment Analysis-Grobid-out.txt",
+    "title": "An Interactive Multi-Task Learning Network for End-to-End Aspect-Based Sentiment Analysis",
+    "score": 0.7377909939105823,
+    "method": "tfidf"
+  },
+  "358": {
+    "filename": "177.Reed at SemEval-2020 Task 9 Fine-Tuning and Bag-of-Words Approaches to Code-Mixed Sentiment Analysis-Grobid-out.txt",
+    "title": "Reed at SemEval-2020 Task 9 Fine-Tuning and Bag-of-Words Approaches to Code-Mixed Sentiment Analysis",
+    "score": 0.5908009126716589,
+    "method": "tfidf"
+  },
+  "359": {
+    "filename": "305.SLSA A Sentiment Lexicon for Standard Arabic-Grobid-out.txt",
+    "title": "SLSA A Sentiment Lexicon for Standard Arabic",
+    "score": 0.42331950828459025,
+    "method": "tfidf"
+  },
+  "360": {
+    "filename": "155.Memebusters at SemEval-2020 Task 8 Feature Fusion Model for Sentiment Analysis on Memes Using Transfer Learning-Grobid-out.txt",
+    "title": "Memebusters at SemEval-2020 Task 8 Feature Fusion Model for Sentiment Analysis on Memes Using Transfer Learning",
+    "score": 0.4659998256887294,
+    "method": "tfidf"
+  },
+  "361": {
+    "filename": "173.LIMSI_UPV at SemEval-2020 Task 9 Recurrent Convolutional Neural Network for Code-mixed Sentiment Analysis-Grobid-out.txt",
+    "title": "LIMSI_UPV at SemEval-2020 Task 9 Recurrent Convolutional Neural Network for Code-mixed Sentiment Analysis",
+    "score": 0.3572540356593659,
+    "method": "tfidf"
+  },
+  "362": {
+    "filename": "127.XLP at SemEval-2020 Task 9 Cross-lingual Models with Focal Loss for Sentiment Analysis of Code-Mixing Language-Grobid-out.txt",
+    "title": "XLP at SemEval-2020 Task 9 Cross-lingual Models with Focal Loss for Sentiment Analysis of Code-Mixing Language",
+    "score": 0.39502752301503286,
+    "method": "tfidf"
+  },
+  "363": {
+    "filename": "32.Columbia NLP Sentiment Detection of Sentences and Subjective Phrases in Social Media-Grobid-out.txt",
+    "title": "Columbia NLP Sentiment Detection of Sentences and Subjective Phrases in Social Media",
+    "score": 0.4801844070030704,
+    "method": "tfidf"
+  },
+  "364": {
+    "filename": "100.OMAM at SemEval-2017 Task 4 Evaluation of English State-of-the-Art Sentiment Analysis Models for Arabic and a New Topic-based Model-Grobid-out.txt",
+    "title": "OMAM at SemEval-2017 Task 4 Evaluation of English State-of-the-Art Sentiment Analysis Models for Arabic and a New Topic-based Model",
+    "score": 0.526334030218219,
+    "method": "tfidf"
+  },
+  "365": {
+    "filename": null,
+    "title": null,
+    "score": 0.4760317802429199,
+    "method": "manual"
+  },
+  "366": {
+    "filename": "98.Webis An Ensemble for Twitter Sentiment Detection-Grobid-out.txt",
+    "title": "Webis An Ensemble for Twitter Sentiment Detection",
+    "score": 0.5025632587345336,
+    "method": "tfidf"
+  },
+  "367": {
+    "filename": "379.Limbic Author-Based Sentiment Aspect Modeling Regularized with Word Embeddings and Discourse Relations-Grobid-out.txt",
+    "title": "Limbic Author-Based Sentiment Aspect Modeling Regularized with Word Embeddings and Discourse Relations",
+    "score": 0.7884475789089107,
+    "method": "tfidf"
+  },
+  "368": {
+    "filename": "96.Capturing Reliable Fine-Grained Sentiment Associations by Crowdsourcing and Best\u2013Worst Scaling-Grobid-out.txt",
+    "title": "Capturing Reliable Fine-Grained Sentiment Associations by Crowdsourcing and Best\u2013Worst Scaling",
+    "score": 0.3440178104080657,
+    "method": "tfidf"
+  },
+  "369": {
+    "filename": "27.INSIGHT-1 at SemEval-2016 Task 4 Convolutional Neural Networks for Sentiment Classification and Quantification-Grobid-out.txt",
+    "title": "INSIGHT-1 at SemEval-2016 Task 4 Convolutional Neural Networks for Sentiment Classification and Quantification",
+    "score": 0.6233153742765372,
+    "method": "tfidf"
+  },
+  "370": {
+    "filename": "140.SSN_MLRG1 at SemEval-2017 Task 5 Fine-Grained Sentiment Analysis Using Multiple Kernel Gaussian Process Regression Model-Grobid-out.txt",
+    "title": "SSN_MLRG1 at SemEval-2017 Task 5 Fine-Grained Sentiment Analysis Using Multiple Kernel Gaussian Process Regression Model",
+    "score": 0.5577253608670409,
+    "method": "tfidf"
+  },
+  "371": {
+    "filename": "20.GRUBERT A GRU-Based Method to Fuse BERT Hidden Layers for Twitter Sentiment Analysis-Grobid-out.txt",
+    "title": "GRUBERT A GRU-Based Method to Fuse BERT Hidden Layers for Twitter Sentiment Analysis",
+    "score": 0.6963307725215092,
+    "method": "tfidf"
+  },
+  "372": {
+    "filename": null,
+    "title": null,
+    "score": 0.5032088160514832,
+    "method": "manual"
+  },
+  "373": {
+    "filename": "138.UO_UA Using Latent Semantic Analysis to Build a Domain-Dependent Sentiment Resource-Grobid-out.txt",
+    "title": "UO_UA Using Latent Semantic Analysis to Build a Domain-Dependent Sentiment Resource",
+    "score": 0.35551479489715576,
+    "method": "tfidf"
+  },
+  "374": {
+    "filename": "6.CUFE at SemEval-2016 Task 4 A Gated Recurrent Model for Sentiment Classification-Grobid-out.txt",
+    "title": "CUFE at SemEval-2016 Task 4 A Gated Recurrent Model for Sentiment Classification",
+    "score": 0.4738566273933877,
+    "method": "tfidf"
+  },
+  "375": {
+    "filename": null,
+    "title": null,
+    "score": 0.35215386748313904,
+    "method": "manual"
+  },
+  "376": {
+    "filename": "555.Leveraging Structural and Semantic Correspondence for Attribute-Oriented Aspect Sentiment Discovery-Grobid-out.txt",
+    "title": "Leveraging Structural and Semantic Correspondence for Attribute-Oriented Aspect Sentiment Discovery",
+    "score": 0.7125393821256772,
+    "method": "tfidf"
+  },
+  "377": {
+    "filename": "58.Inducing Domain-Specific Sentiment Lexicons from Unlabeled Corpora-Grobid-out.txt",
+    "title": "Inducing Domain-Specific Sentiment Lexicons from Unlabeled Corpora",
+    "score": 0.4003148541451249,
+    "method": "tfidf"
+  },
+  "378": {
+    "filename": "141.Machine Translation for Machines the Sentiment Classification Use Case-Grobid-out.txt",
+    "title": "Machine Translation for Machines the Sentiment Classification Use Case",
+    "score": 0.725641604898645,
+    "method": "tfidf"
+  },
+  "380": {
+    "filename": null,
+    "title": null,
+    "score": 0.5780614614486694,
+    "method": "manual"
+  },
+  "381": {
+    "filename": "57.psyML at SemEval-2018 Task 1 Transfer Learning for Sentiment and Emotion Analysis-Grobid-out.txt",
+    "title": "psyML at SemEval-2018 Task 1 Transfer Learning for Sentiment and Emotion Analysis",
+    "score": 0.5164719896197137,
+    "method": "tfidf"
+  },
+  "382": {
+    "filename": "300.ASTD Arabic Sentiment Tweets Dataset-Grobid-out.txt",
+    "title": "ASTD Arabic Sentiment Tweets Dataset",
+    "score": 0.5943477234273232,
+    "method": "tfidf"
+  },
+  "383": {
+    "filename": "559.A Novel Aspect-Guided Deep Transition Model for Aspect Based Sentiment Analysis-Grobid-out.txt",
+    "title": "A Novel Aspect-Guided Deep Transition Model for Aspect Based Sentiment Analysis",
+    "score": 0.7810012565674505,
+    "method": "tfidf"
+  },
+  "384": {
+    "filename": "341.Relation-Aware Collaborative Learning for Unified Aspect-Based Sentiment Analysis-Grobid-out.txt",
+    "title": "Relation-Aware Collaborative Learning for Unified Aspect-Based Sentiment Analysis",
+    "score": 0.7182312005553937,
+    "method": "tfidf"
+  },
+  "385": {
+    "filename": "111.Real-Time Speech Emotion and Sentiment Recognition for Interactive Dialogue Systems-Grobid-out.txt",
+    "title": "Real-Time Speech Emotion and Sentiment Recognition for Interactive Dialogue Systems",
+    "score": 0.5419768598293923,
+    "method": "tfidf"
+  },
+  "386": {
+    "filename": "122.V3 Unsupervised Aspect Based Sentiment Analysis for SemEval2015 Task 12-Grobid-out.txt",
+    "title": "V3 Unsupervised Aspect Based Sentiment Analysis for SemEval2015 Task 12",
+    "score": 0.35327433070343545,
+    "method": "tfidf"
+  },
+  "387": {
+    "filename": "181.Voice@SRIB at SemEval-2020 Tasks 9 and 12 Stacked Ensemblingmethod for Sentiment and Offensiveness detection in Social Media-Grobid-out.txt",
+    "title": "Voice@SRIB at SemEval-2020 Tasks 9 and 12 Stacked Ensemblingmethod for Sentiment and Offensiveness detection in Social Media",
+    "score": 0.5134852640081742,
+    "method": "tfidf"
+  },
+  "388": {
+    "filename": null,
+    "title": null,
+    "score": 0.24071291089057922,
+    "method": "manual"
+  },
+  "389": {
+    "filename": null,
+    "title": null,
+    "score": 0.530118465423584,
+    "method": "manual"
+  },
+  "390": {
+    "filename": "129.LIA at SemEval-2017 Task 4 An Ensemble of Neural Networks for Sentiment Classification-Grobid-out.txt",
+    "title": "LIA at SemEval-2017 Task 4 An Ensemble of Neural Networks for Sentiment Classification",
+    "score": 0.5851907136679952,
+    "method": "tfidf"
+  },
+  "391": {
+    "filename": "156.Sarcasm SIGN Interpreting Sarcasm with Sentiment Based Monolingual Machine Translation-Grobid-out.txt",
+    "title": "Sarcasm SIGN Interpreting Sarcasm with Sentiment Based Monolingual Machine Translation",
+    "score": 0.5333899138223857,
+    "method": "tfidf"
+  },
+  "392": {
+    "filename": "344.Improved Sentiment Detection via Label Transfer from Monolingual to Synthetic Code-Switched Text-Grobid-out.txt",
+    "title": "Improved Sentiment Detection via Label Transfer from Monolingual to Synthetic Code-Switched Text",
+    "score": 0.6470968872730597,
+    "method": "tfidf"
+  },
+  "393": {
+    "filename": "116.LT3 Sentiment Analysis of Figurative Tweets piece of cake #NotReally-Grobid-out.txt",
+    "title": "LT3 Sentiment Analysis of Figurative Tweets piece of cake #NotReally",
+    "score": 0.5764244130178084,
+    "method": "tfidf"
+  },
+  "394": {
+    "filename": "465.Aspect-based Sentiment Classification with Aspect-specific Graph Convolutional Networks-Grobid-out.txt",
+    "title": "Aspect-based Sentiment Classification with Aspect-specific Graph Convolutional Networks",
+    "score": 0.7949950446033835,
+    "method": "tfidf"
+  },
+  "395": {
+    "filename": null,
+    "title": null,
+    "score": 0.5906921625137329,
+    "method": "manual"
+  },
+  "396": {
+    "filename": null,
+    "title": null,
+    "score": 0.6463855504989624,
+    "method": "manual"
+  },
+  "397": {
+    "filename": null,
+    "title": null,
+    "score": 0.5272620916366577,
+    "method": "manual"
+  },
+  "398": {
+    "filename": null,
+    "title": null,
+    "score": 0.37794893980026245,
+    "method": "manual"
+  },
+  "399": {
+    "filename": "53.Transfer Capsule Network for Aspect Level Sentiment Classification-Grobid-out.txt",
+    "title": "Transfer Capsule Network for Aspect Level Sentiment Classification",
+    "score": 0.8038168370115061,
+    "method": "tfidf"
+  },
+  "400": {
+    "filename": "145.NLG301 at SemEval-2017 Task 5 Fine-Grained Sentiment Analysis on Financial Microblogs and News-Grobid-out.txt",
+    "title": "NLG301 at SemEval-2017 Task 5 Fine-Grained Sentiment Analysis on Financial Microblogs and News",
+    "score": 0.46481658853748126,
+    "method": "tfidf"
+  },
+  "401": {
+    "filename": "58.LCCT A Semi-supervised Model for Sentiment Classification-Grobid-out.txt",
+    "title": "LCCT A Semi-supervised Model for Sentiment Classification",
+    "score": 0.6678150904378435,
+    "method": "tfidf"
+  },
+  "402": {
+    "filename": "383.A Shared-Private Representation Model with Coarse-to-Fine Extraction for Target Sentiment Analysis-Grobid-out.txt",
+    "title": "A Shared-Private Representation Model with Coarse-to-Fine Extraction for Target Sentiment Analysis",
+    "score": 0.7443674166663261,
+    "method": "tfidf"
+  },
+  "403": {
+    "filename": "121.HPCC-YNU at SemEval-2020 Task 9 A Bilingual Vector Gating Mechanism for Sentiment Analysis of Code-Mixed Text-Grobid-out.txt",
+    "title": "HPCC-YNU at SemEval-2020 Task 9 A Bilingual Vector Gating Mechanism for Sentiment Analysis of Code-Mixed Text",
+    "score": 0.7044400207704521,
+    "method": "tfidf"
+  },
+  "404": {
+    "filename": "108.SentiME++ at SemEval-2017 Task 4 Stacking State-of-the-Art Classifiers to Enhance Sentiment Classification-Grobid-out.txt",
+    "title": "SentiME++ at SemEval-2017 Task 4 Stacking State-of-the-Art Classifiers to Enhance Sentiment Classification",
+    "score": 0.7114343183009293,
+    "method": "tfidf"
+  },
+  "405": {
+    "filename": "39.Fast Approach to Build an Automatic Sentiment Annotator for Legal Domain using Transfer Learning-Grobid-out.txt",
+    "title": "Fast Approach to Build an Automatic Sentiment Annotator for Legal Domain using Transfer Learning",
+    "score": 0.31803532532296164,
+    "method": "tfidf"
+  },
+  "406": {
+    "filename": "218.Document-Level Multi-Aspect Sentiment Classification as Machine Comprehension-Grobid-out.txt",
+    "title": "Document-Level Multi-Aspect Sentiment Classification as Machine Comprehension",
+    "score": 0.6539134528860177,
+    "method": "tfidf"
+  },
+  "407": {
+    "filename": "25.Attention-based LSTM Network for Cross-Lingual Sentiment Classification-Grobid-out.txt",
+    "title": "Attention-based LSTM Network for Cross-Lingual Sentiment Classification",
+    "score": 0.7024317918245859,
+    "method": "tfidf"
+  },
+  "408": {
+    "filename": "7.GRACE Gradient Harmonized and Cascaded Labeling for Aspect-based Sentiment Analysis-Grobid-out.txt",
+    "title": "GRACE Gradient Harmonized and Cascaded Labeling for Aspect-based Sentiment Analysis",
+    "score": 0.716171130385775,
+    "method": "tfidf"
+  },
+  "409": {
+    "filename": "121.Dependency Tree-based Sentiment Classification using CRFs with Hidden Variables-Grobid-out.txt",
+    "title": "Dependency Tree-based Sentiment Classification using CRFs with Hidden Variables",
+    "score": 0.4421465604426069,
+    "method": "tfidf"
+  },
+  "410": {
+    "filename": "124.Lifelong Learning for Sentiment Classification-Grobid-out.txt",
+    "title": "Lifelong Learning for Sentiment Classification",
+    "score": 0.527694145705742,
+    "method": "tfidf"
+  },
+  "411": {
+    "filename": "51.Learning Domain Representation for Multi-Domain Sentiment Classification-Grobid-out.txt",
+    "title": "Learning Domain Representation for Multi-Domain Sentiment Classification",
+    "score": 0.6661308108515009,
+    "method": "tfidf"
+  },
+  "412": {
+    "filename": "33.Document-level Sentiment Inference with Social, Faction, and Discourse Context-Grobid-out.txt",
+    "title": "Document-level Sentiment Inference with Social, Faction, and Discourse Context",
+    "score": 0.4803995690789962,
+    "method": "tfidf"
+  },
+  "413": {
+    "filename": "62.From Disjoint Sets to Parallel Data to Train Seq2Seq Models for Sentiment Transfer-Grobid-out.txt",
+    "title": "From Disjoint Sets to Parallel Data to Train Seq2Seq Models for Sentiment Transfer",
+    "score": 0.7111174419232721,
+    "method": "tfidf"
+  },
+  "414": {
+    "filename": "6.Exploiting Topic based Twitter Sentiment for Stock Prediction-Grobid-out.txt",
+    "title": "Exploiting Topic based Twitter Sentiment for Stock Prediction",
+    "score": 0.6201601725517769,
+    "method": "tfidf"
+  },
+  "415": {
+    "filename": "80.UNITN Training Deep Convolutional Neural Network for Twitter Sentiment Classification-Grobid-out.txt",
+    "title": "UNITN Training Deep Convolutional Neural Network for Twitter Sentiment Classification",
+    "score": 0.5340148141545791,
+    "method": "tfidf"
+  },
+  "416": {
+    "filename": "127.UKPDIPF Lexical Semantic Approach to Sentiment Polarity Prediction in Twitter Data-Grobid-out.txt",
+    "title": "UKPDIPF Lexical Semantic Approach to Sentiment Polarity Prediction in Twitter Data",
+    "score": 0.37497159248063927,
+    "method": "tfidf"
+  },
+  "417": {
+    "filename": "175.Connotation Lexicon A Dash of Sentiment Beneath the Surface Meaning-Grobid-out.txt",
+    "title": "Connotation Lexicon A Dash of Sentiment Beneath the Surface Meaning",
+    "score": 0.393378479835289,
+    "method": "tfidf"
+  },
+  "418": {
+    "filename": "96.Exploring Convolutional Neural Networks for Sentiment Analysis of Spanish tweets-Grobid-out.txt",
+    "title": "Exploring Convolutional Neural Networks for Sentiment Analysis of Spanish tweets",
+    "score": 0.45117417788609904,
+    "method": "tfidf"
+  },
+  "419": {
+    "filename": "116.Tensor Fusion Network for Multimodal Sentiment Analysis-Grobid-out.txt",
+    "title": "Tensor Fusion Network for Multimodal Sentiment Analysis",
+    "score": 0.7727695947851888,
+    "method": "tfidf"
+  },
+  "420": {
+    "filename": "63.Automatically Generating Annotator Rationales to Improve Sentiment Classification-Grobid-out.txt",
+    "title": "Automatically Generating Annotator Rationales to Improve Sentiment Classification",
+    "score": 0.849720845625848,
+    "method": "tfidf"
+  },
+  "421": {
+    "filename": "112.OMAM at SemEval-2017 Task 4 English Sentiment Analysis with Conditional Random Fields-Grobid-out.txt",
+    "title": "OMAM at SemEval-2017 Task 4 English Sentiment Analysis with Conditional Random Fields",
+    "score": 0.5134226186513549,
+    "method": "tfidf"
+  },
+  "422": {
+    "filename": null,
+    "title": null,
+    "score": 0.6448044180870056,
+    "method": "manual"
+  },
+  "423": {
+    "filename": "17.Target-dependent Twitter Sentiment Classification-Grobid-out.txt",
+    "title": "Target-dependent Twitter Sentiment Classification",
+    "score": 0.5985882560821636,
+    "method": "tfidf"
+  },
+  "424": {
+    "filename": null,
+    "title": null,
+    "score": 0.593062698841095,
+    "method": "manual"
+  },
+  "425": {
+    "filename": "85.senti.ue-en an approach for informally written short texts in SemEval-2013 Sentiment Analysis task-Grobid-out.txt",
+    "title": "senti.ue-en an approach for informally written short texts in SemEval-2013 Sentiment Analysis task",
+    "score": 0.4359173651501895,
+    "method": "tfidf"
+  },
+  "426": {
+    "filename": "17.Leveraging Cognitive Features for Sentiment Analysis-Grobid-out.txt",
+    "title": "Leveraging Cognitive Features for Sentiment Analysis",
+    "score": 0.5354762502002813,
+    "method": "tfidf"
+  },
+  "427": {
+    "filename": "28.UNIMELB at SemEval-2016 Tasks 4A and 4B An Ensemble of Neural Networks and a Word2Vec Based Model for Sentiment Classification-Grobid-out.txt",
+    "title": "UNIMELB at SemEval-2016 Tasks 4A and 4B An Ensemble of Neural Networks and a Word2Vec Based Model for Sentiment Classification",
+    "score": 0.5411628262540088,
+    "method": "tfidf"
+  },
+  "428": {
+    "filename": "107.Synalp-Empathic A Valence Shifting Hybrid System for Sentiment Analysis-Grobid-out.txt",
+    "title": "Synalp-Empathic A Valence Shifting Hybrid System for Sentiment Analysis",
+    "score": 0.4047665649634327,
+    "method": "tfidf"
+  },
+  "429": {
+    "filename": "54.IITP Supervised Machine Learning for Aspect based Sentiment Analysis-Grobid-out.txt",
+    "title": "IITP Supervised Machine Learning for Aspect based Sentiment Analysis",
+    "score": 0.4602979742649235,
+    "method": "tfidf"
+  },
+  "430": {
+    "filename": "30.CMUQ@QatarUsing Rich Lexical Features for Sentiment Analysis on Twitter-Grobid-out.txt",
+    "title": "CMUQ@QatarUsing Rich Lexical Features for Sentiment Analysis on Twitter",
+    "score": 0.4998838872309194,
+    "method": "tfidf"
+  },
+  "431": {
+    "filename": "8.SteM at SemEval-2016 Task 4 Applying Active Learning to Improve Sentiment Classification-Grobid-out.txt",
+    "title": "SteM at SemEval-2016 Task 4 Applying Active Learning to Improve Sentiment Classification",
+    "score": 0.5343765891764212,
+    "method": "tfidf"
+  },
+  "432": {
+    "filename": "103.Co-training for Semi-supervised Sentiment Classification Based on Dual-view Bags-of-words Representation-Grobid-out.txt",
+    "title": "Co-training for Semi-supervised Sentiment Classification Based on Dual-view Bags-of-words Representation",
+    "score": 0.6863667540762851,
+    "method": "tfidf"
+  },
+  "433": {
+    "filename": "56.Identifying and Tracking Sentiments and Topics from Social Media Texts during Natural Disasters-Grobid-out.txt",
+    "title": "Identifying and Tracking Sentiments and Topics from Social Media Texts during Natural Disasters",
+    "score": 0.32317154896608125,
+    "method": "tfidf"
+  },
+  "434": {
+    "filename": "86.DIEGOLab An Approach for Message-level Sentiment Classification in Twitter-Grobid-out.txt",
+    "title": "DIEGOLab An Approach for Message-level Sentiment Classification in Twitter",
+    "score": 0.33847371848112295,
+    "method": "tfidf"
+  },
+  "435": {
+    "filename": "54.NRC-Canada Building the State-of-the-Art in Sentiment Analysis of Tweets-Grobid-out.txt",
+    "title": "NRC-Canada Building the State-of-the-Art in Sentiment Analysis of Tweets",
+    "score": 0.6417832071399767,
+    "method": "tfidf"
+  },
+  "436": {
+    "filename": "458.Latent Variable Sentiment Grammar-Grobid-out.txt",
+    "title": "Latent Variable Sentiment Grammar",
+    "score": 0.7232859951683515,
+    "method": "tfidf"
+  },
+  "437": {
+    "filename": "99.Learning Semantic Representations of Users and Products for Document Level Sentiment Classification-Grobid-out.txt",
+    "title": "Learning Semantic Representations of Users and Products for Document Level Sentiment Classification",
+    "score": 0.6491429505218792,
+    "method": "tfidf"
+  },
+  "438": {
+    "filename": null,
+    "title": null,
+    "score": 0.6681835055351257,
+    "method": "manual"
+  },
+  "439": {
+    "filename": "115.KELabTeam A Statistical Approach on Figurative Language Sentiment Analysis in Twitter-Grobid-out.txt",
+    "title": "KELabTeam A Statistical Approach on Figurative Language Sentiment Analysis in Twitter",
+    "score": 0.39424980078302724,
+    "method": "tfidf"
+  },
+  "440": {
+    "filename": "243.BERT Post-Training for Review Reading Comprehension and Aspect-based Sentiment Analysis-Grobid-out.txt",
+    "title": "BERT Post-Training for Review Reading Comprehension and Aspect-based Sentiment Analysis",
+    "score": 0.7522441141295142,
+    "method": "tfidf"
+  },
+  "441": {
+    "filename": "59.INSIGHT Galway Syntactic and Lexical Features for Aspect Based Sentiment Analysis-Grobid-out.txt",
+    "title": "INSIGHT Galway Syntactic and Lexical Features for Aspect Based Sentiment Analysis",
+    "score": 0.5709388532986406,
+    "method": "tfidf"
+  },
+  "442": {
+    "filename": null,
+    "title": null,
+    "score": 0.29541778564453125,
+    "method": "manual"
+  },
+  "443": {
+    "filename": "81.ECNU at SemEval-2016 Task 7 An Enhanced Supervised Learning Method for Lexicon Sentiment Intensity Ranking-Grobid-out.txt",
+    "title": "ECNU at SemEval-2016 Task 7 An Enhanced Supervised Learning Method for Lexicon Sentiment Intensity Ranking",
+    "score": 0.506053005592408,
+    "method": "tfidf"
+  },
+  "444": {
+    "filename": "41.Learning Bilingual Sentiment-Specific Word Embeddings without Cross-lingual Supervision-Grobid-out.txt",
+    "title": "Learning Bilingual Sentiment-Specific Word Embeddings without Cross-lingual Supervision",
+    "score": 0.5797614706147411,
+    "method": "tfidf"
+  },
+  "445": {
+    "filename": "8.Reducing Sentiment Bias in Language Models via Counterfactual Evaluation-Grobid-out.txt",
+    "title": "Reducing Sentiment Bias in Language Models via Counterfactual Evaluation",
+    "score": 0.752800601422542,
+    "method": "tfidf"
+  },
+  "446": {
+    "filename": "2.Subversive Toxicity Detection using Sentiment Information-Grobid-out.txt",
+    "title": "Subversive Toxicity Detection using Sentiment Information",
+    "score": 0.5571547994025252,
+    "method": "tfidf"
+  },
+  "447": {
+    "filename": "20.A Joint Model for Semantic Sequences Frames, Entities, Sentiments-Grobid-out.txt",
+    "title": "A Joint Model for Semantic Sequences Frames, Entities, Sentiments",
+    "score": 0.7564091751718639,
+    "method": "tfidf"
+  },
+  "448": {
+    "filename": "35.Multi-task Learning for Multi-modal Emotion Recognition and Sentiment Analysis-Grobid-out.txt",
+    "title": "Multi-task Learning for Multi-modal Emotion Recognition and Sentiment Analysis",
+    "score": 0.46887367612853154,
+    "method": "tfidf"
+  },
+  "449": {
+    "filename": "40.Multi-Domain Sentiment Relevance Classification with Automatic Representation Learning-Grobid-out.txt",
+    "title": "Multi-Domain Sentiment Relevance Classification with Automatic Representation Learning",
+    "score": 0.8435634978584903,
+    "method": "tfidf"
+  },
+  "450": {
+    "filename": "150.XRCE Hybrid Classification for Aspect-based Sentiment Analysis-Grobid-out.txt",
+    "title": "XRCE Hybrid Classification for Aspect-based Sentiment Analysis",
+    "score": 0.42018431539261153,
+    "method": "tfidf"
+  },
+  "451": {
+    "filename": "17.Detecting Chronic Critics Based on Sentiment Polarity and User\u2019s Behavior in Social Media-Grobid-out.txt",
+    "title": "Detecting Chronic Critics Based on Sentiment Polarity and User\u2019s Behavior in Social Media",
+    "score": 0.6491260985486835,
+    "method": "tfidf"
+  },
+  "452": {
+    "filename": null,
+    "title": null,
+    "score": 0.4036371409893036,
+    "method": "manual"
+  },
+  "453": {
+    "filename": "7.SentiRec Sentiment Diversity-aware Neural News Recommendation-Grobid-out.txt",
+    "title": "SentiRec Sentiment Diversity-aware Neural News Recommendation",
+    "score": 0.9109115934910064,
+    "method": "tfidf"
+  },
+  "454": {
+    "filename": "65.Bilingual Sentiment Consistency for Statistical Machine Translation-Grobid-out.txt",
+    "title": "Bilingual Sentiment Consistency for Statistical Machine Translation",
+    "score": 0.44284667408811246,
+    "method": "tfidf"
+  },
+  "455": {
+    "filename": "569.Aspect-Level Sentiment Analysis Via Convolution over Dependency Tree-Grobid-out.txt",
+    "title": "Aspect-Level Sentiment Analysis Via Convolution over Dependency Tree",
+    "score": 0.8833412934121957,
+    "method": "tfidf"
+  },
+  "456": {
+    "filename": "89.SemEval-2017 Task 4 Sentiment Analysis in Twitter-Grobid-out.txt",
+    "title": "SemEval-2017 Task 4 Sentiment Analysis in Twitter",
+    "score": 0.4570934295046565,
+    "method": "tfidf"
+  },
+  "457": {
+    "filename": null,
+    "title": null,
+    "score": 0.758210301399231,
+    "method": "manual"
+  },
+  "458": {
+    "filename": "2.Neural Networks for Integrating Compositional and Non-compositional Sentiment in Sentiment Composition-Grobid-out.txt",
+    "title": "Neural Networks for Integrating Compositional and Non-compositional Sentiment in Sentiment Composition",
+    "score": 0.5231938874301953,
+    "method": "tfidf"
+  },
+  "459": {
+    "filename": "22.Epita at SemEval-2018 Task 1 Sentiment Analysis Using Transfer Learning Approach-Grobid-out.txt",
+    "title": "Epita at SemEval-2018 Task 1 Sentiment Analysis Using Transfer Learning Approach",
+    "score": 0.5399120072488252,
+    "method": "tfidf"
+  },
+  "460": {
+    "filename": "10.SemEval-2014 Task 9 Sentiment Analysis in Twitter-Grobid-out.txt",
+    "title": "SemEval-2014 Task 9 Sentiment Analysis in Twitter",
+    "score": 0.6086117029190063,
+    "method": "semantic"
+  },
+  "461": {
+    "filename": "37.Don\u2019t Count, Predict! An Automatic Approach to Learning Sentiment Lexicons for Short Text-Grobid-out.txt",
+    "title": "Don\u2019t Count, Predict! An Automatic Approach to Learning Sentiment Lexicons for Short Text",
+    "score": 0.35053986060578013,
+    "method": "tfidf"
+  },
+  "462": {
+    "filename": "23.Finki at SemEval-2016 Task 4 Deep Learning Architecture for Twitter Sentiment Analysis-Grobid-out.txt",
+    "title": "Finki at SemEval-2016 Task 4 Deep Learning Architecture for Twitter Sentiment Analysis",
+    "score": 0.6481831004487658,
+    "method": "tfidf"
+  },
+  "463": {
+    "filename": "13.aueb.twitter.sentiment at SemEval-2016 Task 4 A Weighted Ensemble of SVMs for Twitter Sentiment Analysis-Grobid-out.txt",
+    "title": "aueb.twitter.sentiment at SemEval-2016 Task 4 A Weighted Ensemble of SVMs for Twitter Sentiment Analysis",
+    "score": 0.6375215953689356,
+    "method": "tfidf"
+  },
+  "464": {
+    "filename": "91.Variational Semi-Supervised Aspect-Term Sentiment Analysis via Transformer-Grobid-out.txt",
+    "title": "Variational Semi-Supervised Aspect-Term Sentiment Analysis via Transformer",
+    "score": 0.6460554648706212,
+    "method": "tfidf"
+  },
+  "465": {
+    "filename": "135.YNU-HPCC at SemEval 2017 Task 4 Using A Multi-Channel CNN-LSTM Model for Sentiment Classification-Grobid-out.txt",
+    "title": "YNU-HPCC at SemEval 2017 Task 4 Using A Multi-Channel CNN-LSTM Model for Sentiment Classification",
+    "score": 0.6462676281488942,
+    "method": "tfidf"
+  },
+  "466": {
+    "filename": "74.Multilingual Connotation Frames A Case Study on Social Media for Targeted Sentiment Analysis and Forecast-Grobid-out.txt",
+    "title": "Multilingual Connotation Frames A Case Study on Social Media for Targeted Sentiment Analysis and Forecast",
+    "score": 0.5515576293354223,
+    "method": "tfidf"
+  },
+  "467": {
+    "filename": "565.A Multi-Task Incremental Learning Framework with Category Name Embedding for Aspect-Category Sentiment Analysis-Grobid-out.txt",
+    "title": "A Multi-Task Incremental Learning Framework with Category Name Embedding for Aspect-Category Sentiment Analysis",
+    "score": 0.6132343807620482,
+    "method": "tfidf"
+  },
+  "468": {
+    "filename": "92.SAP-RI Twitter Sentiment Analysis in Two Days-Grobid-out.txt",
+    "title": "SAP-RI Twitter Sentiment Analysis in Two Days",
+    "score": 0.4039471897170472,
+    "method": "tfidf"
+  },
+  "469": {
+    "filename": "90.UoM Using Explicit Semantic Analysis for Classifying Sentiments-Grobid-out.txt",
+    "title": "UoM Using Explicit Semantic Analysis for Classifying Sentiments",
+    "score": 0.8128601496458182,
+    "method": "tfidf"
+  },
+  "470": {
+    "filename": "157.DomBERT Domain-oriented Language Model for Aspect-based Sentiment Analysis-Grobid-out.txt",
+    "title": "DomBERT Domain-oriented Language Model for Aspect-based Sentiment Analysis",
+    "score": 0.7575161020463262,
+    "method": "tfidf"
+  },
+  "471": {
+    "filename": null,
+    "title": null,
+    "score": 0.38220691680908203,
+    "method": "manual"
+  },
+  "472": {
+    "filename": "165.Deep Learning Brasil - NLP at SemEval-2020 Task 9 Sentiment Analysis of Code-Mixed Tweets Using Ensemble of Language Models-Grobid-out.txt",
+    "title": "Deep Learning Brasil - NLP at SemEval-2020 Task 9 Sentiment Analysis of Code-Mixed Tweets Using Ensemble of Language Models",
+    "score": 0.33762747148074795,
+    "method": "tfidf"
+  },
+  "473": {
+    "filename": "21.Recognizing Euphemisms and Dysphemisms Using Sentiment Analysis-Grobid-out.txt",
+    "title": "Recognizing Euphemisms and Dysphemisms Using Sentiment Analysis",
+    "score": 0.47627652577956714,
+    "method": "tfidf"
+  },
+  "474": {
+    "filename": null,
+    "title": null,
+    "score": 0.2901568114757538,
+    "method": "manual"
+  },
+  "475": {
+    "filename": "146.funSentiment at SemEval-2017 Task 5 Fine-Grained Sentiment Analysis on Financial Microblogs Using Word Vectors Built from StockTwits and Twitter-Grobid-out.txt",
+    "title": "funSentiment at SemEval-2017 Task 5 Fine-Grained Sentiment Analysis on Financial Microblogs Using Word Vectors Built from StockTwits and Twitter",
+    "score": 0.6743699619724953,
+    "method": "tfidf"
+  },
+  "476": {
+    "filename": "105.SWASH A Naive Bayes Classifier for Tweet Sentiment Identification-Grobid-out.txt",
+    "title": "SWASH A Naive Bayes Classifier for Tweet Sentiment Identification",
+    "score": 0.4493492812791617,
+    "method": "tfidf"
+  },
+  "477": {
+    "filename": null,
+    "title": null,
+    "score": 0.7224541902542114,
+    "method": "manual"
+  },
+  "478": {
+    "filename": "402.Sentiment and Emotion help Sarcasm A Multi-task Learning Framework for Multi-Modal Sarcasm, Sentiment and Emotion Analysis-Grobid-out.txt",
+    "title": "Sentiment and Emotion help Sarcasm A Multi-task Learning Framework for Multi-Modal Sarcasm, Sentiment and Emotion Analysis",
+    "score": 0.5613852941009707,
+    "method": "tfidf"
+  },
+  "479": {
+    "filename": "138.Multi-Channel Convolutional Neural Network for Twitter Emotion and Sentiment Recognition-Grobid-out.txt",
+    "title": "Multi-Channel Convolutional Neural Network for Twitter Emotion and Sentiment Recognition",
+    "score": 0.5875856015773698,
+    "method": "tfidf"
+  },
+  "480": {
+    "filename": "71.LT3 Sentiment Classification in User-Generated Content Using a Rich Feature Set-Grobid-out.txt",
+    "title": "LT3 Sentiment Classification in User-Generated Content Using a Rich Feature Set",
+    "score": 0.46014934716288297,
+    "method": "tfidf"
+  },
+  "482": {
+    "filename": "131.INGEOTEC at SemEval 2017 Task 4 A B4MSA Ensemble based on Genetic Programming for Twitter Sentiment Analysis-Grobid-out.txt",
+    "title": "INGEOTEC at SemEval 2017 Task 4 A B4MSA Ensemble based on Genetic Programming for Twitter Sentiment Analysis",
+    "score": 0.3130298131537957,
+    "method": "tfidf"
+  },
+  "483": {
+    "filename": "41.Sentiment Propagation via Implicature Constraints-Grobid-out.txt",
+    "title": "Sentiment Propagation via Implicature Constraints",
+    "score": 0.43406910919965885,
+    "method": "tfidf"
+  },
+  "484": {
+    "filename": "55.GU-MLT-LT Sentiment Analysis of Short Messages using Linguistic Features and Stochastic Gradient Descent-Grobid-out.txt",
+    "title": "GU-MLT-LT Sentiment Analysis of Short Messages using Linguistic Features and Stochastic Gradient Descent",
+    "score": 0.6893783211708069,
+    "method": "semantic"
+  },
+  "486": {
+    "filename": "2.ABSApp A Portable Weakly-Supervised Aspect-Based Sentiment Extraction System-Grobid-out.txt",
+    "title": "ABSApp A Portable Weakly-Supervised Aspect-Based Sentiment Extraction System",
+    "score": 0.33639154622614503,
+    "method": "tfidf"
+  },
+  "487": {
+    "filename": "505.Joint Learning for Targeted Sentiment Analysis-Grobid-out.txt",
+    "title": "Joint Learning for Targeted Sentiment Analysis",
+    "score": 0.7491735874993367,
+    "method": "tfidf"
+  },
+  "488": {
+    "filename": "91.Unpaired Sentiment-to-Sentiment Translation A Cycled Reinforcement Learning Approach-Grobid-out.txt",
+    "title": "Unpaired Sentiment-to-Sentiment Translation A Cycled Reinforcement Learning Approach",
+    "score": 0.7519599592326796,
+    "method": "tfidf"
+  },
+  "489": {
+    "filename": "46.NLANGP at SemEval-2016 Task 5 Improving Aspect Based Sentiment Analysis using Neural Network Features-Grobid-out.txt",
+    "title": "NLANGP at SemEval-2016 Task 5 Improving Aspect Based Sentiment Analysis using Neural Network Features",
+    "score": 0.45277129642789865,
+    "method": "tfidf"
+  },
+  "490": {
+    "filename": "32.Context-aware Learning for Sentence-level Sentiment Analysis with Posterior Regularization-Grobid-out.txt",
+    "title": "Context-aware Learning for Sentence-level Sentiment Analysis with Posterior Regularization",
+    "score": 0.6928353897796861,
+    "method": "tfidf"
+  },
+  "491": {
+    "filename": "64.UT-DB An Experimental Study on Sentiment Analysis in Twitter-Grobid-out.txt",
+    "title": "UT-DB An Experimental Study on Sentiment Analysis in Twitter",
+    "score": 0.3683342616937418,
+    "method": "tfidf"
+  },
+  "492": {
+    "filename": "95.BB_twtr at SemEval-2017 Task 4 Twitter Sentiment Analysis with CNNs and LSTMs-Grobid-out.txt",
+    "title": "BB_twtr at SemEval-2017 Task 4 Twitter Sentiment Analysis with CNNs and LSTMs",
+    "score": 0.3992003589935727,
+    "method": "tfidf"
+  },
+  "493": {
+    "filename": "172.Neural Sentiment Classification with User and Product Attention-Grobid-out.txt",
+    "title": "Neural Sentiment Classification with User and Product Attention",
+    "score": 0.8186794685672734,
+    "method": "tfidf"
+  },
+  "494": {
+    "filename": "110.INESC-ID Sentiment Analysis without Hand-Coded Features or Linguistic Resources using Embedding Subspaces-Grobid-out.txt",
+    "title": "INESC-ID Sentiment Analysis without Hand-Coded Features or Linguistic Resources using Embedding Subspaces",
+    "score": 0.4800406815969968,
+    "method": "tfidf"
+  },
+  "495": {
+    "filename": "48.Recurrent Attention Network on Memory for Aspect Sentiment Analysis-Grobid-out.txt",
+    "title": "Recurrent Attention Network on Memory for Aspect Sentiment Analysis",
+    "score": 0.6725893713166589,
+    "method": "tfidf"
+  },
+  "496": {
+    "filename": "5.Language Independent Sentiment Analysis with Sentiment-Specific Word Embeddings-Grobid-out.txt",
+    "title": "Language Independent Sentiment Analysis with Sentiment-Specific Word Embeddings",
+    "score": 0.7140924979957392,
+    "method": "tfidf"
+  },
+  "497": {
+    "filename": "60.Recursive Neural Conditional Random Fields for Aspect-based Sentiment Analysis-Grobid-out.txt",
+    "title": "Recursive Neural Conditional Random Fields for Aspect-based Sentiment Analysis",
+    "score": 0.7655330175449775,
+    "method": "tfidf"
+  },
+  "498": {
+    "filename": "289.Aspect Sentiment Classification with Aspect-Specific Opinion Spans-Grobid-out.txt",
+    "title": "Aspect Sentiment Classification with Aspect-Specific Opinion Spans",
+    "score": 0.6446313019247991,
+    "method": "tfidf"
+  },
+  "499": {
+    "filename": "15.BCSAT  A Benchmark Corpus for Sentiment Analysis in Telugu Using Word-level Annotations-Grobid-out.txt",
+    "title": "BCSAT  A Benchmark Corpus for Sentiment Analysis in Telugu Using Word-level Annotations",
+    "score": 0.4049536255870084,
+    "method": "tfidf"
+  },
+  "500": {
+    "filename": "57.SentiSys at SemEval-2016 Task 5 Opinion Target Extraction and Sentiment Polarity Detection-Grobid-out.txt",
+    "title": "SentiSys at SemEval-2016 Task 5 Opinion Target Extraction and Sentiment Polarity Detection",
+    "score": 0.7172003388404846,
+    "method": "semantic"
+  },
+  "501": {
+    "filename": "89.CIS-positive A Combination of Convolutional Neural Networks and Support Vector Machines for Sentiment Analysis in Twitter-Grobid-out.txt",
+    "title": "CIS-positive A Combination of Convolutional Neural Networks and Support Vector Machines for Sentiment Analysis in Twitter",
+    "score": 0.3773192429484738,
+    "method": "tfidf"
+  },
+  "502": {
+    "filename": "76.Is Machine Translation Ripe for Cross-Lingual Sentiment Classification-Grobid-out.txt",
+    "title": "Is Machine Translation Ripe for Cross-Lingual Sentiment Classification",
+    "score": 0.317338529759731,
+    "method": "tfidf"
+  },
+  "503": {
+    "filename": "20.Self-Attention A Better Building Block for Sentiment Analysis Neural Network Classifiers-Grobid-out.txt",
+    "title": "Self-Attention A Better Building Block for Sentiment Analysis Neural Network Classifiers",
+    "score": 0.7284183777817239,
+    "method": "tfidf"
+  },
+  "504": {
+    "filename": "82.Modeling Social Norms Evolution for Personalized Sentiment Classification-Grobid-out.txt",
+    "title": "Modeling Social Norms Evolution for Personalized Sentiment Classification",
+    "score": 0.8151792542744722,
+    "method": "tfidf"
+  },
+  "505": {
+    "filename": "17.Compositional Matrix-Space Models for Sentiment Analysis-Grobid-out.txt",
+    "title": "Compositional Matrix-Space Models for Sentiment Analysis",
+    "score": 0.6521333493223554,
+    "method": "tfidf"
+  },
+  "506": {
+    "filename": "92.Attention Modeling for Targeted Sentiment-Grobid-out.txt",
+    "title": "Attention Modeling for Targeted Sentiment",
+    "score": 0.5922749573532902,
+    "method": "tfidf"
+  },
+  "507": {
+    "filename": null,
+    "title": null,
+    "score": 0.25177016854286194,
+    "method": "manual"
+  },
+  "508": {
+    "filename": "49.Cross Lingual Adaptation An Experiment on Sentiment Classifications-Grobid-out.txt",
+    "title": "Cross Lingual Adaptation An Experiment on Sentiment Classifications",
+    "score": 0.4820538301987869,
+    "method": "tfidf"
+  },
+  "509": {
+    "filename": "61.Sentiment-Aspect Extraction based on Restricted Boltzmann Machines-Grobid-out.txt",
+    "title": "Sentiment-Aspect Extraction based on Restricted Boltzmann Machines",
+    "score": 0.547160371548502,
+    "method": "tfidf"
+  },
+  "510": {
+    "filename": "97.Contextual Bidirectional Long Short-Term Memory Recurrent Neural Network Language Models A Generative Approach to Sentiment Analysis-Grobid-out.txt",
+    "title": "Contextual Bidirectional Long Short-Term Memory Recurrent Neural Network Language Models A Generative Approach to Sentiment Analysis",
+    "score": 0.6717029213905334,
+    "method": "semantic"
+  },
+  "511": {
+    "filename": "153.ECNU at SemEval-2017 Task 5 An Ensemble of Regression Algorithms with Effective Features for Fine-Grained Sentiment Analysis in Financial Domain-Grobid-out.txt",
+    "title": "ECNU at SemEval-2017 Task 5 An Ensemble of Regression Algorithms with Effective Features for Fine-Grained Sentiment Analysis in Financial Domain",
+    "score": 0.6239182008070572,
+    "method": "tfidf"
+  },
+  "512": {
+    "filename": null,
+    "title": null,
+    "score": 0.32075729966163635,
+    "method": "manual"
+  },
+  "513": {
+    "filename": "123.An Unsupervised Aspect-Sentiment Model for Online Reviews-Grobid-out.txt",
+    "title": "An Unsupervised Aspect-Sentiment Model for Online Reviews",
+    "score": 0.34125546974970405,
+    "method": "tfidf"
+  },
+  "514": {
+    "filename": "170.Delete, Retrieve, Generate a Simple Approach to Sentiment and Style Transfer-Grobid-out.txt",
+    "title": "Delete, Retrieve, Generate a Simple Approach to Sentiment and Style Transfer",
+    "score": 0.44816891419974303,
+    "method": "tfidf"
+  },
+  "515": {
+    "filename": "119.FII-UAIC at SemEval-2020 Task 9 Sentiment Analysis for Code-Mixed Social Media Text Using CNN-Grobid-out.txt",
+    "title": "FII-UAIC at SemEval-2020 Task 9 Sentiment Analysis for Code-Mixed Social Media Text Using CNN",
+    "score": 0.32522204180467096,
+    "method": "tfidf"
+  },
+  "516": {
+    "filename": "562.Rethinking Attribute Representation and Injection for Sentiment Classification-Grobid-out.txt",
+    "title": "Rethinking Attribute Representation and Injection for Sentiment Classification",
+    "score": 0.7486150857413686,
+    "method": "tfidf"
+  },
+  "517": {
+    "filename": "10.SemEval-2014 Task 9 Sentiment Analysis in Twitter-Grobid-out.txt",
+    "title": "SemEval-2014 Task 9 Sentiment Analysis in Twitter",
+    "score": 0.5495307588185903,
+    "method": "tfidf"
+  },
+  "518": {
+    "filename": "163.BAKSA at SemEval-2020 Task 9 Bolstering CNN with Self-Attention for Sentiment Analysis of Code Mixed Text-Grobid-out.txt",
+    "title": "BAKSA at SemEval-2020 Task 9 Bolstering CNN with Self-Attention for Sentiment Analysis of Code Mixed Text",
+    "score": 0.5691913098654294,
+    "method": "tfidf"
+  },
+  "519": {
+    "filename": "288.Multi-Instance Multi-Label Learning Networks for Aspect-Category Sentiment Analysis-Grobid-out.txt",
+    "title": "Multi-Instance Multi-Label Learning Networks for Aspect-Category Sentiment Analysis",
+    "score": 0.828909013319876,
+    "method": "tfidf"
+  },
+  "520": {
+    "filename": "156.FEUP at SemEval-2017 Task 5 Predicting Sentiment Polarity and Intensity with Financial Word Embeddings-Grobid-out.txt",
+    "title": "FEUP at SemEval-2017 Task 5 Predicting Sentiment Polarity and Intensity with Financial Word Embeddings",
+    "score": 0.6867745620933238,
+    "method": "tfidf"
+  },
+  "521": {
+    "filename": "463.Context-aware Embedding for Targeted Aspect-based Sentiment Analysis-Grobid-out.txt",
+    "title": "Context-aware Embedding for Targeted Aspect-based Sentiment Analysis",
+    "score": 0.5316913348578183,
+    "method": "tfidf"
+  },
+  "522": {
+    "filename": "15.SemEval-2010 Task 18 Disambiguating Sentiment Ambiguous Adjectives-Grobid-out.txt",
+    "title": "SemEval-2010 Task 18 Disambiguating Sentiment Ambiguous Adjectives",
+    "score": 0.41813918176193776,
+    "method": "tfidf"
+  },
+  "523": {
+    "filename": "105.Supervised Methods for Aspect-Based Sentiment Analysis-Grobid-out.txt",
+    "title": "Supervised Methods for Aspect-Based Sentiment Analysis",
+    "score": 0.4883649083863724,
+    "method": "tfidf"
+  },
+  "524": {
+    "filename": null,
+    "title": null,
+    "score": 0.6834501624107361,
+    "method": "manual"
+  },
+  "525": {
+    "filename": "53.De-Mixing Sentiment from Code-Mixed Text-Grobid-out.txt",
+    "title": "De-Mixing Sentiment from Code-Mixed Text",
+    "score": 0.6130791736099116,
+    "method": "tfidf"
+  },
+  "526": {
+    "filename": "42.Mining User Relations from Online Discussions using Sentiment Analysis and Probabilistic Matrix Factorization-Grobid-out.txt",
+    "title": "Mining User Relations from Online Discussions using Sentiment Analysis and Probabilistic Matrix Factorization",
+    "score": 0.5862671378477042,
+    "method": "tfidf"
+  },
+  "527": {
+    "filename": "19.A Comparative Study of Bayesian Models for Unsupervised Sentiment Detection-Grobid-out.txt",
+    "title": "A Comparative Study of Bayesian Models for Unsupervised Sentiment Detection",
+    "score": 0.8358026199112195,
+    "method": "tfidf"
+  },
+  "528": {
+    "filename": "104.CrystalNest at SemEval-2017 Task 4 Using Sarcasm Detection for Enhancing Sentiment Classification and Quantification-Grobid-out.txt",
+    "title": "CrystalNest at SemEval-2017 Task 4 Using Sarcasm Detection for Enhancing Sentiment Classification and Quantification",
+    "score": 0.35745334983347177,
+    "method": "tfidf"
+  },
+  "530": {
+    "filename": "72.Improving Twitter Sentiment Analysis with Topic-Based Mixture Modeling and Semi-Supervised Training-Grobid-out.txt",
+    "title": "Improving Twitter Sentiment Analysis with Topic-Based Mixture Modeling and Semi-Supervised Training",
+    "score": 0.7062588124420104,
+    "method": "tfidf"
+  },
+  "531": {
+    "filename": "73.Sentiment Flow - A General Model of Web Review Argumentation-Grobid-out.txt",
+    "title": "Sentiment Flow - A General Model of Web Review Argumentation",
+    "score": 0.6309826501462763,
+    "method": "tfidf"
+  },
+  "533": {
+    "filename": "104.SU-FMI System Description for SemEval-2014 Task 9 on Sentiment Analysis in Twitter-Grobid-out.txt",
+    "title": "SU-FMI System Description for SemEval-2014 Task 9 on Sentiment Analysis in Twitter",
+    "score": 0.3211896324114057,
+    "method": "tfidf"
+  },
+  "534": {
+    "filename": "120.HinglishNLP at SemEval-2020 Task 9 Fine-tuned Language Models for Hinglish Sentiment Detection-Grobid-out.txt",
+    "title": "HinglishNLP at SemEval-2020 Task 9 Fine-tuned Language Models for Hinglish Sentiment Detection",
+    "score": 0.48830746206929904,
+    "method": "tfidf"
+  },
+  "535": {
+    "filename": "304.Deep Convolutional Neural Network Textual Features and Multiple Kernel Learning for Utterance-level Multimodal Sentiment Analysis-Grobid-out.txt",
+    "title": "Deep Convolutional Neural Network Textual Features and Multiple Kernel Learning for Utterance-level Multimodal Sentiment Analysis",
+    "score": 0.6195931485394196,
+    "method": "tfidf"
+  },
+  "536": {
+    "filename": "92.Is Twitter A Better Corpus for Measuring Sentiment Similarity-Grobid-out.txt",
+    "title": "Is Twitter A Better Corpus for Measuring Sentiment Similarity",
+    "score": 0.4478370901095601,
+    "method": "tfidf"
+  },
+  "537": {
+    "filename": "136.TSA-INF at SemEval-2017 Task 4 An Ensemble of Deep Learning Architectures Including Lexicon Features for Twitter Sentiment Analysis-Grobid-out.txt",
+    "title": "TSA-INF at SemEval-2017 Task 4 An Ensemble of Deep Learning Architectures Including Lexicon Features for Twitter Sentiment Analysis",
+    "score": 0.5914394692538658,
+    "method": "tfidf"
+  },
+  "538": {
+    "filename": "567.SentiLARE Sentiment-Aware Language Representation Learning with Linguistic Knowledge-Grobid-out.txt",
+    "title": "SentiLARE Sentiment-Aware Language Representation Learning with Linguistic Knowledge",
+    "score": 0.6960709979136451,
+    "method": "tfidf"
+  },
+  "539": {
+    "filename": null,
+    "title": null,
+    "score": 0.5533522963523865,
+    "method": "manual"
+  },
+  "540": {
+    "filename": "136.UNITOR Aspect Based Sentiment Analysis with Structured Learning-Grobid-out.txt",
+    "title": "UNITOR Aspect Based Sentiment Analysis with Structured Learning",
+    "score": 0.543972770884751,
+    "method": "tfidf"
+  },
+  "541": {
+    "filename": "550.Learning Explicit and Implicit Structures for Targeted Sentiment Analysis-Grobid-out.txt",
+    "title": "Learning Explicit and Implicit Structures for Targeted Sentiment Analysis",
+    "score": 0.5905739554886769,
+    "method": "tfidf"
+  },
+  "542": {
+    "filename": "301.Adjective Intensity and Sentiment Analysis-Grobid-out.txt",
+    "title": "Adjective Intensity and Sentiment Analysis",
+    "score": 0.5184133285692244,
+    "method": "tfidf"
+  },
+  "543": {
+    "filename": "566.Context-aware Interactive Attention for Multi-modal Sentiment and Emotion Analysis-Grobid-out.txt",
+    "title": "Context-aware Interactive Attention for Multi-modal Sentiment and Emotion Analysis",
+    "score": 0.6338141345157058,
+    "method": "tfidf"
+  },
+  "544": {
+    "filename": "6.Holistic Sentiment Analysis Across Languages Multilingual Supervised Latent Dirichlet Allocation-Grobid-out.txt",
+    "title": "Holistic Sentiment Analysis Across Languages Multilingual Supervised Latent Dirichlet Allocation",
+    "score": 0.6043681672061398,
+    "method": "tfidf"
+  },
+  "545": {
+    "filename": "106.SWATCS65 Sentiment Classification Using an Ensemble of Class Projects-Grobid-out.txt",
+    "title": "SWATCS65 Sentiment Classification Using an Ensemble of Class Projects",
+    "score": 0.7487142086029053,
+    "method": "semantic"
+  },
+  "546": {
+    "filename": "174.LT3 at SemEval-2020 Task 9 Cross-lingual Embeddings for Sentiment Analysis of Hinglish Social Media Text-Grobid-out.txt",
+    "title": "LT3 at SemEval-2020 Task 9 Cross-lingual Embeddings for Sentiment Analysis of Hinglish Social Media Text",
+    "score": 0.57101534642271,
+    "method": "tfidf"
+  },
+  "547": {
+    "filename": "93.Exploiting Document Knowledge for Aspect-level Sentiment Classification-Grobid-out.txt",
+    "title": "Exploiting Document Knowledge for Aspect-level Sentiment Classification",
+    "score": 0.7052636427238492,
+    "method": "tfidf"
+  },
+  "548": {
+    "filename": "293.KinGDOM Knowledge-Guided DOMain Adaptation for Sentiment Analysis-Grobid-out.txt",
+    "title": "KinGDOM Knowledge-Guided DOMain Adaptation for Sentiment Analysis",
+    "score": 0.7044503462459762,
+    "method": "tfidf"
+  },
+  "549": {
+    "filename": "402.Sentiment Classification towards Question-Answering with Hierarchical Matching Network-Grobid-out.txt",
+    "title": "Sentiment Classification towards Question-Answering with Hierarchical Matching Network",
+    "score": 0.7599439427831192,
+    "method": "tfidf"
+  },
+  "550": {
+    "filename": "233.Learning Domain-Sensitive and Sentiment-Aware Word Embeddings-Grobid-out.txt",
+    "title": "Learning Domain-Sensitive and Sentiment-Aware Word Embeddings",
+    "score": 0.4928620867342731,
+    "method": "tfidf"
+  },
+  "551": {
+    "filename": "234.Cross-Domain Sentiment Classification with Target Domain Specific Information-Grobid-out.txt",
+    "title": "Cross-Domain Sentiment Classification with Target Domain Specific Information",
+    "score": 0.5136225889103185,
+    "method": "tfidf"
+  },
+  "552": {
+    "filename": "121.A Multi-sentiment-resource Enhanced Attention Network for Sentiment Classification-Grobid-out.txt",
+    "title": "A Multi-sentiment-resource Enhanced Attention Network for Sentiment Classification",
+    "score": 0.7025186139677773,
+    "method": "tfidf"
+  },
+  "553": {
+    "filename": "36.Utilizing BERT for Aspect-Based Sentiment Analysis via Constructing Auxiliary Sentence-Grobid-out.txt",
+    "title": "Utilizing BERT for Aspect-Based Sentiment Analysis via Constructing Auxiliary Sentence",
+    "score": 0.680227607994596,
+    "method": "tfidf"
+  },
+  "554": {
+    "filename": "61.Do Neighbours Help An Exploration of Graph-based Algorithms for Cross-domain Sentiment Classification-Grobid-out.txt",
+    "title": "Do Neighbours Help An Exploration of Graph-based Algorithms for Cross-domain Sentiment Classification",
+    "score": 0.6343855630761732,
+    "method": "tfidf"
+  },
+  "555": {
+    "filename": "236.Predicting Discourse Structure using Distant Supervision from Sentiment-Grobid-out.txt",
+    "title": "Predicting Discourse Structure using Distant Supervision from Sentiment",
+    "score": 0.7700111269950867,
+    "method": "semantic"
+  },
+  "556": {
+    "filename": "34.Coooolll A Deep Learning System for Twitter Sentiment Classification-Grobid-out.txt",
+    "title": "Coooolll A Deep Learning System for Twitter Sentiment Classification",
+    "score": 0.8164157735440853,
+    "method": "tfidf"
+  },
+  "557": {
+    "filename": "80.Columbia NLP Sentiment Detection of Subjective Phrases in Social Media-Grobid-out.txt",
+    "title": "Columbia NLP Sentiment Detection of Subjective Phrases in Social Media",
+    "score": 0.5486647738940904,
+    "method": "tfidf"
+  },
+  "558": {
+    "filename": "9.DebugSL An Interactive Tool for Debugging Sentiment Lexicons-Grobid-out.txt",
+    "title": "DebugSL An Interactive Tool for Debugging Sentiment Lexicons",
+    "score": 0.701518920759222,
+    "method": "tfidf"
+  },
+  "559": {
+    "filename": "67.Sarcasm as Contrast between a Positive Sentiment and Negative Situation-Grobid-out.txt",
+    "title": "Sarcasm as Contrast between a Positive Sentiment and Negative Situation",
+    "score": 0.4510109491842692,
+    "method": "tfidf"
+  },
+  "560": {
+    "filename": "78.FBK Sentiment Analysis in Twitter with Tweetsted-Grobid-out.txt",
+    "title": "FBK Sentiment Analysis in Twitter with Tweetsted",
+    "score": 0.39703099002747244,
+    "method": "tfidf"
+  },
+  "561": {
+    "filename": "56.UWB at SemEval-2016 Task 5 Aspect Based Sentiment Analysis-Grobid-out.txt",
+    "title": "UWB at SemEval-2016 Task 5 Aspect Based Sentiment Analysis",
+    "score": 0.4146416777821392,
+    "method": "tfidf"
+  },
+  "562": {
+    "filename": "149.V3 Unsupervised Generation of Domain Aspect Terms for Aspect Based Sentiment Analysis-Grobid-out.txt",
+    "title": "V3 Unsupervised Generation of Domain Aspect Terms for Aspect Based Sentiment Analysis",
+    "score": 0.41938809945750466,
+    "method": "tfidf"
+  },
+  "563": {
+    "filename": "170.IRLab_DAIICT at SemEval-2020 Task 9 Machine Learning and Deep Learning Methods for Sentiment Analysis of Code-Mixed Tweets-Grobid-out.txt",
+    "title": "IRLab_DAIICT at SemEval-2020 Task 9 Machine Learning and Deep Learning Methods for Sentiment Analysis of Code-Mixed Tweets",
+    "score": 0.44454329433514755,
+    "method": "tfidf"
+  },
+  "564": {
+    "filename": "87.Splusplus A Feature-Rich Two-stage Classifier for Sentiment Analysis of Tweets-Grobid-out.txt",
+    "title": "Splusplus A Feature-Rich Two-stage Classifier for Sentiment Analysis of Tweets",
+    "score": 0.6352501929381529,
+    "method": "tfidf"
+  },
+  "565": {
+    "filename": "67.Identifying High-Impact Sub-Structures for Convolution Kernels in Document-level Sentiment Classification-Grobid-out.txt",
+    "title": "Identifying High-Impact Sub-Structures for Convolution Kernels in Document-level Sentiment Classification",
+    "score": 0.6639175929712954,
+    "method": "tfidf"
+  },
+  "566": {
+    "filename": "78.iLab-Edinburgh at SemEval-2016 Task 7 A Hybrid Approach for Determining Sentiment Intensity of Arabic Twitter Phrases-Grobid-out.txt",
+    "title": "iLab-Edinburgh at SemEval-2016 Task 7 A Hybrid Approach for Determining Sentiment Intensity of Arabic Twitter Phrases",
+    "score": 0.6454257409392958,
+    "method": "tfidf"
+  },
+  "567": {
+    "filename": "101.Harnessing WordNet Senses for Supervised Sentiment Classification-Grobid-out.txt",
+    "title": "Harnessing WordNet Senses for Supervised Sentiment Classification",
+    "score": 0.7034497394922575,
+    "method": "tfidf"
+  },
+  "568": {
+    "filename": "101.SINAI Voting System for Twitter Sentiment Analysis-Grobid-out.txt",
+    "title": "SINAI Voting System for Twitter Sentiment Analysis",
+    "score": 0.449667886370215,
+    "method": "tfidf"
+  },
+  "569": {
+    "filename": null,
+    "title": null,
+    "score": 0.44400838017463684,
+    "method": "manual"
+  },
+  "570": {
+    "filename": null,
+    "title": null,
+    "score": 0.5249354839324951,
+    "method": "manual"
+  },
+  "571": {
+    "filename": "147.SentiHeros at SemEval-2017 Task 5 An application of Sentiment Analysis on Financial Tweets-Grobid-out.txt",
+    "title": "SentiHeros at SemEval-2017 Task 5 An application of Sentiment Analysis on Financial Tweets",
+    "score": 0.34150294539580256,
+    "method": "tfidf"
+  },
+  "572": {
+    "filename": "21.Blinov Distributed Representations of Words for Aspect-Based Sentiment Analysis at SemEval 2014-Grobid-out.txt",
+    "title": "Blinov Distributed Representations of Words for Aspect-Based Sentiment Analysis at SemEval 2014",
+    "score": 0.4162549856897088,
+    "method": "tfidf"
+  },
+  "573": {
+    "filename": "103.NNEMBs at SemEval-2017 Task 4 Neural Twitter Sentiment Classification a Simple Ensemble Method with Different Embeddings-Grobid-out.txt",
+    "title": "NNEMBs at SemEval-2017 Task 4 Neural Twitter Sentiment Classification a Simple Ensemble Method with Different Embeddings",
+    "score": 0.4329871697801001,
+    "method": "tfidf"
+  },
+  "574": {
+    "filename": "659.Learning to Flip the Sentiment of Reviews from Non-Parallel Corpora-Grobid-out.txt",
+    "title": "Learning to Flip the Sentiment of Reviews from Non-Parallel Corpora",
+    "score": 0.33290027269208483,
+    "method": "tfidf"
+  },
+  "575": {
+    "filename": "7.MemeTube A Sentiment-based Audiovisual System for Analyzing and Displaying Microblog Messages-Grobid-out.txt",
+    "title": "MemeTube A Sentiment-based Audiovisual System for Analyzing and Displaying Microblog Messages",
+    "score": 0.4472602142186756,
+    "method": "tfidf"
+  },
+  "576": {
+    "filename": "342.A Multilingual BPE Embedding Space for Universal Sentiment Lexicon Induction-Grobid-out.txt",
+    "title": "A Multilingual BPE Embedding Space for Universal Sentiment Lexicon Induction",
+    "score": 0.7377718959668668,
+    "method": "tfidf"
+  },
+  "577": {
+    "filename": "60.AMI&ERIC How to Learn with Naive Bayes and Prior Knowledge an Application to Sentiment Analysis-Grobid-out.txt",
+    "title": "AMI&ERIC How to Learn with Naive Bayes and Prior Knowledge an Application to Sentiment Analysis",
+    "score": 0.6198009818909126,
+    "method": "tfidf"
+  },
+  "578": {
+    "filename": "155.IITP at SemEval-2017 Task 5 An Ensemble of Deep Learning and Feature Based Models for Financial Sentiment Analysis-Grobid-out.txt",
+    "title": "IITP at SemEval-2017 Task 5 An Ensemble of Deep Learning and Feature Based Models for Financial Sentiment Analysis",
+    "score": 0.6609773854773605,
+    "method": "tfidf"
+  },
+  "579": {
+    "filename": "5.SemEval-2016 Task 7 Determining Sentiment Intensity of English and Arabic Phrases-Grobid-out.txt",
+    "title": "SemEval-2016 Task 7 Determining Sentiment Intensity of English and Arabic Phrases",
+    "score": 0.4575180170140508,
+    "method": "tfidf"
+  },
+  "580": {
+    "filename": null,
+    "title": null,
+    "score": 0.630290150642395,
+    "method": "manual"
+  },
+  "581": {
+    "filename": "343.Tree Communication Models for Sentiment Analysis-Grobid-out.txt",
+    "title": "Tree Communication Models for Sentiment Analysis",
+    "score": 0.7162850064656241,
+    "method": "tfidf"
+  },
+  "582": {
+    "filename": null,
+    "title": null,
+    "score": 0.5301904082298279,
+    "method": "manual"
+  },
+  "583": {
+    "filename": "46.NLANGP at SemEval-2016 Task 5 Improving Aspect Based Sentiment Analysis using Neural Network Features-Grobid-out.txt",
+    "title": "NLANGP at SemEval-2016 Task 5 Improving Aspect Based Sentiment Analysis using Neural Network Features",
+    "score": 0.6613138328012934,
+    "method": "tfidf"
+  },
+  "584": {
+    "filename": "139.Learning Sentiment Memories for Sentiment Modification without Parallel Data-Grobid-out.txt",
+    "title": "Learning Sentiment Memories for Sentiment Modification without Parallel Data",
+    "score": 0.552551668103965,
+    "method": "tfidf"
+  },
+  "585": {
+    "filename": "30.Importance of Self-Attention for Sentiment Analysis-Grobid-out.txt",
+    "title": "Importance of Self-Attention for Sentiment Analysis",
+    "score": 0.5723955290163443,
+    "method": "tfidf"
+  },
+  "586": {
+    "filename": "184.Position-Aware Tagging for Aspect Sentiment Triplet Extraction-Grobid-out.txt",
+    "title": "Position-Aware Tagging for Aspect Sentiment Triplet Extraction",
+    "score": 0.7720182746919316,
+    "method": "tfidf"
+  },
+  "587": {
+    "filename": "16.Distinguishing Clinical Sentiment The Importance of Domain Adaptation in Psychiatric Patient Health Records-Grobid-out.txt",
+    "title": "Distinguishing Clinical Sentiment The Importance of Domain Adaptation in Psychiatric Patient Health Records",
+    "score": 0.5406565888927831,
+    "method": "tfidf"
+  },
+  "588": {
+    "filename": "33.COMMIT-P1WP3 A Co-occurrence Based Approach to Aspect-Level Sentiment Analysis-Grobid-out.txt",
+    "title": "COMMIT-P1WP3 A Co-occurrence Based Approach to Aspect-Level Sentiment Analysis",
+    "score": 0.42712115274089835,
+    "method": "tfidf"
+  },
+  "589": {
+    "filename": "16.Learning Word Vectors for Sentiment Analysis-Grobid-out.txt",
+    "title": "Learning Word Vectors for Sentiment Analysis",
+    "score": 0.4984063062661825,
+    "method": "tfidf"
+  },
+  "590": {
+    "filename": "65.USNA A Dual-Classifier Approach to Contextual Sentiment Analysis-Grobid-out.txt",
+    "title": "USNA A Dual-Classifier Approach to Contextual Sentiment Analysis",
+    "score": 0.5699823691782198,
+    "method": "tfidf"
+  },
+  "591": {
+    "filename": "339.Aspect Sentiment Classification with Document-level Sentiment Preference Modeling-Grobid-out.txt",
+    "title": "Aspect Sentiment Classification with Document-level Sentiment Preference Modeling",
+    "score": 0.5127777319125252,
+    "method": "tfidf"
+  },
+  "592": {
+    "filename": "93.RoseMerry A Baseline Message-level Sentiment Classification System-Grobid-out.txt",
+    "title": "RoseMerry A Baseline Message-level Sentiment Classification System",
+    "score": 0.6594897760853635,
+    "method": "tfidf"
+  },
+  "593": {
+    "filename": "57.Refining Word Embeddings for Sentiment Analysis-Grobid-out.txt",
+    "title": "Refining Word Embeddings for Sentiment Analysis",
+    "score": 0.5703009500106875,
+    "method": "tfidf"
+  },
+  "594": {
+    "filename": "22.Detecting Stance in Tweets And Analyzing its Interaction with Sentiment-Grobid-out.txt",
+    "title": "Detecting Stance in Tweets And Analyzing its Interaction with Sentiment",
+    "score": 0.5703552556556195,
+    "method": "tfidf"
+  },
+  "595": {
+    "filename": "48.IHS-RD-Belarus at SemEval-2016 Task 5 Detecting Sentiment Polarity Using the Heatmap of Sentence-Grobid-out.txt",
+    "title": "IHS-RD-Belarus at SemEval-2016 Task 5 Detecting Sentiment Polarity Using the Heatmap of Sentence",
+    "score": 0.7215502262115479,
+    "method": "semantic"
+  },
+  "596": {
+    "filename": "299.PhraseRNN Phrase Recursive Neural Network for Aspect-based Sentiment Analysis-Grobid-out.txt",
+    "title": "PhraseRNN Phrase Recursive Neural Network for Aspect-based Sentiment Analysis",
+    "score": 0.7346865555556527,
+    "method": "tfidf"
+  },
+  "597": {
+    "filename": "171.Recursive Deep Models for Semantic Compositionality Over a Sentiment Treebank-Grobid-out.txt",
+    "title": "Recursive Deep Models for Semantic Compositionality Over a Sentiment Treebank",
+    "score": 0.6474864374707289,
+    "method": "tfidf"
+  },
+  "598": {
+    "filename": "554.LexicalAT Lexical-Based Adversarial Reinforcement Training for Robust Sentiment Classification-Grobid-out.txt",
+    "title": "LexicalAT Lexical-Based Adversarial Reinforcement Training for Robust Sentiment Classification",
+    "score": 0.6749235030729027,
+    "method": "tfidf"
+  },
+  "599": {
+    "filename": "124.Structural Opinion Mining for Graph-based Sentiment Representation-Grobid-out.txt",
+    "title": "Structural Opinion Mining for Graph-based Sentiment Representation",
+    "score": 0.3405986593844605,
+    "method": "tfidf"
+  },
+  "600": {
+    "filename": null,
+    "title": null,
+    "score": 0.647314190864563,
+    "method": "manual"
+  },
+  "601": {
+    "filename": "158.Volatility Prediction using Financial Disclosures Sentiments with Word Embedding-based IR Models-Grobid-out.txt",
+    "title": "Volatility Prediction using Financial Disclosures Sentiments with Word Embedding-based IR Models",
+    "score": 0.4599384612155445,
+    "method": "tfidf"
+  },
+  "602": {
+    "filename": "88.Transformation Networks for Target-Oriented Sentiment Classification-Grobid-out.txt",
+    "title": "Transformation Networks for Target-Oriented Sentiment Classification",
+    "score": 0.796288878814616,
+    "method": "tfidf"
+  },
+  "603": {
+    "filename": "66.Kea Sentiment Analysis of Phrases Within Short Texts-Grobid-out.txt",
+    "title": "Kea Sentiment Analysis of Phrases Within Short Texts",
+    "score": 0.32482071583196864,
+    "method": "tfidf"
+  },
+  "604": {
+    "filename": "169.IIT Gandhinagar at SemEval-2020 Task 9 Code-Mixed Sentiment Classification Using Candidate Sentence Generation and Selection-Grobid-out.txt",
+    "title": "IIT Gandhinagar at SemEval-2020 Task 9 Code-Mixed Sentiment Classification Using Candidate Sentence Generation and Selection",
+    "score": 0.32262680753409384,
+    "method": "tfidf"
+  },
+  "605": {
+    "filename": "149.Identifying Sentiment Words Using an Optimization-based Model without Seed Words-Grobid-out.txt",
+    "title": "Identifying Sentiment Words Using an Optimization-based Model without Seed Words",
+    "score": 0.49345656194484305,
+    "method": "tfidf"
+  },
+  "606": {
+    "filename": "103.Multi-Level Structured Models for Document-Level Sentiment Classification-Grobid-out.txt",
+    "title": "Multi-Level Structured Models for Document-Level Sentiment Classification",
+    "score": 0.3965174067741479,
+    "method": "tfidf"
+  },
+  "607": {
+    "filename": "126.ULD@NUIG at SemEval-2020 Task 9 Generative Morphemes with an Attention Model for Sentiment Analysis in Code-Mixed Text-Grobid-out.txt",
+    "title": "ULD@NUIG at SemEval-2020 Task 9 Generative Morphemes with an Attention Model for Sentiment Analysis in Code-Mixed Text",
+    "score": 0.5068345624749896,
+    "method": "tfidf"
+  },
+  "608": {
+    "filename": "8.Identifying Political Sentiment between Nation States with Social Media-Grobid-out.txt",
+    "title": "Identifying Political Sentiment between Nation States with Social Media",
+    "score": 0.6543587633838923,
+    "method": "tfidf"
+  },
+  "609": {
+    "filename": "95.Sentiment Relevance-Grobid-out.txt",
+    "title": "Sentiment Relevance",
+    "score": 0.6011088259204521,
+    "method": "tfidf"
+  },
+  "610": {
+    "filename": "549.Syntax-Aware Aspect Level Sentiment Classification with Graph Attention Networks-Grobid-out.txt",
+    "title": "Syntax-Aware Aspect Level Sentiment Classification with Graph Attention Networks",
+    "score": 0.8134512529266941,
+    "method": "tfidf"
+  },
+  "611": {
+    "filename": "19.Joint Prediction for EntityEvent-Level Sentiment Analysis using Probabilistic Soft Logic Models-Grobid-out.txt",
+    "title": "Joint Prediction for EntityEvent-Level Sentiment Analysis using Probabilistic Soft Logic Models",
+    "score": 0.4066403115647259,
+    "method": "tfidf"
+  },
+  "612": {
+    "filename": "8.Measuring Sentiment Annotation Complexity of Text-Grobid-out.txt",
+    "title": "Measuring Sentiment Annotation Complexity of Text",
+    "score": 0.35614986648305336,
+    "method": "tfidf"
+  },
+  "613": {
+    "filename": null,
+    "title": null,
+    "score": 0.36596688628196716,
+    "method": "manual"
+  },
+  "614": {
+    "filename": "15.NTNUSentEval at SemEval-2016 Task 4 Combining General Classifiers for Fast Twitter Sentiment Analysis-Grobid-out.txt",
+    "title": "NTNUSentEval at SemEval-2016 Task 4 Combining General Classifiers for Fast Twitter Sentiment Analysis",
+    "score": 0.352449333993903,
+    "method": "tfidf"
+  },
+  "616": {
+    "filename": "6.Sentiment Translation through Lexicon Induction-Grobid-out.txt",
+    "title": "Sentiment Translation through Lexicon Induction",
+    "score": 0.32648330166018774,
+    "method": "tfidf"
+  },
+  "617": {
+    "filename": "55.TGB at SemEval-2016 Task 5 Multi-Lingual Constraint System for Aspect Based Sentiment Analysis-Grobid-out.txt",
+    "title": "TGB at SemEval-2016 Task 5 Multi-Lingual Constraint System for Aspect Based Sentiment Analysis",
+    "score": 0.6194981336593628,
+    "method": "semantic"
+  },
+  "618": {
+    "filename": "63.JOINT_FORCES Unite Competing Sentiment Classifiers with Random Forest-Grobid-out.txt",
+    "title": "JOINT_FORCES Unite Competing Sentiment Classifiers with Random Forest",
+    "score": 0.7519428133964539,
+    "method": "semantic"
+  },
+  "619": {
+    "filename": null,
+    "title": null,
+    "score": 0.545021116733551,
+    "method": "manual"
+  },
+  "620": {
+    "filename": "150.Octa Omissions and Conflicts in Target-Aspect Sentiment Analysis-Grobid-out.txt",
+    "title": "Octa Omissions and Conflicts in Target-Aspect Sentiment Analysis",
+    "score": 0.9110110069133797,
+    "method": "tfidf"
+  },
+  "621": {
+    "filename": null,
+    "title": null,
+    "score": 0.7306188941001892,
+    "method": "manual"
+  },
+  "622": {
+    "filename": "50.Author-aware Aspect Topic Sentiment Model to Retrieve Supporting Opinions from Reviews-Grobid-out.txt",
+    "title": "Author-aware Aspect Topic Sentiment Model to Retrieve Supporting Opinions from Reviews",
+    "score": 0.7280547368950033,
+    "method": "tfidf"
+  },
+  "623": {
+    "filename": "94.A Personalized Sentiment Model with Textual and Contextual Information-Grobid-out.txt",
+    "title": "A Personalized Sentiment Model with Textual and Contextual Information",
+    "score": 0.5582197941085846,
+    "method": "tfidf"
+  },
+  "624": {
+    "filename": "47.bunji at SemEval-2016 Task 5 Neural and Syntactic Models of Entity-Attribute Relationship for Aspect-based Sentiment Analysis-Grobid-out.txt",
+    "title": "bunji at SemEval-2016 Task 5 Neural and Syntactic Models of Entity-Attribute Relationship for Aspect-based Sentiment Analysis",
+    "score": 0.4271857090569724,
+    "method": "tfidf"
+  },
+  "625": {
+    "filename": "131.Sentiue Target and Aspect based Sentiment Analysis in SemEval-2015 Task 12-Grobid-out.txt",
+    "title": "Sentiue Target and Aspect based Sentiment Analysis in SemEval-2015 Task 12",
+    "score": 0.39427915464306607,
+    "method": "tfidf"
+  },
+  "626": {
+    "filename": "116.SiTAKA at SemEval-2017 Task 4 Sentiment Analysis in Twitter Based on a Rich Set of Features-Grobid-out.txt",
+    "title": "SiTAKA at SemEval-2017 Task 4 Sentiment Analysis in Twitter Based on a Rich Set of Features",
+    "score": 0.4594329899522564,
+    "method": "tfidf"
+  },
+  "628": {
+    "filename": "560.Human-Like Decision Making Document-level Aspect Sentiment Classification via Hierarchical Reinforcement Learning-Grobid-out.txt",
+    "title": "Human-Like Decision Making Document-level Aspect Sentiment Classification via Hierarchical Reinforcement Learning",
+    "score": 0.6688255611320748,
+    "method": "tfidf"
+  },
+  "629": {
+    "filename": "56.ARB-SEN at SemEval-2018 Task1 A New Set of Features for Enhancing the Sentiment Intensity Prediction in Arabic Tweets-Grobid-out.txt",
+    "title": "ARB-SEN at SemEval-2018 Task1 A New Set of Features for Enhancing the Sentiment Intensity Prediction in Arabic Tweets",
+    "score": 0.5840245363784551,
+    "method": "tfidf"
+  },
+  "630": {
+    "filename": "97.Contextual Bidirectional Long Short-Term Memory Recurrent Neural Network Language Models A Generative Approach to Sentiment Analysis-Grobid-out.txt",
+    "title": "Contextual Bidirectional Long Short-Term Memory Recurrent Neural Network Language Models A Generative Approach to Sentiment Analysis",
+    "score": 0.7151954188186155,
+    "method": "tfidf"
+  },
+  "631": {
+    "filename": "23.Sentiment Expression Boundaries in Sentiment Polarity Classification-Grobid-out.txt",
+    "title": "Sentiment Expression Boundaries in Sentiment Polarity Classification",
+    "score": 0.5404938088750274,
+    "method": "tfidf"
+  },
+  "632": {
+    "filename": "7.On the Role of Text Preprocessing in Neural Network Architectures An Evaluation Study on Text Categorization and Sentiment Analysis-Grobid-out.txt",
+    "title": "On the Role of Text Preprocessing in Neural Network Architectures An Evaluation Study on Text Categorization and Sentiment Analysis",
+    "score": 0.5649294941099844,
+    "method": "tfidf"
+  },
+  "633": {
+    "filename": "84.SSA-UO Unsupervised Sentiment Analysis in Twitter-Grobid-out.txt",
+    "title": "SSA-UO Unsupervised Sentiment Analysis in Twitter",
+    "score": 0.7214734554290771,
+    "method": "semantic"
+  },
+  "634": {
+    "filename": "38.Dimensional Sentiment Analysis Using a Regional CNN-LSTM Model-Grobid-out.txt",
+    "title": "Dimensional Sentiment Analysis Using a Regional CNN-LSTM Model",
+    "score": 0.7768180493224334,
+    "method": "tfidf"
+  },
+  "635": {
+    "filename": "35.Why Question Answering using Sentiment Analysis and Word Classes-Grobid-out.txt",
+    "title": "Why Question Answering using Sentiment Analysis and Word Classes",
+    "score": 0.4517314016675189,
+    "method": "tfidf"
+  },
+  "636": {
+    "filename": "46.Super Characters A Conversion from Sentiment Classification to Image Classification-Grobid-out.txt",
+    "title": "Super Characters A Conversion from Sentiment Classification to Image Classification",
+    "score": 0.6286849701677979,
+    "method": "tfidf"
+  },
+  "13": {
+    "filename": "243.BERT Post-Training for Review Reading Comprehension and Aspect-based Sentiment Analysis-Grobid-out.txt",
+    "title": "BERT Post-Training for Review Reading Comprehension and Aspect-based Sentiment Analysis",
+    "score": 0.32451857191628747,
+    "method": "tfidf"
+  }
+}
