@@ -1,0 +1,65 @@
+../Scientific_Novelty_Detection/
+Roadmap_Resources/
+# ===============================
+# Python
+# ===============================
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environments
+venv/
+env/
+.venv/
+
+# ===============================
+# Jupyter
+# ===============================
+.ipynb_checkpoints/
+
+# ===============================
+# IDEs / Editors
+# ===============================
+
+# PyCharm / IntelliJ
+.idea/
+*.iml
+
+# VS Code
+.vscode/
+
+# ===============================
+# OS files
+# ===============================
+.DS_Store
+Thumbs.db
+
+# ===============================
+# Logs
+# ===============================
+*.log
+
+# ===============================
+# Large model files / embeddings
+# ===============================
+*.pt
+*.pth
+*.bin
+*.ckpt
+*.h5
+*.npy
+*.npz
+
+# ===============================
+# Generated outputs
+# ===============================
+outputs/
+mapped_json/
+*.csv
+
+# ===============================
+# Temporary / cache
+# ===============================
+.cache/
+*.tmp
+checking_csvs.ipynb
