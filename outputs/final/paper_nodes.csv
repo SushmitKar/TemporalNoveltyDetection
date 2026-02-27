@@ -220,7 +220,6 @@ SKG_DIA_244,Paper,Zero-Shot Transfer Learning with Synthesized Data for Multi-Do
 SKG_DIA_245,Paper,OpenDial A Toolkit for Developing Spoken Dialogue Systems with Probabilistic Rules,DIA,SKG,2016.0,https://openalex.org/W2508347479,73.0,0.6958504915237427,semantic
 SKG_DIA_247,Paper,What You See is What You Get Visual Pronoun Coreference Resolution in Dialogues,DIA,SKG,2019.0,https://openalex.org/W4288162065,6.0,0.6151371286444228,tfidf
 SKG_DIA_248,Paper,Transformers to Learn Hierarchical Contexts in Multiparty Dialogue for Span-based Question Answering,DIA,SKG,2020.0,https://openalex.org/W3034520363,24.0,0.5281259009302469,tfidf
-SKG_DIA_249,Paper,Predicting and Eliciting Addressee’s Emotion in Online Dialogue,DIA,SKG,,,,0.5739307453415152,tfidf
 SKG_DIA_251,Paper,Neural Belief Tracker Data-Driven Dialogue State Tracking,DIA,SKG,2017.0,https://openalex.org/W2432549722,73.0,0.6279626802238265,tfidf
 SKG_DIA_253,Paper,Multimodal Menu-based Dialogue with Speech Cursor in DICO II+,DIA,SKG,2011.0,https://openalex.org/W2158162461,1.0,0.5874865514302332,tfidf
 SKG_DIA_254,Paper,Profile Consistency Identification for Open-domain Dialogue Agents,DIA,SKG,2020.0,https://openalex.org/W3087232873,19.0,0.5896260608078248,tfidf
@@ -275,30 +274,23 @@ SKG_DIA_318,Paper,Evaluating Coherence in Dialogue Systems using Entailment,DIA,
 SKG_DIA_1,Paper,Training Millions of Personalized Dialogue Agents,DIA,SKG,2018.0,https://openalex.org/W2890394457,211.0,0.6763719916343689,semantic
 NOVEL_MT_0,Paper,Investigating Softmax Tempering for Training Neural Machine Translation Models,MT,NOVEL,2021.0,https://openalex.org/W3197014887,0.0,0.8050713043146738,tfidf
 NOVEL_MT_2,Paper,Towards Making the Most of Dialogue Characteristics for Neural Chat Translation,MT,NOVEL,2021.0,https://openalex.org/W3196896228,12.0,0.6998351065113827,tfidf
-NOVEL_MT_3,Paper,HW-TSC’s Submissions to the WMT21 Biomedical Translation Task,MT,NOVEL,,,,0.6104258810261527,tfidf
 NOVEL_MT_4,Paper,Product Review Translation using Phrase Replacement and Attention Guided Noise Augmentation,MT,NOVEL,2021.0,https://openalex.org/W3197322108,0.0,0.5443208208741178,tfidf
 NOVEL_MT_5,Paper,Towards Modeling the Style of Translators in Neural Machine Translation,MT,NOVEL,2021.0,https://openalex.org/W3161838540,13.0,0.6119035095707608,tfidf
 NOVEL_MT_9,Paper,Self-Training for Unsupervised Neural Machine Translation in Unbalanced Training Data Scenarios,MT,NOVEL,2020.0,https://openalex.org/W3016145922,4.0,0.6644902263577579,tfidf
 NOVEL_MT_10,Paper,Distributionally Robust Multilingual Machine Translation,MT,NOVEL,2021.0,https://openalex.org/W3197336992,13.0,0.5836990077518354,tfidf
 NOVEL_MT_11,Paper,Do Context-Aware Translation Models Pay the Right Attention,MT,NOVEL,2021.0,https://openalex.org/W3174659183,17.0,0.6327418514732367,tfidf
-NOVEL_MT_12,Paper,HW-TSC’s Participation in the WMT 2021 Triangular MT Shared Task,MT,NOVEL,,,,0.6567858545618173,tfidf
 NOVEL_MT_15,Paper,Vocabulary Learning via Optimal Transport for Neural Machine Translation,MT,NOVEL,2021.0,https://openalex.org/W3175212568,58.0,0.5712514909706685,tfidf
 NOVEL_MT_16,Paper,SentSim Crosslingual Semantic Evaluation of Machine Translation,MT,NOVEL,2021.0,https://openalex.org/W3168264548,20.0,0.8367090917331421,tfidf
 NOVEL_MT_17,Paper,Investigating Active Learning in Interactive Neural Machine Translation,MT,NOVEL,2021.0,https://openalex.org/W3197257519,1.0,0.7162576652846484,tfidf
 NOVEL_MT_19,Paper,CUNI systems for WMT21 Multilingual Low-Resource Translation for Indo-European Languages Shared Task,MT,NOVEL,2021.0,https://openalex.org/W3203186688,0.0,0.750557450327312,tfidf
 NOVEL_MT_21,Paper,Cascade versus Direct Speech Translation Do the Differences Still Make a Difference,MT,NOVEL,2021.0,https://openalex.org/W3167968824,2.0,0.5696439747286903,tfidf
-NOVEL_MT_22,Paper,TUDa at WMT21 Sentence-Level Direct Assessment with Adapters,MT,NOVEL,,,,0.7051923901131927,tfidf
 NOVEL_MT_23,Paper,The NiuTrans Machine Translation Systems for WMT21,MT,NOVEL,2021.0,https://openalex.org/W3200345787,1.0,0.7005980365364842,tfidf
 NOVEL_MT_24,Paper,Improving Speech Translation by Understanding and Learning from the Auxiliary Text Translation Task,MT,NOVEL,2021.0,https://openalex.org/W3176711365,70.0,0.5111579469780679,tfidf
 NOVEL_MT_25,Paper,Learning to Rewrite for Non-Autoregressive Neural Machine Translation,MT,NOVEL,2021.0,https://openalex.org/W3214532454,29.0,0.7196243942665944,tfidf
 NOVEL_MT_26,Paper,Multilingual Machine Translation Systems from Microsoft for WMT21 Shared Task,MT,NOVEL,2021.0,https://openalex.org/W3209783775,15.0,0.5368504411083511,tfidf
 NOVEL_MT_29,Paper,Modeling Target-side Inflection in Placeholder Translation,MT,NOVEL,2021.0,https://openalex.org/W3174937206,0.0,0.6477132125822652,tfidf
-NOVEL_MT_30,Paper,The IICT-Yverdon System for the WMT 2021 Unsupervised MT and Very Low Resource Supervised MT Task,MT,NOVEL,,,,0.729378890470341,tfidf
 NOVEL_MT_31,Paper,WeChat Neural Machine Translation Systems for WMT21,MT,NOVEL,2021.0,https://openalex.org/W3188760190,1.0,0.6657742215052119,tfidf
-NOVEL_MT_33,Paper,HW-TSC’s Participation at WMT 2021 Quality Estimation Shared Task,MT,NOVEL,,,,0.5804238656798154,tfidf
-NOVEL_MT_34,Paper,Direct Exploitation of Attention Weights for Translation Quality Estimation,MT,NOVEL,,,,0.7716295044996118,tfidf
 NOVEL_MT_35,Paper,Dynamic Terminology Integration for COVID-19 and Other Emerging Domains,MT,NOVEL,2021.0,https://openalex.org/W3199756813,2.0,0.5701862106671997,tfidf
-NOVEL_MT_36,Paper,Findings of the WMT 2021 Shared Task on Large-Scale Multilingual Machine Translation,MT,NOVEL,,,,0.5250953526771172,tfidf
 NOVEL_MT_37,Paper,Modeling Bilingual Conversational Characteristics for Neural Chat Translation,MT,NOVEL,2021.0,https://openalex.org/W3173680274,23.0,0.5011250837525674,tfidf
 NOVEL_MT_39,Paper,Pruning-then-Expanding Model for Domain Adaptation of Neural Machine Translation,MT,NOVEL,2021.0,https://openalex.org/W3170463198,17.0,0.7035956668924203,tfidf
 NOVEL_MT_40,Paper,Smart-Start Decoding for Neural Machine Translation,MT,NOVEL,2021.0,https://openalex.org/W3169145812,1.0,0.5306048912195037,tfidf
@@ -306,13 +298,9 @@ NOVEL_MT_42,Paper,Robust Open-Vocabulary Translation from Visual Text Representa
 NOVEL_MT_45,Paper,Surprise Language Challenge Developing a Neural Machine Translation System between Pashto and English in Two Months,MT,NOVEL,2021.0,https://openalex.org/W4287031370,2.0,0.5646082609871113,tfidf
 NOVEL_MT_47,Paper,When is Char Better Than Subword A Systematic Study of Segmentation Algorithms for Neural Machine Translation,MT,NOVEL,2021.0,https://openalex.org/W3173571438,11.0,0.7585926018590418,tfidf
 NOVEL_MT_49,Paper,Neural Machine Translation in Low-Resource Setting a Case Study in English-Marathi Pair,MT,NOVEL,2021.0,https://openalex.org/W3198736145,2.0,0.6483089909938233,tfidf
-NOVEL_MT_51,Paper,Active2 Learning Actively reducing redundancies in Active Learning methods for Sequence Tagging and Machine Translation,MT,NOVEL,,,,0.519846097964015,tfidf
 NOVEL_MT_52,Paper,Context-aware Decoder for Neural Machine Translation using a Target-side Document-Level Language Model,MT,NOVEL,2021.0,https://openalex.org/W3167690611,8.0,0.624135567067331,tfidf
 NOVEL_MT_53,Paper,Data Augmentation with Unsupervised Machine Translation Improves the Structural Similarity of Cross-lingual Word Embeddings,MT,NOVEL,2021.0,https://openalex.org/W3186188014,1.0,0.6917883246768748,tfidf
 NOVEL_MT_54,Paper,Learning Language Specific Sub-network for Multilingual Machine Translation,MT,NOVEL,2021.0,https://openalex.org/W3175374354,53.0,0.8272869744545152,tfidf
-NOVEL_MT_55,Paper,TenTrans Large-Scale Multilingual Machine Translation System for WMT21,MT,NOVEL,,,,0.5382255138847547,tfidf
-NOVEL_MT_58,Paper,NoahNMT at WMT 2021 Dual Transfer for Very Low Resource Supervised Machine Translation,MT,NOVEL,,,,0.5163730703120781,tfidf
-NOVEL_MT_59,Paper,Kakao Enterprise’s WMT21 Machine Translation Using Terminologies Task Submission,MT,NOVEL,,,,0.6157180792687198,tfidf
 NOVEL_MT_60,Paper,RoBLEURT Submission for WMT2021 Metrics Task,MT,NOVEL,2022.0,https://openalex.org/W4225166672,7.0,0.6607710444490058,tfidf
 NOVEL_MT_61,Paper,Machine Translation of Low-Resource Indo-European Languages,MT,NOVEL,2021.0,https://openalex.org/W3188239957,3.0,0.5330647821050644,tfidf
 NOVEL_MT_62,Paper,Uncertainty-Aware Balancing for Multilingual and Multi-Domain Neural Machine Translation Training,MT,NOVEL,2021.0,https://openalex.org/W3197365178,9.0,0.6587837172083979,tfidf
@@ -320,16 +308,10 @@ NOVEL_MT_63,Paper,Breaking the Corpus Bottleneck for Context-Aware Neural Machin
 NOVEL_MT_64,Paper,GFST Gender-Filtered Self-Training for More Accurate Gender in Translation,MT,NOVEL,2021.0,https://openalex.org/W3207182695,6.0,0.6723259316756565,tfidf
 NOVEL_MT_66,Paper,GWLAN General Word-Level AutocompletioN for Computer-Aided Translation,MT,NOVEL,2021.0,https://openalex.org/W3173602377,16.0,0.5400943614187126,tfidf
 NOVEL_MT_67,Paper,An Alignment-Based Approach to Semi-Supervised Bilingual Lexicon Induction with Small Parallel Corpora,MT,NOVEL,2021.0,https://openalex.org/W3198763390,0.0,0.6170903293924817,tfidf
-NOVEL_MT_68,Paper,Netmarble AI Center’s WMT21 Automatic Post-Editing Shared Task Submission,MT,NOVEL,,,,0.5251786769098158,tfidf
-NOVEL_MT_69,Paper,Results of the WMT21 Metrics Shared Task Evaluating Metrics with Expert-based Human Evaluations on TED and News Domain,MT,NOVEL,,,,0.6907313057251296,tfidf
 NOVEL_MT_71,Paper,Unsupervised Translation of German–Lower Sorbian Exploring Training and Novel Transfer Methods on a Low-Resource Language,MT,NOVEL,2021.0,https://openalex.org/W3202547134,4.0,0.7498029306804919,tfidf
-NOVEL_MT_72,Paper,A Fine-Grained Analysis of BERTScore,MT,NOVEL,,,,0.75559192938841,tfidf
-NOVEL_MT_73,Paper,"To Optimize, or Not to Optimize, That Is the Question TelU-KU Models for WMT21 Large-Scale Multilingual Machine Translation",MT,NOVEL,,,,0.5804139685020023,tfidf
 NOVEL_MT_74,Paper,Unsupervised Neural Machine Translation for Low-Resource Domains via Meta-Learning,MT,NOVEL,2021.0,https://openalex.org/W3162228117,1.0,0.7773796192815435,tfidf
 NOVEL_MT_77,Paper,Back-translation for Large-Scale Multilingual Machine Translation,MT,NOVEL,2021.0,https://openalex.org/W3199143471,4.0,0.5585927668123244,tfidf
 NOVEL_MT_78,Paper,NeurST Neural Speech Translation Toolkit,MT,NOVEL,2021.0,https://openalex.org/W3175809709,27.0,0.661972051446793,tfidf
-NOVEL_MT_79,Paper,HW-TSC’s Participation in the WMT 2021 News Translation Shared Task,MT,NOVEL,,,,0.7029734714630752,tfidf
-NOVEL_MT_80,Paper,Neural Machine Translation without Embeddings,MT,NOVEL,,,,0.6621055153073717,tfidf
 NOVEL_MT_81,Paper,Improving Neural Machine Translation by Bidirectional Training,MT,NOVEL,2021.0,https://openalex.org/W3214581470,24.0,0.6626930099945424,tfidf
 NOVEL_MT_82,Paper,Rule-based Morphological Inflection Improves Neural Terminology Translation,MT,NOVEL,2021.0,https://openalex.org/W3200875022,3.0,0.804851930096166,tfidf
 NOVEL_MT_83,Paper,Introducing Mouse Actions into Interactive-Predictive Neural Machine Translation,MT,NOVEL,2021.0,https://openalex.org/W3198479318,1.0,0.512299144610527,tfidf
@@ -339,15 +321,10 @@ NOVEL_MT_89,Paper,Adaptive Nearest Neighbor Machine Translation,MT,NOVEL,2021.0,
 NOVEL_MT_91,Paper,Translating Headers of Tabular Data A Pilot Study of Schema Translation,MT,NOVEL,2021.0,https://openalex.org/W3212104907,2.0,0.8116178814341194,tfidf
 NOVEL_MT_92,Paper,Analyzing the Source and Target Contributions to Predictions in Neural Machine Translation,MT,NOVEL,2021.0,https://openalex.org/W3094519420,16.0,0.5557550218546169,tfidf
 NOVEL_MT_93,Paper,Zero-Shot Cross-Lingual Transfer of Neural Machine Translation with Multilingual Pretrained Encoders,MT,NOVEL,2021.0,https://openalex.org/W3156064004,29.0,0.7793640545516143,tfidf
-NOVEL_MT_94,Paper,Assessing Reference-Free Peer Evaluation for Machine Translation,MT,NOVEL,,,,0.5540188031057811,tfidf
 NOVEL_MT_95,Paper,Document Graph for Neural Machine Translation,MT,NOVEL,2020.0,https://openalex.org/W3111696764,3.0,0.6042046509981982,tfidf
 NOVEL_MT_96,Paper,Probing Word Translations in the Transformer and Trading Decoder for Encoder Layers,MT,NOVEL,2021.0,https://openalex.org/W3171088343,7.0,0.6785686994558378,tfidf
-NOVEL_MT_97,Paper,Adam Mickiewicz University’s English-Hausa Submissions to the WMT 2021 News Translation Task,MT,NOVEL,,,,0.5080637509688694,tfidf
-NOVEL_MT_98,Paper,T4T Solution WMT21 Similar Language Task for the Spanish-Catalan and Spanish-Portuguese Language Pair,MT,NOVEL,,,,0.6204100847244263,semantic
 NOVEL_MT_99,Paper,Improving Simultaneous Translation by Incorporating Pseudo-References with Fewer Reorderings,MT,NOVEL,2021.0,https://openalex.org/W3199917453,14.0,0.5166089697091858,tfidf
 NOVEL_MT_101,Paper,Investigating the Helpfulness of Word-Level Quality Estimation for Post-Editing Machine Translation Output,MT,NOVEL,2021.0,https://openalex.org/W3212217304,3.0,0.619851522454808,tfidf
-NOVEL_MT_102,Paper,Pruning Neural Machine Translation for Speed Using Group Lasso,MT,NOVEL,,,,0.6157114633073307,tfidf
-NOVEL_MT_103,Paper,Recurrent Attention for Neural Machine Translation,MT,NOVEL,,,,0.7308525110364372,tfidf
 NOVEL_MT_104,Paper,Chinese Opinion Role Labeling with Corpus Translation A Pivot Study,MT,NOVEL,2021.0,https://openalex.org/W3213774132,4.0,0.5082116501335857,tfidf
 NOVEL_MT_105,Paper,Neural Machine Translation with Inflected Lexicon,MT,NOVEL,2021.0,https://openalex.org/W3197148518,3.0,0.6684234910665663,tfidf
 NOVEL_MT_107,Paper,Diverse Pretrained Context Encodings Improve Document Translation,MT,NOVEL,2021.0,https://openalex.org/W3171376244,7.0,0.6300293681968645,tfidf
@@ -360,26 +337,20 @@ NOVEL_MT_115,Paper,A Generative Framework for Simultaneous Machine Translation,M
 NOVEL_MT_116,Paper,Harnessing Multilinguality in Unsupervised Machine Translation for Rare Languages,MT,NOVEL,2021.0,https://openalex.org/W3088631993,4.0,0.5724172072040645,tfidf
 NOVEL_MT_117,Paper,AligNART Non-autoregressive Neural Machine Translation by Jointly Learning to Estimate Alignment and Translate,MT,NOVEL,2021.0,https://openalex.org/W3200388885,36.0,0.7550296328456758,tfidf
 NOVEL_MT_118,Paper,Cross Attention Augmented Transducer Networks for Simultaneous Translation,MT,NOVEL,2021.0,https://openalex.org/W3213993043,28.0,0.7003736266244877,tfidf
-NOVEL_MT_119,Paper,Tencent Translation System for the WMT21 News Translation Task,MT,NOVEL,,,,0.6743327931936698,tfidf
 NOVEL_MT_120,Paper,"BERT, mBERT, or BiBERT A Study on Contextualized Embeddings for Neural Machine Translation",MT,NOVEL,2021.0,https://openalex.org/W3201295503,52.0,0.7359966390793949,tfidf
 NOVEL_MT_121,Paper,Multi-Task Learning with Shared Encoder for Non-Autoregressive Machine Translation,MT,NOVEL,2021.0,https://openalex.org/W3168577192,22.0,0.8842897969469429,tfidf
 NOVEL_MT_122,Paper,HintedBT Augmenting Back-Translation with Quality and Transliteration Hints,MT,NOVEL,2021.0,https://openalex.org/W3196292088,7.0,0.8337869711019664,tfidf
-NOVEL_MT_123,Paper,On the Stability of System Rankings at WMT,MT,NOVEL,,,,0.5160818191661085,tfidf
 NOVEL_MT_124,Paper,ChrEnTranslate Cherokee-English Machine Translation Demo with Quality Estimation and Corrective Feedback,MT,NOVEL,2021.0,https://openalex.org/W3176011954,5.0,0.5140237475712078,tfidf
 NOVEL_MT_125,Paper,Rethinking Data Augmentation for Low-Resource Neural Machine Translation A Multi-Task Learning Approach,MT,NOVEL,2021.0,https://openalex.org/W3198078159,19.0,0.7541900177563954,tfidf
-NOVEL_MT_126,Paper,NITK-UoH Tamil-Telugu Machine Translation Systems for the WMT21 Similar Language Translation Task,MT,NOVEL,,,,0.7578501105308533,semantic
 NOVEL_MT_127,Paper,The JHU-Microsoft Submission for WMT21 Quality Estimation Shared Task,MT,NOVEL,2021.0,https://openalex.org/W3200829979,1.0,0.646652591163747,tfidf
 NOVEL_MT_128,Paper,IntelliCAT Intelligent Machine Translation Post-Editing with Quality Estimation and Translation Suggestion,MT,NOVEL,2021.0,https://openalex.org/W3176009285,13.0,0.7631084726329586,tfidf
 NOVEL_MT_130,Paper,Mutual-Learning Improves End-to-End Speech Translation,MT,NOVEL,2021.0,https://openalex.org/W3212906336,1.0,0.6154566174850129,tfidf
 NOVEL_MT_132,Paper,Integrating Unsupervised Data Generation into Self-Supervised Neural Machine Translation for Low-Resource Languages,MT,NOVEL,2021.0,https://openalex.org/W3186667189,2.0,0.7615200951372872,tfidf
 NOVEL_MT_133,Paper,Sentiment-based Candidate Selection for NMT,MT,NOVEL,2021.0,https://openalex.org/W3155003847,2.0,0.6392173904132603,tfidf
-NOVEL_MT_136,Paper,ICL’s Submission to the WMT21 Critical Error Detection Shared Task,MT,NOVEL,,,,0.5285706317726807,tfidf
 NOVEL_MT_137,Paper,Translation-based Supervision for Policy Generation in Simultaneous Neural Machine Translation,MT,NOVEL,2021.0,https://openalex.org/W3211384195,6.0,0.81155353886272,tfidf
-NOVEL_MT_138,Paper,Efficient Machine Translation with Model Pruning and Quantization,MT,NOVEL,,,,0.507981320121105,tfidf
 NOVEL_MT_139,Paper,Neural Machine Translation with Monolingual Translation Memory,MT,NOVEL,2021.0,https://openalex.org/W3176913643,55.0,0.8574056274861713,tfidf
 NOVEL_MT_140,Paper,From Masked Language Modeling to Translation Non-English Auxiliary Tasks Improve Zero-shot Spoken Language Understanding,MT,NOVEL,2021.0,https://openalex.org/W3162711154,3.0,0.6126926036532332,tfidf
 NOVEL_MT_141,Paper,Improving the Lexical Ability of Pretrained Language Models for Unsupervised Neural Machine Translation,MT,NOVEL,2021.0,https://openalex.org/W3136071852,2.0,0.7878303125881082,tfidf
-NOVEL_MT_143,Paper,The LMU Munich Systems for the WMT21 Unsupervised and Very Low-Resource Translation Task,MT,NOVEL,,,,0.5493609334878505,tfidf
 NOVEL_MT_144,Paper,Glancing Transformer for Non-Autoregressive Neural Machine Translation,MT,NOVEL,2021.0,https://openalex.org/W3175665465,102.0,0.8365712493168057,tfidf
 NOVEL_MT_148,Paper,Phrase-level Active Learning for Neural Machine Translation,MT,NOVEL,2021.0,https://openalex.org/W3176344849,7.0,0.7660054822978941,tfidf
 NOVEL_MT_150,Paper,Selective Knowledge Distillation for Neural Machine Translation,MT,NOVEL,2021.0,https://openalex.org/W3176120057,35.0,0.6282700500555733,tfidf
@@ -387,19 +358,12 @@ NOVEL_MT_153,Paper,“Wikily” Supervised Neural Translation Tailored to Cross-
 NOVEL_MT_154,Paper,Source and Target Bidirectional Knowledge Distillation for End-to-end Speech Translation,MT,NOVEL,2021.0,https://openalex.org/W3168212167,35.0,0.8604670273770955,tfidf
 NOVEL_MT_155,Paper,Understanding the Properties of Minimum Bayes Risk Decoding in Neural Machine Translation,MT,NOVEL,2021.0,https://openalex.org/W3160224178,2.0,0.81438281909771,tfidf
 NOVEL_MT_156,Paper,Is “moby dick” a Whale or a Bird Named Entities and Terminology in Speech Translation,MT,NOVEL,2021.0,https://openalex.org/W3199713193,3.0,0.7067761317576368,tfidf
-NOVEL_MT_157,Paper,Neural Machine Translation without Embeddings,MT,NOVEL,,,,0.6155748963356018,semantic
-NOVEL_MT_158,Paper,The NiuTrans System for the WMT 2021 Efficiency Task,MT,NOVEL,,,,0.7921267550463115,tfidf
-NOVEL_MT_159,Paper,Facebook AI’s WMT21 News Translation Task Submission,MT,NOVEL,,,,0.6756814338234512,tfidf
 NOVEL_MT_161,Paper,Difficulty-Aware Machine Translation Evaluation,MT,NOVEL,2021.0,https://openalex.org/W3177285425,4.0,0.6562413289825257,tfidf
-NOVEL_MT_162,Paper,"The University of Maryland, College Park Submission to Large-Scale Multilingual Shared Task at WMT 2021",MT,NOVEL,,,,0.605949988497199,tfidf
 NOVEL_MT_163,Paper,Rewriter-Evaluator Architecture for Neural Machine Translation,MT,NOVEL,2020.0,https://openalex.org/W3161752359,2.0,0.8251725208288583,tfidf
-NOVEL_MT_164,Paper,Papago’s Submission for the WMT21 Quality Estimation Shared Task,MT,NOVEL,,,,0.5674326645725178,tfidf
 NOVEL_MT_165,Paper,Studying The Impact Of Document-level Context On Simultaneous Neural Machine Translation,MT,NOVEL,2021.0,https://openalex.org/W3198216919,1.0,0.7077496639777964,tfidf
 NOVEL_MT_167,Paper,Non-Autoregressive Translation by Learning Target Categorical Codes,MT,NOVEL,2021.0,https://openalex.org/W3167880383,28.0,0.7660730255613046,tfidf
 NOVEL_MT_168,Paper,Don’t Go Far Off An Empirical Study on Neural Poetry Translation,MT,NOVEL,2021.0,https://openalex.org/W3198891452,7.0,0.8940395772349924,tfidf
-NOVEL_MT_169,Paper,NICT Kyoto Submission for the WMT’21 Quality Estimation Task Multimetric Multilingual Pretraining for Critical Error Detection,MT,NOVEL,,,,0.6012366371570042,tfidf
 NOVEL_MT_172,Paper,SemFace Pre-training Encoder and Decoder with a Semantic Interface for Neural Machine Translation,MT,NOVEL,2021.0,https://openalex.org/W3175963743,13.0,0.8271793361396707,tfidf
-NOVEL_MT_173,Paper,Are References Really Needed Unbabel-IST 2021 Submission for the Metrics Shared Task,MT,NOVEL,,,,0.6078637620305222,tfidf
 NOVEL_MT_174,Paper,Speechformer Reducing Information Loss in Direct Speech Translation,MT,NOVEL,2021.0,https://openalex.org/W3198959024,8.0,0.7274975735671986,tfidf
 NOVEL_MT_177,Paper,SGL Speaking the Graph Languages of Semantic Parsing via Multilingual Translation,MT,NOVEL,2021.0,https://openalex.org/W3167860749,22.0,0.6100108006642742,tfidf
 NOVEL_MT_179,Paper,Fast and Accurate Neural Machine Translation with Translation Memory,MT,NOVEL,2021.0,https://openalex.org/W3174160883,37.0,0.6324101550224003,tfidf
@@ -415,13 +379,9 @@ NOVEL_MT_189,Paper,Machine Translated Text Detection Through Text Similarity wit
 NOVEL_MT_190,Paper,The Effect of Round-Trip Translation on Fairness in Sentiment Analysis,MT,NOVEL,2021.0,https://openalex.org/W3211399536,3.0,0.8056875618449814,tfidf
 NOVEL_MT_192,Paper,PhoMT A High-Quality and Large-Scale Benchmark Dataset for Vietnamese-English Machine Translation,MT,NOVEL,2021.0,https://openalex.org/W3210390771,15.0,0.6317450896555963,tfidf
 NOVEL_MT_193,Paper,It Is Not As Good As You Think! Evaluating Simultaneous Machine Translation on Interpretation Data,MT,NOVEL,2021.0,https://openalex.org/W3205818463,5.0,0.5097637427117816,tfidf
-NOVEL_MT_194,Paper,HW-TSC’s Participation in the WMT 2021 Efficiency Shared Task,MT,NOVEL,,,,0.7347914539107328,tfidf
-NOVEL_MT_195,Paper,Findings of the WMT 2021 Shared Tasks in Unsupervised MT and Very Low Resource Supervised MT,MT,NOVEL,,,,0.7128680243536681,tfidf
-NOVEL_MT_196,Paper,QEMind Alibaba’s Submission to the WMT21 Quality Estimation Shared Task,MT,NOVEL,,,,0.7480079059529716,tfidf
 NOVEL_MT_198,Paper,Multi-Head Highly Parallelized LSTM Decoder for Neural Machine Translation,MT,NOVEL,2021.0,https://openalex.org/W3175283066,13.0,0.8120479008949975,tfidf
 NOVEL_MT_202,Paper,Guiding Teacher Forcing with Seer Forcing for Neural Machine Translation,MT,NOVEL,2021.0,https://openalex.org/W3175092301,12.0,0.7027950456153005,tfidf
 NOVEL_MT_205,Paper,An Empirical Investigation of Word Alignment Supervision for Zero-Shot Multilingual Neural Machine Translation,MT,NOVEL,2021.0,https://openalex.org/W3214353211,7.0,0.5663673694765834,tfidf
-NOVEL_MT_206,Paper,Neural Machine Translation for Tamil–Telugu Pair,MT,NOVEL,,,,0.5727260738947393,tfidf
 NOVEL_MT_207,Paper,Video-guided Machine Translation with Spatial Hierarchical Attention Network,MT,NOVEL,2021.0,https://openalex.org/W3185517710,5.0,0.8345052068920108,tfidf
 NOVEL_MT_208,Paper,Stacked Acoustic-and-Textual Encoding Integrating the Pre-trained Models into Speech Translation Encoders,MT,NOVEL,2021.0,https://openalex.org/W3176382501,66.0,0.7565943103048469,tfidf
 NOVEL_MT_209,Paper,Like Chalk and Cheese On the Effects of Translationese in MT Training,MT,NOVEL,2021.0,https://openalex.org/W3198097706,0.0,0.7386759764229663,tfidf
@@ -429,29 +389,22 @@ NOVEL_MT_210,Paper,Continual Learning for Neural Machine Translation,MT,NOVEL,20
 NOVEL_MT_213,Paper,"Point, Disambiguate and Copy Incorporating Bilingual Dictionaries for Neural Machine Translation",MT,NOVEL,2021.0,https://openalex.org/W3173506858,12.0,0.6632204817685927,tfidf
 NOVEL_MT_214,Paper,Scheduled Sampling Based on Decoding Steps for Neural Machine Translation,MT,NOVEL,2021.0,https://openalex.org/W3214236736,9.0,0.5954050488638953,tfidf
 NOVEL_MT_215,Paper,From Machine Translation to Code-Switching Generating High-Quality Code-Switched Text,MT,NOVEL,2021.0,https://openalex.org/W3176614736,34.0,0.7899131456331323,tfidf
-NOVEL_MT_217,Paper,TenTrans Multilingual Low-Resource Translation System for WMT21 Indo-European Languages Task,MT,NOVEL,,,,0.6957507910082419,tfidf
 NOVEL_MT_218,Paper,Improving the Quality Trade-Off for Neural Machine Translation Multi-Domain Adaptation,MT,NOVEL,2021.0,https://openalex.org/W3206604436,4.0,0.7925721347703462,tfidf
 NOVEL_MT_219,Paper,Beyond Noise Mitigating the Impact of Fine-grained Semantic Divergences on Neural Machine Translation,MT,NOVEL,2021.0,https://openalex.org/W3167515372,1.0,0.7381927682882384,tfidf
 NOVEL_MT_221,Paper,AfroMT Pretraining Strategies and Reproducible Benchmarks for Translation of 8 African Languages,MT,NOVEL,2021.0,https://openalex.org/W3200218906,12.0,0.6143592748075358,tfidf
-NOVEL_MT_222,Paper,Improving Machine Translation of Rare and Unseen Word Senses,MT,NOVEL,,,,0.6653325199121248,tfidf
 NOVEL_MT_224,Paper,Self-Training Sampling with Monolingual Data Uncertainty for Neural Machine Translation,MT,NOVEL,2021.0,https://openalex.org/W3174481817,27.0,0.5011663410586406,tfidf
-NOVEL_MT_225,Paper,TenTrans High-Performance Inference Toolkit for WMT2021 Efficiency Task,MT,NOVEL,,,,0.6993326369290993,tfidf
 NOVEL_MT_227,Paper,Generative Imagination Elevates Machine Translation,MT,NOVEL,2021.0,https://openalex.org/W3168900788,37.0,0.7392920513577005,tfidf
 NOVEL_MT_228,Paper,Learning Curricula for Multilingual Neural Machine Translation Training,MT,NOVEL,2021.0,https://openalex.org/W3198258591,0.0,0.7548362413339789,tfidf
-NOVEL_MT_229,Paper,Data Processing Matters SRPH-Konvergen AI’s Machine Translation System for WMT’21,MT,NOVEL,,,,0.6285598760497785,tfidf
 NOVEL_MT_230,Paper,Energy-Based Reranking Improving Neural Machine Translation Using Energy-Based Models,MT,NOVEL,2021.0,https://openalex.org/W3089025530,33.0,0.7968349946983231,tfidf
 NOVEL_MT_234,Paper,cushLEPOR customising hLEPOR metric using Optuna for higher agreement with human judgments or pre-trained language model LaBSE,MT,NOVEL,2021.0,https://openalex.org/W3212864953,3.0,0.7662911023836243,tfidf
 NOVEL_MT_235,Paper,Improving Lexically Constrained Neural Machine Translation with Source-Conditioned Masked Span Prediction,MT,NOVEL,2021.0,https://openalex.org/W3163353020,1.0,0.5342403048967357,tfidf
 NOVEL_MT_236,Paper,Multilingual Domain Adaptation for NMT Decoupling Language and Domain Information with Adapters,MT,NOVEL,2021.0,https://openalex.org/W3205203171,3.0,0.7647506864602327,tfidf
 NOVEL_MT_238,Paper,Encouraging Lexical Translation Consistency for Document-Level Neural Machine Translation,MT,NOVEL,2021.0,https://openalex.org/W3211978535,17.0,0.6337299187614407,tfidf
-NOVEL_MT_239,Paper,The Effect of Domain and Diacritics in Yoruba–English Neural Machine Translation,MT,NOVEL,,,,0.8199415399008013,tfidf
-NOVEL_MT_241,Paper,Improving Similar Language Translation With Transfer Learning,MT,NOVEL,,,,0.5148879129748909,tfidf
 NOVEL_MT_243,Paper,Towards User-Driven Neural Machine Translation,MT,NOVEL,2021.0,https://openalex.org/W3175424132,16.0,0.6852060805280565,tfidf
 NOVEL_MT_244,Paper,Neural Machine Translation with Synchronous Latent Phrase Structure,MT,NOVEL,2022.0,https://openalex.org/W4285112771,4.0,0.7469597533839755,tfidf
 NOVEL_MT_245,Paper,On Compositional Generalization of Neural Machine Translation,MT,NOVEL,2021.0,https://openalex.org/W3176846012,25.0,0.6286887210426351,tfidf
 NOVEL_MT_246,Paper,Ensembling of Distilled Models from Multi-task Teachers for Constrained Resource Language Pairs,MT,NOVEL,2021.0,https://openalex.org/W3217576620,1.0,0.5260794991837747,tfidf
 NOVEL_MT_247,Paper,Crosslingual Embeddings are Essential in UNMT for distant languages An English to IndoAryan Case Study,MT,NOVEL,2021.0,https://openalex.org/W3167716537,1.0,0.8307303388527949,tfidf
-NOVEL_MT_248,Paper,NVIDIA NeMo’s Neural Machine Translation Systems for English-German and English-Russian News and Biomedical Tasks at WMT21,MT,NOVEL,,,,0.7081354204639856,tfidf
 NOVEL_MT_250,Paper,Good for Misconceived Reasons An Empirical Revisiting on the Need for Visual Context in Multimodal Machine Translation,MT,NOVEL,2021.0,https://openalex.org/W3176395632,55.0,0.7633440676286223,tfidf
 NOVEL_MT_252,Paper,Multi-Hop Transformer for Document-Level Machine Translation,MT,NOVEL,2021.0,https://openalex.org/W3166829167,10.0,0.7748202475852132,tfidf
 NOVEL_MT_253,Paper,Revisiting the Weaknesses of Reinforcement Learning for Neural Machine Translation,MT,NOVEL,2021.0,https://openalex.org/W3165946561,8.0,0.5774589693556538,tfidf
@@ -471,13 +424,9 @@ NOVEL_MT_268,Paper,Sentiment Preservation in Review Translation using Curriculum
 NOVEL_MT_269,Paper,Machine Translation Decoding beyond Beam Search,MT,NOVEL,2021.0,https://openalex.org/W3157748223,6.0,0.5940988980287356,tfidf
 NOVEL_MT_270,Paper,Don’t Rule Out Monolingual Speakers A Method For Crowdsourcing Machine Translation Data,MT,NOVEL,2021.0,https://openalex.org/W3170483380,0.0,0.6394757728766004,tfidf
 NOVEL_MT_271,Paper,Beyond Sentence-Level End-to-End Speech Translation Context Helps,MT,NOVEL,2021.0,https://openalex.org/W3173657420,18.0,0.8083506110762644,tfidf
-NOVEL_MT_272,Paper,Contrastive Learning for Context-aware Neural Machine Translation Using Coreference Information,MT,NOVEL,,,,0.7425314784545423,tfidf
-NOVEL_MT_273,Paper,Maastricht University’s Large-Scale Multilingual Machine Translation System for WMT 2021,MT,NOVEL,,,,0.6275665231293025,tfidf
 NOVEL_MT_274,Paper,Comparing Feature-Engineering and Feature-Learning Approaches for Multilingual Translationese Classification,MT,NOVEL,2021.0,https://openalex.org/W3201371171,9.0,0.7058926500820597,tfidf
 NOVEL_MT_275,Paper,Improving Multilingual Translation by Representation and Gradient Regularization,MT,NOVEL,2021.0,https://openalex.org/W3199890931,16.0,0.7689924233143919,tfidf
-NOVEL_MT_276,Paper,Language Model Pretraining and Transfer Learning for Very Low Resource Languages,MT,NOVEL,,,,0.791789114917295,tfidf
 NOVEL_MT_277,Paper,Controlling Machine Translation for Multiple Attributes with Additive Interventions,MT,NOVEL,2021.0,https://openalex.org/W3214250531,16.0,0.5582974366971637,tfidf
-NOVEL_MT_279,Paper,Just Ask! Evaluating Machine Translation by Asking and Answering Questions,MT,NOVEL,,,,0.5170375786022537,tfidf
 NOVEL_MT_280,Paper,Bilingual Mutual Information Based Adaptive Training for Neural Machine Translation,MT,NOVEL,2022.0,https://openalex.org/W4225470987,10.0,0.77614909250889,tfidf
 NOVEL_MT_281,Paper,Adapting Neural Machine Translation for Automatic Post-Editing,MT,NOVEL,2021.0,https://openalex.org/W3199575985,3.0,0.5819083045162702,tfidf
 NOVEL_MT_282,Paper,Cross-Attention is All You Need Adapting Pretrained Transformers for Machine Translation,MT,NOVEL,2021.0,https://openalex.org/W3199258042,123.0,0.7190768910405816,tfidf
@@ -489,9 +438,7 @@ NOVEL_MT_289,Paper,Measuring and Increasing Context Usage in Context-Aware Machi
 NOVEL_MT_290,Paper,Synchronous Syntactic Attention for Transformer Neural Machine Translation,MT,NOVEL,2021.0,https://openalex.org/W3185537577,2.0,0.5083983354330209,tfidf
 NOVEL_MT_291,Paper,Almost Free Semantic Draft for Neural Machine Translation,MT,NOVEL,2021.0,https://openalex.org/W3171766884,4.0,0.7350617409237403,tfidf
 NOVEL_MT_295,Paper,Prevent the Language Model from being Overconfident in Neural Machine Translation,MT,NOVEL,2021.0,https://openalex.org/W3173844397,24.0,0.7242400266551119,tfidf
-NOVEL_MT_296,Paper,HW-TSC’s Participation in the WMT 2021 Large-Scale Multilingual Translation Task,MT,NOVEL,,,,0.6003378584693987,tfidf
 NOVEL_MT_298,Paper,Investigating the Helpfulness of Word-Level Quality Estimation for Post-Editing Machine Translation Output,MT,NOVEL,2021.0,https://openalex.org/W3212217304,3.0,0.5855861763591063,tfidf
-NOVEL_MT_299,Paper,Quality Estimation Using Dual Encoders with Transfer Learning,MT,NOVEL,,,,0.5235762455809305,tfidf
 NOVEL_MT_300,Paper,Translation Transformers Rediscover Inherent Data Domains,MT,NOVEL,2021.0,https://openalex.org/W3200765429,5.0,0.7076832499426291,tfidf
 NOVEL_MT_301,Paper,Preventing Author Profiling through Zero-Shot Multilingual Back-Translation,MT,NOVEL,2021.0,https://openalex.org/W3198995825,1.0,0.6942035008503172,tfidf
 NOVEL_MT_303,Paper,Zero-Shot Information Extraction as a Unified Text-to-Triple Translation,MT,NOVEL,2021.0,https://openalex.org/W3201244947,36.0,0.5589800491121936,tfidf
@@ -523,14 +470,11 @@ SKG_MT_35,Paper,From Research to Production and Back Ludicrously Fast Neural Mac
 SKG_MT_36,Paper,Human-Paraphrased References Improve Neural Machine Translation,MT,SKG,2020.0,https://openalex.org/W3094040156,11.0,0.5759490485549852,tfidf
 SKG_MT_37,Paper,Regularized Context Gates on Transformer for Machine Translation,MT,SKG,2020.0,https://openalex.org/W3034553593,4.0,0.824058276598295,tfidf
 SKG_MT_38,Paper,Lexicalized Reordering for Left-to-Right Hierarchical Phrase-based Translation,MT,SKG,2017.0,https://openalex.org/W2741401344,1.0,0.7754458272870377,tfidf
-SKG_MT_39,Paper,Analyzing Knowledge Distillation in Neural Machine Translation,MT,SKG,,,,0.7725776751858118,tfidf
 SKG_MT_41,Paper,Generating Diverse Translations via Weighted Fine-tuning and Hypotheses Filtering for the Duolingo STAPLE Task,MT,SKG,2020.0,https://openalex.org/W3045734701,3.0,0.6529438582917312,tfidf
 SKG_MT_42,Paper,Improving Non-autoregressive Neural Machine Translation with Monolingual Data,MT,SKG,2020.0,https://openalex.org/W3034579764,23.0,0.8145832828651507,tfidf
 SKG_MT_43,Paper,ReWE Regressing Word Embeddings for Regularization of Neural Machine Translation Systems,MT,SKG,2019.0,https://openalex.org/W2928720664,7.0,0.6327790954562165,tfidf
 SKG_MT_44,Paper,Training MRF-Based Phrase Translation Models using Gradient Ascent,MT,SKG,2013.0,https://openalex.org/W1595109586,20.0,0.7039476566756497,tfidf
-SKG_MT_47,Paper,The JHUKyotoU Speech Translation System for IWSLT 2018,MT,SKG,,,,0.5272061659763905,tfidf
 SKG_MT_48,Paper,Referential Translation Machines for Predicting Translation Quality and Related Statistics,MT,SKG,2015.0,https://openalex.org/W2180554602,9.0,0.6059958362200066,tfidf
-SKG_MT_49,Paper,Word Rewarding for Adequate Neural Machine Translation,MT,SKG,,,,0.7930748776992913,tfidf
 SKG_MT_50,Paper,Speculative Beam Search for Simultaneous Translation,MT,SKG,2019.0,https://openalex.org/W2970084653,28.0,0.7774832100981223,tfidf
 SKG_MT_51,Paper,Uncertainty-Aware Curriculum Learning for Neural Machine Translation,MT,SKG,2020.0,https://openalex.org/W3034201598,78.0,0.7967186921642236,tfidf
 SKG_MT_53,Paper,Learning Translations via Matrix Completion,MT,SKG,2017.0,https://openalex.org/W2757521750,19.0,0.6586807245575531,tfidf
@@ -545,7 +489,6 @@ SKG_MT_66,Paper,Towards Compact and Fast Neural Machine Translation Using a Comb
 SKG_MT_67,Paper,IITP-MT System for Gujarati-English News Translation Task at WMT 2019,MT,SKG,2019.0,https://openalex.org/W2971031401,6.0,0.5341323292869534,tfidf
 SKG_MT_68,Paper,Combining Local and Document-Level Context The LMU Munich Neural Machine Translation System at WMT19,MT,SKG,2019.0,https://openalex.org/W2970544750,13.0,0.5502548075997042,tfidf
 SKG_MT_70,Paper,Learning Deep Transformer Models for Machine Translation,MT,SKG,2019.0,https://openalex.org/W2963542740,611.0,0.7542451886271165,tfidf
-SKG_MT_72,Paper,Understanding and Improving Hidden Representations for Neural Machine Translation,MT,SKG,,,,0.6245169904590746,tfidf
 SKG_MT_73,Paper,Quality Estimation and Translation Metrics via Pre-trained Word and Sentence Embeddings,MT,SKG,2019.0,https://openalex.org/W2971148473,28.0,0.5595719070598215,tfidf
 SKG_MT_74,Paper,Translation Model Adaptation for Statistical Machine Translation with Monolingual Topic Information,MT,SKG,2012.0,https://openalex.org/W2101451733,45.0,0.6298952926733902,tfidf
 SKG_MT_75,Paper,Harnessing Indirect Training Data for End-to-End Automatic Speech Translation Tricks of the Trade,MT,SKG,2019.0,https://openalex.org/W2982129078,38.0,0.7999928839027376,tfidf
@@ -581,7 +524,6 @@ SKG_MT_106,Paper,Probing the Need for Visual Context in Multimodal Machine Trans
 SKG_MT_107,Paper,An Empirical Evaluation of Noise Contrastive Estimation for the Neural Network Joint Model of Translation,MT,SKG,2016.0,https://openalex.org/W2468625829,2.0,0.7856058956573645,tfidf
 SKG_MT_108,Paper,Multi-level Translation Quality Prediction with QuEst++,MT,SKG,2015.0,https://openalex.org/W2251150371,119.0,0.5275353740331986,tfidf
 SKG_MT_109,Paper,A Discriminative Training Procedure for Continuous Translation Models,MT,SKG,2015.0,https://openalex.org/W2250320700,1.0,0.7901415054640134,tfidf
-SKG_MT_110,Paper,The Karlsruhe Institute of Technology Translation Systems for the WMT 2011,MT,SKG,,,,0.6765025567752725,tfidf
 SKG_MT_111,Paper,Revisiting Adversarial Autoencoder for Unsupervised Word Translation with Cycle Consistency and Improved Training,MT,SKG,2019.0,https://openalex.org/W2933610451,37.0,0.6978624196849047,tfidf
 SKG_MT_112,Paper,A Simple and Effective Unified Encoder for Document-Level Machine Translation,MT,SKG,2020.0,https://openalex.org/W3034351728,72.0,0.6763793634283888,tfidf
 SKG_MT_113,Paper,Revisiting Low-Resource Neural Machine Translation A Case Study,MT,SKG,2019.0,https://openalex.org/W2949973181,153.0,0.5501162077370733,tfidf
@@ -601,7 +543,6 @@ SKG_MT_134,Paper,Explicit Cross-lingual Pre-training for Unsupervised Machine Tr
 SKG_MT_136,Paper,Personalized Machine Translation Preserving Original Author Traits,MT,SKG,2017.0,https://openalex.org/W2539350388,101.0,0.5933215750136269,tfidf
 SKG_MT_137,Paper,Task-based Evaluation of Multiword Expressions a Pilot Study in Statistical Machine Translation,MT,SKG,2010.0,https://openalex.org/W2155501171,90.0,0.7687783555854005,tfidf
 SKG_MT_138,Paper,Rapid Adaptation of Neural Machine Translation to New Languages,MT,SKG,2018.0,https://openalex.org/W2887920589,191.0,0.6694264751625947,tfidf
-SKG_MT_139,Paper,Neural Machine Translation between Myanmar (Burmese) and Rakhine (Arakanese),MT,SKG,,,,0.8128817220939988,tfidf
 SKG_MT_140,Paper,Unsupervised Word Translation with Adversarial Autoencoder,MT,SKG,2020.0,https://openalex.org/W3012989741,18.0,0.7474368966667143,tfidf
 SKG_MT_142,Paper,IMaT Unsupervised Text Attribute Transfer via Iterative Matching and Translation,MT,SKG,2019.0,https://openalex.org/W2970480900,47.0,0.606572426718341,tfidf
 SKG_MT_143,Paper,Beyond Error Propagation in Neural Machine Translation Characteristics of Language Also Matter,MT,SKG,2018.0,https://openalex.org/W2889606145,59.0,0.6268201555747542,tfidf
@@ -643,7 +584,6 @@ SKG_MT_200,Paper,Combining Bilingual and Comparable Corpora for Low Resource Mac
 SKG_MT_201,Paper,Incorporating Discrete Translation Lexicons into Neural Machine Translation,MT,SKG,2016.0,https://openalex.org/W2962708992,199.0,0.5976030105953851,tfidf
 SKG_MT_202,Paper,On the use of BERT for Neural Machine Translation,MT,SKG,2019.0,https://openalex.org/W2976157090,4.0,0.7881009541466383,tfidf
 SKG_MT_203,Paper,Chunk-based Decoder for Neural Machine Translation,MT,SKG,2017.0,https://openalex.org/W2740087922,18.0,0.8617739337591473,tfidf
-SKG_MT_206,Paper,Predicting and Using Target Length in Neural Machine Translation,MT,SKG,,,,0.6979766255627932,tfidf
 SKG_MT_207,Paper,FJWU participation for the WMT20 Biomedical Translation Task,MT,SKG,2020.0,https://openalex.org/W3119254911,1.0,0.5630750299604765,tfidf
 SKG_MT_208,Paper,BERT Enhanced Neural Machine Translation and Sequence Tagging Model for Chinese Grammatical Error Diagnosis,MT,SKG,2020.0,https://openalex.org/W3120329789,21.0,0.8066053868379437,tfidf
 SKG_MT_211,Paper,The JAIST Machine Translation Systems for WMT 17,MT,SKG,2017.0,https://openalex.org/W2758640316,2.0,0.6921143221617517,tfidf
@@ -699,7 +639,6 @@ SKG_MT_282,Paper,Part-of-Speech Induction in Dependency Trees for Statistical Ma
 SKG_MT_283,Paper,Translation Model Based Cross-Lingual Language Model Adaptation from Word Models to Phrase Models,MT,SKG,2012.0,https://openalex.org/W2125823897,8.0,0.7106033234111494,tfidf
 SKG_MT_286,Paper,Topic Adaptation for Lecture Translation through Bilingual Latent Semantic Models,MT,SKG,2011.0,https://openalex.org/W2149971620,17.0,0.6616131728383958,tfidf
 SKG_MT_287,Paper,Fast Consensus Hypothesis Regeneration for Machine Translation,MT,SKG,2010.0,https://openalex.org/W2154417380,0.0,0.8239585925992369,tfidf
-SKG_MT_288,Paper,Beyond BLEUTraining Neural Machine Translation with Semantic Similarity,MT,SKG,,,,0.7325799834442941,tfidf
 SKG_MT_290,Paper,Handling Ambiguities of Bilingual Predicate-Argument Structures for Statistical Machine Translation,MT,SKG,2013.0,https://openalex.org/W2143002608,10.0,0.7859996532055818,tfidf
 SKG_MT_291,Paper,Training Flexible Depth Model by Multi-Task Learning for Neural Machine Translation,MT,SKG,2020.0,https://openalex.org/W3099858430,2.0,0.6125242698927341,tfidf
 SKG_MT_292,Paper,Generic and Specialized Word Embeddings for Multi-Domain Machine Translation,MT,SKG,2019.0,https://openalex.org/W3089067043,10.0,0.6362986310819178,tfidf
@@ -742,7 +681,6 @@ SKG_MT_351,Paper,Using Target-side Monolingual Data for Neural Machine Translati
 SKG_MT_353,Paper,Online Distilling from Checkpoints for Neural Machine Translation,MT,SKG,2019.0,https://openalex.org/W2944869267,35.0,0.5533140124141273,tfidf
 SKG_MT_354,Paper,Character Mapping and Ad-hoc Adaptation Edinburgh’s IWSLT 2020 Open Domain Translation System,MT,SKG,2020.0,https://openalex.org/W3037255450,5.0,0.514297480893554,tfidf
 SKG_MT_357,Paper,The Box is in the Pen Evaluating Commonsense Reasoning in Neural Machine Translation,MT,SKG,2020.0,https://openalex.org/W3104318719,12.0,0.718049178617028,tfidf
-SKG_MT_358,Paper,Eyes Don’t Lie Predicting Machine Translation Quality Using Eye Movement,MT,SKG,,,,0.5781302354142982,tfidf
 SKG_MT_359,Paper,Exploring Consensus in Machine Translation for Quality Estimation,MT,SKG,2014.0,https://openalex.org/W2135673254,4.0,0.685045516702066,tfidf
 SKG_MT_360,Paper,LSTM Neural Reordering Feature for Statistical Machine Translation,MT,SKG,2016.0,https://openalex.org/W2185490708,16.0,0.7546788560853559,tfidf
 SKG_MT_361,Paper,Multi-task Learning for Multilingual Neural Machine Translation,MT,SKG,2020.0,https://openalex.org/W3105038888,58.0,0.7830971512002377,tfidf
@@ -810,7 +748,6 @@ SKG_MT_440,Paper,SampleRank Training for Phrase-Based Machine Translation,MT,SKG
 SKG_MT_441,Paper,On Using Very Large Target Vocabulary for Neural Machine Translation,MT,SKG,2015.0,https://openalex.org/W2100664567,867.0,0.5625870829245939,tfidf
 SKG_MT_442,Paper,The ADAPT System Description for the WMT20 News Translation Task,MT,SKG,2020.0,https://openalex.org/W3120628641,8.0,0.5208665056477786,tfidf
 SKG_MT_444,Paper,One Model to Learn Both Zero Pronoun Prediction and Translation,MT,SKG,2019.0,https://openalex.org/W2971287409,26.0,0.8700070246261215,tfidf
-SKG_MT_447,Paper,Are ACT’s Scores Increasing with Better Translation Quality,MT,SKG,,,,0.7153249539030475,tfidf
 SKG_MT_448,Paper,NICT-NAIST System for WMT17 Multimodal Translation Task,MT,SKG,2017.0,https://openalex.org/W2757877530,9.0,0.8244592275199834,tfidf
 SKG_MT_450,Paper,Mitigating Gender Bias in Machine Translation with Target Gender Annotations,MT,SKG,2020.0,https://openalex.org/W3093000437,28.0,0.8333688529826678,tfidf
 SKG_MT_451,Paper,Combining Coherence Models and Machine Translation Evaluation Metrics for Summarization Evaluation,MT,SKG,2012.0,https://openalex.org/W2152502689,27.0,0.589051173007897,tfidf
@@ -864,7 +801,6 @@ SKG_MT_517,Paper,Neural Machine Translation with Recurrent Attention Modeling,MT
 SKG_MT_519,Paper,Learning to Navigate Unseen Environments Back Translation with Environmental Dropout,MT,SKG,2019.0,https://openalex.org/W2926977875,295.0,0.628523585140091,tfidf
 SKG_MT_521,Paper,Transfer Learning for Related Languages Submissions to the WMT20 Similar Language Translation Task,MT,SKG,2020.0,https://openalex.org/W3119347320,2.0,0.6437665936818283,tfidf
 SKG_MT_522,Paper,Syntactically Supervised Transformers for Faster Neural Machine Translation,MT,SKG,2019.0,https://openalex.org/W2948197522,58.0,0.6838749681829901,tfidf
-SKG_MT_524,Paper,Improving Word Sense Disambiguation with Translations,MT,SKG,,,,0.6901889930538264,tfidf
 SKG_MT_525,Paper,Unsupervised Multimodal Neural Machine Translation with Pseudo Visual Pivoting,MT,SKG,2020.0,https://openalex.org/W3035313462,42.0,0.808534783226893,tfidf
 SKG_MT_526,Paper,Inference Strategies for Machine Translation with Conditional Masking,MT,SKG,2020.0,https://openalex.org/W3092490633,0.0,0.5349089858971225,tfidf
 SKG_MT_530,Paper,Dependency-based Automatic Enumeration of Semantically Equivalent Word Orders for Evaluating Japanese Translations,MT,SKG,2014.0,https://openalex.org/W2159919698,3.0,0.6383814215660095,semantic
@@ -897,7 +833,6 @@ SKG_MT_565,Paper,Improving On-line Handwritten Recognition using Translation Mod
 SKG_MT_566,Paper,Approaching Neural Grammatical Error Correction as a Low-Resource Machine Translation Task,MT,SKG,2018.0,https://openalex.org/W2797371199,25.0,0.5530290222895369,tfidf
 SKG_MT_567,Paper,Efficient Path Counting Transducers for Minimum Bayes-Risk Decoding of Statistical Machine Translation Lattices,MT,SKG,2010.0,https://openalex.org/W2161729680,15.0,0.5440203272359937,tfidf
 SKG_MT_568,Paper,End-to-End Offline Speech Translation System for IWSLT 2020 using Modality Agnostic Meta-Learning,MT,SKG,2020.0,https://openalex.org/W3038092046,8.0,0.6258825603490452,tfidf
-SKG_MT_569,Paper,CMU’s Machine Translation System for IWSLT 2019,MT,SKG,,,,0.7936015207800646,tfidf
 SKG_MT_570,Paper,Findings of the WMT 2019 Biomedical Translation Shared Task Evaluation for MEDLINE Abstracts and Biomedical Terminologies,MT,SKG,2019.0,https://openalex.org/W2970758702,19.0,0.6236703572609041,tfidf
 SKG_MT_572,Paper,Advancements in Reordering Models for Statistical Machine Translation,MT,SKG,2013.0,https://openalex.org/W2251048776,10.0,0.5593772999083934,tfidf
 SKG_MT_573,Paper,Character-Level Translation with Self-attention,MT,SKG,2020.0,https://openalex.org/W3034407863,25.0,0.7104601782006649,tfidf
@@ -956,7 +891,6 @@ SKG_MT_656,Paper,Multimodal Quality Estimation for Machine Translation,MT,SKG,20
 SKG_MT_658,Paper,Neural Machine Translation of Rare Words with Subword Units,MT,SKG,2016.0,https://openalex.org/W1816313093,445.0,0.637058377576675,tfidf
 SKG_MT_659,Paper,Bidirectional Generative Adversarial Networks for Neural Machine Translation,MT,SKG,2018.0,https://openalex.org/W2899427634,33.0,0.6774180404383199,tfidf
 SKG_MT_660,Paper,Maximum Entropy Translation Model in Dependency-Based MT Framework,MT,SKG,2010.0,https://openalex.org/W1896570304,20.0,0.6031592620248429,tfidf
-SKG_MT_661,Paper,tSEARCH Flexible and Fast Search over Automatic Translations for Improved QualityError Analysis,MT,SKG,,,,0.5014419333370876,tfidf
 SKG_MT_662,Paper,Freezing Subnetworks to Analyze Domain Adaptation in Neural Machine Translation,MT,SKG,2018.0,https://openalex.org/W2949920209,72.0,0.6625985332405832,tfidf
 SKG_MT_665,Paper,Modeling Source Syntax for Neural Machine Translation,MT,SKG,2017.0,https://openalex.org/W2963913268,127.0,0.7513806839439677,tfidf
 SKG_MT_668,Paper,USAAR-SHEFFIELD Semantic Textual Similarity with Deep Regression and Machine Translation Evaluation Metrics,MT,SKG,2015.0,https://openalex.org/W2104511424,9.0,0.5928229525245389,tfidf
@@ -1044,7 +978,6 @@ SKG_MT_781,Paper,Copied Monolingual Data Improves Low-Resource Neural Machine Tr
 SKG_MT_782,Paper,Re-translation versus Streaming for Simultaneous Translation,MT,SKG,2020.0,https://openalex.org/W3015423925,6.0,0.5213981601155081,tfidf
 SKG_MT_783,Paper,Meteor++ 2.0 Adopt Syntactic Level Paraphrase Knowledge into Machine Translation Evaluation,MT,SKG,2019.0,https://openalex.org/W2971036337,32.0,0.545220576701041,tfidf
 SKG_MT_784,Paper,Compressing Neural Machine Translation Models with 4-bit Precision,MT,SKG,2020.0,https://openalex.org/W3045818398,11.0,0.7542362713193882,tfidf
-SKG_MT_785,Paper,Compact and Robust Models for Japanese-English Character-level Machine Translation,MT,SKG,,,,0.501247116611817,tfidf
 SKG_MT_788,Paper,Structural and Topical Dimensions in Multi-Task Patent Translation,MT,SKG,2012.0,https://openalex.org/W43226814,15.0,0.552068625635914,tfidf
 SKG_MT_789,Paper,Improving Decoding Generalization for Tree-to-String Translation,MT,SKG,2011.0,https://openalex.org/W2149747182,2.0,0.5723855756420816,tfidf
 SKG_MT_790,Paper,Response-based Learning for Grounded Machine Translation,MT,SKG,2014.0,https://openalex.org/W2250699071,11.0,0.5513281319348533,tfidf
@@ -1111,7 +1044,6 @@ SKG_MT_875,Paper,Overcoming the Rare Word Problem for low-resource language pair
 SKG_MT_876,Paper,Domain Adaptation of Neural Machine Translation by Lexicon Induction,MT,SKG,2019.0,https://openalex.org/W2950940239,58.0,0.8621314242023369,tfidf
 SKG_MT_881,Paper,Consistent Translation using Discriminative Learning - A Translation Memory-inspired Approach,MT,SKG,2011.0,https://openalex.org/W2131969445,43.0,0.6070865074074457,tfidf
 SKG_MT_883,Paper,Machine Translation for Machines the Sentiment Classification Use Case,MT,SKG,2019.0,https://openalex.org/W2970155008,17.0,0.6848805040185959,tfidf
-SKG_MT_884,Paper,Using Spoken Word Posterior Features in Neural Machine Translation,MT,SKG,,,,0.6510429978370667,semantic
 SKG_MT_885,Paper,Using a Supertagged Dependency Language Model to Select a Good Translation in System Combination,MT,SKG,2013.0,https://openalex.org/W2250822480,3.0,0.5641338282259439,tfidf
 SKG_MT_887,Paper,Exploiting Source-side Monolingual Data in Neural Machine Translation,MT,SKG,2016.0,https://openalex.org/W2561274697,307.0,0.7324869903992004,tfidf
 SKG_MT_889,Paper,Document-Level Neural Machine Translation Using BERT as Context Encoder,MT,SKG,2020.0,https://openalex.org/W3118540863,3.0,0.7762258492590938,tfidf
@@ -1125,8 +1057,6 @@ SKG_MT_901,Paper,Automatic Cross-Lingual Similarization of Dependency Grammars f
 SKG_MT_902,Paper,Massively Multilingual Neural Machine Translation,MT,SKG,2019.0,https://openalex.org/W2919290281,403.0,0.5371131807694437,tfidf
 SKG_MT_904,Paper,Multilingual Neural Machine Translation with Language Clustering,MT,SKG,2019.0,https://openalex.org/W2970925677,108.0,0.7892505606531834,tfidf
 SKG_MT_905,Paper,Discriminative Reranking for Grammatical Error Correction with Statistical Machine Translation,MT,SKG,2016.0,https://openalex.org/W2471679455,38.0,0.6981696847888837,tfidf
-SKG_MT_906,Paper,CSPCode-Switching Pre-training for Neural Machine Translation,MT,SKG,,,,0.7691978899899827,tfidf
-SKG_MT_907,Paper,The EdinburghJHU Phrase-based Machine Translation Systems for WMT 2015,MT,SKG,,,,0.5805296775496851,tfidf
 SKG_MT_908,Paper,The Volctrans Machine Translation System for WMT20,MT,SKG,2020.0,https://openalex.org/W3097426566,0.0,0.5559182267980104,tfidf
 SKG_MT_909,Paper,Improving Neural Machine Translation with Conditional Sequence Generative Adversarial Nets,MT,SKG,2018.0,https://openalex.org/W2601324753,162.0,0.6287975320090415,tfidf
 SKG_MT_910,Paper,Sarcasm SIGN Interpreting Sarcasm with Sentiment Based Monolingual Machine Translation,MT,SKG,2017.0,https://openalex.org/W2609193491,65.0,0.6287646045579166,tfidf
@@ -1156,7 +1086,6 @@ SKG_MT_951,Paper,Zero-Resource Neural Machine Translation with Monolingual Pivot
 SKG_MT_952,Paper,Improving the Transformer Translation Model with Document-Level Context,MT,SKG,2018.0,https://openalex.org/W2962712961,257.0,0.6916943405703841,tfidf
 SKG_MT_953,Paper,Towards Linear Time Neural Machine Translation with Capsule Networks,MT,SKG,2019.0,https://openalex.org/W2899207798,8.0,0.8025865780993444,tfidf
 SKG_MT_955,Paper,Stem Translation with Affix-Based Rule Selection for Agglutinative Languages,MT,SKG,2013.0,https://openalex.org/W2251416744,1.0,0.7313759479375711,tfidf
-SKG_MT_958,Paper,LIUM’s SMT Machine Translation Systems for WMT 2012,MT,SKG,,,,0.5580230795983954,tfidf
 SKG_MT_959,Paper,Multi-Task Learning for Multiple Language Translation,MT,SKG,2015.0,https://openalex.org/W2251743902,612.0,0.5563899901713555,tfidf
 SKG_MT_960,Paper,Coverage Embedding Models for Neural Machine Translation,MT,SKG,2016.0,https://openalex.org/W2963699608,131.0,0.6205977685416105,tfidf
 SKG_MT_962,Paper,Phrase-Based Translation Model for Question Retrieval in Community Question Answer Archives,MT,SKG,2011.0,https://openalex.org/W2102394389,139.0,0.5763650770031604,tfidf
@@ -1224,7 +1153,6 @@ SKG_MT_1049,Paper,Forest-Based Neural Machine Translation,MT,SKG,2018.0,https://
 SKG_MT_1051,Paper,Multi-Unit Transformers for Neural Machine Translation,MT,SKG,2020.0,https://openalex.org/W3101668578,21.0,0.8551032181273138,tfidf
 SKG_MT_1053,Paper,Optimizing Segmentation Strategies for Simultaneous Speech Translation,MT,SKG,2014.0,https://openalex.org/W2121457870,85.0,0.683270663506292,tfidf
 SKG_MT_1054,Paper,Encoding Gated Translation Memory into Neural Machine Translation,MT,SKG,2018.0,https://openalex.org/W2891713103,54.0,0.8232307831482597,tfidf
-SKG_MT_1055,Paper,Unbabel’s Participation in the WMT17 Translation Quality Estimation Shared Task,MT,SKG,,,,0.6152823882431968,tfidf
 SKG_MT_1056,Paper,Learning to Translate in Real-time with Neural Machine Translation,MT,SKG,2017.0,https://openalex.org/W2529548870,187.0,0.5421921847129186,tfidf
 SKG_MT_1058,Paper,Learning from Chunk-based Feedback in Neural Machine Translation,MT,SKG,2018.0,https://openalex.org/W2798637166,2.0,0.7103019468609745,tfidf
 SKG_MT_1060,Paper,The IIT Bombay Hindi-English Translation System at WMT 2014,MT,SKG,2014.0,https://openalex.org/W2251507105,34.0,0.5490850810147333,tfidf
@@ -1363,7 +1291,6 @@ SKG_MT_1275,Paper,UCSMNLP Statistical Machine Translation for WAT 2019,MT,SKG,20
 SKG_MT_1276,Paper,Using Syntactic Head Information in Hierarchical Phrase-Based Translation,MT,SKG,2012.0,https://openalex.org/W1594128446,15.0,0.873172558252476,tfidf
 SKG_MT_1277,Paper,"Filtering Antonymous, Trend-Contrasting, and Polarity-Dissimilar Distributional Paraphrases for Improving Statistical Machine Translation",MT,SKG,2011.0,https://openalex.org/W2117607680,10.0,0.6435793938917873,tfidf
 SKG_MT_1278,Paper,Adaptive Multi-pass Decoder for Neural Machine Translation,MT,SKG,2018.0,https://openalex.org/W2898972706,59.0,0.8396416296424527,tfidf
-SKG_MT_1279,Paper,Tagged Back-Translation,MT,SKG,,,,0.673266335366921,tfidf
 SKG_MT_1280,Paper,Docent A Document-Level Decoder for Phrase-Based Statistical Machine Translation,MT,SKG,2013.0,https://openalex.org/W2141895568,46.0,0.5463296707685112,tfidf
 SKG_MT_1282,Paper,Modeling Syntactic and Semantic Structures in Hierarchical Phrase-based Translation,MT,SKG,2013.0,https://openalex.org/W2250974141,23.0,0.6067361278373922,tfidf
 SKG_MT_1285,Paper,Saliency-driven Word Alignment Interpretation for Neural Machine Translation,MT,SKG,2019.0,https://openalex.org/W2971296520,55.0,0.7322815880214726,tfidf
@@ -1395,7 +1322,6 @@ SKG_MT_1330,Paper,E-rating Machine Translation,MT,SKG,2011.0,https://openalex.or
 SKG_MT_1331,Paper,Learning Source Phrase Representations for Neural Machine Translation,MT,SKG,2020.0,https://openalex.org/W3035548285,18.0,0.6732601871119602,tfidf
 SKG_MT_1333,Paper,"ParFDA for Fast Deployment of Accurate Statistical Machine Translation Systems, Benchmarks, and Statistics",MT,SKG,2015.0,https://openalex.org/W2178149891,12.0,0.6441686847172441,tfidf
 SKG_MT_1334,Paper,Two-Phase Cross-Lingual Language Model Fine-Tuning for Machine Translation Quality Estimation,MT,SKG,2020.0,https://openalex.org/W3120951354,23.0,0.7972221050183705,tfidf
-SKG_MT_1340,Paper,Extended Translation Models in Phrase-based Decoding,MT,SKG,,,,0.7355328150100876,tfidf
 SKG_MT_1341,Paper,Language Model Prior for Low-Resource Neural Machine Translation,MT,SKG,2020.0,https://openalex.org/W3021357296,11.0,0.7017913731730065,tfidf
 SKG_MT_1342,Paper,Complete Multilingual Neural Machine Translation,MT,SKG,2020.0,https://openalex.org/W3094522744,2.0,0.7587318961375181,tfidf
 SKG_MT_1345,Paper,Curriculum Pre-training for End-to-End Speech Translation,MT,SKG,2020.0,https://openalex.org/W3034571331,99.0,0.7484474886880388,tfidf
@@ -1411,7 +1337,6 @@ SKG_MT_1358,Paper,Generalizing Back-Translation in Neural Machine Translation,MT
 SKG_MT_1359,Paper,The Helsinki Neural Machine Translation System,MT,SKG,2017.0,https://openalex.org/W2749861397,17.0,0.5535083713073824,tfidf
 SKG_MT_1361,Paper,Toward Statistical Machine Translation without Parallel Corpora,MT,SKG,2012.0,https://openalex.org/W38126138,70.0,0.5635657460994999,tfidf
 SKG_MT_1362,Paper,Data Rejuvenation Exploiting Inactive Training Examples for Neural Machine Translation,MT,SKG,2020.0,https://openalex.org/W3105848458,18.0,0.8575245786312852,tfidf
-SKG_MT_1363,Paper,Localizing Open-Ontology QA Semantic Parsers in a Day Using Machine Translation,MT,SKG,,,,0.5860099454147207,tfidf
 SKG_MT_1366,Paper,What do Neural Machine Translation Models Learn about Morphology,MT,SKG,2017.0,https://openalex.org/W2605717780,276.0,0.6814070388484234,tfidf
 SKG_MT_1367,Paper,Using Distributional Similarity of Multi-way Translations to Predict Multiword Expression Compositionality,MT,SKG,2014.0,https://openalex.org/W2251195978,63.0,0.5528801370178708,tfidf
 SKG_MT_1368,Paper,The University of Helsinki Submission to the IWSLT2020 Offline SpeechTranslation Task,MT,SKG,2020.0,https://openalex.org/W3037277288,1.0,0.5715573970637858,tfidf
@@ -1424,12 +1349,10 @@ SKG_MT_1375,Paper,LIUM SMT Machine Translation System for WMT 2010,MT,SKG,2010.0
 SKG_MT_1376,Paper,The Karlsruhe Institute of Technology Translation Systems for the WMT 2012,MT,SKG,2012.0,https://openalex.org/W2160922317,8.0,0.6801117578863409,tfidf
 SKG_MT_1380,Paper,LeBLEU N-gram-based Translation Evaluation Score for Morphologically Complex Languages,MT,SKG,2015.0,https://openalex.org/W2250214155,14.0,0.5721593279334559,tfidf
 SKG_MT_1382,Paper,Non-Autoregressive Machine Translation with Latent Alignments,MT,SKG,2020.0,https://openalex.org/W3016440711,6.0,0.6685208488674765,tfidf
-SKG_MT_1383,Paper,"Machine Translation, it’s a question of style, innit The case of English tag questions",MT,SKG,,,,0.5329591274296277,tfidf
 SKG_MT_1384,Paper,Facilitating Translation Using Source Language Paraphrase Lattices,MT,SKG,2010.0,https://openalex.org/W2162507901,30.0,0.7144695422363189,tfidf
 SKG_MT_1386,Paper,Phrase Training Based Adaptation for Statistical Machine Translation,MT,SKG,2013.0,https://openalex.org/W2129659804,11.0,0.9067390875956086,tfidf
 SKG_MT_1387,Paper,Effective Domain Mixing for Neural Machine Translation,MT,SKG,2017.0,https://openalex.org/W2760452458,109.0,0.5820254171424304,tfidf
 SKG_MT_1389,Paper,Machine Translation With Weakly Paired Documents,MT,SKG,2019.0,https://openalex.org/W2970310632,9.0,0.6637521609385089,tfidf
-SKG_MT_1390,Paper,The LIGA (LIGLIA) Machine Translation System for WMT 2011,MT,SKG,,,,0.5861149247763551,tfidf
 SKG_MT_1391,Paper,Transformer-based Double-token Bidirectional Autoregressive Decoding in Neural Machine Translation,MT,SKG,2020.0,https://openalex.org/W3116857254,1.0,0.6060660794646935,tfidf
 SKG_MT_1393,Paper,Tencent AI Lab Machine Translation Systems for the WMT20 Biomedical Translation Task,MT,SKG,2020.0,https://openalex.org/W3118680649,4.0,0.5894053869828594,tfidf
 SKG_MT_1394,Paper,Evaluating Machine Translations Using mNCD,MT,SKG,2010.0,https://openalex.org/W2168275463,2.0,0.8666545324559287,tfidf
@@ -1502,8 +1425,6 @@ SKG_PAR_6,Paper,Pushing the Limits of AMR Parsing with Self-Learning,PAR,SKG,202
 SKG_PAR_7,Paper,LSTM Shift-Reduce CCG Parsing,PAR,SKG,2016.0,https://openalex.org/W2563900099,20.0,0.6633897746132105,tfidf
 SKG_PAR_8,Paper,Improving Compositional Generalization in Semantic Parsing,PAR,SKG,2020.0,https://openalex.org/W3092967498,2.0,0.672647112110213,tfidf
 SKG_PAR_9,Paper,UofR at SemEval-2016 Task 8 Learning Synchronous Hyperedge Replacement Grammar for AMR Parsing,PAR,SKG,2016.0,https://openalex.org/W2471321543,14.0,0.5615385045895029,tfidf
-SKG_PAR_10,Paper,The SLT-Interactions Parsing System at the CoNLL 2018 Shared Task,PAR,SKG,,,,0.6747144100568963,tfidf
-SKG_PAR_11,Paper,Conversational Semantic Parsing,PAR,SKG,,,,0.6569064674083805,tfidf
 SKG_PAR_13,Paper,Cross-Lingual Dependency Parsing by POS-Guided Word Reordering,PAR,SKG,2020.0,https://openalex.org/W3098717671,4.0,0.7098365027209101,tfidf
 SKG_PAR_14,Paper,Evaluating Dependency Parsing Robust and Heuristics-Free Cross-Annotation Evaluation,PAR,SKG,2011.0,https://openalex.org/W2151651070,28.0,0.6705708503723145,semantic
 SKG_PAR_16,Paper,Rethinking Self-Attention Towards Interpretability in Neural Parsing,PAR,SKG,2020.0,https://openalex.org/W3021530909,8.0,0.5261638948251314,tfidf
@@ -1572,7 +1493,6 @@ SKG_PAR_115,Paper,Neural Semantic Parsing over Multiple Knowledge-bases,PAR,SKG,
 SKG_PAR_116,Paper,Joint Dependency Parsing and Multiword Expression Tokenization,PAR,SKG,2015.0,https://openalex.org/W2250424110,29.0,0.5946620009178056,tfidf
 SKG_PAR_117,Paper,Multitask Parsing Across Semantic Representations,PAR,SKG,2018.0,https://openalex.org/W2798896439,4.0,0.541058524240442,tfidf
 SKG_PAR_118,Paper,Beyond Sentential Semantic Parsing Tackling the Math SAT with a Cascade of Tree Transducers,PAR,SKG,2017.0,https://openalex.org/W2759098637,11.0,0.5356261836385862,tfidf
-SKG_PAR_119,Paper,A Morphology-Based Representation Model for LSTM-Based Dependency Parsing of Agglutinative Languages,PAR,SKG,,,,0.633707272598236,tfidf
 SKG_PAR_122,Paper,CRF Autoencoder for Unsupervised Dependency Parsing,PAR,SKG,2017.0,https://openalex.org/W2744831323,30.0,0.5068360805299271,tfidf
 SKG_PAR_124,Paper,Neural CRF Parsing,PAR,SKG,2015.0,https://openalex.org/W2963808856,94.0,0.5338332305316109,tfidf
 SKG_PAR_125,Paper,Creating POS Tagging and Dependency Parsing Experts via Topic Modeling,PAR,SKG,2017.0,https://openalex.org/W2740935829,7.0,0.8326598599992288,tfidf
@@ -1591,7 +1511,6 @@ SKG_PAR_151,Paper,StructVAE Tree-structured Latent Variable Models for Semi-supe
 SKG_PAR_152,Paper,An Improved Neural Network Model for Joint POS Tagging and Dependency Parsing,PAR,SKG,2018.0,https://openalex.org/W2845344333,20.0,0.6218460863452501,tfidf
 SKG_PAR_155,Paper,Cross-Lingual Abstract Meaning Representation Parsing,PAR,SKG,2018.0,https://openalex.org/W2606900862,66.0,0.585451183051503,tfidf
 SKG_PAR_156,Paper,Delexicalized Word Embeddings for Cross-lingual Dependency Parsing,PAR,SKG,2017.0,https://openalex.org/W2742104566,8.0,0.5912326754067024,tfidf
-SKG_PAR_158,Paper,ELMoLex Connecting ELMo and Lexicon Features for Dependency Parsing,PAR,SKG,,,,0.6711080843173756,tfidf
 SKG_PAR_161,Paper,Multilingual Universal Dependency Parsing from Raw Text with Low-Resource Language Enhancement,PAR,SKG,2018.0,https://openalex.org/W2953551685,7.0,0.5205387490631194,tfidf
 SKG_PAR_162,Paper,Equation Parsing  Mapping Sentences to Grounded Equations,PAR,SKG,2016.0,https://openalex.org/W2963537774,33.0,0.6712101101875305,semantic
 SKG_PAR_163,Paper,An Instance Level Approach for Shallow Semantic Parsing in Scientific Procedural Text,PAR,SKG,2020.0,https://openalex.org/W3104921559,3.0,0.6129858995059001,tfidf
@@ -1602,7 +1521,6 @@ SKG_PAR_174,Paper,Dependency Parsing with your Eyes Dependency Structure Predict
 SKG_PAR_175,Paper,Using Left-corner Parsing to Encode Universal Structural Constraints in Grammar Induction,PAR,SKG,2016.0,https://openalex.org/W2563157576,40.0,0.5556010379912268,tfidf
 SKG_PAR_176,Paper,A System for Multilingual Dependency Parsing based on Bidirectional LSTM Feature Representations,PAR,SKG,2017.0,https://openalex.org/W2740675022,9.0,0.6752142980206074,tfidf
 SKG_PAR_177,Paper,Improving Neural Parsing by Disentangling Model Combination and Reranking Effects,PAR,SKG,2017.0,https://openalex.org/W2963462075,33.0,0.8393378879877958,tfidf
-SKG_PAR_178,Paper,Parsing as Language Modeling,PAR,SKG,,,,0.6378489625710728,tfidf
 SKG_PAR_180,Paper,Parsing Universal Dependencies without training,PAR,SKG,2017.0,https://openalex.org/W2585328772,6.0,0.642525708642516,tfidf
 SKG_PAR_182,Paper,Improving Semantic Parsing via Answer Type Inference,PAR,SKG,2016.0,https://openalex.org/W2561148973,61.0,0.5343853944211747,tfidf
 SKG_PAR_183,Paper,A Two-Stage Parsing Method for Text-Level Discourse Analysis,PAR,SKG,2017.0,https://openalex.org/W2741164290,106.0,0.5107641069860039,tfidf
@@ -1682,7 +1600,6 @@ NOVEL_QA_64,Paper,Learning to Ask Conversational Questions by Optimizing Levensh
 NOVEL_QA_65,Paper,Modeling Transitions of Focal Entities for Conversational Knowledge Base Question Answering,QA,NOVEL,2021.0,https://openalex.org/W3175855363,18.0,0.6805428315643764,tfidf
 NOVEL_QA_66,Paper,Iterative GNN-based Decoder for Question Generation,QA,NOVEL,2021.0,https://openalex.org/W3212063449,1.0,0.6930009387444805,tfidf
 NOVEL_QA_67,Paper,Single-dataset Experts for Multi-dataset Question Answering,QA,NOVEL,2021.0,https://openalex.org/W3204669968,18.0,0.6813108667665912,tfidf
-NOVEL_QA_68,Paper,Check It AgainProgressive Visual Question Answering via Visual Entailment,QA,NOVEL,,,,0.7035178905799065,tfidf
 NOVEL_QA_69,Paper,A Semantic-based Method for Unsupervised Commonsense Question Answering,QA,NOVEL,2021.0,https://openalex.org/W3176454275,10.0,0.6762686051864752,tfidf
 NOVEL_QA_70,Paper,Guiding the Growth Difficulty-Controllable Question Generation through Step-by-Step Rewriting,QA,NOVEL,2021.0,https://openalex.org/W3176765152,33.0,0.6389232747396676,tfidf
 NOVEL_QA_72,Paper,PASTE A Tagging-Free Decoding Framework Using Pointer Networks for Aspect Sentiment Triplet Extraction,QA,NOVEL,2021.0,https://openalex.org/W3207431201,51.0,0.5590305207587637,tfidf
@@ -1781,7 +1698,6 @@ SKG_QA_142,Paper,A Question Type Driven and Copy Loss Enhanced Frameworkfor Answ
 SKG_QA_144,Paper,MUTANT A Training Paradigm for Out-of-Distribution Generalization in Visual Question Answering,QA,SKG,2020.0,https://openalex.org/W3104788521,134.0,0.6952709948168416,tfidf
 SKG_QA_145,Paper,Recovering Question Answering Errors via Query Revision,QA,SKG,2017.0,https://openalex.org/W2758826377,9.0,0.5375105759017608,tfidf
 SKG_QA_147,Paper,Multi-Task Learning for Conversational Question Answering over a Large-Scale Knowledge Base,QA,SKG,2019.0,https://openalex.org/W2970723181,91.0,0.6976907122097306,tfidf
-SKG_QA_150,Paper,Generating Question-Answer Hierarchies,QA,SKG,,,,0.5448177322991989,tfidf
 SKG_QA_153,Paper,Multi-Hop Paragraph Retrieval for Open-Domain Question Answering,QA,SKG,2019.0,https://openalex.org/W2952484617,94.0,0.5703726868179323,tfidf
 SKG_QA_154,Paper,Aligned Dual Channel Graph Convolutional Network for Visual Question Answering,QA,SKG,2020.0,https://openalex.org/W3034787499,78.0,0.6933496723663425,tfidf
 SKG_QA_155,Paper,Learning Continuous Word Embedding with Metadata for Question Retrieval in Community Question Answering,QA,SKG,2015.0,https://openalex.org/W2252143362,178.0,0.6016194427403588,tfidf
@@ -1789,7 +1705,6 @@ SKG_QA_157,Paper,Ways of Asking and Replying in Duplicate Question Detection,QA,
 SKG_QA_160,Paper,Simple Question Answering with Subgraph Ranking and Joint-Scoring,QA,SKG,2019.0,https://openalex.org/W2934025569,20.0,0.5239383796354571,tfidf
 SKG_QA_163,Paper,ClarQ A large-scale and diverse dataset for Clarification Question Generation,QA,SKG,2020.0,https://openalex.org/W3034209796,32.0,0.6074626252402546,tfidf
 SKG_QA_166,Paper,A Nil-Aware Answer Extraction Framework for Question Answering,QA,SKG,2018.0,https://openalex.org/W2892060537,24.0,0.8897039173548489,tfidf
-SKG_QA_167,Paper,Evaluating Question Answering Evaluation,QA,SKG,,,,0.6878167931397305,tfidf
 SKG_QA_168,Paper,A Long Short-Term Memory Model for Answer Sentence Selection in Question Answering,QA,SKG,2015.0,https://openalex.org/W2251202616,372.0,0.6509719939089711,tfidf
 SKG_QA_169,Paper,Transliteration Better than Translation Answering Code-mixed Questions over a Knowledge Base,QA,SKG,2018.0,https://openalex.org/W2887966409,13.0,0.7249242127164378,tfidf
 SKG_QA_171,Paper,More Bang for Your Buck Natural Perturbation for Robust Question Answering,QA,SKG,2020.0,https://openalex.org/W3092399494,2.0,0.5196712571009613,tfidf
@@ -1804,7 +1719,6 @@ SKG_QA_182,Paper,Multimodal Compact Bilinear Pooling for Visual Question Answeri
 SKG_QA_184,Paper,Interactive Classification by Asking Informative Questions,QA,SKG,2020.0,https://openalex.org/W3034860004,13.0,0.5958098001049421,tfidf
 SKG_QA_186,Paper,Multi-Task Learning with Language Modeling for Question Generation,QA,SKG,2019.0,https://openalex.org/W2970705401,29.0,0.5170208512605381,tfidf
 SKG_QA_187,Paper,Reversing Gradients in Adversarial Domain Adaptation for Question Deduplication and Textual Entailment Tasks,QA,SKG,2019.0,https://openalex.org/W2950561955,17.0,0.6409889857082403,tfidf
-SKG_QA_189,Paper,Taking the best from the CrowdLearning Question Passage Classification from Noisy Data,QA,SKG,,,,0.5614797024121584,tfidf
 SKG_QA_190,Paper,Multi-source Meta Transfer for Low Resource Multiple-Choice Question Answering,QA,SKG,2020.0,https://openalex.org/W3035094063,21.0,0.7523799966362826,tfidf
 SKG_QA_191,Paper,FEQA A Question Answering Evaluation Framework for Faithfulness Assessment in Abstractive Summarization,QA,SKG,2020.0,https://openalex.org/W3022685184,85.0,0.7155222131359694,tfidf
 SKG_QA_193,Paper,PAL A Chatterbot System for Answering Domain-specific Questions,QA,SKG,2013.0,https://openalex.org/W2251096302,13.0,0.543009911903925,tfidf
@@ -1859,7 +1773,6 @@ SKG_QA_269,Paper,HITSZ-ICRC Exploiting Classification Approach for Answer Select
 SKG_QA_271,Paper,Adversarial Domain Adaptation for Duplicate Question Detection,QA,SKG,2018.0,https://openalex.org/W2892202790,67.0,0.6571290715806705,tfidf
 SKG_QA_272,Paper,Gated Self-Matching Networks for Reading Comprehension and Question Answering,QA,SKG,2017.0,https://openalex.org/W2740747242,720.0,0.7321067939694506,tfidf
 SKG_QA_275,Paper,Leveraging Frequent Query Substructures to Generate Formal Queries for Complex Question Answering,QA,SKG,2019.0,https://openalex.org/W2970293467,46.0,0.6582165028025,tfidf
-SKG_QA_276,Paper,Sequential Attention with Keyword Mask Model for Community-based Question Answering,QA,SKG,,,,0.6275339423514624,tfidf
 SKG_QA_277,Paper,Improved Neural Relation Detection for Knowledge Base Question Answering,QA,SKG,2017.0,https://openalex.org/W2963655104,302.0,0.6697192912754112,tfidf
 SKG_QA_279,Paper,Fluent Response Generation for Conversational Question Answering,QA,SKG,2020.0,https://openalex.org/W3026805444,4.0,0.6792483687493337,tfidf
 SKG_QA_280,Paper,Review-based Question Generation with Adaptive Instance Transfer and Augmentation,QA,SKG,2020.0,https://openalex.org/W3034818681,12.0,0.6579490965795138,tfidf
@@ -1878,7 +1791,6 @@ SKG_QA_299,Paper,Memory Graph Networks for Explainable Memory-grounded Question 
 SKG_QA_300,Paper,"Infusing Disease Knowledge into BERT for Health Question Answering, Medical Inference and Disease Name Recognition",QA,SKG,2020.0,https://openalex.org/W3105892552,99.0,0.7896386242515226,tfidf
 SKG_QA_301,Paper,"X-LXMERT Paint, Caption and Answer Questions with Multi-Modal Transformers",QA,SKG,2020.0,https://openalex.org/W3104152799,79.0,0.7932410391210389,tfidf
 SKG_QA_302,Paper,Learning to Grade Short Answer Questions using Semantic Similarity Measures and Dependency Graph Alignments,QA,SKG,2011.0,https://openalex.org/W2133436118,248.0,0.5123214140523878,tfidf
-SKG_QA_305,Paper,FreebaseQA A New Factoid QA Data Set Matching Trivia-Style Question-Answer Pairs with Freebase,QA,SKG,,,,0.5346218174142842,tfidf
 SKG_QA_306,Paper,BAG Bi-directional Attention Entity Graph Convolutional Network for Multi-hop Reasoning Question Answering,QA,SKG,2019.0,https://openalex.org/W2939930244,46.0,0.7278746063550983,tfidf
 SKG_QA_307,Paper,Efficient One-Pass End-to-End Entity Linking for Questions,QA,SKG,2020.0,https://openalex.org/W3092594007,4.0,0.7569485214850692,tfidf
 SKG_QA_310,Paper,Ranking and Sampling in Open-Domain Question Answering,QA,SKG,2019.0,https://openalex.org/W2970748580,7.0,0.5168218131730549,tfidf
@@ -1915,7 +1827,6 @@ SKG_QA_351,Paper,Bridging Anaphora Resolution as Question Answering,QA,SKG,2020.
 SKG_QA_352,Paper,Detecting Semantically Equivalent Questions in Online User Forums,QA,SKG,2015.0,https://openalex.org/W2251558607,74.0,0.553436565993828,tfidf
 SKG_QA_353,Paper,Commonsense for Generative Multi-Hop Question Answering Tasks,QA,SKG,2018.0,https://openalex.org/W2892280852,164.0,0.72468755861184,tfidf
 SKG_QA_354,Paper,Retrieve and Re-rank A Simple and Effective IR Approach to Simple Question Answering over Knowledge Graphs,QA,SKG,2018.0,https://openalex.org/W2955797286,12.0,0.5648412601718539,tfidf
-SKG_QA_355,Paper,Is It Dish Washer Safe Automatically Answering “YesNo” Questions Using Customer Reviews,QA,SKG,,,,0.6346051698834201,tfidf
 SKG_QA_356,Paper,Deep Questions without Deep Understanding,QA,SKG,2015.0,https://openalex.org/W2250425483,141.0,0.6700354814529419,semantic
 SKG_QA_359,Paper,Generating Question Relevant Captions to Aid Visual Question Answering,QA,SKG,2019.0,https://openalex.org/W2947380532,49.0,0.7594382145749465,tfidf
 SKG_QA_360,Paper,QuASE Question-Answer Driven Sentence Encoding,QA,SKG,2020.0,https://openalex.org/W3035556416,32.0,0.8524460092230114,tfidf
@@ -1966,7 +1877,6 @@ SKG_QA_413,Paper,Self-Supervised Knowledge Triplet Learning for Zero-Shot Questi
 SKG_QA_415,Paper,Being Negative but Constructively Lessons Learnt from Creating Better Visual Question Answering Datasets,QA,SKG,2018.0,https://openalex.org/W2964306924,35.0,0.7113001528278489,tfidf
 SKG_QA_416,Paper,Optimizing Question Answering Accuracy by Maximizing Log-Likelihood,QA,SKG,2010.0,https://openalex.org/W2119635338,2.0,0.6452699599572113,tfidf
 SKG_QA_417,Paper,Towards Effective Tutorial Feedback for Explanation Questions A Dataset and Baselines,QA,SKG,2012.0,https://openalex.org/W2200480317,66.0,0.5762577543932897,tfidf
-SKG_QA_418,Paper,End-to-End Open-Domain Question Answering with BERTserini,QA,SKG,,,,0.5262897437320967,tfidf
 SKG_QA_419,Paper,Machine Translation Evaluation Meets Community Question Answering,QA,SKG,2016.0,https://openalex.org/W2512273476,30.0,0.7203352213403119,tfidf
 SKG_QA_421,Paper,Learning to Answer Questions from Wikipedia Infoboxes,QA,SKG,2016.0,https://openalex.org/W2565851445,17.0,0.5659475408631057,tfidf
 SKG_QA_422,Paper,Connecting the Dots A Knowledgeable Path Generator for Commonsense Question Answering,QA,SKG,2020.0,https://openalex.org/W3101850416,65.0,0.789196701001781,tfidf
@@ -2005,7 +1915,6 @@ SKG_QA_481,Paper,Question Answering by Reasoning Across Documents with Graph Con
 SKG_QA_482,Paper,Neural Arabic Question Answering,QA,SKG,2019.0,https://openalex.org/W2949771292,14.0,0.8059916491167484,tfidf
 SKG_QA_483,Paper,Supervised and Unsupervised Transfer Learning for Question Answering,QA,SKG,2018.0,https://openalex.org/W2962925243,87.0,0.7927784432963514,tfidf
 SKG_QA_484,Paper,Curio SmartChat  A system for Natural Language Question Answering for Self-Paced K-12 Learning,QA,SKG,2019.0,https://openalex.org/W2970211043,11.0,0.695971667766571,semantic
-SKG_QA_485,Paper,Dense Passage Retrieval for Open-Domain Question Answering,QA,SKG,,,,0.6322035323184929,tfidf
 SKG_QA_486,Paper,What’s The Latest A Question-driven News Chatbot,QA,SKG,2020.0,https://openalex.org/W3037038305,25.0,0.5746940828872329,tfidf
 SKG_QA_487,Paper,Automatically Mining Question Reformulation Patterns from Search Log Data,QA,SKG,2012.0,https://openalex.org/W2143409774,5.0,0.7712999976479578,tfidf
 SKG_QA_489,Paper,Repurposing Entailment for Multi-Hop Question Answering Tasks,QA,SKG,2019.0,https://openalex.org/W2939380783,43.0,0.6757932885443472,tfidf
@@ -2052,7 +1961,6 @@ NOVEL_SA_43,Paper,On the Transferability of Minimal Prediction Preserving Inputs
 NOVEL_SA_44,Paper,The Effect of Round-Trip Translation on Fairness in Sentiment Analysis,SA,NOVEL,2021.0,https://openalex.org/W3211399536,3.0,0.8393880796407805,tfidf
 NOVEL_SA_45,Paper,SPARTQA A Textual Question Answering Benchmark for Spatial Reasoning,SA,NOVEL,2021.0,https://openalex.org/W3153839026,39.0,0.6914364469326718,tfidf
 NOVEL_SA_46,Paper,If You Want to Go Far Go Together Unsupervised Joint Candidate Evidence Retrieval for Multi-hop Question Answering,SA,NOVEL,2021.0,https://openalex.org/W3166080117,7.0,0.8412159878357609,tfidf
-NOVEL_SA_47,Paper,Answering Product-Questions by Utilizing Questions from Other Contextually Similar Products,SA,NOVEL,,,,0.5452771677804954,tfidf
 NOVEL_SA_48,Paper,Dual Graph Convolutional Networks for Aspect-based Sentiment Analysis,SA,NOVEL,2021.0,https://openalex.org/W3176719207,336.0,0.7504718647998856,tfidf
 NOVEL_SA_49,Paper,Multimodal Sentiment Detection Based on Multi-channel Graph Neural Networks,SA,NOVEL,2021.0,https://openalex.org/W3174517569,113.0,0.7121107873614141,tfidf
 NOVEL_SA_50,Paper,Breadth First Reasoning Graph for Multi-hop Question Answering,SA,NOVEL,2021.0,https://openalex.org/W3172164603,19.0,0.6580488756525877,tfidf
@@ -2117,7 +2025,6 @@ SKG_SA_81,Paper,NITS-Hinglish-SentiMix at SemEval-2020 Task 9 Sentiment Analysis
 SKG_SA_83,Paper,CityU-DAC Disambiguating Sentiment-Ambiguous Adjectives within Context,SA,SKG,2010.0,https://openalex.org/W1902416522,8.0,0.6269063708345801,tfidf
 SKG_SA_84,Paper,Improving Aspect-based Sentiment Analysis with Gated Graph Convolutional Networks and Syntax-based Regulation,SA,SKG,2020.0,https://openalex.org/W3093711314,14.0,0.688333651013215,tfidf
 SKG_SA_85,Paper,A Hierarchical Model of Reviews for Aspect-based Sentiment Analysis,SA,SKG,2016.0,https://openalex.org/W2518806256,49.0,0.5666444514475258,tfidf
-SKG_SA_86,Paper,MI&T Lab at SemEval-2017 task 4 An Integrated Training Method of Word Vector for Sentiment Classification,SA,SKG,,,,0.7120447158813477,semantic
 SKG_SA_87,Paper,SemEval-2020 Task 9 Overview of Sentiment Analysis of Code-Mixed Tweets,SA,SKG,2020.0,https://openalex.org/W3115081393,150.0,0.5084845798230173,tfidf
 SKG_SA_89,Paper,INSIGHT-1 at SemEval-2016 Task 5 Deep Learning for Multilingual Aspect-based Sentiment Analysis,SA,SKG,2016.0,https://openalex.org/W2472400477,8.0,0.6271364264146118,tfidf
 SKG_SA_90,Paper,THU_NGN at SemEval-2018 Task 1 Fine-grained Tweet Sentiment Intensity Analysis with Attention CNN-LSTM,SA,SKG,2018.0,https://openalex.org/W2805737268,8.0,0.6790754534453147,tfidf
@@ -2247,7 +2154,6 @@ SKG_SA_326,Paper,Attentive Gated Lexicon Reader with Contrastive Contextual Co-A
 SKG_SA_327,Paper,Cold-Start Aware User and Product Attention for Sentiment Classification,SA,SKG,2018.0,https://openalex.org/W2962902802,38.0,0.8272290049519347,tfidf
 SKG_SA_328,Paper,Combining Sentiment Lexica with a Multi-View Variational Autoencoder,SA,SKG,2019.0,https://openalex.org/W2925723586,5.0,0.6962831096124551,tfidf
 SKG_SA_331,Paper,RiTUAL-UH at SemEval-2017 Task 5 Sentiment Analysis on Financial Data Using Neural Networks,SA,SKG,2017.0,https://openalex.org/W2753112478,25.0,0.5386253148733074,tfidf
-SKG_SA_333,Paper,MI&T Lab at SemEval-2017 task 4 An Integrated Training Method of Word Vector for Sentiment Classification,SA,SKG,,,,0.6033476569845837,tfidf
 SKG_SA_334,Paper,Learning Bilingual Sentiment Word Embeddings for Cross-language Sentiment Classification,SA,SKG,2015.0,https://openalex.org/W2252153787,115.0,0.6548491808514204,tfidf
 SKG_SA_337,Paper,Domain-Invariant Feature Distillation for Cross-Domain Sentiment Classification,SA,SKG,2019.0,https://openalex.org/W2970692876,21.0,0.6900802937702325,tfidf
 SKG_SA_339,Paper,Senti.ue Tweet Overall Sentiment Classification Approach for SemEval-2014 Task 9,SA,SKG,2014.0,https://openalex.org/W2252074687,4.0,0.5442742204521269,tfidf
@@ -2311,7 +2217,6 @@ SKG_SA_445,Paper,Reducing Sentiment Bias in Language Models via Counterfactual E
 SKG_SA_446,Paper,Subversive Toxicity Detection using Sentiment Information,SA,SKG,2019.0,https://openalex.org/W2973125940,30.0,0.5571547994025252,tfidf
 SKG_SA_447,Paper,"A Joint Model for Semantic Sequences Frames, Entities, Sentiments",SA,SKG,2017.0,https://openalex.org/W2739992537,17.0,0.7564091751718639,tfidf
 SKG_SA_449,Paper,Multi-Domain Sentiment Relevance Classification with Automatic Representation Learning,SA,SKG,2014.0,https://openalex.org/W2252230900,2.0,0.8435634978584903,tfidf
-SKG_SA_451,Paper,Detecting Chronic Critics Based on Sentiment Polarity and User’s Behavior in Social Media,SA,SKG,,,,0.6491260985486835,tfidf
 SKG_SA_453,Paper,SentiRec Sentiment Diversity-aware Neural News Recommendation,SA,SKG,2020.0,https://openalex.org/W3117150731,38.0,0.9109115934910064,tfidf
 SKG_SA_455,Paper,Aspect-Level Sentiment Analysis Via Convolution over Dependency Tree,SA,SKG,2019.0,https://openalex.org/W2970748008,414.0,0.8833412934121957,tfidf
 SKG_SA_458,Paper,Neural Networks for Integrating Compositional and Non-compositional Sentiment in Sentiment Composition,SA,SKG,2015.0,https://openalex.org/W2170657549,11.0,0.5231938874301953,tfidf
@@ -2417,7 +2322,6 @@ SKG_SA_633,Paper,SSA-UO Unsupervised Sentiment Analysis in Twitter,SA,SKG,2013.0
 SKG_SA_634,Paper,Dimensional Sentiment Analysis Using a Regional CNN-LSTM Model,SA,SKG,2016.0,https://openalex.org/W2514588627,583.0,0.7768180493224334,tfidf
 SKG_SA_636,Paper,Super Characters A Conversion from Sentiment Classification to Image Classification,SA,SKG,2018.0,https://openalex.org/W2896631555,34.0,0.6286849701677979,tfidf
 NOVEL_SUM_3,Paper,Sliding Selector Network with Dynamic Memory for Extractive Summarization of Long Documents,SUM,NOVEL,2021.0,https://openalex.org/W3172540065,26.0,0.6249910236479723,tfidf
-NOVEL_SUM_4,Paper,Decision-Focused Summarization,SUM,NOVEL,,,,0.6886950527112731,tfidf
 NOVEL_SUM_6,Paper,Enriching Transformers with Structured Tensor-Product Representations for Abstractive Summarization,SUM,NOVEL,2021.0,https://openalex.org/W3168784392,10.0,0.7482622769071674,tfidf
 NOVEL_SUM_7,Paper,Improving Unsupervised Question Answering via Summarization-Informed Question Generation,SUM,NOVEL,2021.0,https://openalex.org/W3201266133,33.0,0.664152762159548,tfidf
 NOVEL_SUM_8,Paper,Generating SOAP Notes from Doctor-Patient Conversations Using Modular Summarization Techniques,SUM,NOVEL,2021.0,https://openalex.org/W3170702395,5.0,0.7125615517277949,tfidf
@@ -2456,12 +2360,10 @@ NOVEL_SUM_52,Paper,AUTOSUMM Automatic Model Creation for Text Summarization,SUM,
 NOVEL_SUM_53,Paper,A Training-free and Reference-free Summarization Evaluation Metric via Centrality-weighted Relevance and Self-referenced Redundancy,SUM,NOVEL,2021.0,https://openalex.org/W3177140869,15.0,0.5874043392581773,tfidf
 NOVEL_SUM_54,Paper,MediaSum A Large-scale Media Interview Dataset for Dialogue Summarization,SUM,NOVEL,2021.0,https://openalex.org/W3169942382,85.0,0.6090434255119506,tfidf
 NOVEL_SUM_56,Paper,Demoting the Lead Bias in News Summarization via Alternating Adversarial Learning,SUM,NOVEL,2021.0,https://openalex.org/W3173886731,11.0,0.5611221658983951,tfidf
-NOVEL_SUM_57,Paper,Aspect-Controllable Opinion Summarization,SUM,NOVEL,,,,0.6730083436148416,tfidf
 NOVEL_SUM_58,Paper,Self-Supervised Multimodal Opinion Summarization,SUM,NOVEL,2021.0,https://openalex.org/W3176675602,24.0,0.6864621027057932,tfidf
 NOVEL_SUM_59,Paper,Attention Head Masking for Inference Time Content Selection in Abstractive Summarization,SUM,NOVEL,2021.0,https://openalex.org/W3169934147,9.0,0.811303461933289,tfidf
 NOVEL_SUM_60,Paper,BASS Boosting Abstractive Summarization with Unified Semantic Graph,SUM,NOVEL,2021.0,https://openalex.org/W3176659426,33.0,0.8234858005788018,tfidf
 NOVEL_SUM_61,Paper,RefSum Refactoring Neural Summarization,SUM,NOVEL,2021.0,https://openalex.org/W3170658419,35.0,0.8402823104148751,tfidf
-NOVEL_SUM_63,Paper,SgSumTransforming Multi-document Summarization into Sub-graph Selection,SUM,NOVEL,,,,0.8138438120874725,tfidf
 NOVEL_SUM_64,Paper,Noisy Self-Knowledge Distillation for Text Summarization,SUM,NOVEL,2021.0,https://openalex.org/W3172762059,26.0,0.6863392548152385,tfidf
 NOVEL_SUM_66,Paper,Learn to Copy from the Copying History Correlational Copy Network for Abstractive Summarization,SUM,NOVEL,2021.0,https://openalex.org/W3211383439,11.0,0.7187745593898026,tfidf
 NOVEL_SUM_67,Paper,Unsupervised Extractive Summarization-Based Representations for Accurate and Explainable Collaborative Filtering,SUM,NOVEL,2021.0,https://openalex.org/W3175889193,19.0,0.6235709078396545,tfidf
@@ -2620,7 +2522,6 @@ SKG_SUM_206,Paper,Discrete Optimization for Unsupervised Sentence Summarization 
 SKG_SUM_207,Paper,Global Optimization under Length Constraint for Neural Text Summarization,SUM,SKG,2019.0,https://openalex.org/W2953313262,42.0,0.7522465730597803,tfidf
 SKG_SUM_209,Paper,Pre-training for Abstractive Document Summarization by Reinstating Source Text,SUM,SKG,2020.0,https://openalex.org/W3098493824,42.0,0.5448140555390731,tfidf
 SKG_SUM_210,Paper,Neural Extractive Text Summarization with Syntactic Compression,SUM,SKG,2019.0,https://openalex.org/W2970830889,152.0,0.674614153168077,tfidf
-SKG_SUM_211,Paper,A Novel System for Extractive Clinical Note Summarization using EHR Data,SUM,SKG,,,,0.5900731549142783,tfidf
 SKG_SUM_213,Paper,Answers Unite! Unsupervised Metrics for Reinforced Summarization Models,SUM,SKG,2019.0,https://openalex.org/W2970892365,123.0,0.6502721221714769,tfidf
 SKG_SUM_215,Paper,A Cascade Approach to Neural Abstractive Summarization with Content Selection and Fusion,SUM,SKG,2020.0,https://openalex.org/W3113840640,7.0,0.5319022767933865,tfidf
 SKG_SUM_217,Paper,MUSEEC A Multilingual Text Summarization Tool,SUM,SKG,2016.0,https://openalex.org/W2512972416,24.0,0.7012726601930716,tfidf
