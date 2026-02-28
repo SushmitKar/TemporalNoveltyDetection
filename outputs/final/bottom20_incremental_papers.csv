@@ -1,0 +1,21 @@
+paper_id,title,split,domain,year,composite_novelty,structural_novelty,semantic_knn,triple_count
+SKG_MT_263,"Selecting, Planning, and Rewriting A Modular Approach for Data-to-Document Generation and Translation",SKG,MT,2019,0.1658461718642888,0.7077922077922078,0.5704745054244995,154
+NOVEL_MT_188,Findings of the WMT 2021 Biomedical Translation Shared Task Summaries of Animal Experiments as New Test Set,NOVEL,MT,2025,0.2375780252738873,0.7105263157894737,0.615858793258667,76
+SKG_MT_550,Continuous Space Translation Models with Neural Networks,SKG,MT,2012,0.3982728266021346,0.8837209302325582,0.6738219261169434,86
+SKG_DIA_166,Sequicity Simplifying Task-oriented Dialogue Systems with Single Sequence-to-Sequence Architectures,SKG,DIA,2018,0.4339326153579767,0.7708333333333334,0.7023890614509583,144
+SKG_PAR_35,On WordNet Semantic Classes and Dependency Parsing,SKG,PAR,2014,0.4607022870846234,0.868421052631579,0.7344380617141724,114
+SKG_SA_357,An Interactive Multi-Task Learning Network for End-to-End Aspect-Based Sentiment Analysis,SKG,SA,2019,0.5173775320803058,0.7242990654205608,0.7609573602676392,214
+SKG_MT_1346,Composing Relationships with Translations,SKG,MT,2015,0.5239192891884806,0.8416666666666667,0.7576358914375305,120
+SKG_MT_1118,Continuous Adaptation to User Feedback for Statistical Machine Translation,SKG,MT,2015,0.5358627110365933,0.875,0.7844511270523071,32
+SKG_MT_1175,Character-Level Machine Translation Evaluation for Languages with Ambiguous Word Boundaries,SKG,MT,2012,0.5400137181432483,0.9166666666666666,0.7752321362495422,12
+SKG_QA_219,Community Answer Summarization for Multi-Sentence Question with Group L1 Regularization,SKG,QA,2012,0.5446701795583753,0.9016393442622952,0.7752321362495422,61
+SKG_SUM_97,Community Answer Summarization for Multi-Sentence Question with Group L1 Regularization,SKG,SUM,2012,0.5446701795583753,0.9016393442622952,0.7752321362495422,61
+SKG_MT_1293,SHEF-NN Translation Quality Estimation with Neural Networks,SKG,MT,2015,0.5550628406458349,0.823170731707317,0.7900733351707458,164
+SKG_PAR_174,Dependency Parsing with your Eyes Dependency Structure Predicts Eye Regressions During Reading,SKG,PAR,2019,0.5568731128571327,0.6666666666666666,0.8107572793960571,42
+SKG_MT_389,N-gram-based Tense Models for Statistical Machine Translation,SKG,MT,2012,0.5879574014482983,0.8333333333333334,0.806627094745636,6
+SKG_QA_458,Semantic Graphs for Generating Deep Questions,SKG,QA,2020,0.5889273114348579,0.7470355731225297,0.8105308413505554,253
+SKG_SUM_126,The Feasibility of Embedding Based Automatic Evaluation for Single Document Summarization,SKG,SUM,2019,0.5921153502071009,0.0,0.9111997485160828,31
+SKG_PAR_156,Delexicalized Word Embeddings for Cross-lingual Dependency Parsing,SKG,PAR,2017,0.6010031965085404,0.8192771084337349,0.8238086700439453,83
+SKG_MT_1132,TESLA at WMT 2011 Translation Evaluation and Tunable Metric,SKG,MT,2011,0.6468490475362002,0.8636363636363636,0.8417947888374329,22
+SKG_MT_1111,TESLA at WMT 2011 Translation Evaluation and Tunable Metric,SKG,MT,2011,0.6484807491662702,0.8717948717948718,0.8417947888374329,39
+SKG_SA_553,Utilizing BERT for Aspect-Based Sentiment Analysis via Constructing Auxiliary Sentence,SKG,SA,2019,0.6541524199583761,0.0,0.9321542978286744,134
