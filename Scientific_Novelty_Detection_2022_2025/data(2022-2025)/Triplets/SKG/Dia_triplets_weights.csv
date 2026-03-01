@@ -7,7 +7,7 @@ Dia,W4384071683,4,auto,Here,",",to address these,"Here , to address these",0.654
 Dia,W4384071683,5,auto,We,propose,a human evaluation,We propose a human evaluation,0.64648163,2023
 Dia,W4384071683,6,auto,In,addition,", we evaluate","In addition , we evaluate",0.59313905,2023
 Dia,W4384071683,7,auto,Using,a,combination of prompting,Using a combination of prompting,0.64466554,2023
-Dia,W4384071683,8,auto,assive,Multitask,Language Understanding (,assive Multitask Language Understanding (,0.7315862,2023
+Dia,W4384071683,8,auto,passive,Multitask,Language Understanding (,passive Multitask Language Understanding (,0.7315862,2023
 Dia,W4384071683,9,auto,However,",",human evaluation reveals,"However , human evaluation reveals",0.6063443,2023
 Dia,W4384071683,10,auto,To,resolve,"this , we","To resolve this , we",0.6489463,2023
 Dia,W4384071683,11,auto,The,resulting,"model , Med","The resulting model , Med",0.722427,2023
@@ -43,7 +43,7 @@ Dia,W4384071683,41,auto,Our,evaluation,assesses answers for,Our evaluation asses
 Dia,W4384071683,42,auto,The,second,key contribution is,The second key contribution is,0.65280116,2023
 Dia,W4384071683,43,auto,Specifically,",",we reach 67.6,"Specifically , we reach 67.6",0.6209397,2023
 Dia,W4384071683,44,auto,The,next,contribution is the,The next contribution is the,0.6868027,2023
-Dia,W4384071683,45,auto,We,leverage,this techniq,We leverage this techniq,0.7262689,2023
+Dia,W4384071683,45,auto,We,leverage,this technique,We leverage this technique,0.7262689,2023
 Dia,W4384071683,46,auto,ue,to,build Med -,ue to build Med -,0.75425035,2023
 Dia,W4384071683,47,auto,It,is,caused by a,It is caused by a,0.7285283,2023
 Dia,W4384071683,48,auto,Bilirubin,is,a byproduct of,Bilirubin is a byproduct of,0.5884681,2023
@@ -67,7 +67,7 @@ Dia,W4384071683,65,auto,In,particular,", on the","In particular , on the",0.7432
 Dia,W4384071683,66,auto,Extended,Data,Fig. 2 20,Extended Data Fig. 2 20,0.524661,2023
 Dia,W4384071683,67,auto,We,performed,several ablations on,We performed several ablations on,0.30827233,2023
 Dia,W4384071683,68,auto,Instruction,tuning,improves performance Across,Instruction tuning improves performance Across,0.7574546,2023
-Dia,W4384071683,69,auto,odel,sizes,", we observed","odel sizes , we observed",0.6840128,2023
+Dia,W4384071683,69,auto,model,sizes,", we observed","model sizes , we observed",0.6840128,2023
 Dia,W4384071683,70,auto,The,models,were few -,The models were few -,0.7125619,2023
 Dia,W4384071683,71,auto,The,detailed,results are summarized,The detailed results are summarized,0.7425793,2023
 Dia,W4384071683,72,auto,Med,-,PaLM ( instruction,Med - PaLM ( instruction,0.66981286,2023
@@ -105,7 +105,6 @@ Dia,W4384071683,103,auto,a-f,",",Clinicians were asked,"a-f , Clinicians were as
 Dia,W4384071683,104,auto,We,compare,answers from Flan,We compare answers from Flan,0.70853317,2023
 Dia,W4384071683,105,auto,Across,all,"axes , answers","Across all axes , answers",0.6661984,2023
 Dia,W4384071683,106,auto,Med,-,PaLM answers were,Med - PaLM answers were,0.69090337,2023
-Dia,W4384071683,107,auto,ourably,with,answers from clinicians,ourably with answers from clinicians,0.6354809,2023
 Dia,W4384071683,108,auto,The,evaluation,involves 140 questions,The evaluation involves 140 questions,0.7687394,2023
 Dia,W4384071683,109,auto,We,used,the non-parametric bootstrap,We used the non-parametric bootstrap,0.63120824,2023
 Dia,W4384071683,110,auto,We,used,the 95 %,We used the 95 %,0.64300126,2023
