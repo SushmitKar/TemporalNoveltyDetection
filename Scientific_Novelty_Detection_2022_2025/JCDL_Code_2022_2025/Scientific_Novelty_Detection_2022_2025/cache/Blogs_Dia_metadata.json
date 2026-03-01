@@ -1,0 +1,722 @@
+[
+  {
+    "id": "https://openalex.org/W4309674289",
+    "title": "Survey of Hallucination in Natural Language Generation",
+    "year": 2022,
+    "pdf_url": null
+  },
+  {
+    "id": "https://openalex.org/W4224436908",
+    "title": "Microbiota in health and diseases",
+    "year": 2022,
+    "pdf_url": "https://www.nature.com/articles/s41392-022-00974-4.pdf"
+  },
+  {
+    "id": "https://openalex.org/W4384918448",
+    "title": "Llama 2: Open Foundation and Fine-Tuned Chat Models",
+    "year": 2023,
+    "pdf_url": "https://arxiv.org/pdf/2307.09288"
+  },
+  {
+    "id": "https://openalex.org/W1994546180",
+    "title": "Giving an Account of Oneself",
+    "year": 2025,
+    "pdf_url": null
+  },
+  {
+    "id": "https://openalex.org/W4366420437",
+    "title": "What Is the Impact of ChatGPT on Education? A Rapid Review of the Literature",
+    "year": 2023,
+    "pdf_url": "https://www.mdpi.com/2227-7102/13/4/410/pdf?version=1681825504"
+  },
+  {
+    "id": "https://openalex.org/W4386142022",
+    "title": "Interpreting Black-Box Models: A Review on Explainable Artificial Intelligence",
+    "year": 2023,
+    "pdf_url": "https://link.springer.com/content/pdf/10.1007/s12559-023-10179-8.pdf"
+  },
+  {
+    "id": "https://openalex.org/W4368367885",
+    "title": "ChatGPT in medicine: an overview of its applications, advantages, limitations, future prospects, and ethical considerations",
+    "year": 2023,
+    "pdf_url": "https://www.frontiersin.org/articles/10.3389/frai.2023.1169595/pdf"
+  },
+  {
+    "id": "https://openalex.org/W4283156085",
+    "title": "Autophagy, ferroptosis, pyroptosis, and necroptosis in tumor immunotherapy",
+    "year": 2022,
+    "pdf_url": "https://www.nature.com/articles/s41392-022-01046-3.pdf"
+  },
+  {
+    "id": "https://openalex.org/W4387500346",
+    "title": "The future landscape of large language models in medicine",
+    "year": 2023,
+    "pdf_url": "https://www.nature.com/articles/s43856-023-00370-1.pdf"
+  },
+  {
+    "id": "https://openalex.org/W4210916416",
+    "title": "Tackling Climate Change with Machine Learning",
+    "year": 2022,
+    "pdf_url": null
+  },
+  {
+    "id": "https://openalex.org/W4399790131",
+    "title": "The effects of over-reliance on AI dialogue systems on students' cognitive abilities: a systematic review",
+    "year": 2024,
+    "pdf_url": "https://slejournal.springeropen.com/counter/pdf/10.1186/s40561-024-00316-7"
+  },
+  {
+    "id": "https://openalex.org/W4211106541",
+    "title": "The prevalence of loneliness across 113 countries: systematic review and meta-analysis",
+    "year": 2022,
+    "pdf_url": "https://www.bmj.com/content/bmj/376/bmj-2021-067068.full.pdf"
+  },
+  {
+    "id": "https://openalex.org/W4284991798",
+    "title": "Interacting with educational chatbots: A systematic review",
+    "year": 2022,
+    "pdf_url": "https://link.springer.com/content/pdf/10.1007/s10639-022-11177-3.pdf"
+  },
+  {
+    "id": "https://openalex.org/W4378574344",
+    "title": "ChatGPT and Open-AI Models: A Preliminary Review",
+    "year": 2023,
+    "pdf_url": "https://www.mdpi.com/1999-5903/15/6/192/pdf?version=1685089354"
+  },
+  {
+    "id": "https://openalex.org/W4317811195",
+    "title": "Cognitive impairment in schizophrenia: aetiology, pathophysiology, and treatment",
+    "year": 2023,
+    "pdf_url": "https://www.nature.com/articles/s41380-023-01949-9.pdf"
+  },
+  {
+    "id": "https://openalex.org/W4391855109",
+    "title": "A Review on Large Language Models: Architectures, Applications, Taxonomies, Open Issues and Challenges",
+    "year": 2024,
+    "pdf_url": "https://ieeexplore.ieee.org/ielx7/6287639/6514899/10433480.pdf"
+  },
+  {
+    "id": "https://openalex.org/W4367182956",
+    "title": "Mechanisms of Oxidative Stress in Metabolic Syndrome",
+    "year": 2023,
+    "pdf_url": "https://www.mdpi.com/1422-0067/24/9/7898/pdf?version=1682562173"
+  },
+  {
+    "id": "https://openalex.org/W4308995574",
+    "title": "Pathophysiology, diagnosis, and management of endometriosis",
+    "year": 2022,
+    "pdf_url": "https://www.bmj.com/content/bmj/379/bmj-2022-070750.full.pdf"
+  },
+  {
+    "id": "https://openalex.org/W4321748146",
+    "title": "Artificial Intelligence\u2013Based Chatbots for Promoting Health Behavioral Changes: Systematic Review",
+    "year": 2023,
+    "pdf_url": "https://www.jmir.org/2023/1/e40789/PDF"
+  },
+  {
+    "id": "https://openalex.org/W4210493947",
+    "title": "Hippocampus and its involvement in Alzheimer\u2019s disease: a review",
+    "year": 2022,
+    "pdf_url": "https://link.springer.com/content/pdf/10.1007/s13205-022-03123-4.pdf"
+  },
+  {
+    "id": "https://openalex.org/W4385416665",
+    "title": "The Power of Generative AI: A Review of Requirements, Models, Input\u2013Output Formats, Evaluation Metrics, and Challenges",
+    "year": 2023,
+    "pdf_url": "https://www.mdpi.com/1999-5903/15/8/260/pdf?version=1690812126"
+  },
+  {
+    "id": "https://openalex.org/W4304202992",
+    "title": "The metaverse in education: Definition, framework, features, potential applications, challenges, and future research topics",
+    "year": 2022,
+    "pdf_url": "https://www.frontiersin.org/articles/10.3389/fpsyg.2022.1016300/pdf"
+  },
+  {
+    "id": "https://openalex.org/W4386961654",
+    "title": "Exploring the Full Potentials of IoT for Better Financial Growth and Stability: A Comprehensive Survey",
+    "year": 2023,
+    "pdf_url": "https://www.mdpi.com/1424-8220/23/19/8015/pdf?version=1695349202"
+  },
+  {
+    "id": "https://openalex.org/W4384823096",
+    "title": "Recent Advances in Potential Health Benefits of Quercetin",
+    "year": 2023,
+    "pdf_url": "https://www.mdpi.com/1424-8247/16/7/1020/pdf?version=1689687188"
+  },
+  {
+    "id": "https://openalex.org/W3122241445",
+    "title": "What Makes Good In-Context Examples for GPT-3?",
+    "year": 2022,
+    "pdf_url": "https://aclanthology.org/2022.deelio-1.10.pdf"
+  },
+  {
+    "id": "https://openalex.org/W4294292920",
+    "title": "Infodemics and health misinformation: a systematic review of reviews",
+    "year": 2022,
+    "pdf_url": "https://doi.org/10.2471/blt.21.287654"
+  },
+  {
+    "id": "https://openalex.org/W4394828356",
+    "title": "GPT (Generative Pre-Trained Transformer)\u2014 A Comprehensive Review on Enabling Technologies, Potential Applications, Emerging Challenges, and Future Directions",
+    "year": 2024,
+    "pdf_url": "https://ieeexplore.ieee.org/ielx7/6287639/6514899/10500411.pdf"
+  },
+  {
+    "id": "https://openalex.org/W4385564466",
+    "title": "Fairness of artificial intelligence in healthcare: review and recommendations",
+    "year": 2023,
+    "pdf_url": "https://link.springer.com/content/pdf/10.1007/s11604-023-01474-3.pdf"
+  },
+  {
+    "id": "https://openalex.org/W4321153003",
+    "title": "A Review of ChatGPT AI's Impact on Several Business Sectors",
+    "year": 2023,
+    "pdf_url": "https://doi.org/10.5281/zenodo.7644359"
+  },
+  {
+    "id": "https://openalex.org/W4213219820",
+    "title": "A systematic review of gut microbiota composition in observational studies of major depressive disorder, bipolar disorder and schizophrenia",
+    "year": 2022,
+    "pdf_url": "https://www.nature.com/articles/s41380-022-01456-3.pdf"
+  },
+  {
+    "id": "https://openalex.org/W4382280288",
+    "title": "Virtual Reality in Education: A Review of Learning Theories, Approaches and Methodologies for the Last Decade",
+    "year": 2023,
+    "pdf_url": "https://www.mdpi.com/2079-9292/12/13/2832/pdf?version=1687843901"
+  },
+  {
+    "id": "https://openalex.org/W4390829176",
+    "title": "Balancing Privacy and Progress: A Review of Privacy Challenges, Systemic Oversight, and Patient Perceptions in AI-Driven Healthcare",
+    "year": 2024,
+    "pdf_url": "https://www.mdpi.com/2076-3417/14/2/675/pdf?version=1705396255"
+  },
+  {
+    "id": "https://openalex.org/W4302293782",
+    "title": "Molecular pathways of major depressive disorder converge on the synapse",
+    "year": 2022,
+    "pdf_url": "https://www.nature.com/articles/s41380-022-01806-1.pdf"
+  },
+  {
+    "id": "https://openalex.org/W4375949262",
+    "title": "A Categorical Archive of ChatGPT Failures",
+    "year": 2023,
+    "pdf_url": "https://www.researchsquare.com/article/rs-2895792/latest.pdf"
+  },
+  {
+    "id": "https://openalex.org/W3092541244",
+    "title": "Fairness in Machine Learning: A Survey",
+    "year": 2023,
+    "pdf_url": "https://dl.acm.org/doi/pdf/10.1145/3616865"
+  },
+  {
+    "id": "https://openalex.org/W4313294616",
+    "title": "Comparing scientific abstracts generated by ChatGPT to original abstracts using an artificial intelligence output detector, plagiarism detector, and blinded human reviewers",
+    "year": 2022,
+    "pdf_url": "https://www.biorxiv.org/content/biorxiv/early/2022/12/27/2022.12.23.521610.full.pdf"
+  },
+  {
+    "id": "https://openalex.org/W4317434526",
+    "title": "Subsurface carbon dioxide and hydrogen storage for a sustainable energy future",
+    "year": 2023,
+    "pdf_url": "https://repository.ubn.ru.nl//bitstream/handle/2066/288852/288852.pdf"
+  },
+  {
+    "id": "https://openalex.org/W4223610593",
+    "title": "Natural language processing applied to mental illness detection: a narrative review",
+    "year": 2022,
+    "pdf_url": "https://www.nature.com/articles/s41746-022-00589-7.pdf"
+  },
+  {
+    "id": "https://openalex.org/W4319986684",
+    "title": "Outlook of Fiscal Relations among Government Levels in Latin America and the Caribbean",
+    "year": 2023,
+    "pdf_url": "https://publications.iadb.org/publications/english/document/Outlook-of-Fiscal-Relations-among-Government-Levels-in-Latin-America-and-the-Caribbean.pdf"
+  },
+  {
+    "id": "https://openalex.org/W4280489028",
+    "title": "Racism in healthcare: a scoping review",
+    "year": 2022,
+    "pdf_url": "https://bmcpublichealth.biomedcentral.com/track/pdf/10.1186/s12889-022-13122-y"
+  },
+  {
+    "id": "https://openalex.org/W4386223224",
+    "title": "Artificial intelligence in intelligent tutoring systems toward sustainable education: a systematic review",
+    "year": 2023,
+    "pdf_url": "https://slejournal.springeropen.com/counter/pdf/10.1186/s40561-023-00260-y"
+  },
+  {
+    "id": "https://openalex.org/W4283801824",
+    "title": "Shifting machine learning for healthcare from development to deployment and from models to data",
+    "year": 2022,
+    "pdf_url": "https://www.nature.com/articles/s41551-022-00898-y.pdf"
+  },
+  {
+    "id": "https://openalex.org/W4318671267",
+    "title": "Nonhuman \u201cAuthors\u201d and Implications for the Integrity of Scientific Publication and Medical Knowledge",
+    "year": 2023,
+    "pdf_url": "https://jamanetwork.com/journals/jama/articlepdf/2801170/jama_flanagin_2023_ed_230004_1676659370.84192.pdf"
+  },
+  {
+    "id": "https://openalex.org/W2148437670",
+    "title": "Proceedings of the 61st Annual Meeting of the Association for Computational Linguistics (Volume 1: Long Papers)",
+    "year": 2023,
+    "pdf_url": null
+  },
+  {
+    "id": "https://openalex.org/W4296774058",
+    "title": "Current understanding of osteoarthritis pathogenesis and relevant new approaches",
+    "year": 2022,
+    "pdf_url": "https://www.nature.com/articles/s41413-022-00226-9.pdf"
+  },
+  {
+    "id": "https://openalex.org/W4389519153",
+    "title": "Findings of the Association for Computational Linguistics: EMNLP 2023",
+    "year": 2023,
+    "pdf_url": "https://aclanthology.org/2023.findings-emnlp.0.pdf"
+  },
+  {
+    "id": "https://openalex.org/W4205343758",
+    "title": "Ketogenic diet for human diseases: the underlying mechanisms and potential for clinical implementations",
+    "year": 2022,
+    "pdf_url": "https://www.nature.com/articles/s41392-021-00831-w.pdf"
+  },
+  {
+    "id": "https://openalex.org/W4392851477",
+    "title": "Generative AI in healthcare: an implementation science informed translational path on application, integration and governance",
+    "year": 2024,
+    "pdf_url": "https://implementationscience.biomedcentral.com/counter/pdf/10.1186/s13012-024-01357-9"
+  },
+  {
+    "id": "https://openalex.org/W4307870433",
+    "title": "Targeting the tumor stroma for cancer therapy",
+    "year": 2022,
+    "pdf_url": "https://molecular-cancer.biomedcentral.com/counter/pdf/10.1186/s12943-022-01670-1"
+  },
+  {
+    "id": "https://openalex.org/W4383737134",
+    "title": "A Survey on Large Language Models: Applications, Challenges, Limitations, and Practical Usage",
+    "year": 2023,
+    "pdf_url": "https://www.techrxiv.org/doi/pdf/10.36227/techrxiv.23589741.v1"
+  },
+  {
+    "id": "https://openalex.org/W4296692877",
+    "title": "The effects of social isolation stress and discrimination on mental health",
+    "year": 2022,
+    "pdf_url": "https://www.nature.com/articles/s41398-022-02178-4.pdf"
+  },
+  {
+    "id": "https://openalex.org/W4389934892",
+    "title": "Systematic review and meta-analysis of AI-based conversational agents for promoting mental health and well-being",
+    "year": 2023,
+    "pdf_url": "https://www.nature.com/articles/s41746-023-00979-5.pdf"
+  },
+  {
+    "id": "https://openalex.org/W4285091711",
+    "title": "Gut firmicutes: Relationship with dietary fiber and role in host homeostasis",
+    "year": 2022,
+    "pdf_url": null
+  },
+  {
+    "id": "https://openalex.org/W4388488609",
+    "title": "Role play with large language models",
+    "year": 2023,
+    "pdf_url": "https://www.nature.com/articles/s41586-023-06647-8.pdf"
+  },
+  {
+    "id": "https://openalex.org/W4390608362",
+    "title": "Transformative Potential of AI in Healthcare: Definitions, Applications, and Navigating the Ethical Landscape and Public Perspectives",
+    "year": 2024,
+    "pdf_url": "https://www.mdpi.com/2227-9032/12/2/125/pdf?version=1704440667"
+  },
+  {
+    "id": "https://openalex.org/W4284704782",
+    "title": "The use of co-production, co-design and co-creation to mobilise knowledge in the management of health conditions: a systematic review",
+    "year": 2022,
+    "pdf_url": "https://bmchealthservres.biomedcentral.com/counter/pdf/10.1186/s12913-022-08079-y"
+  },
+  {
+    "id": "https://openalex.org/W4395049384",
+    "title": "Additive Manufacturing: A Comprehensive Review",
+    "year": 2024,
+    "pdf_url": "https://www.mdpi.com/1424-8220/24/9/2668/pdf?version=1713871303"
+  },
+  {
+    "id": "https://openalex.org/W643335905",
+    "title": "2 The Commentary on Aristotle\u2019s Nicomachean Ethics",
+    "year": 2022,
+    "pdf_url": "https://www.degruyter.com/document/doi/10.1515/9783110643060-002/pdf"
+  },
+  {
+    "id": "https://openalex.org/W4317435136",
+    "title": "ChatGPT: evolution or revolution?",
+    "year": 2023,
+    "pdf_url": "https://link.springer.com/content/pdf/10.1007/s11019-023-10136-0.pdf"
+  },
+  {
+    "id": "https://openalex.org/W4380487091",
+    "title": "From the 'Digital Divide' to 'Digital Inequality': Studying Internet Use as Penetration Increases",
+    "year": 2023,
+    "pdf_url": "https://osf.io/rhqmu/download"
+  },
+  {
+    "id": "https://openalex.org/W4318612697",
+    "title": "Impact of Artificial Intelligence on Dental Education: A Review and Guide for Curriculum Update",
+    "year": 2023,
+    "pdf_url": "https://www.mdpi.com/2227-7102/13/2/150/pdf?version=1675840149"
+  },
+  {
+    "id": "https://openalex.org/W4220845119",
+    "title": "The Lancet Nigeria Commission: investing in health and the future of the nation",
+    "year": 2022,
+    "pdf_url": "http://www.thelancet.com/article/S0140673621024880/pdf"
+  },
+  {
+    "id": "https://openalex.org/W4206213217",
+    "title": "Immune targets for therapeutic development in depression: towards precision medicine",
+    "year": 2022,
+    "pdf_url": "https://www.nature.com/articles/s41573-021-00368-1.pdf"
+  },
+  {
+    "id": "https://openalex.org/W3217367937",
+    "title": "Building community resilience in a context of climate change: The role of social capital",
+    "year": 2022,
+    "pdf_url": "https://link.springer.com/content/pdf/10.1007/s13280-021-01678-9.pdf"
+  },
+  {
+    "id": "https://openalex.org/W4318191041",
+    "title": "Phytoremediation technologies and their mechanism for removal of heavy metal from contaminated soil: An approach for a sustainable environment",
+    "year": 2023,
+    "pdf_url": "https://www.frontiersin.org/articles/10.3389/fpls.2023.1076876/pdf"
+  },
+  {
+    "id": "https://openalex.org/W4210507373",
+    "title": "A systematic review on trends in using Moodle for teaching and learning",
+    "year": 2022,
+    "pdf_url": "https://stemeducationjournal.springeropen.com/track/pdf/10.1186/s40594-021-00323-x"
+  },
+  {
+    "id": "https://openalex.org/W4392769984",
+    "title": "A scoping review of artificial intelligence in medical education: BEME Guide No. 84",
+    "year": 2024,
+    "pdf_url": "https://www.tandfonline.com/doi/pdf/10.1080/0142159X.2024.2314198?needAccess=true"
+  },
+  {
+    "id": "https://openalex.org/W4282918638",
+    "title": "Social media and attitudes towards a COVID-19 vaccination: A systematic review of the literature",
+    "year": 2022,
+    "pdf_url": "http://www.thelancet.com/article/S2589537022001845/pdf"
+  },
+  {
+    "id": "https://openalex.org/W4213292645",
+    "title": "Cyber risk and cybersecurity: a systematic review of data availability",
+    "year": 2022,
+    "pdf_url": "https://link.springer.com/content/pdf/10.1057/s41288-022-00266-6.pdf"
+  },
+  {
+    "id": "https://openalex.org/W4293760954",
+    "title": "Lipopolysaccharide-Induced Model of Neuroinflammation: Mechanisms of Action, Research Application and Future Directions for Its Use",
+    "year": 2022,
+    "pdf_url": "https://www.mdpi.com/1420-3049/27/17/5481/pdf?version=1661512940"
+  },
+  {
+    "id": "https://openalex.org/W4388735708",
+    "title": "Emissions Gap Report 2023: Broken Record \u2013 Temperatures hit new highs, yet world fails to cut emissions (again)",
+    "year": 2023,
+    "pdf_url": "https://wedocs.unep.org/xmlui/bitstream/20.500.11822/43922/3/EGR2023.pdf"
+  },
+  {
+    "id": "https://openalex.org/W4362667967",
+    "title": "A Basic Review on Estrogen Receptor Signaling Pathways in Breast Cancer",
+    "year": 2023,
+    "pdf_url": "https://www.mdpi.com/1422-0067/24/7/6834/pdf?version=1680774447"
+  },
+  {
+    "id": "https://openalex.org/W4307968550",
+    "title": "Artificial intelligence and machine learning in cancer imaging",
+    "year": 2022,
+    "pdf_url": "https://www.nature.com/articles/s43856-022-00199-0.pdf"
+  },
+  {
+    "id": "https://openalex.org/W4220697706",
+    "title": "Current state of knowledge on the prevalence of neurodevelopmental disorders in childhood according to the DSM-5: a systematic review in accordance with the PRISMA criteria",
+    "year": 2022,
+    "pdf_url": "https://capmh.biomedcentral.com/track/pdf/10.1186/s13034-022-00462-1"
+  },
+  {
+    "id": "https://openalex.org/W4381251484",
+    "title": "Signalling cognition: the gut microbiota and hypothalamic-pituitary-adrenal axis",
+    "year": 2023,
+    "pdf_url": "https://www.frontiersin.org/articles/10.3389/fendo.2023.1130689/pdf"
+  },
+  {
+    "id": "https://openalex.org/W4320491888",
+    "title": "Oxidative Stress in Depression: The Link with the Stress Response, Neuroinflammation, Serotonin, Neurogenesis and Synaptic Plasticity",
+    "year": 2023,
+    "pdf_url": "https://www.mdpi.com/2076-3921/12/2/470/pdf?version=1676339371"
+  },
+  {
+    "id": "https://openalex.org/W4353015365",
+    "title": "Large language models and the perils of their hallucinations",
+    "year": 2023,
+    "pdf_url": "https://ccforum.biomedcentral.com/counter/pdf/10.1186/s13054-023-04393-x"
+  },
+  {
+    "id": "https://openalex.org/W4319318680",
+    "title": "A critical evaluation, challenges, and future perspectives of using artificial intelligence and emerging technologies in smart classrooms",
+    "year": 2023,
+    "pdf_url": "https://slejournal.springeropen.com/counter/pdf/10.1186/s40561-023-00231-3"
+  },
+  {
+    "id": "https://openalex.org/W4207021789",
+    "title": "Strategies for the implementation of clinical practice guidelines in public health: an overview of systematic reviews",
+    "year": 2022,
+    "pdf_url": "https://health-policy-systems.biomedcentral.com/counter/pdf/10.1186/s12961-022-00815-4"
+  },
+  {
+    "id": "https://openalex.org/W4310388968",
+    "title": "Role of Phenylpropanoids and Flavonoids in Plant Resistance to Pests and Diseases",
+    "year": 2022,
+    "pdf_url": "https://www.mdpi.com/1420-3049/27/23/8371/pdf?version=1669964970"
+  },
+  {
+    "id": "https://openalex.org/W4280565855",
+    "title": "Neuroinflammatory Markers: Key Indicators in the Pathology of Neurodegenerative Diseases",
+    "year": 2022,
+    "pdf_url": "https://www.mdpi.com/1420-3049/27/10/3194/pdf?version=1652776503"
+  },
+  {
+    "id": "https://openalex.org/W4313299691",
+    "title": "Gene\u2013environment interactions and their impact on human health",
+    "year": 2022,
+    "pdf_url": "https://www.nature.com/articles/s41435-022-00192-6.pdf"
+  },
+  {
+    "id": "https://openalex.org/W4381989081",
+    "title": "Machine Learning and AI in Cancer Prognosis, Prediction, and Treatment Selection: A Critical Approach",
+    "year": 2023,
+    "pdf_url": "https://www.dovepress.com/getfile.php?fileID=90716"
+  },
+  {
+    "id": "https://openalex.org/W4378771755",
+    "title": "Direct Preference Optimization: Your Language Model is Secretly a Reward Model",
+    "year": 2023,
+    "pdf_url": "https://arxiv.org/pdf/2305.18290"
+  },
+  {
+    "id": "https://openalex.org/W4214878371",
+    "title": "Wicked Problems in Public Policy",
+    "year": 2022,
+    "pdf_url": "https://link.springer.com/content/pdf/10.1007/978-3-030-94580-0.pdf"
+  },
+  {
+    "id": "https://openalex.org/W4319341091",
+    "title": "Evaluating ChatGPT as an Adjunct for Radiologic Decision-Making",
+    "year": 2023,
+    "pdf_url": "https://www.medrxiv.org/content/medrxiv/early/2023/02/07/2023.02.02.23285399.full.pdf"
+  },
+  {
+    "id": "https://openalex.org/W4308433048",
+    "title": "A systematic review of worldwide causal and correlational evidence on digital media and democracy",
+    "year": 2022,
+    "pdf_url": "https://www.nature.com/articles/s41562-022-01460-1.pdf"
+  },
+  {
+    "id": "https://openalex.org/W4205456778",
+    "title": "HLF regulates ferroptosis, development and chemoresistance of triple-negative breast cancer by activating tumor cell-macrophage crosstalk",
+    "year": 2022,
+    "pdf_url": "https://jhoonline.biomedcentral.com/counter/pdf/10.1186/s13045-021-01223-x"
+  },
+  {
+    "id": "https://openalex.org/W4386261125",
+    "title": "Artificial intelligence (AI) technology in OpenAI ChatGPT application: A review of ChatGPT in writing English essay",
+    "year": 2023,
+    "pdf_url": "https://journal.unnes.ac.id/sju/index.php/elt/article/download/64069/24008"
+  },
+  {
+    "id": "https://openalex.org/W4313313935",
+    "title": "Engineering Education in the Era of ChatGPT: Promise and Pitfalls of Generative AI for Education",
+    "year": 2022,
+    "pdf_url": "https://www.techrxiv.org/articles/preprint/Engineering_Education_in_the_Era_of_ChatGPT_Promise_and_Pitfalls_of_Generative_AI_for_Education/21789434/1/files/38676764.pdf"
+  },
+  {
+    "id": "https://openalex.org/W4319301633",
+    "title": "ChatGPT: friend or foe?",
+    "year": 2023,
+    "pdf_url": "http://www.thelancet.com/article/S2589750023000237/pdf"
+  },
+  {
+    "id": "https://openalex.org/W4316041216",
+    "title": "How Chat GPT Can Transform Autodidactic Experiences and Open Education?",
+    "year": 2023,
+    "pdf_url": "https://osf.io/9ge8m/download"
+  },
+  {
+    "id": "https://openalex.org/W4213172203",
+    "title": "Preeclampsia and eclampsia: the conceptual evolution of a syndrome",
+    "year": 2022,
+    "pdf_url": "http://www.ajog.org/article/S0002937821026399/pdf"
+  },
+  {
+    "id": "https://openalex.org/W4307940505",
+    "title": "Skin Barrier Function and the Microbiome",
+    "year": 2022,
+    "pdf_url": "https://www.mdpi.com/1422-0067/23/21/13071/pdf?version=1666938348"
+  },
+  {
+    "id": "https://openalex.org/W4220782264",
+    "title": "Microbiota medicine: towards clinical revolution",
+    "year": 2022,
+    "pdf_url": "https://translational-medicine.biomedcentral.com/track/pdf/10.1186/s12967-022-03296-9"
+  },
+  {
+    "id": "https://openalex.org/W2891228377",
+    "title": "Advances in APPLIED MICROBIOLOGY",
+    "year": 2023,
+    "pdf_url": null
+  },
+  {
+    "id": "https://openalex.org/W4392201174",
+    "title": "Advancing Precision Medicine: A Review of Innovative In Silico Approaches for Drug Development, Clinical Pharmacology and Personalized Healthcare",
+    "year": 2024,
+    "pdf_url": "https://www.mdpi.com/1999-4923/16/3/332/pdf?version=1709044507"
+  },
+  {
+    "id": "https://openalex.org/W4382652828",
+    "title": "On the Educational Impact of ChatGPT: Is Artificial Intelligence Ready to Obtain a University Degree?",
+    "year": 2023,
+    "pdf_url": "https://dl.acm.org/doi/pdf/10.1145/3587102.3588827"
+  },
+  {
+    "id": "https://openalex.org/W4385381606",
+    "title": "The shaky foundations of large language models and foundation models for electronic health records",
+    "year": 2023,
+    "pdf_url": "https://www.nature.com/articles/s41746-023-00879-8.pdf"
+  },
+  {
+    "id": "https://openalex.org/W4362653910",
+    "title": "Global Encyclopedia of Public Administration, Public Policy, and Governance",
+    "year": 2022,
+    "pdf_url": "https://link.springer.com/content/pdf/bfm:978-3-030-66252-3/1?pdf=chapter%20toc"
+  },
+  {
+    "id": "https://openalex.org/W4306736955",
+    "title": "COP27 climate change conference: urgent action needed for Africa and the world",
+    "year": 2022,
+    "pdf_url": "https://www.bmj.com/content/bmj/379/bmj.o2459.full.pdf"
+  },
+  {
+    "id": "https://openalex.org/W4286697722",
+    "title": "Future of mental health in the metaverse",
+    "year": 2022,
+    "pdf_url": "https://gpsych.bmj.com/content/gpsych/35/4/e100825.full.pdf"
+  },
+  {
+    "id": "https://openalex.org/W4296405185",
+    "title": "Power to the People? Opportunities and Challenges for Participatory AI",
+    "year": 2022,
+    "pdf_url": "https://dl.acm.org/doi/pdf/10.1145/3551624.3555290"
+  },
+  {
+    "id": "https://openalex.org/W4206408372",
+    "title": "Applications of Phyto-Nanotechnology for the Treatment of Neurodegenerative Disorders",
+    "year": 2022,
+    "pdf_url": "https://www.mdpi.com/1996-1944/15/3/804/pdf?version=1642760180"
+  },
+  {
+    "id": "https://openalex.org/W4285140393",
+    "title": "A Review of the Trends and Challenges in Adopting Natural Language Processing Methods for Education Feedback Analysis",
+    "year": 2022,
+    "pdf_url": "https://ieeexplore.ieee.org/ielx7/6287639/6514899/09781308.pdf"
+  },
+  {
+    "id": "https://openalex.org/W4378211319",
+    "title": "Mitigating long-term and delayed adverse events associated with cancer treatment: implications for survivorship",
+    "year": 2023,
+    "pdf_url": "https://www.nature.com/articles/s41571-023-00776-9.pdf"
+  },
+  {
+    "id": "https://openalex.org/W4283583423",
+    "title": "Therapeutic Benefits and Dietary Restrictions of Fiber Intake: A State of the Art Review",
+    "year": 2022,
+    "pdf_url": "https://www.mdpi.com/2072-6643/14/13/2641/pdf?version=1656405544"
+  },
+  {
+    "id": "https://openalex.org/W4392941225",
+    "title": "Virtual reality and gamification in education: a systematic review",
+    "year": 2024,
+    "pdf_url": "https://link.springer.com/content/pdf/10.1007/s11423-024-10351-3.pdf"
+  },
+  {
+    "id": "https://openalex.org/W4377041419",
+    "title": "Glucagon-like peptide-1: a multi-faceted anti-inflammatory agent",
+    "year": 2023,
+    "pdf_url": "https://www.frontiersin.org/articles/10.3389/fimmu.2023.1148209/pdf"
+  },
+  {
+    "id": "https://openalex.org/W4385228868",
+    "title": "Emissions Trends and Drivers",
+    "year": 2023,
+    "pdf_url": "https://www.cambridge.org/core/services/aop-cambridge-core/content/view/82CFC42906149CC0F91311E9903F9FB8/stamped-9781009157933c2_215-294.pdf/emissions-trends-and-drivers.pdf"
+  },
+  {
+    "id": "https://openalex.org/W4391099296",
+    "title": "Sporting Mind: The Interplay of Physical Activity and Psychological Health",
+    "year": 2024,
+    "pdf_url": "https://www.mdpi.com/2075-4663/12/1/37/pdf?version=1705932845"
+  },
+  {
+    "id": "https://openalex.org/W4289261447",
+    "title": "Cognitive\u2013motivational mechanisms of political polarization in social-communicative contexts",
+    "year": 2022,
+    "pdf_url": "https://www.nature.com/articles/s44159-022-00093-5.pdf"
+  },
+  {
+    "id": "https://openalex.org/W4287447353",
+    "title": "Eco-anxiety in children: A scoping review of the mental health impacts of the awareness of climate change",
+    "year": 2022,
+    "pdf_url": "https://www.frontiersin.org/articles/10.3389/fpsyg.2022.872544/pdf"
+  },
+  {
+    "id": "https://openalex.org/W4321013654",
+    "title": "The Programmer\u2019s Assistant: Conversational Interaction with a Large Language Model for Software Development",
+    "year": 2023,
+    "pdf_url": "https://dl.acm.org/doi/pdf/10.1145/3581641.3584037"
+  },
+  {
+    "id": "https://openalex.org/W4396794085",
+    "title": "Foundations of Social Theory",
+    "year": 2024,
+    "pdf_url": null
+  },
+  {
+    "id": "https://openalex.org/W4226343892",
+    "title": "Human placental development and function",
+    "year": 2022,
+    "pdf_url": "https://doi.org/10.1016/j.semcdb.2022.03.039"
+  },
+  {
+    "id": "https://openalex.org/W4206005545",
+    "title": "Cybersecurity, Data Privacy and Blockchain: A Review",
+    "year": 2022,
+    "pdf_url": "https://link.springer.com/content/pdf/10.1007/s42979-022-01020-4.pdf"
+  },
+  {
+    "id": "https://openalex.org/W4285797856",
+    "title": "COVID-19 vaccine hesitancy in Africa: a scoping review",
+    "year": 2022,
+    "pdf_url": "https://ghrp.biomedcentral.com/counter/pdf/10.1186/s41256-022-00255-1"
+  },
+  {
+    "id": "https://openalex.org/W4310942643",
+    "title": "Impact of the Human Cell Atlas on medicine",
+    "year": 2022,
+    "pdf_url": "https://www.nature.com/articles/s41591-022-02104-7.pdf"
+  },
+  {
+    "id": "https://openalex.org/W4387809804",
+    "title": "Leveraging Generative AI and Large Language Models: A Comprehensive Roadmap for Healthcare Integration",
+    "year": 2023,
+    "pdf_url": "https://www.mdpi.com/2227-9032/11/20/2776/pdf?version=1697783532"
+  }
+]

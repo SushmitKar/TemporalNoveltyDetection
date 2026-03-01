@@ -1,0 +1,1052 @@
+[
+  {
+    "id": "https://openalex.org/W4360620450",
+    "title": "Opinion Paper: \u201cSo what if ChatGPT wrote it?\u201d Multidisciplinary perspectives on opportunities, challenges and implications of generative conversational AI for research, practice and policy",
+    "year": 2023,
+    "cited_by_count": 3223,
+    "pdf_url": "https://linkinghub.elsevier.com/science/article/pii/S0268401223000233/pdfft?md5=492895056a2fa29b1cb81876a1c57544&pid=1-s2.0-S0268401223000233-main.pdf"
+  },
+  {
+    "id": "https://openalex.org/W4206484811",
+    "title": "A Metaverse: Taxonomy, Components, Applications, and Open Challenges",
+    "year": 2022,
+    "cited_by_count": 1679,
+    "pdf_url": "https://ieeexplore.ieee.org/ielx7/6287639/9668973/09667507.pdf"
+  },
+  {
+    "id": "https://openalex.org/W2747680751",
+    "title": "Natural language processing: state of the art, current trends and challenges",
+    "year": 2022,
+    "cited_by_count": 1616,
+    "pdf_url": "https://link.springer.com/content/pdf/10.1007/s11042-022-13428-4.pdf"
+  },
+  {
+    "id": "https://openalex.org/W4210827551",
+    "title": "A survey on sentiment analysis methods, applications, and challenges",
+    "year": 2022,
+    "cited_by_count": 1300,
+    "pdf_url": "https://link.springer.com/content/pdf/10.1007/s10462-022-10144-1.pdf"
+  },
+  {
+    "id": "https://openalex.org/W4385878593",
+    "title": "New Era of Artificial Intelligence in Education: Towards a Sustainable Multifaceted Revolution",
+    "year": 2023,
+    "cited_by_count": 798,
+    "pdf_url": "https://www.mdpi.com/2071-1050/15/16/12451/pdf?version=1692181759"
+  },
+  {
+    "id": "https://openalex.org/W4366091323",
+    "title": "Deep learning modelling techniques: current progress, applications, advantages, and challenges",
+    "year": 2023,
+    "cited_by_count": 784,
+    "pdf_url": "https://link.springer.com/content/pdf/10.1007/s10462-023-10466-8.pdf"
+  },
+  {
+    "id": "https://openalex.org/W4322766882",
+    "title": "Parameter-efficient fine-tuning of large-scale pre-trained language models",
+    "year": 2023,
+    "cited_by_count": 759,
+    "pdf_url": "https://www.nature.com/articles/s42256-023-00626-4.pdf"
+  },
+  {
+    "id": "https://openalex.org/W4386098991",
+    "title": "Challenges and Opportunities of Generative AI for Higher Education as Explained by ChatGPT",
+    "year": 2023,
+    "cited_by_count": 651,
+    "pdf_url": "https://www.mdpi.com/2227-7102/13/9/856/pdf?version=1692771591"
+  },
+  {
+    "id": "https://openalex.org/W4321605350",
+    "title": "Academic Integrity considerations of AI Large Language Models in the post-pandemic era: ChatGPT and beyond",
+    "year": 2023,
+    "cited_by_count": 596,
+    "pdf_url": "https://open-publishing.org/journals/index.php/jutlp/article/view/635/635"
+  },
+  {
+    "id": "https://openalex.org/W4385567149",
+    "title": "Rethinking the Role of Demonstrations: What Makes In-Context Learning Work?",
+    "year": 2022,
+    "cited_by_count": 594,
+    "pdf_url": "https://aclanthology.org/2022.emnlp-main.759.pdf"
+  },
+  {
+    "id": "https://openalex.org/W4392669753",
+    "title": "A Multitask, Multilingual, Multimodal Evaluation of ChatGPT on Reasoning, Hallucination, and Interactivity",
+    "year": 2023,
+    "cited_by_count": 580,
+    "pdf_url": "https://aclanthology.org/2023.ijcnlp-main.45.pdf"
+  },
+  {
+    "id": "https://openalex.org/W4385632485",
+    "title": "Practical and ethical challenges of large language models in education: A systematic scoping review",
+    "year": 2023,
+    "cited_by_count": 554,
+    "pdf_url": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1111/bjet.13370"
+  },
+  {
+    "id": "https://openalex.org/W4323359867",
+    "title": "ChatGPT in education: Strategies for responsible implementation",
+    "year": 2023,
+    "cited_by_count": 543,
+    "pdf_url": "https://www.cedtech.net/download/chatgpt-in-education-strategies-for-responsible-implementation-13036.pdf"
+  },
+  {
+    "id": "https://openalex.org/W4321434840",
+    "title": "Teachers\u2019 AI digital competencies and twenty-first century skills in the post-pandemic world",
+    "year": 2023,
+    "cited_by_count": 480,
+    "pdf_url": "https://link.springer.com/content/pdf/10.1007/s11423-023-10203-6.pdf"
+  },
+  {
+    "id": "https://openalex.org/W3201174429",
+    "title": "TruthfulQA: Measuring How Models Mimic Human Falsehoods",
+    "year": 2022,
+    "cited_by_count": 464,
+    "pdf_url": "https://aclanthology.org/2022.acl-long.229.pdf"
+  },
+  {
+    "id": "https://openalex.org/W4390490761",
+    "title": "Explainability for Large Language Models: A Survey",
+    "year": 2024,
+    "cited_by_count": 454,
+    "pdf_url": "https://dl.acm.org/doi/pdf/10.1145/3639372"
+  },
+  {
+    "id": "https://openalex.org/W3039695075",
+    "title": "Language-agnostic BERT Sentence Embedding",
+    "year": 2022,
+    "cited_by_count": 448,
+    "pdf_url": "https://aclanthology.org/2022.acl-long.62.pdf"
+  },
+  {
+    "id": "https://openalex.org/W3020975691",
+    "title": "Explainable Deep Learning: A Field Guide for the Uninitiated",
+    "year": 2022,
+    "cited_by_count": 391,
+    "pdf_url": "https://www.jair.org/index.php/jair/article/download/13200/26763"
+  },
+  {
+    "id": "https://openalex.org/W3203321135",
+    "title": "AI Chains: Transparent and Controllable Human-AI Interaction by Chaining Large Language Model Prompts",
+    "year": 2022,
+    "cited_by_count": 386,
+    "pdf_url": "https://dl.acm.org/doi/pdf/10.1145/3491102.3517582"
+  },
+  {
+    "id": "https://openalex.org/W4389636360",
+    "title": "Can Large Language Models Transform Computational Social Science?",
+    "year": 2023,
+    "cited_by_count": 369,
+    "pdf_url": "https://direct.mit.edu/coli/article-pdf/doi/10.1162/coli_a_00502/2191886/coli_a_00502.pdf"
+  },
+  {
+    "id": "https://openalex.org/W4213025374",
+    "title": "Transformer Network for Remaining Useful Life Prediction of Lithium-Ion Batteries",
+    "year": 2022,
+    "cited_by_count": 334,
+    "pdf_url": "https://ieeexplore.ieee.org/ielx7/6287639/9668973/09714323.pdf"
+  },
+  {
+    "id": "https://openalex.org/W4390175962",
+    "title": "Testing of detection tools for AI-generated text",
+    "year": 2023,
+    "cited_by_count": 331,
+    "pdf_url": "https://edintegrity.biomedcentral.com/counter/pdf/10.1007/s40979-023-00146-z"
+  },
+  {
+    "id": "https://openalex.org/W4386576685",
+    "title": "MTEB: Massive Text Embedding Benchmark",
+    "year": 2023,
+    "cited_by_count": 322,
+    "pdf_url": "https://aclanthology.org/2023.eacl-main.148.pdf"
+  },
+  {
+    "id": "https://openalex.org/W4385571689",
+    "title": "Towards Reasoning in Large Language Models: A Survey",
+    "year": 2023,
+    "cited_by_count": 317,
+    "pdf_url": "https://aclanthology.org/2023.findings-acl.67.pdf"
+  },
+  {
+    "id": "https://openalex.org/W4360980513",
+    "title": "Welcome to the Era of ChatGPT et al.",
+    "year": 2023,
+    "cited_by_count": 316,
+    "pdf_url": "https://link.springer.com/content/pdf/10.1007/s12599-023-00795-x.pdf"
+  },
+  {
+    "id": "https://openalex.org/W4385571124",
+    "title": "Crosslingual Generalization through Multitask Finetuning",
+    "year": 2023,
+    "cited_by_count": 302,
+    "pdf_url": "https://aclanthology.org/2023.acl-long.891.pdf"
+  },
+  {
+    "id": "https://openalex.org/W4386304230",
+    "title": "Seven Hints That Early-Time New Physics Alone Is Not Sufficient to Solve the Hubble Tension",
+    "year": 2023,
+    "cited_by_count": 297,
+    "pdf_url": "https://www.mdpi.com/2218-1997/9/9/393/pdf?version=1693377416"
+  },
+  {
+    "id": "https://openalex.org/W4287891464",
+    "title": "Learning To Retrieve Prompts for In-Context Learning",
+    "year": 2022,
+    "cited_by_count": 293,
+    "pdf_url": "https://aclanthology.org/2022.naacl-main.191.pdf"
+  },
+  {
+    "id": "https://openalex.org/W4386317922",
+    "title": "Evaluating the efficacy of AI content detection tools in differentiating between human and AI-generated text",
+    "year": 2023,
+    "cited_by_count": 277,
+    "pdf_url": "https://edintegrity.biomedcentral.com/counter/pdf/10.1007/s40979-023-00140-5"
+  },
+  {
+    "id": "https://openalex.org/W4221153690",
+    "title": "LinkBERT: Pretraining Language Models with Document Links",
+    "year": 2022,
+    "cited_by_count": 274,
+    "pdf_url": "https://aclanthology.org/2022.acl-long.551.pdf"
+  },
+  {
+    "id": "https://openalex.org/W4390315357",
+    "title": "The Robots Are Here: Navigating the Generative AI Revolution in Computing Education",
+    "year": 2023,
+    "cited_by_count": 274,
+    "pdf_url": "https://dl.acm.org/doi/pdf/10.1145/3623762.3633499"
+  },
+  {
+    "id": "https://openalex.org/W4385573087",
+    "title": "Large language models are few-shot clinical information extractors",
+    "year": 2022,
+    "cited_by_count": 266,
+    "pdf_url": "https://aclanthology.org/2022.emnlp-main.130.pdf"
+  },
+  {
+    "id": "https://openalex.org/W4388551749",
+    "title": "Not quite eye to A.I.: student and teacher perspectives on the use of generative artificial intelligence in the writing process",
+    "year": 2023,
+    "cited_by_count": 254,
+    "pdf_url": "https://educationaltechnologyjournal.springeropen.com/counter/pdf/10.1186/s41239-023-00427-0"
+  },
+  {
+    "id": "https://openalex.org/W4391494845",
+    "title": "Benchmarking Large Language Models for News Summarization",
+    "year": 2024,
+    "cited_by_count": 254,
+    "pdf_url": "https://direct.mit.edu/tacl/article-pdf/doi/10.1162/tacl_a_00632/2325685/tacl_a_00632.pdf"
+  },
+  {
+    "id": "https://openalex.org/W4281286553",
+    "title": "How Reproducible are Surface Areas Calculated from the BET Equation?",
+    "year": 2022,
+    "cited_by_count": 253,
+    "pdf_url": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1002/adma.202201502"
+  },
+  {
+    "id": "https://openalex.org/W4360957277",
+    "title": "AI as Agency Without Intelligence: on ChatGPT, Large Language Models, and Other Generative Models",
+    "year": 2023,
+    "cited_by_count": 253,
+    "pdf_url": "https://link.springer.com/content/pdf/10.1007/s13347-023-00621-y.pdf"
+  },
+  {
+    "id": "https://openalex.org/W4400118952",
+    "title": "When large language models meet personalization: perspectives of challenges and opportunities",
+    "year": 2024,
+    "cited_by_count": 244,
+    "pdf_url": "https://link.springer.com/content/pdf/10.1007/s11280-024-01276-1.pdf"
+  },
+  {
+    "id": "https://openalex.org/W4321479797",
+    "title": "Deep Learning Attention Mechanism in Medical Image Analysis: Basics and Beyonds",
+    "year": 2023,
+    "cited_by_count": 237,
+    "pdf_url": "https://www.sciltp.com/journals/ijndi/article/download/173/107"
+  },
+  {
+    "id": "https://openalex.org/W4317898419",
+    "title": "Improving the Domain Adaptation of Retrieval Augmented Generation (RAG) Models for Open Domain Question Answering",
+    "year": 2023,
+    "cited_by_count": 232,
+    "pdf_url": "https://direct.mit.edu/tacl/article-pdf/doi/10.1162/tacl_a_00530/2067834/tacl_a_00530.pdf"
+  },
+  {
+    "id": "https://openalex.org/W4386711868",
+    "title": "An Exploratory Study of EFL Learners\u2019 Use of ChatGPT for Language Learning Tasks: Experience and Perceptions",
+    "year": 2023,
+    "cited_by_count": 225,
+    "pdf_url": "https://www.mdpi.com/2226-471X/8/3/212/pdf?version=1694572191"
+  },
+  {
+    "id": "https://openalex.org/W4390745503",
+    "title": "Large language models to identify social determinants of health in electronic health records",
+    "year": 2024,
+    "cited_by_count": 225,
+    "pdf_url": "https://www.nature.com/articles/s41746-023-00970-0.pdf"
+  },
+  {
+    "id": "https://openalex.org/W4385572845",
+    "title": "Super-NaturalInstructions: Generalization via Declarative Instructions on 1600+ NLP Tasks",
+    "year": 2022,
+    "cited_by_count": 221,
+    "pdf_url": "https://aclanthology.org/2022.emnlp-main.340.pdf"
+  },
+  {
+    "id": "https://openalex.org/W4318484896",
+    "title": "Recent Advances in Stochastic Gradient Descent in Deep Learning",
+    "year": 2023,
+    "cited_by_count": 220,
+    "pdf_url": "https://www.mdpi.com/2227-7390/11/3/682/pdf?version=1675245865"
+  },
+  {
+    "id": "https://openalex.org/W4399245583",
+    "title": "Translation, Cross-Cultural Adaptation, and Validation of Measurement Instruments: A Practical Guideline for Novice Researchers",
+    "year": 2024,
+    "cited_by_count": 212,
+    "pdf_url": "https://www.dovepress.com/getfile.php?fileID=99631"
+  },
+  {
+    "id": "https://openalex.org/W4319459780",
+    "title": "AI in the Foreign Language Classroom: A Pedagogical Overview of Automated Writing Assistance Tools",
+    "year": 2023,
+    "cited_by_count": 211,
+    "pdf_url": "https://downloads.hindawi.com/journals/edri/2023/4253331.pdf"
+  },
+  {
+    "id": "https://openalex.org/W4385572953",
+    "title": "UnifiedSKG: Unifying and Multi-Tasking Structured Knowledge Grounding with Text-to-Text Language Models",
+    "year": 2022,
+    "cited_by_count": 210,
+    "pdf_url": "https://aclanthology.org/2022.emnlp-main.39.pdf"
+  },
+  {
+    "id": "https://openalex.org/W4386390931",
+    "title": "Future of education in the era of generative artificial intelligence: Consensus among Chinese scholars on applications of ChatGPT in schools",
+    "year": 2023,
+    "cited_by_count": 210,
+    "pdf_url": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1002/fer3.10"
+  },
+  {
+    "id": "https://openalex.org/W4389519239",
+    "title": "Is ChatGPT a Good NLG Evaluator? A Preliminary Study",
+    "year": 2023,
+    "cited_by_count": 200,
+    "pdf_url": "https://aclanthology.org/2023.newsum-1.1.pdf"
+  },
+  {
+    "id": "https://openalex.org/W4385757151",
+    "title": "Using ChatGPT in academic writing is (not) a form of plagiarism: What does the literature say?",
+    "year": 2023,
+    "cited_by_count": 193,
+    "pdf_url": "https://www.ojcmt.net/download/using-chatgpt-in-academic-writing-is-not-a-form-of-plagiarism-what-does-the-literature-say-13572.pdf"
+  },
+  {
+    "id": "https://openalex.org/W4392732989",
+    "title": "Student perspectives on the use of generative artificial intelligence technologies in higher education",
+    "year": 2024,
+    "cited_by_count": 190,
+    "pdf_url": "https://edintegrity.biomedcentral.com/counter/pdf/10.1007/s40979-024-00149-4"
+  },
+  {
+    "id": "https://openalex.org/W4366547384",
+    "title": "Co-Writing Screenplays and Theatre Scripts with Language Models: Evaluation by Industry Professionals",
+    "year": 2023,
+    "cited_by_count": 183,
+    "pdf_url": "https://dl.acm.org/doi/pdf/10.1145/3544548.3581225"
+  },
+  {
+    "id": "https://openalex.org/W4385671288",
+    "title": "14 examples of how LLMs can transform materials science and chemistry: a reflection on a large language model hackathon",
+    "year": 2023,
+    "cited_by_count": 182,
+    "pdf_url": "https://pubs.rsc.org/en/content/articlepdf/2023/dd/d3dd00113j"
+  },
+  {
+    "id": "https://openalex.org/W4389519598",
+    "title": "FActScore: Fine-grained Atomic Evaluation of Factual Precision in Long Form Text Generation",
+    "year": 2023,
+    "cited_by_count": 178,
+    "pdf_url": "https://aclanthology.org/2023.emnlp-main.741.pdf"
+  },
+  {
+    "id": "https://openalex.org/W3198599617",
+    "title": "Do Prompt-Based Models Really Understand the Meaning of Their Prompts?",
+    "year": 2022,
+    "cited_by_count": 173,
+    "pdf_url": "https://aclanthology.org/2022.naacl-main.167.pdf"
+  },
+  {
+    "id": "https://openalex.org/W4366743045",
+    "title": "Early applications of ChatGPT in medical practice, education and research",
+    "year": 2023,
+    "cited_by_count": 169,
+    "pdf_url": "https://www.rcpjournals.org/content/clinmedicine/early/2023/04/21/clinmed.2023-0078.full.pdf"
+  },
+  {
+    "id": "https://openalex.org/W3205717164",
+    "title": "SPoT: Better Frozen Model Adaptation through Soft Prompt Transfer",
+    "year": 2022,
+    "cited_by_count": 165,
+    "pdf_url": "https://aclanthology.org/2022.acl-long.346.pdf"
+  },
+  {
+    "id": "https://openalex.org/W3207553988",
+    "title": "Generated Knowledge Prompting for Commonsense Reasoning",
+    "year": 2022,
+    "cited_by_count": 164,
+    "pdf_url": "https://aclanthology.org/2022.acl-long.225.pdf"
+  },
+  {
+    "id": "https://openalex.org/W4385732922",
+    "title": "Survey on Explainable AI: From Approaches, Limitations and Applications Aspects",
+    "year": 2023,
+    "cited_by_count": 164,
+    "pdf_url": "https://link.springer.com/content/pdf/10.1007/s44230-023-00038-y.pdf"
+  },
+  {
+    "id": "https://openalex.org/W4225729224",
+    "title": "Emergence in marketing: an institutional and ecosystem framework",
+    "year": 2022,
+    "cited_by_count": 154,
+    "pdf_url": "https://link.springer.com/content/pdf/10.1007/s11747-022-00849-8.pdf"
+  },
+  {
+    "id": "https://openalex.org/W4386724197",
+    "title": "Is ChatGPT Leading Generative AI? What is Beyond Expectations?",
+    "year": 2023,
+    "cited_by_count": 153,
+    "pdf_url": "https://dergipark.org.tr/en/download/article-file/3127764"
+  },
+  {
+    "id": "https://openalex.org/W4365129631",
+    "title": "A Survey of Text Representation and Embedding Techniques in NLP",
+    "year": 2023,
+    "cited_by_count": 150,
+    "pdf_url": "https://ieeexplore.ieee.org/ielx7/6287639/6514899/10098736.pdf"
+  },
+  {
+    "id": "https://openalex.org/W3213990450",
+    "title": "<scp>SummaC</scp>: Re-Visiting NLI-based Models for Inconsistency Detection in Summarization",
+    "year": 2022,
+    "cited_by_count": 147,
+    "pdf_url": "https://direct.mit.edu/tacl/article-pdf/doi/10.1162/tacl_a_00453/1987014/tacl_a_00453.pdf"
+  },
+  {
+    "id": "https://openalex.org/W4393335480",
+    "title": "Foundation metrics for evaluating effectiveness of healthcare conversations powered by generative AI",
+    "year": 2024,
+    "cited_by_count": 144,
+    "pdf_url": "https://www.nature.com/articles/s41746-024-01074-z.pdf"
+  },
+  {
+    "id": "https://openalex.org/W4315487473",
+    "title": "A Survey of Zero-shot Generalisation in Deep Reinforcement Learning",
+    "year": 2023,
+    "cited_by_count": 143,
+    "pdf_url": "https://jair.org/index.php/jair/article/download/14174/26890"
+  },
+  {
+    "id": "https://openalex.org/W3123221944",
+    "title": "In-IDE Code Generation from Natural Language: Promise and Challenges",
+    "year": 2022,
+    "cited_by_count": 139,
+    "pdf_url": "https://dl.acm.org/doi/pdf/10.1145/3487569"
+  },
+  {
+    "id": "https://openalex.org/W4386136032",
+    "title": "Perception, performance, and detectability of conversational artificial intelligence across 32 university courses",
+    "year": 2023,
+    "cited_by_count": 137,
+    "pdf_url": "https://doi.org/10.1038/s41598-023-38964-3"
+  },
+  {
+    "id": "https://openalex.org/W3152268000",
+    "title": "Data augmentation in natural language processing: a novel text generation approach for long and short text classifiers",
+    "year": 2022,
+    "cited_by_count": 136,
+    "pdf_url": "https://link.springer.com/content/pdf/10.1007/s13042-022-01553-3.pdf"
+  },
+  {
+    "id": "https://openalex.org/W3156829097",
+    "title": "Survey on reinforcement learning for language processing",
+    "year": 2022,
+    "cited_by_count": 136,
+    "pdf_url": "https://link.springer.com/content/pdf/10.1007/s10462-022-10205-5.pdf"
+  },
+  {
+    "id": "https://openalex.org/W4379410101",
+    "title": "Let\u2019s Have a Chat! A Conversation with ChatGPT: Technology, Applications, and Limitations",
+    "year": 2023,
+    "cited_by_count": 135,
+    "pdf_url": "https://ojs.bonviewpress.com/index.php/AIA/article/download/939/494"
+  },
+  {
+    "id": "https://openalex.org/W4387806579",
+    "title": "ChatGPT\u2014A Challenging Tool for the University Professors in Their Teaching Practice",
+    "year": 2023,
+    "cited_by_count": 135,
+    "pdf_url": "https://www.mdpi.com/2227-7102/13/10/1056/pdf?version=1697804907"
+  },
+  {
+    "id": "https://openalex.org/W4386566638",
+    "title": "Should You Mask 15% in Masked Language Modeling?",
+    "year": 2023,
+    "cited_by_count": 134,
+    "pdf_url": "https://aclanthology.org/2023.eacl-main.217.pdf"
+  },
+  {
+    "id": "https://openalex.org/W4210457441",
+    "title": "General Practitioners\u2019 Attitudes Toward Artificial Intelligence\u2013Enabled Systems: Interview Study",
+    "year": 2022,
+    "cited_by_count": 132,
+    "pdf_url": "https://www.jmir.org/2022/1/e28916/PDF"
+  },
+  {
+    "id": "https://openalex.org/W4389520670",
+    "title": "Enabling Large Language Models to Generate Text with Citations",
+    "year": 2023,
+    "cited_by_count": 129,
+    "pdf_url": "https://aclanthology.org/2023.emnlp-main.398.pdf"
+  },
+  {
+    "id": "https://openalex.org/W4385573003",
+    "title": "RLPrompt: Optimizing Discrete Text Prompts with Reinforcement Learning",
+    "year": 2022,
+    "cited_by_count": 128,
+    "pdf_url": "https://aclanthology.org/2022.emnlp-main.222.pdf"
+  },
+  {
+    "id": "https://openalex.org/W4281566573",
+    "title": "Designing Transparency for Effective Human-AI Collaboration",
+    "year": 2022,
+    "cited_by_count": 126,
+    "pdf_url": "https://link.springer.com/content/pdf/10.1007/s10796-022-10284-3.pdf"
+  },
+  {
+    "id": "https://openalex.org/W3152884768",
+    "title": "Knowledge Neurons in Pretrained Transformers",
+    "year": 2022,
+    "cited_by_count": 125,
+    "pdf_url": "https://aclanthology.org/2022.acl-long.581.pdf"
+  },
+  {
+    "id": "https://openalex.org/W4318566811",
+    "title": "Is ChatGPT Leading Generative AI? What is Beyond Expectations?",
+    "year": 2023,
+    "cited_by_count": 124,
+    "pdf_url": "https://doi.org/10.2139/ssrn.4341500"
+  },
+  {
+    "id": "https://openalex.org/W4392394652",
+    "title": "Generative Artificial Intelligence in Education: From Deceptive to Disruptive.",
+    "year": 2024,
+    "cited_by_count": 124,
+    "pdf_url": "https://doi.org/10.9781/ijimai.2024.02.011"
+  },
+  {
+    "id": "https://openalex.org/W4285248702",
+    "title": "SEGRESS: Software Engineering Guidelines for REporting Secondary Studies",
+    "year": 2022,
+    "cited_by_count": 123,
+    "pdf_url": "https://ieeexplore.ieee.org/ielx7/32/10070338/09772383.pdf"
+  },
+  {
+    "id": "https://openalex.org/W4313558932",
+    "title": "End-to-End Transformer-Based Models in Textual-Based NLP",
+    "year": 2023,
+    "cited_by_count": 122,
+    "pdf_url": "https://www.mdpi.com/2673-2688/4/1/4/pdf?version=1672895769"
+  },
+  {
+    "id": "https://openalex.org/W4387231489",
+    "title": "The Silent Extinction of Species and Taxonomists\u2014An Appeal to Science Policymakers and Legislators",
+    "year": 2023,
+    "cited_by_count": 122,
+    "pdf_url": "https://www.mdpi.com/1424-2818/15/10/1053/pdf?version=1696060965"
+  },
+  {
+    "id": "https://openalex.org/W4389520756",
+    "title": "Automatic Prompt Optimization with \u201cGradient Descent\u201d and Beam Search",
+    "year": 2023,
+    "cited_by_count": 122,
+    "pdf_url": "https://aclanthology.org/2023.emnlp-main.494.pdf"
+  },
+  {
+    "id": "https://openalex.org/W4303456980",
+    "title": "Playing with AI to Investigate Human-Computer Interaction Technology and Improving Critical Thinking Skills to Pursue 21st Century Age",
+    "year": 2022,
+    "cited_by_count": 117,
+    "pdf_url": "https://downloads.hindawi.com/journals/edri/2022/6468995.pdf"
+  },
+  {
+    "id": "https://openalex.org/W4317716303",
+    "title": "A survey on deep learning approaches for text-to-SQL",
+    "year": 2023,
+    "cited_by_count": 117,
+    "pdf_url": "https://link.springer.com/content/pdf/10.1007/s00778-022-00776-8.pdf"
+  },
+  {
+    "id": "https://openalex.org/W4284962095",
+    "title": "Understanding circular economy transitions: The case of circular textiles",
+    "year": 2022,
+    "cited_by_count": 116,
+    "pdf_url": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1002/bse.3114"
+  },
+  {
+    "id": "https://openalex.org/W4382202531",
+    "title": "RESDSQL: Decoupling Schema Linking and Skeleton Parsing for Text-to-SQL",
+    "year": 2023,
+    "cited_by_count": 115,
+    "pdf_url": "https://ojs.aaai.org/index.php/AAAI/article/download/26535/26307"
+  },
+  {
+    "id": "https://openalex.org/W4385574286",
+    "title": "Can language models learn from explanations in context?",
+    "year": 2022,
+    "cited_by_count": 115,
+    "pdf_url": "https://aclanthology.org/2022.findings-emnlp.38.pdf"
+  },
+  {
+    "id": "https://openalex.org/W4210894209",
+    "title": "Framework for Deep Learning-Based Language Models Using Multi-Task Learning in Natural Language Understanding: A Systematic Literature Review and Future Directions",
+    "year": 2022,
+    "cited_by_count": 114,
+    "pdf_url": "https://ieeexplore.ieee.org/ielx7/6287639/9668973/09706456.pdf"
+  },
+  {
+    "id": "https://openalex.org/W4285248746",
+    "title": "Artificial Intelligence in Foreign Language Learning and Teaching",
+    "year": 2022,
+    "cited_by_count": 114,
+    "pdf_url": "https://angl.winter-verlag.de/data/article/11071/pdf/92201014.pdf"
+  },
+  {
+    "id": "https://openalex.org/W4385422140",
+    "title": "Challenges and Opportunities of AI-Assisted Learning: A Systematic Literature Review on the Impact of ChatGPT Usage in Higher Education",
+    "year": 2023,
+    "cited_by_count": 112,
+    "pdf_url": "https://ijlter.org/index.php/ijlter/article/download/7921/pdf"
+  },
+  {
+    "id": "https://openalex.org/W4389519585",
+    "title": "Sources of Hallucination by Large Language Models on Inference Tasks",
+    "year": 2023,
+    "cited_by_count": 112,
+    "pdf_url": "https://aclanthology.org/2023.findings-emnlp.182.pdf"
+  },
+  {
+    "id": "https://openalex.org/W4405181600",
+    "title": "\"Do Anything Now\": Characterizing and Evaluating In-The-Wild Jailbreak Prompts on Large Language Models",
+    "year": 2024,
+    "cited_by_count": 112,
+    "pdf_url": "https://dl.acm.org/doi/pdf/10.1145/3658644.3670388"
+  },
+  {
+    "id": "https://openalex.org/W4385564993",
+    "title": "From Pretraining Data to Language Models to Downstream Tasks: Tracking the Trails of Political Biases Leading to Unfair NLP Models",
+    "year": 2023,
+    "cited_by_count": 111,
+    "pdf_url": "https://aclanthology.org/2023.acl-long.656.pdf"
+  },
+  {
+    "id": "https://openalex.org/W4387191968",
+    "title": "The Potential of Chatbots for Emotional Support and Promoting Mental Well-Being in Different Cultures: Mixed Methods Study",
+    "year": 2023,
+    "cited_by_count": 111,
+    "pdf_url": "https://www.jmir.org/2023/1/e51712/PDF"
+  },
+  {
+    "id": "https://openalex.org/W4293479414",
+    "title": "Auxiliary signal-guided knowledge encoder-decoder for medical report generation",
+    "year": 2022,
+    "cited_by_count": 110,
+    "pdf_url": "https://link.springer.com/content/pdf/10.1007/s11280-022-01013-6.pdf"
+  },
+  {
+    "id": "https://openalex.org/W4285059900",
+    "title": "Fairness in Information Access Systems",
+    "year": 2022,
+    "cited_by_count": 109,
+    "pdf_url": "https://arxiv.org/pdf/2105.05779"
+  },
+  {
+    "id": "https://openalex.org/W4382202657",
+    "title": "On the Effectiveness of Parameter-Efficient Fine-Tuning",
+    "year": 2023,
+    "cited_by_count": 109,
+    "pdf_url": "https://ojs.aaai.org/index.php/AAAI/article/download/26505/26277"
+  },
+  {
+    "id": "https://openalex.org/W4385570594",
+    "title": "One Embedder, Any Task: Instruction-Finetuned Text Embeddings",
+    "year": 2023,
+    "cited_by_count": 109,
+    "pdf_url": "https://aclanthology.org/2023.findings-acl.71.pdf"
+  },
+  {
+    "id": "https://openalex.org/W4288036466",
+    "title": "The price of positionality: assessing the benefits and burdens of self\u2010identification in research methods",
+    "year": 2022,
+    "cited_by_count": 107,
+    "pdf_url": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1111/jols.12372"
+  },
+  {
+    "id": "https://openalex.org/W4294833327",
+    "title": "Conversational question answering: a survey",
+    "year": 2022,
+    "cited_by_count": 105,
+    "pdf_url": "https://link.springer.com/content/pdf/10.1007/s10115-022-01744-y.pdf"
+  },
+  {
+    "id": "https://openalex.org/W4394949392",
+    "title": "The Artificial Intelligence Assessment Scale (AIAS): A Framework for Ethical Integration of Generative AI in Educational Assessment",
+    "year": 2024,
+    "cited_by_count": 105,
+    "pdf_url": "https://open-publishing.org/journals/index.php/jutlp/article/download/810/769"
+  },
+  {
+    "id": "https://openalex.org/W4213306338",
+    "title": "Research on vulnerable people and digital inclusion: toward a consolidated taxonomical framework",
+    "year": 2022,
+    "cited_by_count": 103,
+    "pdf_url": "https://link.springer.com/content/pdf/10.1007/s10209-022-00867-x.pdf"
+  },
+  {
+    "id": "https://openalex.org/W4385565879",
+    "title": "Few-shot Learning with Multilingual Generative Language Models",
+    "year": 2022,
+    "cited_by_count": 103,
+    "pdf_url": "https://aclanthology.org/2022.emnlp-main.616.pdf"
+  },
+  {
+    "id": "https://openalex.org/W4394927283",
+    "title": "Automated machine learning: past, present and future",
+    "year": 2024,
+    "cited_by_count": 103,
+    "pdf_url": "https://link.springer.com/content/pdf/10.1007/s10462-024-10726-1.pdf"
+  },
+  {
+    "id": "https://openalex.org/W4389523980",
+    "title": "Towards Interpretable Mental Health Analysis with Large Language Models",
+    "year": 2023,
+    "cited_by_count": 102,
+    "pdf_url": "https://aclanthology.org/2023.emnlp-main.370.pdf"
+  },
+  {
+    "id": "https://openalex.org/W4367599042",
+    "title": "Grammatical Error Correction: A Survey of the State of the Art",
+    "year": 2023,
+    "cited_by_count": 101,
+    "pdf_url": "https://direct.mit.edu/coli/article-pdf/doi/10.1162/coli_a_00478/2131576/coli_a_00478.pdf"
+  },
+  {
+    "id": "https://openalex.org/W4312299829",
+    "title": "dO: A Differentiable Engine for Deep Lens Design of Computational Imaging Systems",
+    "year": 2022,
+    "cited_by_count": 98,
+    "pdf_url": "https://ieeexplore.ieee.org/ielx7/6745852/6960042/09919421.pdf"
+  },
+  {
+    "id": "https://openalex.org/W4389897623",
+    "title": "A Survey on the Detection and Impacts of Deepfakes in Visual, Audio, and Textual Formats",
+    "year": 2023,
+    "cited_by_count": 98,
+    "pdf_url": "https://ieeexplore.ieee.org/ielx7/6287639/6514899/10365143.pdf"
+  },
+  {
+    "id": "https://openalex.org/W3035620341",
+    "title": "NAS-Bench-NLP: Neural Architecture Search Benchmark for Natural Language Processing",
+    "year": 2022,
+    "cited_by_count": 97,
+    "pdf_url": "https://ieeexplore.ieee.org/ielx7/6287639/9668973/09762315.pdf"
+  },
+  {
+    "id": "https://openalex.org/W4312634749",
+    "title": "Complex Knowledge Base Question Answering: A Survey",
+    "year": 2022,
+    "cited_by_count": 97,
+    "pdf_url": "https://repository.tudelft.nl/file/File_52f8e038-3f1f-4cef-895b-b53a0fdcb9fd"
+  },
+  {
+    "id": "https://openalex.org/W4385571045",
+    "title": "Towards Understanding Chain-of-Thought Prompting: An Empirical Study of What Matters",
+    "year": 2023,
+    "cited_by_count": 96,
+    "pdf_url": "https://aclanthology.org/2023.acl-long.153.pdf"
+  },
+  {
+    "id": "https://openalex.org/W4389518954",
+    "title": "Evaluating Verifiability in Generative Search Engines",
+    "year": 2023,
+    "cited_by_count": 96,
+    "pdf_url": "https://aclanthology.org/2023.findings-emnlp.467.pdf"
+  },
+  {
+    "id": "https://openalex.org/W4387568087",
+    "title": "Postplagiarism: transdisciplinary ethics and integrity in the age of artificial intelligence and neurotechnology",
+    "year": 2023,
+    "cited_by_count": 95,
+    "pdf_url": "https://edintegrity.biomedcentral.com/counter/pdf/10.1007/s40979-023-00144-1"
+  },
+  {
+    "id": "https://openalex.org/W4392563948",
+    "title": "The Science of Detecting LLM-Generated Text",
+    "year": 2024,
+    "cited_by_count": 95,
+    "pdf_url": "https://dl.acm.org/doi/pdf/10.1145/3624725"
+  },
+  {
+    "id": "https://openalex.org/W4382239980",
+    "title": "Repair Is Nearly Generation: Multilingual Program Repair with LLMs",
+    "year": 2023,
+    "cited_by_count": 94,
+    "pdf_url": "https://ojs.aaai.org/index.php/AAAI/article/download/25642/25414"
+  },
+  {
+    "id": "https://openalex.org/W4386424132",
+    "title": "Prompting meaning: a hermeneutic approach to optimising prompt engineering with ChatGPT",
+    "year": 2023,
+    "cited_by_count": 94,
+    "pdf_url": "https://link.springer.com/content/pdf/10.1007/s00146-023-01752-8.pdf"
+  },
+  {
+    "id": "https://openalex.org/W4378194664",
+    "title": "Enhancing STEM learning with ChatGPT and Bing Chat as objects to think with: A case study",
+    "year": 2023,
+    "cited_by_count": 93,
+    "pdf_url": "https://www.ejmste.com/download/enhancing-stem-learning-with-chatgpt-and-bing-chat-as-objects-to-think-with-a-case-study-13313.pdf"
+  },
+  {
+    "id": "https://openalex.org/W4285289306",
+    "title": "AraT5: Text-to-Text Transformers for Arabic Language Generation",
+    "year": 2022,
+    "cited_by_count": 92,
+    "pdf_url": "https://aclanthology.org/2022.acl-long.47.pdf"
+  },
+  {
+    "id": "https://openalex.org/W4288436242",
+    "title": "Malware Analysis in IoT &amp; Android Systems with Defensive Mechanism",
+    "year": 2022,
+    "cited_by_count": 92,
+    "pdf_url": "https://www.mdpi.com/2079-9292/11/15/2354/pdf?version=1659438155"
+  },
+  {
+    "id": "https://openalex.org/W4385571219",
+    "title": "Large Language Models Are Reasoning Teachers",
+    "year": 2023,
+    "cited_by_count": 92,
+    "pdf_url": "https://aclanthology.org/2023.acl-long.830.pdf"
+  },
+  {
+    "id": "https://openalex.org/W4378908626",
+    "title": "Repairing the Cracked Foundation: A Survey of Obstacles in Evaluation Practices for Generated Text",
+    "year": 2023,
+    "cited_by_count": 90,
+    "pdf_url": "https://www.jair.org/index.php/jair/article/download/13715/26927"
+  },
+  {
+    "id": "https://openalex.org/W4385572754",
+    "title": "Towards a Unified Multi-Dimensional Evaluator for Text Generation",
+    "year": 2022,
+    "cited_by_count": 90,
+    "pdf_url": "https://aclanthology.org/2022.emnlp-main.131.pdf"
+  },
+  {
+    "id": "https://openalex.org/W4312257891",
+    "title": "Neural Architecture Search for Transformers: A Survey",
+    "year": 2022,
+    "cited_by_count": 89,
+    "pdf_url": "https://ieeexplore.ieee.org/ielx7/6287639/6514899/09913476.pdf"
+  },
+  {
+    "id": "https://openalex.org/W4389132136",
+    "title": "Rising adoption of artificial intelligence in scientific publishing: evaluating the role, risks, and ethical implications in paper drafting and review process",
+    "year": 2023,
+    "cited_by_count": 89,
+    "pdf_url": "https://www.degruyter.com/document/doi/10.1515/cclm-2023-1136/pdf?licenseType=free"
+  },
+  {
+    "id": "https://openalex.org/W4226388780",
+    "title": "Digital literacy and online political behavior",
+    "year": 2022,
+    "cited_by_count": 88,
+    "pdf_url": "https://www.cambridge.org/core/services/aop-cambridge-core/content/view/941391F2B600ED4543CF5586F19AE16E/S2049847022000176a.pdf/div-class-title-digital-literacy-and-online-political-behavior-div.pdf"
+  },
+  {
+    "id": "https://openalex.org/W4362469388",
+    "title": "Do we still need teachers? Navigating the paradigm shift of the teacher's role in the AI era",
+    "year": 2023,
+    "cited_by_count": 88,
+    "pdf_url": "https://www.frontiersin.org/articles/10.3389/feduc.2023.1161777/pdf"
+  },
+  {
+    "id": "https://openalex.org/W4385573325",
+    "title": "ZeroGen: Efficient Zero-shot Learning via Dataset Generation",
+    "year": 2022,
+    "cited_by_count": 88,
+    "pdf_url": "https://aclanthology.org/2022.emnlp-main.801.pdf"
+  },
+  {
+    "id": "https://openalex.org/W4389520255",
+    "title": "Demystifying Prompts in Language Models via Perplexity Estimation",
+    "year": 2023,
+    "cited_by_count": 88,
+    "pdf_url": "https://aclanthology.org/2023.findings-emnlp.679.pdf"
+  },
+  {
+    "id": "https://openalex.org/W4390058985",
+    "title": "The Limitations and Ethical Considerations of ChatGPT",
+    "year": 2023,
+    "cited_by_count": 88,
+    "pdf_url": "https://direct.mit.edu/dint/article-pdf/doi/10.1162/dint_a_00243/2200207/dint_a_00243.pdf"
+  },
+  {
+    "id": "https://openalex.org/W4311798217",
+    "title": "Post-Graduate Students\u2019 Perceptions of Quillbot Utilization in English Academic Writing Class",
+    "year": 2022,
+    "cited_by_count": 86,
+    "pdf_url": "https://jeltl.org/index.php/jeltl/article/download/852/pdf"
+  },
+  {
+    "id": "https://openalex.org/W4379279977",
+    "title": "Artificial intelligence, text generation tools and ChatGPT \u2013 does digital watermarking offer a solution?",
+    "year": 2023,
+    "cited_by_count": 86,
+    "pdf_url": "https://edintegrity.biomedcentral.com/counter/pdf/10.1007/s40979-023-00131-6"
+  },
+  {
+    "id": "https://openalex.org/W4387414057",
+    "title": "The Effectiveness of Software Designed to Detect AI-Generated Writing: A Comparison of 16 AI Text Detectors",
+    "year": 2023,
+    "cited_by_count": 86,
+    "pdf_url": "https://www.degruyter.com/document/doi/10.1515/opis-2022-0158/pdf"
+  },
+  {
+    "id": "https://openalex.org/W3213472637",
+    "title": "Generative Pre-Trained Transformer for Design Concept Generation: An Exploration",
+    "year": 2022,
+    "cited_by_count": 85,
+    "pdf_url": "https://www.cambridge.org/core/services/aop-cambridge-core/content/view/41894D82DCBC0610B5B6E68967B7047F/S2732527X22001857a.pdf/div-class-title-generative-pre-trained-transformer-for-design-concept-generation-an-exploration-div.pdf"
+  },
+  {
+    "id": "https://openalex.org/W4294133266",
+    "title": "From Word Embeddings to Pre-Trained Language Models: A State-of-the-Art Walkthrough",
+    "year": 2022,
+    "cited_by_count": 85,
+    "pdf_url": "https://www.mdpi.com/2076-3417/12/17/8805/pdf?version=1662472831"
+  },
+  {
+    "id": "https://openalex.org/W4385571452",
+    "title": "Reasoning Implicit Sentiment with Chain-of-Thought Prompting",
+    "year": 2023,
+    "cited_by_count": 85,
+    "pdf_url": "https://aclanthology.org/2023.acl-short.101.pdf"
+  },
+  {
+    "id": "https://openalex.org/W4389574762",
+    "title": "How understanding large language models can inform the use of ChatGPT in physics education",
+    "year": 2023,
+    "cited_by_count": 85,
+    "pdf_url": "https://iopscience.iop.org/article/10.1088/1361-6404/ad1420/pdf"
+  },
+  {
+    "id": "https://openalex.org/W3200957830",
+    "title": "Who is a Migrant? Abandoning the Nation-state Point of View in the Study of Migration",
+    "year": 2022,
+    "cited_by_count": 84,
+    "pdf_url": "https://scipost.org/10.21468/MigPol.1.1.002/pdf"
+  },
+  {
+    "id": "https://openalex.org/W4285251400",
+    "title": "Is GPT-3 Text Indistinguishable from Human Text? Scarecrow: A Framework for Scrutinizing Machine Text",
+    "year": 2022,
+    "cited_by_count": 84,
+    "pdf_url": "https://aclanthology.org/2022.acl-long.501.pdf"
+  },
+  {
+    "id": "https://openalex.org/W4383749364",
+    "title": "ChatGPT vs Google for Queries Related to Dementia and Other Cognitive Decline: Comparison of Results",
+    "year": 2023,
+    "cited_by_count": 84,
+    "pdf_url": "https://www.jmir.org/2023/1/e48966/PDF"
+  },
+  {
+    "id": "https://openalex.org/W4385570984",
+    "title": "Unnatural Instructions: Tuning Language Models with (Almost) No Human Labor",
+    "year": 2023,
+    "cited_by_count": 84,
+    "pdf_url": "https://aclanthology.org/2023.acl-long.806.pdf"
+  },
+  {
+    "id": "https://openalex.org/W4385573236",
+    "title": "MuRAG: Multimodal Retrieval-Augmented Generator for Open Question Answering over Images and Text",
+    "year": 2022,
+    "cited_by_count": 84,
+    "pdf_url": "https://aclanthology.org/2022.emnlp-main.375.pdf"
+  },
+  {
+    "id": "https://openalex.org/W4389524534",
+    "title": "MEGA: Multilingual Evaluation of Generative AI",
+    "year": 2023,
+    "cited_by_count": 84,
+    "pdf_url": "https://aclanthology.org/2023.emnlp-main.258.pdf"
+  },
+  {
+    "id": "https://openalex.org/W3202031169",
+    "title": "Paradigm Shift in Natural Language Processing",
+    "year": 2022,
+    "cited_by_count": 83,
+    "pdf_url": "https://link.springer.com/content/pdf/10.1007/s11633-022-1331-6.pdf"
+  },
+  {
+    "id": "https://openalex.org/W4225580830",
+    "title": "Subgraph Retrieval Enhanced Model for Multi-hop Knowledge Base Question Answering",
+    "year": 2022,
+    "cited_by_count": 83,
+    "pdf_url": "https://aclanthology.org/2022.acl-long.396.pdf"
+  },
+  {
+    "id": "https://openalex.org/W4385411519",
+    "title": "Evaluating the authenticity of ChatGPT responses: a study on text-matching capabilities",
+    "year": 2023,
+    "cited_by_count": 83,
+    "pdf_url": "https://edintegrity.biomedcentral.com/counter/pdf/10.1007/s40979-023-00137-0"
+  },
+  {
+    "id": "https://openalex.org/W4285158119",
+    "title": "Findings of the IWSLT 2022 Evaluation Campaign",
+    "year": 2022,
+    "cited_by_count": 81,
+    "pdf_url": "https://aclanthology.org/2022.iwslt-1.10.pdf"
+  },
+  {
+    "id": "https://openalex.org/W4367053854",
+    "title": "Making Sense of Generative Learning",
+    "year": 2023,
+    "cited_by_count": 81,
+    "pdf_url": "https://link.springer.com/content/pdf/10.1007/s10648-023-09769-7.pdf"
+  },
+  {
+    "id": "https://openalex.org/W4385570481",
+    "title": "RARR: Researching and Revising What Language Models Say, Using Language Models",
+    "year": 2023,
+    "cited_by_count": 81,
+    "pdf_url": "https://aclanthology.org/2023.acl-long.910.pdf"
+  },
+  {
+    "id": "https://openalex.org/W4285106586",
+    "title": "MELM: Data Augmentation with Masked Entity Language Modeling for Low-Resource NER",
+    "year": 2022,
+    "cited_by_count": 80,
+    "pdf_url": "https://aclanthology.org/2022.acl-long.160.pdf"
+  },
+  {
+    "id": "https://openalex.org/W4382020836",
+    "title": "Analysing the Applicability of ChatGPT, Bard, and Bing to Generate Reasoning-Based Multiple-Choice Questions in Medical Physiology",
+    "year": 2023,
+    "cited_by_count": 79,
+    "pdf_url": "https://assets.cureus.com/uploads/original_article/pdf/165118/20230626-11464-3mo0c9.pdf"
+  }
+]

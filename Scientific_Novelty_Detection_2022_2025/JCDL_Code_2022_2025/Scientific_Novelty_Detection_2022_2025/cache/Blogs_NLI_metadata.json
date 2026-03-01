@@ -1,0 +1,722 @@
+[
+  {
+    "id": "https://openalex.org/W3185341429",
+    "title": "Pre-train, Prompt, and Predict: A Systematic Survey of Prompting Methods in Natural Language Processing",
+    "year": 2022,
+    "pdf_url": "https://dl.acm.org/doi/pdf/10.1145/3560815"
+  },
+  {
+    "id": "https://openalex.org/W4224300633",
+    "title": "Particle Swarm Optimization Algorithm and Its Applications: A Systematic Review",
+    "year": 2022,
+    "pdf_url": "https://link.springer.com/content/pdf/10.1007/s11831-021-09694-4.pdf"
+  },
+  {
+    "id": "https://openalex.org/W4386142022",
+    "title": "Interpreting Black-Box Models: A Review on Explainable Artificial Intelligence",
+    "year": 2023,
+    "pdf_url": "https://link.springer.com/content/pdf/10.1007/s12559-023-10179-8.pdf"
+  },
+  {
+    "id": "https://openalex.org/W4365143687",
+    "title": "Foundation models for generalist medical artificial intelligence",
+    "year": 2023,
+    "pdf_url": "https://www.nature.com/articles/s41586-023-05881-4.pdf"
+  },
+  {
+    "id": "https://openalex.org/W4225716729",
+    "title": "AI-Based Modeling: Techniques, Applications and Research Issues Towards Automation, Intelligent and Smart Systems",
+    "year": 2022,
+    "pdf_url": "https://link.springer.com/content/pdf/10.1007/s42979-022-01043-x.pdf"
+  },
+  {
+    "id": "https://openalex.org/W4295951577",
+    "title": "Multimodal biomedical AI",
+    "year": 2022,
+    "pdf_url": "https://www.nature.com/articles/s41591-022-01981-2.pdf"
+  },
+  {
+    "id": "https://openalex.org/W3137147200",
+    "title": "A Survey of Quantization Methods for Efficient Neural Network Inference",
+    "year": 2022,
+    "pdf_url": "https://api.taylorfrancis.com/content/chapters/edit/download?identifierName=doi&identifierValue=10.1201/9781003162810-13&type=chapterpdf"
+  },
+  {
+    "id": "https://openalex.org/W4297021616",
+    "title": "Management of hyperglycaemia in type 2 diabetes, 2022. A consensus report by the American Diabetes Association (ADA) and the European Association for the Study of Diabetes (EASD)",
+    "year": 2022,
+    "pdf_url": "https://link.springer.com/content/pdf/10.1007/s00125-022-05787-2.pdf"
+  },
+  {
+    "id": "https://openalex.org/W4382618993",
+    "title": "The second data release from the European Pulsar Timing Array",
+    "year": 2023,
+    "pdf_url": "https://www.aanda.org/articles/aa/pdf/forth/aa46844-23.pdf"
+  },
+  {
+    "id": "https://openalex.org/W4387500346",
+    "title": "The future landscape of large language models in medicine",
+    "year": 2023,
+    "pdf_url": "https://www.nature.com/articles/s43856-023-00370-1.pdf"
+  },
+  {
+    "id": "https://openalex.org/W4210916416",
+    "title": "Tackling Climate Change with Machine Learning",
+    "year": 2022,
+    "pdf_url": null
+  },
+  {
+    "id": "https://openalex.org/W4206582439",
+    "title": "The Sixth Mass Extinction: fact, fiction or speculation?",
+    "year": 2022,
+    "pdf_url": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1111/brv.12816"
+  },
+  {
+    "id": "https://openalex.org/W4366817968",
+    "title": "Generative AI at Work",
+    "year": 2023,
+    "pdf_url": "https://doi.org/10.3386/w31161"
+  },
+  {
+    "id": "https://openalex.org/W4284991798",
+    "title": "Interacting with educational chatbots: A systematic review",
+    "year": 2022,
+    "pdf_url": "https://link.springer.com/content/pdf/10.1007/s10639-022-11177-3.pdf"
+  },
+  {
+    "id": "https://openalex.org/W4389365236",
+    "title": "Adaptive Learning Using Artificial Intelligence in e-Learning: A Literature Review",
+    "year": 2023,
+    "pdf_url": "https://www.mdpi.com/2227-7102/13/12/1216/pdf?version=1701879185"
+  },
+  {
+    "id": "https://openalex.org/W4310273071",
+    "title": "Graph neural networks for materials science and chemistry",
+    "year": 2022,
+    "pdf_url": "https://www.nature.com/articles/s43246-022-00315-6.pdf"
+  },
+  {
+    "id": "https://openalex.org/W4386222752",
+    "title": "Redefining Radiology: A Review of Artificial Intelligence Integration in Medical Imaging",
+    "year": 2023,
+    "pdf_url": "https://www.mdpi.com/2075-4418/13/17/2760/pdf?version=1692969539"
+  },
+  {
+    "id": "https://openalex.org/W4313451803",
+    "title": "Performance of ChatGPT on USMLE: Potential for AI-Assisted Medical Education Using Large Language Models",
+    "year": 2022,
+    "pdf_url": "https://www.medrxiv.org/content/medrxiv/early/2022/12/21/2022.12.19.22283643.full.pdf"
+  },
+  {
+    "id": "https://openalex.org/W3176828726",
+    "title": "BitFit: Simple Parameter-efficient Fine-tuning for Transformer-based Masked Language-models",
+    "year": 2022,
+    "pdf_url": "https://aclanthology.org/2022.acl-short.1.pdf"
+  },
+  {
+    "id": "https://openalex.org/W4210883322",
+    "title": "Perspectives in machine learning for wildlife conservation",
+    "year": 2022,
+    "pdf_url": "https://www.nature.com/articles/s41467-022-27980-y.pdf"
+  },
+  {
+    "id": "https://openalex.org/W4391855109",
+    "title": "A Review on Large Language Models: Architectures, Applications, Taxonomies, Open Issues and Challenges",
+    "year": 2024,
+    "pdf_url": "https://ieeexplore.ieee.org/ielx7/6287639/6514899/10433480.pdf"
+  },
+  {
+    "id": "https://openalex.org/W4381252028",
+    "title": "The Role of AI in Drug Discovery: Challenges, Opportunities, and Strategies",
+    "year": 2023,
+    "pdf_url": "https://www.mdpi.com/1424-8247/16/6/891/pdf?version=1687145019"
+  },
+  {
+    "id": "https://openalex.org/W4223430324",
+    "title": "Machine learning for medical imaging: methodological failures and recommendations for the future",
+    "year": 2022,
+    "pdf_url": "https://www.nature.com/articles/s41746-022-00592-y.pdf"
+  },
+  {
+    "id": "https://openalex.org/W4378882744",
+    "title": "Integration of IoT-Enabled Technologies and Artificial Intelligence (AI) for Smart City Scenario: Recent Advancements and Future Trends",
+    "year": 2023,
+    "pdf_url": "https://www.mdpi.com/1424-8220/23/11/5206/pdf?version=1685449538"
+  },
+  {
+    "id": "https://openalex.org/W3185585276",
+    "title": "Integrating Scientific Knowledge with Machine Learning for Engineering and Environmental Systems",
+    "year": 2022,
+    "pdf_url": "https://dl.acm.org/doi/pdf/10.1145/3514228"
+  },
+  {
+    "id": "https://openalex.org/W4286500588",
+    "title": "Evolutionary-scale prediction of atomic level protein structure with a language model",
+    "year": 2022,
+    "pdf_url": "https://www.biorxiv.org/content/biorxiv/early/2022/10/31/2022.07.20.500902.full.pdf"
+  },
+  {
+    "id": "https://openalex.org/W3104128335",
+    "title": "Challenges in Deploying Machine Learning: A Survey of Case Studies",
+    "year": 2022,
+    "pdf_url": "https://dl.acm.org/doi/pdf/10.1145/3533378"
+  },
+  {
+    "id": "https://openalex.org/W4385416665",
+    "title": "The Power of Generative AI: A Review of Requirements, Models, Input\u2013Output Formats, Evaluation Metrics, and Challenges",
+    "year": 2023,
+    "pdf_url": "https://www.mdpi.com/1999-5903/15/8/260/pdf?version=1690812126"
+  },
+  {
+    "id": "https://openalex.org/W4210305137",
+    "title": "Photonic matrix multiplication lights up photonic accelerator and beyond",
+    "year": 2022,
+    "pdf_url": "https://www.nature.com/articles/s41377-022-00717-8.pdf"
+  },
+  {
+    "id": "https://openalex.org/W4367598041",
+    "title": "Comparing Vision Transformers and Convolutional Neural Networks for Image Classification: A Literature Review",
+    "year": 2023,
+    "pdf_url": "https://www.mdpi.com/2076-3417/13/9/5521/pdf?version=1683174100"
+  },
+  {
+    "id": "https://openalex.org/W4221045317",
+    "title": "Towards a standard for identifying and managing bias in artificial intelligence",
+    "year": 2022,
+    "pdf_url": "https://doi.org/10.6028/nist.sp.1270"
+  },
+  {
+    "id": "https://openalex.org/W3122241445",
+    "title": "What Makes Good In-Context Examples for GPT-3?",
+    "year": 2022,
+    "pdf_url": "https://aclanthology.org/2022.deelio-1.10.pdf"
+  },
+  {
+    "id": "https://openalex.org/W4283799942",
+    "title": "Advances and Trends in Omics Technology Development",
+    "year": 2022,
+    "pdf_url": "https://www.frontiersin.org/articles/10.3389/fmed.2022.911861/pdf"
+  },
+  {
+    "id": "https://openalex.org/W4291972732",
+    "title": "Edge Computing with Artificial Intelligence: A Machine Learning Perspective",
+    "year": 2022,
+    "pdf_url": "https://dl.acm.org/doi/pdf/10.1145/3555802"
+  },
+  {
+    "id": "https://openalex.org/W4394828356",
+    "title": "GPT (Generative Pre-Trained Transformer)\u2014 A Comprehensive Review on Enabling Technologies, Potential Applications, Emerging Challenges, and Future Directions",
+    "year": 2024,
+    "pdf_url": "https://ieeexplore.ieee.org/ielx7/6287639/6514899/10500411.pdf"
+  },
+  {
+    "id": "https://openalex.org/W3138815606",
+    "title": "Membership Inference Attacks on Machine Learning: A Survey",
+    "year": 2022,
+    "pdf_url": "https://dl.acm.org/doi/pdf/10.1145/3523273"
+  },
+  {
+    "id": "https://openalex.org/W4285065952",
+    "title": "A Review of Wavelet Analysis and Its Applications: Challenges and Opportunities",
+    "year": 2022,
+    "pdf_url": "https://ieeexplore.ieee.org/ielx7/6287639/6514899/09785993.pdf"
+  },
+  {
+    "id": "https://openalex.org/W4312045033",
+    "title": "Amyotrophic lateral sclerosis: a neurodegenerative disorder poised for successful therapeutic translation",
+    "year": 2022,
+    "pdf_url": "https://www.nature.com/articles/s41573-022-00612-2.pdf"
+  },
+  {
+    "id": "https://openalex.org/W4321786089",
+    "title": "From Anecdotal Evidence to Quantitative Evaluation Methods: A Systematic Review on Evaluating Explainable AI",
+    "year": 2023,
+    "pdf_url": "https://dl.acm.org/doi/pdf/10.1145/3583558"
+  },
+  {
+    "id": "https://openalex.org/W4308292299",
+    "title": "Real-world data: a brief review of the methods, applications, challenges and opportunities",
+    "year": 2022,
+    "pdf_url": "https://bmcmedresmethodol.biomedcentral.com/counter/pdf/10.1186/s12874-022-01768-6"
+  },
+  {
+    "id": "https://openalex.org/W4375949262",
+    "title": "A Categorical Archive of ChatGPT Failures",
+    "year": 2023,
+    "pdf_url": "https://www.researchsquare.com/article/rs-2895792/latest.pdf"
+  },
+  {
+    "id": "https://openalex.org/W3092541244",
+    "title": "Fairness in Machine Learning: A Survey",
+    "year": 2023,
+    "pdf_url": "https://dl.acm.org/doi/pdf/10.1145/3616865"
+  },
+  {
+    "id": "https://openalex.org/W4390906246",
+    "title": "A review of graph neural networks: concepts, architectures, techniques, challenges, datasets, applications, and future directions",
+    "year": 2024,
+    "pdf_url": "https://journalofbigdata.springeropen.com/counter/pdf/10.1186/s40537-023-00876-4"
+  },
+  {
+    "id": "https://openalex.org/W4205636865",
+    "title": "Polycystic Ovary Syndrome: A Comprehensive Review of Pathogenesis, Management, and Drug Repurposing",
+    "year": 2022,
+    "pdf_url": "https://www.mdpi.com/1422-0067/23/2/583/pdf?version=1641454712"
+  },
+  {
+    "id": "https://openalex.org/W4328115538",
+    "title": "An advanced deep learning models-based plant disease detection: A review of recent research",
+    "year": 2023,
+    "pdf_url": "https://www.frontiersin.org/articles/10.3389/fpls.2023.1158933/pdf"
+  },
+  {
+    "id": "https://openalex.org/W4388459526",
+    "title": "Medical image analysis using deep learning algorithms",
+    "year": 2023,
+    "pdf_url": "https://www.frontiersin.org/articles/10.3389/fpubh.2023.1273253/pdf?isPublishedV2=False"
+  },
+  {
+    "id": "https://openalex.org/W4285787895",
+    "title": "A Review of Generalized Zero-Shot Learning Methods",
+    "year": 2022,
+    "pdf_url": "https://ieeexplore.ieee.org/ielx7/34/4359286/09832795.pdf"
+  },
+  {
+    "id": "https://openalex.org/W4282935413",
+    "title": "RETRACTED ARTICLE: Artificial intelligence and machine learning in precision and genomic medicine",
+    "year": 2022,
+    "pdf_url": "https://link.springer.com/content/pdf/10.1007/s12032-022-01711-1.pdf"
+  },
+  {
+    "id": "https://openalex.org/W4283801824",
+    "title": "Shifting machine learning for healthcare from development to deployment and from models to data",
+    "year": 2022,
+    "pdf_url": "https://www.nature.com/articles/s41551-022-00898-y.pdf"
+  },
+  {
+    "id": "https://openalex.org/W4205589336",
+    "title": "Feeding habits and multifunctional classification of soil\u2010associated consumers from protists to vertebrates",
+    "year": 2022,
+    "pdf_url": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1111/brv.12832"
+  },
+  {
+    "id": "https://openalex.org/W4220685469",
+    "title": "Current progress and open challenges for applying deep learning across the biosciences",
+    "year": 2022,
+    "pdf_url": "https://www.nature.com/articles/s41467-022-29268-7.pdf"
+  },
+  {
+    "id": "https://openalex.org/W4401889742",
+    "title": "Recurrent Neural Networks: A Comprehensive Review of Architectures, Variants, and Applications",
+    "year": 2024,
+    "pdf_url": "https://www.mdpi.com/2078-2489/15/9/517/pdf?version=1724574257"
+  },
+  {
+    "id": "https://openalex.org/W4389519153",
+    "title": "Findings of the Association for Computational Linguistics: EMNLP 2023",
+    "year": 2023,
+    "pdf_url": "https://aclanthology.org/2023.findings-emnlp.0.pdf"
+  },
+  {
+    "id": "https://openalex.org/W4392851477",
+    "title": "Generative AI in healthcare: an implementation science informed translational path on application, integration and governance",
+    "year": 2024,
+    "pdf_url": "https://implementationscience.biomedcentral.com/counter/pdf/10.1186/s13012-024-01357-9"
+  },
+  {
+    "id": "https://openalex.org/W4226108798",
+    "title": "Explainable AI Methods - A Brief Overview",
+    "year": 2022,
+    "pdf_url": "https://link.springer.com/content/pdf/10.1007/978-3-031-04083-2_2.pdf"
+  },
+  {
+    "id": "https://openalex.org/W4318483790",
+    "title": "Evaluation of artificial intelligence techniques in disease diagnosis and prediction",
+    "year": 2023,
+    "pdf_url": "https://link.springer.com/content/pdf/10.1007/s44163-023-00049-5.pdf"
+  },
+  {
+    "id": "https://openalex.org/W4210867863",
+    "title": "Ethics of AI-Enabled Recruiting and Selection: A Review and Research Agenda",
+    "year": 2022,
+    "pdf_url": "https://link.springer.com/content/pdf/10.1007/s10551-022-05049-6.pdf"
+  },
+  {
+    "id": "https://openalex.org/W4383737134",
+    "title": "A Survey on Large Language Models: Applications, Challenges, Limitations, and Practical Usage",
+    "year": 2023,
+    "pdf_url": "https://www.techrxiv.org/doi/pdf/10.36227/techrxiv.23589741.v1"
+  },
+  {
+    "id": "https://openalex.org/W4304185479",
+    "title": "On scientific understanding with artificial intelligence",
+    "year": 2022,
+    "pdf_url": "https://pure.mpg.de/rest/items/item_3450670/component/file_3450671/content"
+  },
+  {
+    "id": "https://openalex.org/W4307561542",
+    "title": "Knowledge Tracing: A Survey",
+    "year": 2022,
+    "pdf_url": "https://dl.acm.org/doi/pdf/10.1145/3569576"
+  },
+  {
+    "id": "https://openalex.org/W4220980752",
+    "title": "The Role of Artificial Intelligence in Early Cancer Diagnosis",
+    "year": 2022,
+    "pdf_url": "https://www.mdpi.com/2072-6694/14/6/1524/pdf?version=1647426117"
+  },
+  {
+    "id": "https://openalex.org/W4206780588",
+    "title": "Human activity recognition in artificial intelligence framework: a narrative review",
+    "year": 2022,
+    "pdf_url": "https://link.springer.com/content/pdf/10.1007/s10462-021-10116-x.pdf"
+  },
+  {
+    "id": "https://openalex.org/W4224839097",
+    "title": "A Review on Machine Learning, Artificial Intelligence, and Smart Technology in Water Treatment and Monitoring",
+    "year": 2022,
+    "pdf_url": "https://www.mdpi.com/2073-4441/14/9/1384/pdf?version=1650794047"
+  },
+  {
+    "id": "https://openalex.org/W4387457231",
+    "title": "Harnessing the power of synthetic data in healthcare: innovation, application, and privacy",
+    "year": 2023,
+    "pdf_url": "https://www.nature.com/articles/s41746-023-00927-3.pdf"
+  },
+  {
+    "id": "https://openalex.org/W4372335396",
+    "title": "Levodopa Dose Equivalency in Parkinson's Disease: Updated Systematic Review and Proposals",
+    "year": 2023,
+    "pdf_url": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1002/mds.29410"
+  },
+  {
+    "id": "https://openalex.org/W4281784047",
+    "title": "Machine learning and deep learning based predictive quality in manufacturing: a systematic review",
+    "year": 2022,
+    "pdf_url": "https://link.springer.com/content/pdf/10.1007/s10845-022-01963-8.pdf"
+  },
+  {
+    "id": "https://openalex.org/W4385346108",
+    "title": "ChatGPT for shaping the future of dentistry: the potential of multi-modal large language model",
+    "year": 2023,
+    "pdf_url": "https://www.nature.com/articles/s41368-023-00239-y.pdf"
+  },
+  {
+    "id": "https://openalex.org/W4307968550",
+    "title": "Artificial intelligence and machine learning in cancer imaging",
+    "year": 2022,
+    "pdf_url": "https://www.nature.com/articles/s43856-022-00199-0.pdf"
+  },
+  {
+    "id": "https://openalex.org/W4312910656",
+    "title": "Efficient Acceleration of Deep Learning Inference on Resource-Constrained Edge Devices: A Review",
+    "year": 2022,
+    "pdf_url": "https://ieeexplore.ieee.org/ielx7/5/10015202/09985008.pdf"
+  },
+  {
+    "id": "https://openalex.org/W4210361514",
+    "title": "A Systematic Review of Explainable Artificial Intelligence in Terms of Different Application Domains and Tasks",
+    "year": 2022,
+    "pdf_url": "https://www.mdpi.com/2076-3417/12/3/1353/pdf?version=1643529106"
+  },
+  {
+    "id": "https://openalex.org/W4293762926",
+    "title": "Generative Adversarial Networks in Time Series: A Systematic Literature Review",
+    "year": 2022,
+    "pdf_url": "https://dl.acm.org/doi/pdf/10.1145/3559540"
+  },
+  {
+    "id": "https://openalex.org/W4366828815",
+    "title": "A Comprehensive Review on Machine Learning in Healthcare Industry: Classification, Restrictions, Opportunities and Challenges",
+    "year": 2023,
+    "pdf_url": "https://www.mdpi.com/1424-8220/23/9/4178/pdf?version=1682145245"
+  },
+  {
+    "id": "https://openalex.org/W4388639388",
+    "title": "Artificial Intelligence Meets Flexible Sensors: Emerging Smart Flexible Sensing Systems Driven by Machine Learning and Artificial Synapses",
+    "year": 2023,
+    "pdf_url": "https://link.springer.com/content/pdf/10.1007/s40820-023-01235-x.pdf"
+  },
+  {
+    "id": "https://openalex.org/W4224282610",
+    "title": "Machine Learning and Deep Learning in Energy Systems: A Review",
+    "year": 2022,
+    "pdf_url": "https://www.mdpi.com/2071-1050/14/8/4832/pdf?version=1650272052"
+  },
+  {
+    "id": "https://openalex.org/W4206027059",
+    "title": "Mixed Reality (MR) for Generation Z in Cultural Heritage Tourism Towards Metaverse",
+    "year": 2022,
+    "pdf_url": "https://link.springer.com/content/pdf/10.1007/978-3-030-94751-4_2.pdf"
+  },
+  {
+    "id": "https://openalex.org/W4401386758",
+    "title": "Large Language Models in Healthcare and Medical Domain: A Review",
+    "year": 2024,
+    "pdf_url": "https://www.mdpi.com/2227-9709/11/3/57/pdf?version=1723020841"
+  },
+  {
+    "id": "https://openalex.org/W4308433048",
+    "title": "A systematic review of worldwide causal and correlational evidence on digital media and democracy",
+    "year": 2022,
+    "pdf_url": "https://www.nature.com/articles/s41562-022-01460-1.pdf"
+  },
+  {
+    "id": "https://openalex.org/W4393992045",
+    "title": "Interpreting artificial intelligence models: a systematic review on the application of LIME and SHAP in Alzheimer\u2019s disease detection",
+    "year": 2024,
+    "pdf_url": "https://braininformatics.springeropen.com/counter/pdf/10.1186/s40708-024-00222-1"
+  },
+  {
+    "id": "https://openalex.org/W4364323147",
+    "title": "Object Detection Using Deep Learning, CNNs and Vision Transformers: A Review",
+    "year": 2023,
+    "pdf_url": "https://ieeexplore.ieee.org/ielx7/6287639/6514899/10098596.pdf"
+  },
+  {
+    "id": "https://openalex.org/W4353091694",
+    "title": "Catalyzing next-generation Artificial Intelligence through NeuroAI",
+    "year": 2023,
+    "pdf_url": "https://www.nature.com/articles/s41467-023-37180-x.pdf"
+  },
+  {
+    "id": "https://openalex.org/W4317625850",
+    "title": "Artificial Intelligence and Machine Learning Technology Driven Modern Drug Discovery and Development",
+    "year": 2023,
+    "pdf_url": "https://www.mdpi.com/1422-0067/24/3/2026/pdf?version=1675066963"
+  },
+  {
+    "id": "https://openalex.org/W4302426080",
+    "title": "Machine learning and deep learning applications in microbiome research",
+    "year": 2022,
+    "pdf_url": "https://www.nature.com/articles/s43705-022-00182-9.pdf"
+  },
+  {
+    "id": "https://openalex.org/W4281933605",
+    "title": "How do income changes impact on mental health and wellbeing for working-age adults? A systematic review and meta-analysis",
+    "year": 2022,
+    "pdf_url": "http://www.thelancet.com/article/S2468266722000585/pdf"
+  },
+  {
+    "id": "https://openalex.org/W4297094728",
+    "title": "A Review on Machine Learning Styles in Computer Vision\u2014Techniques and Future Directions",
+    "year": 2022,
+    "pdf_url": "https://ieeexplore.ieee.org/ielx7/6287639/6514899/09903420.pdf"
+  },
+  {
+    "id": "https://openalex.org/W4381805119",
+    "title": "Nanotechnology\u2013General Aspects: A Chemical Reduction Approach to the Synthesis of Nanoparticles",
+    "year": 2023,
+    "pdf_url": "https://www.mdpi.com/1420-3049/28/13/4932/pdf?version=1687447621"
+  },
+  {
+    "id": "https://openalex.org/W4205154488",
+    "title": "A review of Earth Artificial Intelligence",
+    "year": 2022,
+    "pdf_url": "https://www.sciencedirect.com/science/article/am/pii/S0098300422000036?via%3Dihub"
+  },
+  {
+    "id": "https://openalex.org/W4220659089",
+    "title": "",
+    "year": 2022,
+    "pdf_url": "https://eprints.ncl.ac.uk/277884"
+  },
+  {
+    "id": "https://openalex.org/W4283807089",
+    "title": "Morphological Engineering of Sensing Materials for Flexible Pressure Sensors and Artificial Intelligence Applications",
+    "year": 2022,
+    "pdf_url": "https://link.springer.com/content/pdf/10.1007/s40820-022-00874-w.pdf"
+  },
+  {
+    "id": "https://openalex.org/W4307447012",
+    "title": "Deep generative molecular design reshapes drug discovery",
+    "year": 2022,
+    "pdf_url": "http://www.cell.com/article/S2666379122003494/pdf"
+  },
+  {
+    "id": "https://openalex.org/W4385381606",
+    "title": "The shaky foundations of large language models and foundation models for electronic health records",
+    "year": 2023,
+    "pdf_url": "https://www.nature.com/articles/s41746-023-00879-8.pdf"
+  },
+  {
+    "id": "https://openalex.org/W4205995027",
+    "title": "Fundamentals of Artificial Neural Networks and Deep Learning",
+    "year": 2022,
+    "pdf_url": "https://link.springer.com/content/pdf/10.1007/978-3-030-89010-0_10.pdf"
+  },
+  {
+    "id": "https://openalex.org/W4306179830",
+    "title": "SELFIES and the future of molecular string representations",
+    "year": 2022,
+    "pdf_url": "http://www.cell.com/article/S2666389922002069/pdf"
+  },
+  {
+    "id": "https://openalex.org/W3134255974",
+    "title": "Split Computing and Early Exiting for Deep Learning Applications: Survey and Research Challenges",
+    "year": 2022,
+    "pdf_url": "https://dl.acm.org/doi/pdf/10.1145/3527155"
+  },
+  {
+    "id": "https://openalex.org/W4285306189",
+    "title": "A Comprehensive Review on Signal-Based and Model-Based Condition Monitoring of Wind Turbines: Fault Diagnosis and Lifetime Prognosis",
+    "year": 2022,
+    "pdf_url": "https://ieeexplore.ieee.org/ielx7/5/9788501/09774410.pdf"
+  },
+  {
+    "id": "https://openalex.org/W4205563072",
+    "title": "Eye Movement and Pupil Measures: A Review",
+    "year": 2022,
+    "pdf_url": "https://www.frontiersin.org/articles/10.3389/fcomp.2021.733531/pdf"
+  },
+  {
+    "id": "https://openalex.org/W4294636450",
+    "title": "Big data in basic and translational cancer research",
+    "year": 2022,
+    "pdf_url": "https://www.nature.com/articles/s41568-022-00502-0.pdf"
+  },
+  {
+    "id": "https://openalex.org/W4319597842",
+    "title": "Defect Detection Methods for Industrial Products Using Deep Learning Techniques: A Review",
+    "year": 2023,
+    "pdf_url": "https://www.mdpi.com/1999-4893/16/2/95/pdf?version=1675846761"
+  },
+  {
+    "id": "https://openalex.org/W4285389795",
+    "title": "How do intestinal probiotics restore the intestinal barrier?",
+    "year": 2022,
+    "pdf_url": "https://www.frontiersin.org/articles/10.3389/fmicb.2022.929346/pdf"
+  },
+  {
+    "id": "https://openalex.org/W4223417816",
+    "title": "Global genetic diversity status and trends: towards a suite of Essential Biodiversity Variables (<scp>EBVs</scp>) for genetic composition",
+    "year": 2022,
+    "pdf_url": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1111/brv.12852"
+  },
+  {
+    "id": "https://openalex.org/W4317042343",
+    "title": "A Review of Machine Learning and Deep Learning Approaches on Mental Health Diagnosis",
+    "year": 2023,
+    "pdf_url": "https://www.mdpi.com/2227-9032/11/3/285/pdf?version=1673950004"
+  },
+  {
+    "id": "https://openalex.org/W4285140393",
+    "title": "A Review of the Trends and Challenges in Adopting Natural Language Processing Methods for Education Feedback Analysis",
+    "year": 2022,
+    "pdf_url": "https://ieeexplore.ieee.org/ielx7/6287639/6514899/09781308.pdf"
+  },
+  {
+    "id": "https://openalex.org/W4312039421",
+    "title": "Challenges and opportunities in remote sensing-based crop monitoring: a review",
+    "year": 2022,
+    "pdf_url": "https://academic.oup.com/nsr/advance-article-pdf/doi/10.1093/nsr/nwac290/49274708/nwac290.pdf"
+  },
+  {
+    "id": "https://openalex.org/W4376598554",
+    "title": "Emotion, motivation, decision-making, the orbitofrontal cortex, anterior cingulate cortex, and the amygdala",
+    "year": 2023,
+    "pdf_url": "https://link.springer.com/content/pdf/10.1007/s00429-023-02644-9.pdf"
+  },
+  {
+    "id": "https://openalex.org/W4392498941",
+    "title": "Emerging opportunities and challenges for the future of reservoir computing",
+    "year": 2024,
+    "pdf_url": "https://www.nature.com/articles/s41467-024-45187-1.pdf"
+  },
+  {
+    "id": "https://openalex.org/W3041148953",
+    "title": "The Computational Limits of Deep Learning",
+    "year": 2023,
+    "pdf_url": "https://limits.pubpub.org/pub/wm1lwjce/download/pdf"
+  },
+  {
+    "id": "https://openalex.org/W4206166171",
+    "title": "A Review on Vibration-Based Condition Monitoring of Rotating Machinery",
+    "year": 2022,
+    "pdf_url": "https://www.mdpi.com/2076-3417/12/3/972/pdf?version=1642655934"
+  },
+  {
+    "id": "https://openalex.org/W4283822762",
+    "title": "UAV-Based Forest Health Monitoring: A Systematic Review",
+    "year": 2022,
+    "pdf_url": "https://www.mdpi.com/2072-4292/14/13/3205/pdf?version=1656985383"
+  },
+  {
+    "id": "https://openalex.org/W4321013654",
+    "title": "The Programmer\u2019s Assistant: Conversational Interaction with a Large Language Model for Software Development",
+    "year": 2023,
+    "pdf_url": "https://dl.acm.org/doi/pdf/10.1145/3581641.3584037"
+  },
+  {
+    "id": "https://openalex.org/W4367665843",
+    "title": "AI for UAV-Assisted IoT Applications: A Comprehensive Review",
+    "year": 2023,
+    "pdf_url": "https://ieeexplore.ieee.org/ielx7/6488907/6702522/10113154.pdf"
+  },
+  {
+    "id": "https://openalex.org/W4362611851",
+    "title": "Environmentally sustainable smart cities and their converging AI, IoT, and big data technologies and solutions: an integrated approach to an extensive literature review",
+    "year": 2023,
+    "pdf_url": "https://energyinformatics.springeropen.com/counter/pdf/10.1186/s42162-023-00259-2"
+  },
+  {
+    "id": "https://openalex.org/W4379743664",
+    "title": "A systematic review of Green <scp>AI</scp>",
+    "year": 2023,
+    "pdf_url": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1002/widm.1507"
+  },
+  {
+    "id": "https://openalex.org/W4206968775",
+    "title": "Meta\u2010analysis shows both congruence and complementarity of DNA and eDNA metabarcoding to traditional methods for biological community assessment",
+    "year": 2022,
+    "pdf_url": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1111/mec.16364"
+  },
+  {
+    "id": "https://openalex.org/W4321350922",
+    "title": "Survey of explainable artificial intelligence techniques for biomedical imaging with deep neural networks",
+    "year": 2023,
+    "pdf_url": "https://ars.els-cdn.com/content/image/1-s2.0-S0010482523001336-ga1_lrg.jpg"
+  },
+  {
+    "id": "https://openalex.org/W4387809804",
+    "title": "Leveraging Generative AI and Large Language Models: A Comprehensive Roadmap for Healthcare Integration",
+    "year": 2023,
+    "pdf_url": "https://www.mdpi.com/2227-9032/11/20/2776/pdf?version=1697783532"
+  },
+  {
+    "id": "https://openalex.org/W4367174885",
+    "title": "Deep Learning Approaches for Data Augmentation in Medical Imaging: A Review",
+    "year": 2023,
+    "pdf_url": "https://www.mdpi.com/2313-433X/9/4/81/pdf?version=1681461366"
+  },
+  {
+    "id": "https://openalex.org/W4321376147",
+    "title": "Artificial intelligence in dentistry\u2014A review",
+    "year": 2023,
+    "pdf_url": "https://www.frontiersin.org/articles/10.3389/fdmed.2023.1085251/pdf"
+  },
+  {
+    "id": "https://openalex.org/W4391617198",
+    "title": "Integrating Artificial Intelligence for Drug Discovery in the Context of Revolutionizing Drug Delivery",
+    "year": 2024,
+    "pdf_url": "https://www.mdpi.com/2075-1729/14/2/233/pdf?version=1707364240"
+  },
+  {
+    "id": "https://openalex.org/W3191514888",
+    "title": "Applications of artificial neural networks in microorganism image analysis: a comprehensive review from conventional multilayer perceptron to popular convolutional neural network and potential visual transformer",
+    "year": 2022,
+    "pdf_url": "https://link.springer.com/content/pdf/10.1007/s10462-022-10192-7.pdf"
+  },
+  {
+    "id": "https://openalex.org/W4391130440",
+    "title": "A Review of Machine Learning and Deep Learning for Object Detection, Semantic Segmentation, and Human Action Recognition in Machine and Robotic Vision",
+    "year": 2024,
+    "pdf_url": "https://www.mdpi.com/2227-7080/12/2/15/pdf?version=1706013199"
+  },
+  {
+    "id": "https://openalex.org/W4321366933",
+    "title": "ChatGPT and antimicrobial advice: the end of the consulting infection doctor?",
+    "year": 2023,
+    "pdf_url": null
+  }
+]
