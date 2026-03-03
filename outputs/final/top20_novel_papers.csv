@@ -1,21 +1,21 @@
 paper_id,title,split,domain,year,composite_novelty,structural_novelty,semantic_knn,triple_count
-SKG_MT_715,Automatic Evaluation of Translation Quality for Distant Language Pairs,SKG,MT,2010,0.9629375025352888,1.0,1.0,30
-SKG_QA_101,"Tree Edit Models for Recognizing Textual Entailments, Paraphrases, and Answers to Questions",SKG,QA,2010,0.9608997988690128,1.0,1.0,23
-SKG_SA_544,Holistic Sentiment Analysis Across Languages Multilingual Supervised Latent Dirichlet Allocation,SKG,SA,2010,0.95405704934526,1.0,1.0,114
-SKG_MT_137,Task-based Evaluation of Multiword Expressions a Pilot Study in Statistical Machine Translation,SKG,MT,2010,0.9498622384303326,1.0,1.0,46
-SKG_MT_838,Cross Language Text Classification by Model Translation and Semi-Supervised Learning,SKG,MT,2010,0.9496165878211548,1.0,1.0,133
-SKG_MT_547,"Jane Open Source Hierarchical Translation, Extended with Reordering and Lexicon Models",SKG,MT,2010,0.94843814273417,1.0,1.0,60
-SKG_PAR_69,Uptraining for Accurate Deterministic Question Parsing,SKG,PAR,2010,0.9478711557631092,1.0,1.0,61
-SKG_SA_420,Automatically Generating Annotator Rationales to Improve Sentiment Classification,SKG,SA,2010,0.9463116979808788,1.0,1.0,46
-SKG_MT_850,Stream-based Translation Models for Statistical Machine Translation,SKG,MT,2010,0.9459715535282696,1.0,1.0,128
-SKG_MT_196,Extending the METEOR Machine Translation Evaluation Metric to the Phrase Level,SKG,MT,2010,0.945620609052828,1.0,1.0,17
-SKG_MT_1074,Accurate Non-Hierarchical Phrase-Based Translation,SKG,MT,2010,0.9452581561718812,1.0,1.0,99
-SKG_SA_217,Optimizing Informativeness and Readability for Sentiment Summarization,SKG,SA,2010,0.9446911692008204,1.0,1.0,35
-SKG_SUM_83,Optimizing Informativeness and Readability for Sentiment Summarization,SKG,SUM,2010,0.9446911692008204,1.0,1.0,35
-SKG_DIA_209,Learning to Adapt to Unknown Users Referring Expression Generation in Spoken Dialogue Systems,SKG,DIA,2010,0.941829758650172,1.0,1.0,54
-SKG_MT_17,Hindi to Punjabi Machine Translation System,SKG,MT,2010,0.9413155346551356,1.0,1.0,2
-SKG_SA_527,A Comparative Study of Bayesian Models for Unsupervised Sentiment Detection,SKG,SA,2010,0.9413155346551356,1.0,1.0,106
-SKG_SUM_67,Multi-Document Summarization Using A Search and Discriminative Learning,SKG,SUM,2010,0.9402092298701132,1.0,1.0,68
-SKG_MT_795,Divide and Translate Improving Long Distance Reordering in Statistical Machine Translation,SKG,MT,2010,0.939611580403692,1.0,1.0,78
-SKG_MT_1325,Model Combination for Machine Translation,SKG,MT,2010,0.939300184530329,1.0,1.0,107
-SKG_MT_388,Soft Syntactic Constraints for Hierarchical Phrase-Based Translation Using Latent Syntactic Distributions,SKG,MT,2010,0.938649772087883,1.0,1.0,61
+SKG_MT_715,Automatic Evaluation of Translation Quality for Distant Language Pairs,SKG,MT,2010,0.9612398142046816,1.0,1.0,30.0
+SKG_QA_101,"Tree Edit Models for Recognizing Textual Entailments, Paraphrases, and Answers to Questions",SKG,QA,2010,0.9592570759484642,1.0,1.0,23.0
+SKG_SA_544,Holistic Sentiment Analysis Across Languages Multilingual Supervised Latent Dirichlet Allocation,SKG,SA,2010,0.952598904064593,1.0,1.0,114.0
+SKG_MT_137,Task-based Evaluation of Multiword Expressions a Pilot Study in Statistical Machine Translation,SKG,MT,2010,0.9485172447849464,1.0,1.0,46.0
+SKG_MT_838,Cross Language Text Classification by Model Translation and Semi-Supervised Learning,SKG,MT,2010,0.9482782204024804,1.0,1.0,133.0
+SKG_MT_547,"Jane Open Source Hierarchical Translation, Extended with Reordering and Lexicon Models",SKG,MT,2010,0.9471315629196058,1.0,1.0,60.0
+SKG_PAR_69,Uptraining for Accurate Deterministic Question Parsing,SKG,PAR,2010,0.9465798699639988,1.0,1.0,61.0
+SKG_SA_420,Automatically Generating Annotator Rationales to Improve Sentiment Classification,SKG,SA,2010,0.945062477295498,1.0,1.0,46.0
+SKG_MT_850,Stream-based Translation Models for Statistical Machine Translation,SKG,MT,2010,0.944731507964682,1.0,1.0,128.0
+SKG_MT_196,Extending the METEOR Machine Translation Evaluation Metric to the Phrase Level,SKG,MT,2010,0.944390029932924,1.0,1.0,17.0
+SKG_MT_1074,Accurate Non-Hierarchical Phrase-Based Translation,SKG,MT,2010,0.9440373539256008,1.0,1.0,99.0
+SKG_MT_W4285294723,GLM: General Language Model Pretraining with Autoregressive Blank Infilling,SKG,MT,2022,0.943973018913598,1.0,0.9822966456413268,284.0
+SKG_NLI_W4285294723,GLM: General Language Model Pretraining with Autoregressive Blank Infilling,SKG,NLI,2022,0.943973018913598,1.0,0.9822966456413268,284.0
+SKG_QA_W4285294723,GLM: General Language Model Pretraining with Autoregressive Blank Infilling,SKG,QA,2022,0.943973018913598,1.0,0.9822966456413268,284.0
+SKG_SA_W4285294723,GLM: General Language Model Pretraining with Autoregressive Blank Infilling,SKG,SA,2022,0.943973018913598,1.0,0.9822966456413268,284.0
+SKG_SUM_W4285294723,GLM: General Language Model Pretraining with Autoregressive Blank Infilling,SKG,SUM,2022,0.943973018913598,1.0,0.9822966456413268,284.0
+SKG_SUM_83,Optimizing Informativeness and Readability for Sentiment Summarization,SKG,SUM,2010,0.9434856609699936,1.0,1.0,35.0
+SKG_SA_217,Optimizing Informativeness and Readability for Sentiment Summarization,SKG,SA,2010,0.9434856609699936,1.0,1.0,35.0
+SKG_DIA_209,Learning to Adapt to Unknown Users Referring Expression Generation in Spoken Dialogue Systems,SKG,DIA,2010,0.940701434657105,1.0,1.0,54.0
+SKG_MT_17,Hindi to Punjabi Machine Translation System,SKG,MT,2010,0.9402010814388736,1.0,1.0,2.0

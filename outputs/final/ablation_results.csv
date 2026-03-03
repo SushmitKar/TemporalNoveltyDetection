@@ -1,5 +1,5 @@
 Variant,NOVEL Mean,SKG Mean,Delta (N-S),p-value,Effect Size r,Significant
-Structural Only,0.7088,0.7691,-0.0602,1.0,0.4117,No
-Semantic Only,0.8921,0.8562,0.0359,0.0,-0.4364,Yes
-Citation Only,0.2838,0.3605,-0.0767,1.0,0.2722,No
-Combined (0.20/0.70/0.10),0.7946,0.7892,0.0054,0.092437,-0.0413,No
+Structural Only,0.4679,0.6412,-0.1732,1.0,0.3762,No
+Semantic Only,0.8374,0.8389,-0.0015,0.033382,-0.0431,Yes
+Citation Only,0.4572,0.439,0.0182,0.015632,-0.0506,Yes
+Combined (0.20/0.70/0.10),0.7255,0.7594,-0.0338,1.0,0.1873,No
