@@ -1,0 +1,2 @@
+test_name,group1,group2,mean_group1,mean_group2,u_stat,p_value,r,n_group1,n_group2,passes_criterion
+Baseline_0.20struct_0.70sem_0.10cit,NOVEL,SKG,0.7255159573830682,0.7593636658458424,902864.5,1.5327611817412445e-15,0.1873377581917487,762,2916,False
