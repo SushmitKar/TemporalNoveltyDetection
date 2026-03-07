@@ -1,0 +1,21 @@
+entity,total_degree,early_count,late_count,growth_score,name
+E_3d3eb2e5c4,846,2,788,5.572154,learning rate
+E_b794c3472c,668,4,638,4.850467,batch size
+E_d92c36790b,211,2,190,4.153661,embeddings
+E_ae830d401a,160,2,145,3.884994,lstm
+E_4c4a9fd7f4,148,2,141,3.857215,attention
+E_c4cf4802b3,241,4,208,3.732896,dimension
+E_478669c7fa,132,2,113,3.637586,questions
+E_e9dac1cd16,1031,23,887,3.610918,our model
+E_1becaec954,95,2,91,3.423176,baseline models
+E_c185ddac8b,690,20,619,3.385197,training
+E_acaeddf0e4,91,2,86,3.367296,other models
+E_ff7a415715,148,3,109,3.314186,cnn
+E_bb3ccd5881,224,6,189,3.301114,information
+E_37a5612413,95,2,79,3.283414,mini-batch size
+E_df9bcbd657,81,2,71,3.178054,gap
+E_2fa47f7c65,85,2,71,3.178054,length
+E_3a95f35e0b,216,7,190,3.172832,our models
+E_c8d696e648,279,10,251,3.131534,beam size
+E_ad27e4ee16,144,5,124,3.036554,large margin
+E_1cb251ec0d,105,3,82,3.032546,text

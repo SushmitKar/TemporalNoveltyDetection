@@ -1,0 +1,16 @@
+entity,total_degree,early_count,late_count,growth_score,name
+E_bb2f137762,25,19,0,-2.995732,statistical machine translation
+E_5e82291746,15,15,0,-2.772589,clmm
+E_c106689ad7,13,13,0,-2.639057,parallel fda
+E_5ec09cf5b5,14,12,0,-2.564949,rule extraction
+E_5ba99795ed,16,12,0,-2.564949,4 - gram lm
+E_1f0f70bf2b,18,12,0,-2.564949,pro
+E_e3fb994206,13,12,0,-2.564949,question retrieval
+E_aa33451da4,12,11,0,-2.484907,lattice
+E_32c0e8a1f0,11,11,0,-2.484907,lsm
+E_c74dfb5634,21,11,0,-2.484907,sparse features
+E_fc93695111,11,11,0,-2.484907,lexicalized reordering
+E_af536f6bb3,11,11,0,-2.484907,subjectivity classification
+E_f4efcb52b5,13,11,0,-2.484907,number of topics
+E_d0b7da71fe,10,10,0,-2.397895,initial task
+E_8cec2300ca,10,10,0,-2.397895,confusion networks
