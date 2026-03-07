@@ -1,0 +1,31 @@
+entity,name,total_degree,growth_ratio
+E_3de0746a7d,bert,246,244999999999.99997
+E_5fe05153b7,transformer,165,152000000000.0
+E_4e00deceeb,hidden size,160,122000000000.0
+E_8f26755056,transformer model,114,104000000000.0
+E_d3052a2680,label smoothing,93,83000000000.0
+E_1d7c2923c1,adam,97,67999999999.99999
+E_10b3bbed74,each word,91,55000000000.0
+E_a9784ab70a,hidden states,90,53000000000.0
+E_79a2c5b09e,parallel data,61,53000000000.0
+E_b61075c67b,length penalty,57,49000000000.0
+E_3ab49a5de3,multi-head attention,58,47000000000.0
+E_030bde5f90,seq2seq,60,44000000000.0
+E_7c899632ce,transformer architecture,44,44000000000.0
+E_f54146a3fc,bart,43,43000000000.0
+E_24d2a3cd80,6 layers,45,43000000000.0
+E_45614f2250,"adam optimizer ( kingma and ba , 2014 )",53,42000000000.0
+E_bc92683377,"transformer ( vaswani et al. , 2017 )",41,40000000000.0
+E_276b2fd681,multilingual models,42,40000000000.0
+E_229e5b1363,roberta,40,40000000000.0
+E_8002477499,adversarial training,53,38000000000.0
+E_5a35fa9e8c,bert model,37,37000000000.0
+E_85a5023773,gcn,41,37000000000.0
+E_8efbc76bb9,finetuning,38,36000000000.0
+E_4fe0641279,back - translation,44,36000000000.0
+E_2d8de51004,"adam optimizer ( kingma and ba , 2015 )",41,36000000000.0
+E_d99ad5ec30,data augmentation,49,35000000000.0
+E_ad187ef9de,"adam ( kingma and ba , 2015 ) optimizer",36,35000000000.0
+E_4ae35cd73a,reinforcement learning,65,35000000000.0
+E_79da17fa16,benefits,37,33999999999.999996
+E_21e119daf6,trade,34,33999999999.999996

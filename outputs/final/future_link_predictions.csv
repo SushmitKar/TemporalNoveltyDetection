@@ -1,0 +1,31 @@
+entity_1,entity_2,jaccard_score,entity_1_name,entity_2_name
+E_f54146a3fc,E_229e5b1363,1.0,bart,roberta
+E_3ab49a5de3,E_24d2a3cd80,0.16,multi-head attention,6 layers
+E_79da17fa16,E_ff999075b9,0.15,benefits,performance gain
+E_b61075c67b,E_3ab49a5de3,0.14285714285714285,length penalty,multi-head attention
+E_85a5023773,E_ca15fd43df,0.125,gcn,nodes
+E_79a2c5b09e,E_4fe0641279,0.11363636363636363,parallel data,back - translation
+E_5fe05153b7,E_3ab49a5de3,0.11363636363636363,transformer,multi-head attention
+E_276b2fd681,E_8efbc76bb9,0.1111111111111111,multilingual models,finetuning
+E_cab58848ef,E_d3019918d2,0.1111111111111111,number of layers,number of heads
+E_5fe05153b7,E_d3052a2680,0.1111111111111111,transformer,label smoothing
+E_b61075c67b,E_24d2a3cd80,0.10714285714285714,length penalty,6 layers
+E_3de0746a7d,E_5a35fa9e8c,0.10526315789473684,bert,bert model
+E_bc92683377,E_d1addc1e9e,0.09523809523809523,"transformer ( vaswani et al. , 2017 )",transformer models
+E_8efbc76bb9,E_4fe0641279,0.09523809523809523,finetuning,back - translation
+E_4e00deceeb,E_24d2a3cd80,0.09259259259259259,hidden size,6 layers
+E_ad187ef9de,E_d1addc1e9e,0.09090909090909091,"adam ( kingma and ba , 2015 ) optimizer",transformer models
+E_1d7c2923c1,E_24d2a3cd80,0.08888888888888889,adam,6 layers
+E_d99ad5ec30,E_d234403d78,0.08695652173913043,data augmentation,robustness
+E_8002477499,E_6831ab04c5,0.08695652173913043,adversarial training,discriminator
+E_8f26755056,E_24d2a3cd80,0.08571428571428572,transformer model,6 layers
+E_3de0746a7d,E_b61075c67b,0.0851063829787234,bert,length penalty
+E_0b347a8c26,E_a8aff967e1,0.08333333333333333,qa model,inputs
+E_8f26755056,E_3ab49a5de3,0.08333333333333333,transformer model,multi-head attention
+E_d3052a2680,E_bc92683377,0.08108108108108109,label smoothing,"transformer ( vaswani et al. , 2017 )"
+E_6831ab04c5,E_d234403d78,0.08,discriminator,robustness
+E_07214c6750,E_ca15fd43df,0.08,entities,nodes
+E_8f26755056,E_b61075c67b,0.07894736842105263,transformer model,length penalty
+E_8f26755056,E_b5dc07c408,0.07894736842105263,transformer model,self-attention
+E_4fe0641279,E_d2693ee4a5,0.07894736842105263,back - translation,byte pair encoding ( bpe )
+E_3ab49a5de3,E_6831ab04c5,0.07692307692307693,multi-head attention,discriminator
