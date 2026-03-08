@@ -1,0 +1,21 @@
+entity_id,name,origin_domain,origin_year,n_domains
+E_02bd92faa3,author,QA,2018.0,5
+E_fe347b8749,fasttext,MT,2018.0,5
+E_03c88dfb2e,full model,MT,2011.0,5
+E_05199deca1,impact,QA,2012.0,5
+E_f54f5d2e0e,unsupervised,MT,2012.0,5
+E_f4af8b5789,policy,DIA,2017.0,5
+E_d66636b253,quality,MT,2012.0,5
+E_d6c70a1379,introducing,DIA,2022.0,5
+E_d6cf78db41,decreases,MT,2012.0,5
+E_d6fa5adbdf,multimodal,SA,2022.0,5
+E_d79019a185,higher scores,MT,2010.0,5
+E_d79eb34312,beam search,MT,2010.0,5
+E_d866f4a8ea,sentence,MT,2010.0,5
+E_d9b26a6f46,word representations,SA,2015.0,5
+E_da0c9cf50b,detecting,QA,2020.0,5
+E_da68679dc1,embedding dimension,QA,2015.0,5
+E_d234403d78,robustness,MT,2014.0,5
+E_d2728d3f36,learning rates,QA,2016.0,5
+E_0fdfc5af25,ethics,SA,2022.0,5
+E_10620571dc,enhanced,MT,2022.0,5

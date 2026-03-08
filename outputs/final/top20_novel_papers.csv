@@ -1,21 +1,21 @@
 paper_id,title,split,domain,year,composite_novelty,structural_novelty,semantic_knn,triple_count
-SKG_MT_715,Automatic Evaluation of Translation Quality for Distant Language Pairs,SKG,MT,2010,0.9612398142046816,1.0,1.0,30.0
-SKG_QA_101,"Tree Edit Models for Recognizing Textual Entailments, Paraphrases, and Answers to Questions",SKG,QA,2010,0.9592570759484642,1.0,1.0,23.0
-SKG_SA_544,Holistic Sentiment Analysis Across Languages Multilingual Supervised Latent Dirichlet Allocation,SKG,SA,2010,0.952598904064593,1.0,1.0,114.0
-SKG_MT_137,Task-based Evaluation of Multiword Expressions a Pilot Study in Statistical Machine Translation,SKG,MT,2010,0.9485172447849464,1.0,1.0,46.0
-SKG_MT_838,Cross Language Text Classification by Model Translation and Semi-Supervised Learning,SKG,MT,2010,0.9482782204024804,1.0,1.0,133.0
-SKG_MT_547,"Jane Open Source Hierarchical Translation, Extended with Reordering and Lexicon Models",SKG,MT,2010,0.9471315629196058,1.0,1.0,60.0
-SKG_PAR_69,Uptraining for Accurate Deterministic Question Parsing,SKG,PAR,2010,0.9465798699639988,1.0,1.0,61.0
-SKG_SA_420,Automatically Generating Annotator Rationales to Improve Sentiment Classification,SKG,SA,2010,0.945062477295498,1.0,1.0,46.0
-SKG_MT_850,Stream-based Translation Models for Statistical Machine Translation,SKG,MT,2010,0.944731507964682,1.0,1.0,128.0
-SKG_MT_196,Extending the METEOR Machine Translation Evaluation Metric to the Phrase Level,SKG,MT,2010,0.944390029932924,1.0,1.0,17.0
-SKG_MT_1074,Accurate Non-Hierarchical Phrase-Based Translation,SKG,MT,2010,0.9440373539256008,1.0,1.0,99.0
-SKG_MT_W4285294723,GLM: General Language Model Pretraining with Autoregressive Blank Infilling,SKG,MT,2022,0.943973018913598,1.0,0.9822966456413268,284.0
-SKG_NLI_W4285294723,GLM: General Language Model Pretraining with Autoregressive Blank Infilling,SKG,NLI,2022,0.943973018913598,1.0,0.9822966456413268,284.0
-SKG_QA_W4285294723,GLM: General Language Model Pretraining with Autoregressive Blank Infilling,SKG,QA,2022,0.943973018913598,1.0,0.9822966456413268,284.0
-SKG_SA_W4285294723,GLM: General Language Model Pretraining with Autoregressive Blank Infilling,SKG,SA,2022,0.943973018913598,1.0,0.9822966456413268,284.0
-SKG_SUM_W4285294723,GLM: General Language Model Pretraining with Autoregressive Blank Infilling,SKG,SUM,2022,0.943973018913598,1.0,0.9822966456413268,284.0
-SKG_SUM_83,Optimizing Informativeness and Readability for Sentiment Summarization,SKG,SUM,2010,0.9434856609699936,1.0,1.0,35.0
-SKG_SA_217,Optimizing Informativeness and Readability for Sentiment Summarization,SKG,SA,2010,0.9434856609699936,1.0,1.0,35.0
-SKG_DIA_209,Learning to Adapt to Unknown Users Referring Expression Generation in Spoken Dialogue Systems,SKG,DIA,2010,0.940701434657105,1.0,1.0,54.0
-SKG_MT_17,Hindi to Punjabi Machine Translation System,SKG,MT,2010,0.9402010814388736,1.0,1.0,2.0
+NOVEL_SA_7,A Unified Generative Framework for Aspect-based Sentiment Analysis,NOVEL,SA,2021,0.910588044339967,0.8333333333333334,0.9899052381515504,24.0
+NOVEL_MT_24,Improving Speech Translation by Understanding and Learning from the Auxiliary Text Translation Task,NOVEL,MT,2021,0.8876166932412368,0.788235294117647,0.99025696516037,85.0
+NOVEL_SA_49,Multimodal Sentiment Detection Based on Multi-channel Graph Neural Networks,NOVEL,SA,2021,0.8860913694585645,0.7447916666666666,0.9915273785591124,192.0
+NOVEL_MT_15,Vocabulary Learning via Optimal Transport for Neural Machine Translation,NOVEL,MT,2021,0.8860671469007424,0.7878787878787878,0.9905717968940736,66.0
+NOVEL_SA_14,Aspect-Category-Opinion-Sentiment Quadruple Extraction with Implicit Aspects and Opinions,NOVEL,SA,2021,0.8847388507707932,0.7394957983193278,0.9898055791854858,119.0
+NOVEL_QA_44,TAT-QA A Question Answering Benchmark on a Hybrid of Tabular and Textual Content in Finance,NOVEL,QA,2021,0.8802069071912813,0.7983193277310925,0.979805827140808,119.0
+NOVEL_SA_69,CTFN Hierarchical Learning for Multimodal Sentiment Analysis Using Coupled-Translation Fusion Network,NOVEL,SA,2021,0.8793570647960105,0.7857142857142857,0.9857831001281738,98.0
+NOVEL_MT_305,CTFN Hierarchical Learning for Multimodal Sentiment Analysis Using Coupled-Translation Fusion Network,NOVEL,MT,2021,0.8793570647960105,0.7857142857142857,0.9857831001281738,98.0
+NOVEL_DIA_35,Fine-grained Post-training for Improving Retrieval-based Dialogue Systems,NOVEL,DIA,2021,0.8789102852003048,0.8,0.9855262637138368,25.0
+NOVEL_SA_48,Dual Graph Convolutional Networks for Aspect-based Sentiment Analysis,NOVEL,SA,2021,0.8774627980950628,0.6779026217228464,0.9872881770133972,267.0
+NOVEL_QA_14,Controllable Open-ended Question Generation with A New Question Type Ontology,NOVEL,QA,2021,0.8742629295626136,0.7898550724637681,0.9875497817993164,138.0
+NOVEL_SA_3,XOR QA Cross-lingual Open-Retrieval Question Answering,NOVEL,SA,2021,0.8730857735110565,0.8064516129032258,0.9762760400772096,124.0
+NOVEL_MT_128,IntelliCAT Intelligent Machine Translation Post-Editing with Quality Estimation and Translation Suggestion,NOVEL,MT,2021,0.8720882394471678,0.8363636363636363,0.9855377078056335,110.0
+NOVEL_SA_17,Does syntax matter A strong baseline for Aspect-based Sentiment Analysis with RoBERTa,NOVEL,SA,2021,0.8717053750442025,0.7338709677419355,0.9819279909133912,124.0
+NOVEL_QA_54,Structured Context and High-Coverage Grammar for Conversational Question Answering over Knowledge Graphs,NOVEL,QA,2021,0.8707169858077742,0.6952380952380952,1.0,105.0
+NOVEL_SUM_21,Language Model as an Annotator Exploring DialoGPT for Dialogue Summarization,NOVEL,SUM,2021,0.8694189892772172,0.6988636363636364,0.9900585412979126,176.0
+NOVEL_MT_284,Contrastive Learning for Many-to-many Multilingual Neural Machine Translation,NOVEL,MT,2021,0.8687202673691276,0.6889952153110048,0.9864548444747924,209.0
+NOVEL_SA_51,RocketQA An Optimized Training Approach to Dense Passage Retrieval for Open-Domain Question Answering,NOVEL,SA,2021,0.8683534898850858,0.7635135135135135,0.9714113473892212,148.0
+NOVEL_SUM_67,Unsupervised Extractive Summarization-Based Representations for Accurate and Explainable Collaborative Filtering,NOVEL,SUM,2021,0.8681872846790905,0.7844827586206896,0.9871569871902466,116.0
+NOVEL_SA_41,Grey-box Adversarial Attack And Defence For Sentiment Classification,NOVEL,SA,2021,0.8678432527604142,0.7619047619047619,0.9836694002151488,168.0

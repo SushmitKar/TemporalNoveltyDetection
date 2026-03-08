@@ -1,0 +1,3785 @@
+entity_id,name,domain,first_year,origin_domain,origin_year
+E_01e549803b,longer sentences,MT,2011.0,MT,2011.0
+E_01e549803b,longer sentences,SA,2013.0,MT,2011.0
+E_01e549803b,longer sentences,QA,2019.0,MT,2011.0
+E_020b6b5971,maximum sequence length,MT,2017.0,MT,2017.0
+E_020b6b5971,maximum sequence length,DIA,2020.0,MT,2017.0
+E_020b6b5971,maximum sequence length,QA,2020.0,MT,2017.0
+E_020b6b5971,maximum sequence length,SA,2020.0,MT,2017.0
+E_027b320e84,parallel corpus,MT,2010.0,MT,2010.0
+E_027b320e84,parallel corpus,SA,2012.0,MT,2010.0
+E_027b320e84,parallel corpus,QA,2016.0,MT,2010.0
+E_02b6a39b16,overcoming,MT,2022.0,SA,2022.0
+E_02b6a39b16,overcoming,QA,2022.0,SA,2022.0
+E_02b6a39b16,overcoming,SA,2022.0,SA,2022.0
+E_02b6a39b16,overcoming,SUM,2022.0,SA,2022.0
+E_02bd92faa3,author,QA,2018.0,QA,2018.0
+E_02bd92faa3,author,DIA,2022.0,QA,2018.0
+E_02bd92faa3,author,MT,2022.0,QA,2018.0
+E_02bd92faa3,author,SA,2022.0,QA,2018.0
+E_02bd92faa3,author,SUM,2022.0,QA,2018.0
+E_033555b716,hotpotqa,QA,2018.0,QA,2018.0
+E_033555b716,hotpotqa,SA,2021.0,QA,2018.0
+E_033555b716,hotpotqa,DIA,2023.0,QA,2018.0
+E_033555b716,hotpotqa,MT,2023.0,QA,2018.0
+E_0351f635d5,translation model,MT,2010.0,MT,2010.0
+E_0351f635d5,translation model,SUM,2020.0,MT,2010.0
+E_03c88dfb2e,full model,MT,2011.0,MT,2011.0
+E_03c88dfb2e,full model,SUM,2015.0,MT,2011.0
+E_03c88dfb2e,full model,QA,2016.0,MT,2011.0
+E_03c88dfb2e,full model,SA,2019.0,MT,2011.0
+E_03c88dfb2e,full model,DIA,2021.0,MT,2011.0
+E_0456454f03,dialogue,DIA,2014.0,DIA,2014.0
+E_0456454f03,dialogue,SUM,2021.0,DIA,2014.0
+E_0456454f03,dialogue,SA,2022.0,DIA,2014.0
+E_05199deca1,impact,QA,2012.0,QA,2012.0
+E_05199deca1,impact,SA,2013.0,QA,2012.0
+E_05199deca1,impact,MT,2014.0,QA,2012.0
+E_05199deca1,impact,DIA,2020.0,QA,2012.0
+E_05199deca1,impact,SUM,2022.0,QA,2012.0
+E_057d1fbf7a,overall accuracy,SA,2011.0,SA,2011.0
+E_057d1fbf7a,overall accuracy,QA,2012.0,SA,2011.0
+E_057d1fbf7a,overall accuracy,MT,2021.0,SA,2011.0
+E_05e7d19a6d,energy,MT,2020.0,MT,2020.0
+E_05e7d19a6d,energy,QA,2022.0,MT,2020.0
+E_05e7d19a6d,energy,SUM,2022.0,MT,2020.0
+E_05e7d19a6d,energy,DIA,2023.0,MT,2020.0
+E_061c0f6074,having,DIA,2022.0,SUM,2022.0
+E_061c0f6074,having,MT,2022.0,SUM,2022.0
+E_061c0f6074,having,QA,2022.0,SUM,2022.0
+E_061c0f6074,having,SA,2022.0,SUM,2022.0
+E_061c0f6074,having,SUM,2022.0,SUM,2022.0
+E_069796ba08,bilstm,SA,2016.0,SA,2016.0
+E_069796ba08,bilstm,MT,2017.0,SA,2016.0
+E_069796ba08,bilstm,QA,2017.0,SA,2016.0
+E_069796ba08,bilstm,DIA,2019.0,SA,2016.0
+E_06a943c59f,search,MT,2012.0,MT,2012.0
+E_06a943c59f,search,DIA,2019.0,MT,2012.0
+E_06a943c59f,search,QA,2022.0,MT,2012.0
+E_06a943c59f,search,SA,2022.0,MT,2012.0
+E_06a943c59f,search,SUM,2024.0,MT,2012.0
+E_06c5b10273,relations,SUM,2014.0,SUM,2014.0
+E_06c5b10273,relations,QA,2015.0,SUM,2014.0
+E_06c5b10273,relations,SA,2015.0,SUM,2014.0
+E_06c5b10273,relations,DIA,2020.0,SUM,2014.0
+E_06c5b10273,relations,MT,2020.0,SUM,2014.0
+E_06eaeb413e,perplexity,MT,2012.0,MT,2012.0
+E_06eaeb413e,perplexity,QA,2016.0,MT,2012.0
+E_06eaeb413e,perplexity,SA,2019.0,MT,2012.0
+E_06eaeb413e,perplexity,DIA,2020.0,MT,2012.0
+E_06eaeb413e,perplexity,SUM,2021.0,MT,2012.0
+E_07213a0161,errors,MT,2012.0,MT,2012.0
+E_07213a0161,errors,DIA,2019.0,MT,2012.0
+E_07213a0161,errors,SA,2019.0,MT,2012.0
+E_07213a0161,errors,SUM,2020.0,MT,2012.0
+E_076af42e96,all other models,MT,2010.0,MT,2010.0
+E_076af42e96,all other models,DIA,2014.0,MT,2010.0
+E_076af42e96,all other models,QA,2019.0,MT,2010.0
+E_076af42e96,all other models,SA,2019.0,MT,2010.0
+E_07ef81225e,word embedding dimension,MT,2016.0,MT,2016.0
+E_07ef81225e,word embedding dimension,QA,2016.0,MT,2016.0
+E_07ef81225e,word embedding dimension,SUM,2018.0,MT,2016.0
+E_07ef81225e,word embedding dimension,DIA,2019.0,MT,2016.0
+E_0868818ce8,retrieval,MT,2016.0,MT,2016.0
+E_0868818ce8,retrieval,SA,2017.0,MT,2016.0
+E_0868818ce8,retrieval,QA,2018.0,MT,2016.0
+E_0868818ce8,retrieval,DIA,2022.0,MT,2016.0
+E_08dd5c33e8,classifier,SA,2011.0,SA,2011.0
+E_08dd5c33e8,classifier,QA,2012.0,SA,2011.0
+E_08dd5c33e8,classifier,MT,2014.0,SA,2011.0
+E_08dd5c33e8,classifier,DIA,2017.0,SA,2011.0
+E_0b347a8c26,qa model,QA,2017.0,QA,2017.0
+E_0b347a8c26,qa model,SUM,2020.0,QA,2017.0
+E_0ba53fb94f,neural model,SA,2015.0,SA,2015.0
+E_0ba53fb94f,neural model,MT,2016.0,SA,2015.0
+E_0ba53fb94f,neural model,DIA,2017.0,SA,2015.0
+E_0ba53fb94f,neural model,QA,2017.0,SA,2015.0
+E_0ba53fb94f,neural model,SUM,2019.0,SA,2015.0
+E_0bc81fe876,representations,MT,2014.0,MT,2014.0
+E_0bc81fe876,representations,SUM,2014.0,MT,2014.0
+E_0bc81fe876,representations,QA,2015.0,MT,2014.0
+E_0bc81fe876,representations,SA,2015.0,MT,2014.0
+E_0bc81fe876,representations,DIA,2018.0,MT,2014.0
+E_0c390c0f18,sentence representation,SA,2015.0,SA,2015.0
+E_0c390c0f18,sentence representation,QA,2017.0,SA,2015.0
+E_0c390c0f18,sentence representation,DIA,2018.0,SA,2015.0
+E_0c390c0f18,sentence representation,MT,2018.0,SA,2015.0
+E_0d754e83f7,slightly outperforms,MT,2010.0,MT,2010.0
+E_0d754e83f7,slightly outperforms,SA,2010.0,MT,2010.0
+E_0d754e83f7,slightly outperforms,QA,2020.0,MT,2010.0
+E_0d9545da20,endothelial,DIA,2022.0,SUM,2022.0
+E_0d9545da20,endothelial,MT,2022.0,SUM,2022.0
+E_0d9545da20,endothelial,QA,2022.0,SUM,2022.0
+E_0d9545da20,endothelial,SUM,2022.0,SUM,2022.0
+E_0de55191ab,extractive summarization,SUM,2010.0,SUM,2010.0
+E_0de55191ab,extractive summarization,DIA,2020.0,SUM,2010.0
+E_0e59167694,dependencies,SA,2012.0,SA,2012.0
+E_0e59167694,dependencies,MT,2013.0,SA,2012.0
+E_0e59167694,dependencies,QA,2015.0,SA,2012.0
+E_0e59167694,dependencies,DIA,2020.0,SA,2012.0
+E_0e78b8c364,collaborative,QA,2018.0,QA,2018.0
+E_0e78b8c364,collaborative,DIA,2022.0,QA,2018.0
+E_0e78b8c364,collaborative,MT,2022.0,QA,2018.0
+E_0e78b8c364,collaborative,SA,2022.0,QA,2018.0
+E_0e9b9b6a08,stochastic gradient descent,MT,2013.0,MT,2013.0
+E_0e9b9b6a08,stochastic gradient descent,SA,2015.0,MT,2013.0
+E_0e9b9b6a08,stochastic gradient descent,DIA,2016.0,MT,2013.0
+E_0e9b9b6a08,stochastic gradient descent,QA,2016.0,MT,2013.0
+E_0e9b9b6a08,stochastic gradient descent,SUM,2020.0,MT,2013.0
+E_0f52f68262,rouge -l,SUM,2018.0,SUM,2018.0
+E_0f52f68262,rouge -l,DIA,2019.0,SUM,2018.0
+E_0f52f68262,rouge -l,QA,2019.0,SUM,2018.0
+E_0f68937d06,comparable performance,MT,2010.0,MT,2010.0
+E_0f68937d06,comparable performance,QA,2011.0,MT,2010.0
+E_0f68937d06,comparable performance,SA,2011.0,MT,2010.0
+E_0f68937d06,comparable performance,SUM,2015.0,MT,2010.0
+E_0f68937d06,comparable performance,DIA,2019.0,MT,2010.0
+E_0f81d52e06,updated,SA,2017.0,SA,2017.0
+E_0f81d52e06,updated,QA,2018.0,SA,2017.0
+E_0f81d52e06,updated,DIA,2022.0,SA,2017.0
+E_0f81d52e06,updated,MT,2022.0,SA,2017.0
+E_0f81d52e06,updated,SUM,2022.0,SA,2017.0
+E_0fbc0de296,autophagy,DIA,2022.0,DIA,2022.0
+E_0fbc0de296,autophagy,MT,2022.0,DIA,2022.0
+E_0fbc0de296,autophagy,QA,2022.0,DIA,2022.0
+E_0fbc0de296,autophagy,SUM,2022.0,DIA,2022.0
+E_0fdfc5af25,ethics,DIA,2022.0,SA,2022.0
+E_0fdfc5af25,ethics,MT,2022.0,SA,2022.0
+E_0fdfc5af25,ethics,SA,2022.0,SA,2022.0
+E_0fdfc5af25,ethics,QA,2023.0,SA,2022.0
+E_0fdfc5af25,ethics,SUM,2023.0,SA,2022.0
+E_100695fe0c,hidden layer size,MT,2013.0,MT,2013.0
+E_100695fe0c,hidden layer size,DIA,2015.0,MT,2013.0
+E_100695fe0c,hidden layer size,SA,2015.0,MT,2013.0
+E_10620571dc,enhanced,MT,2022.0,MT,2022.0
+E_10620571dc,enhanced,QA,2022.0,MT,2022.0
+E_10620571dc,enhanced,SA,2022.0,MT,2022.0
+E_10620571dc,enhanced,SUM,2022.0,MT,2022.0
+E_10620571dc,enhanced,DIA,2023.0,MT,2022.0
+E_10b3bbed74,each word,MT,2011.0,MT,2011.0
+E_10b3bbed74,each word,DIA,2017.0,MT,2011.0
+E_10b3bbed74,each word,QA,2017.0,MT,2011.0
+E_10b3bbed74,each word,SA,2017.0,MT,2011.0
+E_10b3bbed74,each word,SUM,2019.0,MT,2011.0
+E_10ba49ba46,higher accuracy,MT,2012.0,MT,2012.0
+E_10ba49ba46,higher accuracy,SA,2013.0,MT,2012.0
+E_10ba49ba46,higher accuracy,QA,2015.0,MT,2012.0
+E_10ba49ba46,higher accuracy,DIA,2021.0,MT,2012.0
+E_10ba49ba46,higher accuracy,SUM,2021.0,MT,2012.0
+E_11198b294a,increase,MT,2010.0,MT,2010.0
+E_11198b294a,increase,QA,2011.0,MT,2010.0
+E_11198b294a,increase,SA,2011.0,MT,2010.0
+E_11198b294a,increase,DIA,2013.0,MT,2010.0
+E_11198b294a,increase,SUM,2015.0,MT,2010.0
+E_1167e551cc,early stopping,MT,2014.0,MT,2014.0
+E_1167e551cc,early stopping,QA,2016.0,MT,2014.0
+E_1167e551cc,early stopping,SA,2016.0,MT,2014.0
+E_1167e551cc,early stopping,DIA,2017.0,MT,2014.0
+E_1167e551cc,early stopping,SUM,2019.0,MT,2014.0
+E_119f282024,convolutional,MT,2022.0,MT,2022.0
+E_119f282024,convolutional,QA,2022.0,MT,2022.0
+E_119f282024,convolutional,SA,2022.0,MT,2022.0
+E_119f282024,convolutional,SUM,2022.0,MT,2022.0
+E_119f282024,convolutional,DIA,2023.0,MT,2022.0
+E_1259ccdcb6,former,MT,2012.0,MT,2012.0
+E_1259ccdcb6,former,DIA,2018.0,MT,2012.0
+E_1259ccdcb6,former,QA,2019.0,MT,2012.0
+E_1259ccdcb6,former,SA,2019.0,MT,2012.0
+E_1259ccdcb6,former,SUM,2019.0,MT,2012.0
+E_12672e79b0,wikipedia,MT,2010.0,MT,2010.0
+E_12672e79b0,wikipedia,DIA,2015.0,MT,2010.0
+E_12672e79b0,wikipedia,QA,2018.0,MT,2010.0
+E_12672e79b0,wikipedia,SUM,2018.0,MT,2010.0
+E_12672e79b0,wikipedia,SA,2021.0,MT,2010.0
+E_129274265d,incorporating,DIA,2022.0,DIA,2022.0
+E_129274265d,incorporating,SA,2022.0,DIA,2022.0
+E_129274265d,incorporating,MT,2023.0,DIA,2022.0
+E_129274265d,incorporating,QA,2023.0,DIA,2022.0
+E_129274265d,incorporating,SUM,2023.0,DIA,2022.0
+E_131b8e0103,exploring,MT,2017.0,MT,2017.0
+E_131b8e0103,exploring,DIA,2022.0,MT,2017.0
+E_131b8e0103,exploring,QA,2022.0,MT,2017.0
+E_131b8e0103,exploring,SA,2022.0,MT,2017.0
+E_131b8e0103,exploring,SUM,2023.0,MT,2017.0
+E_13446fec04,all datasets,MT,2011.0,MT,2011.0
+E_13446fec04,all datasets,SA,2013.0,MT,2011.0
+E_13446fec04,all datasets,SUM,2014.0,MT,2011.0
+E_13446fec04,all datasets,QA,2017.0,MT,2011.0
+E_13446fec04,all datasets,DIA,2019.0,MT,2011.0
+E_13559dc1ae,assessing,DIA,2022.0,SA,2022.0
+E_13559dc1ae,assessing,MT,2022.0,SA,2022.0
+E_13559dc1ae,assessing,QA,2022.0,SA,2022.0
+E_13559dc1ae,assessing,SA,2022.0,SA,2022.0
+E_13559dc1ae,assessing,SUM,2022.0,SA,2022.0
+E_13b789b8dc,supervision,SUM,2011.0,SUM,2011.0
+E_13b789b8dc,supervision,SA,2014.0,SUM,2011.0
+E_13b789b8dc,supervision,DIA,2015.0,SUM,2011.0
+E_13b789b8dc,supervision,QA,2018.0,SUM,2011.0
+E_13b789b8dc,supervision,MT,2019.0,SUM,2011.0
+E_13ca686865,even worse,SA,2015.0,SA,2015.0
+E_13ca686865,even worse,MT,2016.0,SA,2015.0
+E_13ca686865,even worse,SUM,2019.0,SA,2015.0
+E_13ca686865,even worse,QA,2020.0,SA,2015.0
+E_13ca686865,even worse,DIA,2021.0,SA,2015.0
+E_13fd1a10d5,artificial,DIA,2022.0,DIA,2022.0
+E_13fd1a10d5,artificial,MT,2022.0,DIA,2022.0
+E_13fd1a10d5,artificial,QA,2022.0,DIA,2022.0
+E_13fd1a10d5,artificial,SA,2022.0,DIA,2022.0
+E_13fd1a10d5,artificial,SUM,2022.0,DIA,2022.0
+E_14754f13e5,machine,QA,2018.0,QA,2018.0
+E_14754f13e5,machine,DIA,2019.0,QA,2018.0
+E_14754f13e5,machine,MT,2019.0,QA,2018.0
+E_14754f13e5,machine,SUM,2020.0,QA,2018.0
+E_14754f13e5,machine,SA,2022.0,QA,2018.0
+E_149b7ff2e0,oxidative,DIA,2022.0,DIA,2022.0
+E_149b7ff2e0,oxidative,MT,2022.0,DIA,2022.0
+E_149b7ff2e0,oxidative,QA,2022.0,DIA,2022.0
+E_149b7ff2e0,oxidative,SUM,2022.0,DIA,2022.0
+E_149b7ff2e0,oxidative,SA,2023.0,DIA,2022.0
+E_14e10d5700,evidence,MT,2010.0,MT,2010.0
+E_14e10d5700,evidence,QA,2017.0,MT,2010.0
+E_14e10d5700,evidence,DIA,2020.0,MT,2010.0
+E_14e10d5700,evidence,SA,2022.0,MT,2010.0
+E_14e12aa198,significantly better results,MT,2010.0,MT,2010.0
+E_14e12aa198,significantly better results,DIA,2017.0,MT,2010.0
+E_14e12aa198,significantly better results,QA,2018.0,MT,2010.0
+E_14e12aa198,significantly better results,SA,2020.0,MT,2010.0
+E_14e12aa198,significantly better results,SUM,2021.0,MT,2010.0
+E_14f4aeb5be,competitive,MT,2011.0,MT,2011.0
+E_14f4aeb5be,competitive,SUM,2015.0,MT,2011.0
+E_14f4aeb5be,competitive,QA,2017.0,MT,2011.0
+E_14f4aeb5be,competitive,SA,2018.0,MT,2011.0
+E_14f4aeb5be,competitive,DIA,2021.0,MT,2011.0
+E_155f69ec7b,competing interests,MT,2022.0,MT,2022.0
+E_155f69ec7b,competing interests,QA,2022.0,MT,2022.0
+E_155f69ec7b,competing interests,SA,2022.0,MT,2022.0
+E_155f69ec7b,competing interests,DIA,2023.0,MT,2022.0
+E_155f69ec7b,competing interests,SUM,2023.0,MT,2022.0
+E_15610cc266,additional,DIA,2022.0,DIA,2022.0
+E_15610cc266,additional,MT,2022.0,DIA,2022.0
+E_15610cc266,additional,QA,2022.0,DIA,2022.0
+E_15610cc266,additional,SA,2022.0,DIA,2022.0
+E_15610cc266,additional,SUM,2022.0,DIA,2022.0
+E_15d7000797,international,DIA,2022.0,QA,2022.0
+E_15d7000797,international,MT,2022.0,QA,2022.0
+E_15d7000797,international,QA,2022.0,QA,2022.0
+E_15d7000797,international,SA,2022.0,QA,2022.0
+E_15d7000797,international,SUM,2022.0,QA,2022.0
+E_16518154fc,electronic,SA,2015.0,SA,2015.0
+E_16518154fc,electronic,DIA,2022.0,SA,2015.0
+E_16518154fc,electronic,MT,2022.0,SA,2015.0
+E_16518154fc,electronic,QA,2022.0,SA,2015.0
+E_166e64f6c3,parameters,SUM,2010.0,SUM,2010.0
+E_166e64f6c3,parameters,SA,2011.0,SUM,2010.0
+E_166e64f6c3,parameters,MT,2012.0,SUM,2010.0
+E_166e64f6c3,parameters,QA,2015.0,SUM,2010.0
+E_166e64f6c3,parameters,DIA,2016.0,SUM,2010.0
+E_167658e298,mini-batches,MT,2013.0,MT,2013.0
+E_167658e298,mini-batches,QA,2016.0,MT,2013.0
+E_167658e298,mini-batches,SA,2016.0,MT,2013.0
+E_167658e298,mini-batches,DIA,2019.0,MT,2013.0
+E_16ccdaad23,novel framework,MT,2010.0,MT,2010.0
+E_16ccdaad23,novel framework,QA,2016.0,MT,2010.0
+E_16ccdaad23,novel framework,DIA,2017.0,MT,2010.0
+E_16ccdaad23,novel framework,SA,2017.0,MT,2010.0
+E_16ccdaad23,novel framework,SUM,2021.0,MT,2010.0
+E_16cf885fd7,test set,MT,2010.0,MT,2010.0
+E_16cf885fd7,test set,SA,2011.0,MT,2010.0
+E_16cf885fd7,test set,QA,2015.0,MT,2010.0
+E_16cf885fd7,test set,DIA,2017.0,MT,2010.0
+E_16cf885fd7,test set,SUM,2018.0,MT,2010.0
+E_1717ff91e8,does not improve,MT,2014.0,MT,2014.0
+E_1717ff91e8,does not improve,QA,2016.0,MT,2014.0
+E_1717ff91e8,does not improve,SA,2016.0,MT,2014.0
+E_1717ff91e8,does not improve,SUM,2017.0,MT,2014.0
+E_180c9946dc,supplementary information,QA,2019.0,QA,2019.0
+E_180c9946dc,supplementary information,DIA,2022.0,QA,2019.0
+E_180c9946dc,supplementary information,MT,2022.0,QA,2019.0
+E_180c9946dc,supplementary information,SA,2022.0,QA,2019.0
+E_180c9946dc,supplementary information,SUM,2022.0,QA,2019.0
+E_18262ad813,cosine similarity,SUM,2011.0,SUM,2011.0
+E_18262ad813,cosine similarity,MT,2013.0,SUM,2011.0
+E_18262ad813,cosine similarity,QA,2016.0,SUM,2011.0
+E_18262ad813,cosine similarity,SA,2017.0,SUM,2011.0
+E_18262ad813,cosine similarity,DIA,2020.0,SUM,2011.0
+E_1844e66efa,novel method,MT,2010.0,MT,2010.0
+E_1844e66efa,novel method,QA,2015.0,MT,2010.0
+E_1844e66efa,novel method,SA,2015.0,MT,2010.0
+E_1844e66efa,novel method,SUM,2019.0,MT,2010.0
+E_1847351c5d,of this study,DIA,2022.0,MT,2022.0
+E_1847351c5d,of this study,MT,2022.0,MT,2022.0
+E_1847351c5d,of this study,QA,2022.0,MT,2022.0
+E_1847351c5d,of this study,SA,2022.0,MT,2022.0
+E_1847351c5d,of this study,SUM,2022.0,MT,2022.0
+E_18a0f2765b,average improvement,QA,2011.0,QA,2011.0
+E_18a0f2765b,average improvement,MT,2012.0,QA,2011.0
+E_18a0f2765b,average improvement,SA,2012.0,QA,2011.0
+E_18bba49526,translation,MT,2010.0,MT,2010.0
+E_18bba49526,translation,QA,2013.0,MT,2010.0
+E_18bba49526,translation,SA,2019.0,MT,2010.0
+E_18bba49526,translation,SUM,2020.0,MT,2010.0
+E_196884a8c0,modeling,MT,2012.0,MT,2012.0
+E_196884a8c0,modeling,QA,2019.0,MT,2012.0
+E_196884a8c0,modeling,DIA,2020.0,MT,2012.0
+E_196884a8c0,modeling,SA,2022.0,MT,2012.0
+E_196884a8c0,modeling,SUM,2022.0,MT,2012.0
+E_1a79a4d60d,example,MT,2020.0,MT,2020.0
+E_1a79a4d60d,example,DIA,2022.0,MT,2020.0
+E_1a79a4d60d,example,QA,2022.0,MT,2020.0
+E_1a79a4d60d,example,SA,2022.0,MT,2020.0
+E_1a79a4d60d,example,SUM,2022.0,MT,2020.0
+E_1b20e9021b,building,DIA,2022.0,DIA,2022.0
+E_1b20e9021b,building,MT,2022.0,DIA,2022.0
+E_1b20e9021b,building,QA,2022.0,DIA,2022.0
+E_1b20e9021b,building,SA,2022.0,DIA,2022.0
+E_1b20e9021b,building,SUM,2022.0,DIA,2022.0
+E_1b63071f64,declare no competing,DIA,2022.0,DIA,2022.0
+E_1b63071f64,declare no competing,MT,2022.0,DIA,2022.0
+E_1b63071f64,declare no competing,QA,2022.0,DIA,2022.0
+E_1b63071f64,declare no competing,SA,2022.0,DIA,2022.0
+E_1b63071f64,declare no competing,SUM,2022.0,DIA,2022.0
+E_1becaec954,baseline models,MT,2012.0,MT,2012.0
+E_1becaec954,baseline models,DIA,2017.0,MT,2012.0
+E_1becaec954,baseline models,SA,2017.0,MT,2012.0
+E_1becaec954,baseline models,QA,2018.0,MT,2012.0
+E_1becaec954,baseline models,SUM,2018.0,MT,2012.0
+E_1c23965582,impaired,DIA,2022.0,QA,2022.0
+E_1c23965582,impaired,MT,2022.0,QA,2022.0
+E_1c23965582,impaired,QA,2022.0,QA,2022.0
+E_1c23965582,impaired,SA,2022.0,QA,2022.0
+E_1c23965582,impaired,SUM,2023.0,QA,2022.0
+E_1c67665285,review,SA,2015.0,SUM,2015.0
+E_1c67665285,review,SUM,2015.0,SUM,2015.0
+E_1c67665285,review,DIA,2022.0,SUM,2015.0
+E_1c8a2a7c15,universal,SA,2019.0,SA,2019.0
+E_1c8a2a7c15,universal,DIA,2022.0,SA,2019.0
+E_1c8a2a7c15,universal,MT,2022.0,SA,2019.0
+E_1c8a2a7c15,universal,QA,2022.0,SA,2019.0
+E_1c8a2a7c15,universal,SUM,2022.0,SA,2019.0
+E_1ca30206ab,researchers,MT,2019.0,MT,2019.0
+E_1ca30206ab,researchers,DIA,2022.0,MT,2019.0
+E_1ca30206ab,researchers,QA,2022.0,MT,2019.0
+E_1ca30206ab,researchers,SA,2022.0,MT,2019.0
+E_1ca30206ab,researchers,SUM,2022.0,MT,2019.0
+E_1d197b3666,test sets,MT,2011.0,MT,2011.0
+E_1d197b3666,test sets,SA,2014.0,MT,2011.0
+E_1d197b3666,test sets,DIA,2021.0,MT,2011.0
+E_1d9ea393bf,more significant,MT,2013.0,MT,2013.0
+E_1d9ea393bf,more significant,SA,2015.0,MT,2013.0
+E_1d9ea393bf,more significant,QA,2019.0,MT,2013.0
+E_1d9ea393bf,more significant,SUM,2019.0,MT,2013.0
+E_1dfa1b6f3f,on artificial intelligence,DIA,2022.0,SA,2022.0
+E_1dfa1b6f3f,on artificial intelligence,MT,2022.0,SA,2022.0
+E_1dfa1b6f3f,on artificial intelligence,QA,2022.0,SA,2022.0
+E_1dfa1b6f3f,on artificial intelligence,SA,2022.0,SA,2022.0
+E_1dfa1b6f3f,on artificial intelligence,SUM,2023.0,SA,2022.0
+E_1dfb6b98ae,visual,SA,2012.0,SA,2012.0
+E_1dfb6b98ae,visual,DIA,2022.0,SA,2012.0
+E_1dfb6b98ae,visual,MT,2022.0,SA,2012.0
+E_1dfb6b98ae,visual,QA,2022.0,SA,2012.0
+E_1e0f21874b,diverse,SUM,2019.0,SUM,2019.0
+E_1e0f21874b,diverse,MT,2020.0,SUM,2019.0
+E_1e0f21874b,diverse,DIA,2022.0,SUM,2019.0
+E_1e0f21874b,diverse,SA,2022.0,SUM,2019.0
+E_1e0f21874b,diverse,QA,2023.0,SUM,2019.0
+E_1e22a0fc4a,best results,SUM,2010.0,SUM,2010.0
+E_1e22a0fc4a,best results,MT,2011.0,SUM,2010.0
+E_1e22a0fc4a,best results,SA,2011.0,SUM,2010.0
+E_1e22a0fc4a,best results,QA,2015.0,SUM,2010.0
+E_1e22a0fc4a,best results,DIA,2018.0,SUM,2010.0
+E_1e93a02a58,higher performance,DIA,2010.0,DIA,2010.0
+E_1e93a02a58,higher performance,SUM,2010.0,DIA,2010.0
+E_1e93a02a58,higher performance,SA,2013.0,DIA,2010.0
+E_1e93a02a58,higher performance,MT,2014.0,DIA,2010.0
+E_1e93a02a58,higher performance,QA,2016.0,DIA,2010.0
+E_1f68fb6faf,dropout probability,MT,2017.0,MT,2017.0
+E_1f68fb6faf,dropout probability,SA,2018.0,MT,2017.0
+E_1f68fb6faf,dropout probability,QA,2019.0,MT,2017.0
+E_1f68fb6faf,dropout probability,DIA,2020.0,MT,2017.0
+E_1f68fb6faf,dropout probability,SUM,2020.0,MT,2017.0
+E_1fe0ff1bbf,examining,DIA,2022.0,SA,2022.0
+E_1fe0ff1bbf,examining,MT,2022.0,SA,2022.0
+E_1fe0ff1bbf,examining,SA,2022.0,SA,2022.0
+E_1fe0ff1bbf,examining,SUM,2022.0,SA,2022.0
+E_1fe0ff1bbf,examining,QA,2023.0,SA,2022.0
+E_20104f8c28,grid search,SA,2013.0,SA,2013.0
+E_20104f8c28,grid search,SUM,2016.0,SA,2013.0
+E_20104f8c28,grid search,MT,2018.0,SA,2013.0
+E_20104f8c28,grid search,QA,2018.0,SA,2013.0
+E_20104f8c28,grid search,DIA,2019.0,SA,2013.0
+E_205360f460,objective,MT,2010.0,MT,2010.0
+E_205360f460,objective,SA,2015.0,MT,2010.0
+E_205360f460,objective,DIA,2017.0,MT,2010.0
+E_205360f460,objective,QA,2019.0,MT,2010.0
+E_205360f460,objective,SUM,2024.0,MT,2010.0
+E_2067d96668,specific,DIA,2022.0,SA,2022.0
+E_2067d96668,specific,MT,2022.0,SA,2022.0
+E_2067d96668,specific,QA,2022.0,SA,2022.0
+E_2067d96668,specific,SA,2022.0,SA,2022.0
+E_2067d96668,specific,SUM,2022.0,SA,2022.0
+E_211bdc5dc7,significantly worse,MT,2011.0,MT,2011.0
+E_211bdc5dc7,significantly worse,QA,2011.0,MT,2011.0
+E_211bdc5dc7,significantly worse,SUM,2013.0,MT,2011.0
+E_211bdc5dc7,significantly worse,SA,2019.0,MT,2011.0
+E_21256a8819,recurrent neural network,MT,2013.0,MT,2013.0
+E_21256a8819,recurrent neural network,SA,2017.0,MT,2013.0
+E_21256a8819,recurrent neural network,QA,2019.0,MT,2013.0
+E_21256a8819,recurrent neural network,SUM,2020.0,MT,2013.0
+E_213c334e95,model parameters,MT,2016.0,MT,2016.0
+E_213c334e95,model parameters,QA,2017.0,MT,2016.0
+E_213c334e95,model parameters,SA,2017.0,MT,2016.0
+E_213c334e95,model parameters,SUM,2017.0,MT,2016.0
+E_213c334e95,model parameters,DIA,2020.0,MT,2016.0
+E_218bd911f3,significant gains,MT,2011.0,MT,2011.0
+E_218bd911f3,significant gains,SA,2016.0,MT,2011.0
+E_218bd911f3,significant gains,QA,2020.0,MT,2011.0
+E_21f64da1e5,documents,MT,2011.0,MT,2011.0
+E_21f64da1e5,documents,QA,2011.0,MT,2011.0
+E_21f64da1e5,documents,SUM,2011.0,MT,2011.0
+E_21f64da1e5,documents,SA,2015.0,MT,2011.0
+E_21f64da1e5,documents,DIA,2023.0,MT,2011.0
+E_224daf9be1,understanding,QA,2019.0,QA,2019.0
+E_224daf9be1,understanding,DIA,2020.0,QA,2019.0
+E_224daf9be1,understanding,MT,2020.0,QA,2019.0
+E_224daf9be1,understanding,SA,2022.0,QA,2019.0
+E_224daf9be1,understanding,SUM,2023.0,QA,2019.0
+E_22884db148,module,DIA,2016.0,DIA,2016.0
+E_22884db148,module,SA,2016.0,DIA,2016.0
+E_22884db148,module,QA,2017.0,DIA,2016.0
+E_22884db148,module,SUM,2018.0,DIA,2016.0
+E_22884db148,module,MT,2020.0,DIA,2016.0
+E_228d6a97a9,negative,SA,2013.0,SA,2013.0
+E_228d6a97a9,negative,MT,2021.0,SA,2013.0
+E_228d6a97a9,negative,SUM,2022.0,SA,2013.0
+E_228d6a97a9,negative,DIA,2023.0,SA,2013.0
+E_228d6a97a9,negative,QA,2023.0,SA,2013.0
+E_2290dc931c,advantage,MT,2010.0,MT,2010.0
+E_2290dc931c,advantage,SA,2016.0,MT,2010.0
+E_2290dc931c,advantage,QA,2018.0,MT,2010.0
+E_2290dc931c,advantage,SUM,2018.0,MT,2010.0
+E_2290dc931c,advantage,DIA,2020.0,MT,2010.0
+E_229e5b1363,roberta,SUM,2014.0,SUM,2014.0
+E_229e5b1363,roberta,DIA,2020.0,SUM,2014.0
+E_229e5b1363,roberta,MT,2020.0,SUM,2014.0
+E_229e5b1363,roberta,QA,2020.0,SUM,2014.0
+E_229e5b1363,roberta,SA,2020.0,SUM,2014.0
+E_22fa872bed,all cases,MT,2010.0,MT,2010.0
+E_22fa872bed,all cases,SUM,2011.0,MT,2010.0
+E_22fa872bed,all cases,QA,2012.0,MT,2010.0
+E_22fa872bed,all cases,SA,2012.0,MT,2010.0
+E_22fa872bed,all cases,DIA,2018.0,MT,2010.0
+E_23b79ae0fc,individual,MT,2019.0,MT,2019.0
+E_23b79ae0fc,individual,DIA,2022.0,MT,2019.0
+E_23b79ae0fc,individual,SA,2022.0,MT,2019.0
+E_23b79ae0fc,individual,SUM,2022.0,MT,2019.0
+E_23b79ae0fc,individual,QA,2023.0,MT,2019.0
+E_23d13b7dda,computational,DIA,2022.0,QA,2022.0
+E_23d13b7dda,computational,MT,2022.0,QA,2022.0
+E_23d13b7dda,computational,QA,2022.0,QA,2022.0
+E_23d13b7dda,computational,SA,2022.0,QA,2022.0
+E_23d13b7dda,computational,SUM,2022.0,QA,2022.0
+E_23eeeb4347,python,MT,2011.0,MT,2011.0
+E_23eeeb4347,python,SA,2016.0,MT,2011.0
+E_23eeeb4347,python,DIA,2017.0,MT,2011.0
+E_23eeeb4347,python,QA,2018.0,MT,2011.0
+E_240bf022e6,pattern,SUM,2019.0,SUM,2019.0
+E_240bf022e6,pattern,MT,2022.0,SUM,2019.0
+E_240bf022e6,pattern,QA,2022.0,SUM,2019.0
+E_240bf022e6,pattern,SA,2022.0,SUM,2019.0
+E_240bf022e6,pattern,DIA,2023.0,SUM,2019.0
+E_243bbdfb5f,cross-entropy loss,SUM,2014.0,SUM,2014.0
+E_243bbdfb5f,cross-entropy loss,SA,2016.0,SUM,2014.0
+E_243bbdfb5f,cross-entropy loss,QA,2018.0,SUM,2014.0
+E_243bbdfb5f,cross-entropy loss,MT,2019.0,SUM,2014.0
+E_243bbdfb5f,cross-entropy loss,DIA,2021.0,SUM,2014.0
+E_2593c7ce3f,characters,MT,2017.0,QA,2017.0
+E_2593c7ce3f,characters,QA,2017.0,QA,2017.0
+E_2593c7ce3f,characters,DIA,2019.0,QA,2017.0
+E_2593c7ce3f,characters,SA,2019.0,QA,2017.0
+E_25a9ac406a,learning,MT,2012.0,MT,2012.0
+E_25a9ac406a,learning,SA,2013.0,MT,2012.0
+E_25a9ac406a,learning,DIA,2014.0,MT,2012.0
+E_25a9ac406a,learning,QA,2015.0,MT,2012.0
+E_25a9ac406a,learning,SUM,2018.0,MT,2012.0
+E_25d7186fe5,tokens,SA,2013.0,SA,2013.0
+E_25d7186fe5,tokens,DIA,2016.0,SA,2013.0
+E_25d7186fe5,tokens,MT,2018.0,SA,2013.0
+E_25d7186fe5,tokens,QA,2019.0,SA,2013.0
+E_25d7186fe5,tokens,SUM,2019.0,SA,2013.0
+E_2617c9384e,relation,QA,2018.0,QA,2018.0
+E_2617c9384e,relation,DIA,2019.0,QA,2018.0
+E_2617c9384e,relation,SA,2019.0,QA,2018.0
+E_2617c9384e,relation,MT,2022.0,QA,2018.0
+E_2690afa08d,hallucination,QA,2020.0,QA,2020.0
+E_2690afa08d,hallucination,SUM,2020.0,QA,2020.0
+E_2690afa08d,hallucination,DIA,2021.0,QA,2020.0
+E_2690afa08d,hallucination,MT,2021.0,QA,2020.0
+E_2690afa08d,hallucination,SA,2023.0,QA,2020.0
+E_26b518942d,both test sets,MT,2011.0,MT,2011.0
+E_26b518942d,both test sets,QA,2016.0,MT,2011.0
+E_26b518942d,both test sets,SUM,2019.0,MT,2011.0
+E_26b518942d,both test sets,DIA,2020.0,MT,2011.0
+E_26f4688fc8,source sentence,MT,2010.0,MT,2010.0
+E_26f4688fc8,source sentence,SUM,2019.0,MT,2010.0
+E_26f4688fc8,source sentence,QA,2020.0,MT,2010.0
+E_2742965565,springer nature remains,DIA,2022.0,DIA,2022.0
+E_2742965565,springer nature remains,MT,2022.0,DIA,2022.0
+E_2742965565,springer nature remains,QA,2022.0,DIA,2022.0
+E_2742965565,springer nature remains,SA,2022.0,DIA,2022.0
+E_2742965565,springer nature remains,SUM,2022.0,DIA,2022.0
+E_2753d68b08,on par,MT,2010.0,MT,2010.0
+E_2753d68b08,on par,SUM,2010.0,MT,2010.0
+E_2753d68b08,on par,QA,2016.0,MT,2010.0
+E_2753d68b08,on par,DIA,2020.0,MT,2010.0
+E_276b2fd681,multilingual models,MT,2012.0,MT,2012.0
+E_276b2fd681,multilingual models,QA,2020.0,MT,2012.0
+E_276b2fd681,multilingual models,DIA,2021.0,MT,2012.0
+E_27fa8345c4,best score,MT,2010.0,MT,2010.0
+E_27fa8345c4,best score,SUM,2014.0,MT,2010.0
+E_27fa8345c4,best score,SA,2016.0,MT,2010.0
+E_27fa8345c4,best score,DIA,2019.0,MT,2010.0
+E_27fa8345c4,best score,QA,2019.0,MT,2010.0
+E_2809e9846f,comparably,MT,2012.0,MT,2012.0
+E_2809e9846f,comparably,QA,2013.0,MT,2012.0
+E_2809e9846f,comparably,SUM,2014.0,MT,2012.0
+E_2809e9846f,comparably,SA,2015.0,MT,2012.0
+E_2809e9846f,comparably,DIA,2020.0,MT,2012.0
+E_282fabc3aa,reduced,MT,2010.0,MT,2010.0
+E_282fabc3aa,reduced,SUM,2010.0,MT,2010.0
+E_282fabc3aa,reduced,QA,2020.0,MT,2010.0
+E_282fabc3aa,reduced,DIA,2021.0,MT,2010.0
+E_282fabc3aa,reduced,SA,2021.0,MT,2010.0
+E_2840180493,technical,DIA,2022.0,DIA,2022.0
+E_2840180493,technical,MT,2022.0,DIA,2022.0
+E_2840180493,technical,QA,2022.0,DIA,2022.0
+E_2840180493,technical,SA,2022.0,DIA,2022.0
+E_2840180493,technical,SUM,2022.0,DIA,2022.0
+E_2887dc3eae,metabolic,DIA,2022.0,DIA,2022.0
+E_2887dc3eae,metabolic,MT,2022.0,DIA,2022.0
+E_2887dc3eae,metabolic,QA,2022.0,DIA,2022.0
+E_2887dc3eae,metabolic,SUM,2022.0,DIA,2022.0
+E_28b6be3814,transforming,DIA,2022.0,DIA,2022.0
+E_28b6be3814,transforming,MT,2022.0,DIA,2022.0
+E_28b6be3814,transforming,SUM,2022.0,DIA,2022.0
+E_28b6be3814,transforming,QA,2023.0,DIA,2022.0
+E_28b6be3814,transforming,SA,2023.0,DIA,2022.0
+E_28e523fa71,weight decay,MT,2014.0,MT,2014.0
+E_28e523fa71,weight decay,SA,2016.0,MT,2014.0
+E_28e523fa71,weight decay,QA,2018.0,MT,2014.0
+E_28e523fa71,weight decay,DIA,2019.0,MT,2014.0
+E_294f73b2e1,is licensed under,DIA,2022.0,DIA,2022.0
+E_294f73b2e1,is licensed under,MT,2022.0,DIA,2022.0
+E_294f73b2e1,is licensed under,QA,2022.0,DIA,2022.0
+E_294f73b2e1,is licensed under,SA,2022.0,DIA,2022.0
+E_294f73b2e1,is licensed under,SUM,2022.0,DIA,2022.0
+E_296f9d4cda,authors',DIA,2022.0,SUM,2022.0
+E_296f9d4cda,authors',MT,2022.0,SUM,2022.0
+E_296f9d4cda,authors',QA,2022.0,SUM,2022.0
+E_296f9d4cda,authors',SA,2022.0,SUM,2022.0
+E_296f9d4cda,authors',SUM,2022.0,SUM,2022.0
+E_2bd9c0ed00,automatic,MT,2011.0,MT,2011.0
+E_2bd9c0ed00,automatic,DIA,2022.0,MT,2011.0
+E_2bd9c0ed00,automatic,QA,2022.0,MT,2011.0
+E_2bd9c0ed00,automatic,SA,2022.0,MT,2011.0
+E_2bd9c0ed00,automatic,SUM,2022.0,MT,2011.0
+E_2c065d7d15,rethinking,DIA,2022.0,DIA,2022.0
+E_2c065d7d15,rethinking,MT,2022.0,DIA,2022.0
+E_2c065d7d15,rethinking,QA,2022.0,DIA,2022.0
+E_2c065d7d15,rethinking,SUM,2022.0,DIA,2022.0
+E_2c065d7d15,rethinking,SA,2023.0,DIA,2022.0
+E_2c6a396009,significantly outperformed,SA,2010.0,SA,2010.0
+E_2c6a396009,significantly outperformed,SUM,2010.0,SA,2010.0
+E_2c6a396009,significantly outperformed,MT,2013.0,SA,2010.0
+E_2c6a396009,significantly outperformed,QA,2013.0,SA,2010.0
+E_2c6a396009,significantly outperformed,DIA,2017.0,SA,2010.0
+E_2c6ee24b09,openai,DIA,2023.0,SUM,2023.0
+E_2c6ee24b09,openai,MT,2023.0,SUM,2023.0
+E_2c6ee24b09,openai,QA,2023.0,SUM,2023.0
+E_2c6ee24b09,openai,SA,2023.0,SUM,2023.0
+E_2c6ee24b09,openai,SUM,2023.0,SUM,2023.0
+E_2cbc8352e6,metric,MT,2010.0,MT,2010.0
+E_2cbc8352e6,metric,SUM,2012.0,MT,2010.0
+E_2cbc8352e6,metric,SA,2019.0,MT,2010.0
+E_2cbc8352e6,metric,DIA,2020.0,MT,2010.0
+E_2cbc8352e6,metric,QA,2023.0,MT,2010.0
+E_2ce5d6ff54,version contains supplementary,DIA,2022.0,DIA,2022.0
+E_2ce5d6ff54,version contains supplementary,MT,2022.0,DIA,2022.0
+E_2ce5d6ff54,version contains supplementary,QA,2022.0,DIA,2022.0
+E_2ce5d6ff54,version contains supplementary,SA,2022.0,DIA,2022.0
+E_2ce5d6ff54,version contains supplementary,SUM,2022.0,DIA,2022.0
+E_2d33a13c3f,attention model,MT,2016.0,SA,2016.0
+E_2d33a13c3f,attention model,SA,2016.0,SA,2016.0
+E_2d33a13c3f,attention model,SUM,2019.0,SA,2016.0
+E_2d56c84e16,initialization,MT,2015.0,MT,2015.0
+E_2d56c84e16,initialization,SA,2016.0,MT,2015.0
+E_2d56c84e16,initialization,QA,2018.0,MT,2015.0
+E_2d56c84e16,initialization,SUM,2018.0,MT,2015.0
+E_2d56c84e16,initialization,DIA,2020.0,MT,2015.0
+E_2e2dd8e3ac,svm classifier,MT,2011.0,MT,2011.0
+E_2e2dd8e3ac,svm classifier,SA,2011.0,MT,2011.0
+E_2e2dd8e3ac,svm classifier,QA,2015.0,MT,2011.0
+E_2e2dd8e3ac,svm classifier,DIA,2017.0,MT,2011.0
+E_2e5bc8831f,multimedia,SA,2022.0,SA,2022.0
+E_2e5bc8831f,multimedia,DIA,2023.0,SA,2022.0
+E_2e5bc8831f,multimedia,MT,2023.0,SA,2022.0
+E_2e5bc8831f,multimedia,QA,2023.0,SA,2022.0
+E_2e5bc8831f,multimedia,SUM,2023.0,SA,2022.0
+E_2e7e966c22,of covid -,DIA,2022.0,DIA,2022.0
+E_2e7e966c22,of covid -,QA,2022.0,DIA,2022.0
+E_2e7e966c22,of covid -,SA,2022.0,DIA,2022.0
+E_2ea704fac2,best system,MT,2010.0,MT,2010.0
+E_2ea704fac2,best system,SA,2013.0,MT,2010.0
+E_2ea704fac2,best system,SUM,2016.0,MT,2010.0
+E_2ea704fac2,best system,QA,2017.0,MT,2010.0
+E_2ed18fafe4,translations,MT,2010.0,MT,2010.0
+E_2ed18fafe4,translations,SA,2015.0,MT,2010.0
+E_2f44417567,before,DIA,2022.0,DIA,2022.0
+E_2f44417567,before,MT,2022.0,DIA,2022.0
+E_2f44417567,before,QA,2022.0,DIA,2022.0
+E_2f44417567,before,SA,2022.0,DIA,2022.0
+E_2f44417567,before,SUM,2022.0,DIA,2022.0
+E_2f49410d21,residual connections,MT,2017.0,MT,2017.0
+E_2f49410d21,residual connections,DIA,2019.0,MT,2017.0
+E_2f94580a55,three datasets,MT,2015.0,SA,2015.0
+E_2f94580a55,three datasets,SA,2015.0,SA,2015.0
+E_2f94580a55,three datasets,QA,2017.0,SA,2015.0
+E_2f94580a55,three datasets,DIA,2021.0,SA,2015.0
+E_2f94580a55,three datasets,SUM,2021.0,SA,2015.0
+E_2fa47f7c65,length,SUM,2013.0,SUM,2013.0
+E_2fa47f7c65,length,MT,2015.0,SUM,2013.0
+E_2fa47f7c65,length,SA,2016.0,SUM,2013.0
+E_2fa47f7c65,length,QA,2017.0,SUM,2013.0
+E_2fa47f7c65,length,DIA,2019.0,SUM,2013.0
+E_2ff744558a,all three datasets,SA,2015.0,SA,2015.0
+E_2ff744558a,all three datasets,QA,2018.0,SA,2015.0
+E_2ff744558a,all three datasets,DIA,2020.0,SA,2015.0
+E_2ff744558a,all three datasets,SUM,2020.0,SA,2015.0
+E_303e43210f,improving,QA,2011.0,QA,2011.0
+E_303e43210f,improving,SA,2011.0,QA,2011.0
+E_303e43210f,improving,MT,2013.0,QA,2011.0
+E_303e43210f,improving,SUM,2019.0,QA,2011.0
+E_303e43210f,improving,DIA,2020.0,QA,2011.0
+E_308319a5ba,comprehensive,DIA,2022.0,SA,2022.0
+E_308319a5ba,comprehensive,MT,2022.0,SA,2022.0
+E_308319a5ba,comprehensive,QA,2022.0,SA,2022.0
+E_308319a5ba,comprehensive,SA,2022.0,SA,2022.0
+E_308319a5ba,comprehensive,SUM,2022.0,SA,2022.0
+E_3086ea91bd,dropout rate,SA,2016.0,SA,2016.0
+E_3086ea91bd,dropout rate,DIA,2017.0,SA,2016.0
+E_3086ea91bd,dropout rate,MT,2017.0,SA,2016.0
+E_3086ea91bd,dropout rate,QA,2017.0,SA,2016.0
+E_3086ea91bd,dropout rate,SUM,2019.0,SA,2016.0
+E_30cac4fe05,synthetic data,MT,2016.0,MT,2016.0
+E_30cac4fe05,synthetic data,QA,2019.0,MT,2016.0
+E_30cac4fe05,synthetic data,SA,2020.0,MT,2016.0
+E_30e1c7a162,consistent improvements,MT,2010.0,MT,2010.0
+E_30e1c7a162,consistent improvements,SA,2014.0,MT,2010.0
+E_30e1c7a162,consistent improvements,QA,2019.0,MT,2010.0
+E_30e1c7a162,consistent improvements,DIA,2020.0,MT,2010.0
+E_31467667d6,classification accuracy,MT,2010.0,MT,2010.0
+E_31467667d6,classification accuracy,DIA,2011.0,MT,2010.0
+E_31467667d6,classification accuracy,SA,2011.0,MT,2010.0
+E_31467667d6,classification accuracy,QA,2017.0,MT,2010.0
+E_314f521658,baseline system,MT,2010.0,MT,2010.0
+E_314f521658,baseline system,QA,2013.0,MT,2010.0
+E_314f521658,baseline system,SA,2018.0,MT,2010.0
+E_314f521658,baseline system,DIA,2020.0,MT,2010.0
+E_3152a436c0,strong baseline,MT,2010.0,MT,2010.0
+E_3152a436c0,strong baseline,SA,2012.0,MT,2010.0
+E_3152a436c0,strong baseline,SUM,2015.0,MT,2010.0
+E_3152a436c0,strong baseline,DIA,2019.0,MT,2010.0
+E_3152a436c0,strong baseline,QA,2019.0,MT,2010.0
+E_3190dbf13b,competition,SA,2014.0,SA,2014.0
+E_3190dbf13b,competition,MT,2016.0,SA,2014.0
+E_3190dbf13b,competition,QA,2016.0,SA,2014.0
+E_3190dbf13b,competition,SUM,2022.0,SA,2014.0
+E_3190dbf13b,competition,DIA,2023.0,SA,2014.0
+E_31b67e60c7,multi-task learning,MT,2013.0,MT,2013.0
+E_31b67e60c7,multi-task learning,SA,2016.0,MT,2013.0
+E_31b67e60c7,multi-task learning,SUM,2018.0,MT,2013.0
+E_31b67e60c7,multi-task learning,DIA,2019.0,MT,2013.0
+E_31b67e60c7,multi-task learning,QA,2019.0,MT,2013.0
+E_3200471517,machine translation,MT,2010.0,MT,2010.0
+E_3200471517,machine translation,SUM,2014.0,MT,2010.0
+E_3200471517,machine translation,SA,2018.0,MT,2010.0
+E_3200471517,machine translation,QA,2019.0,MT,2010.0
+E_3254163a50,adversarial,DIA,2020.0,DIA,2020.0
+E_3254163a50,adversarial,MT,2020.0,DIA,2020.0
+E_3254163a50,adversarial,QA,2022.0,DIA,2020.0
+E_3254163a50,adversarial,SA,2022.0,DIA,2020.0
+E_32b65b2e76,quantitative,DIA,2022.0,SUM,2022.0
+E_32b65b2e76,quantitative,MT,2022.0,SUM,2022.0
+E_32b65b2e76,quantitative,QA,2022.0,SUM,2022.0
+E_32b65b2e76,quantitative,SA,2022.0,SUM,2022.0
+E_32b65b2e76,quantitative,SUM,2022.0,SUM,2022.0
+E_32e4306ff7,altered,DIA,2022.0,DIA,2022.0
+E_32e4306ff7,altered,MT,2022.0,DIA,2022.0
+E_32e4306ff7,altered,QA,2022.0,DIA,2022.0
+E_32e4306ff7,altered,SUM,2022.0,DIA,2022.0
+E_32fec28136,mathematical,MT,2022.0,MT,2022.0
+E_32fec28136,mathematical,SA,2022.0,MT,2022.0
+E_32fec28136,mathematical,DIA,2023.0,MT,2022.0
+E_32fec28136,mathematical,QA,2023.0,MT,2022.0
+E_32fec28136,mathematical,SUM,2023.0,MT,2022.0
+E_333aba968c,optimization,MT,2013.0,MT,2013.0
+E_333aba968c,optimization,SA,2013.0,MT,2013.0
+E_333aba968c,optimization,QA,2016.0,MT,2013.0
+E_333aba968c,optimization,DIA,2018.0,MT,2013.0
+E_333aba968c,optimization,SUM,2019.0,MT,2013.0
+E_3368e6b8ea,reducing,DIA,2020.0,DIA,2020.0
+E_3368e6b8ea,reducing,MT,2021.0,DIA,2020.0
+E_3368e6b8ea,reducing,QA,2021.0,DIA,2020.0
+E_3368e6b8ea,reducing,SA,2021.0,DIA,2020.0
+E_3368e6b8ea,reducing,SUM,2023.0,DIA,2020.0
+E_339713c8df,state of the art,SA,2013.0,SA,2013.0
+E_339713c8df,state of the art,MT,2015.0,SA,2013.0
+E_339713c8df,state of the art,QA,2016.0,SA,2013.0
+E_339713c8df,state of the art,DIA,2018.0,SA,2013.0
+E_339713c8df,state of the art,SUM,2020.0,SA,2013.0
+E_33c0478b99,improve,MT,2010.0,MT,2010.0
+E_33c0478b99,improve,DIA,2011.0,MT,2010.0
+E_33c0478b99,improve,QA,2011.0,MT,2010.0
+E_33c0478b99,improve,SA,2013.0,MT,2010.0
+E_33c0478b99,improve,SUM,2013.0,MT,2010.0
+E_33cad6fc55,wide margin,QA,2013.0,QA,2013.0
+E_33cad6fc55,wide margin,SUM,2016.0,QA,2013.0
+E_33cad6fc55,wide margin,SA,2019.0,QA,2013.0
+E_33cad6fc55,wide margin,DIA,2020.0,QA,2013.0
+E_344af2e428,competitively,MT,2011.0,MT,2011.0
+E_344af2e428,competitively,SUM,2014.0,MT,2011.0
+E_344af2e428,competitively,SA,2015.0,MT,2011.0
+E_344af2e428,competitively,QA,2020.0,MT,2011.0
+E_344af2e428,competitively,DIA,2021.0,MT,2011.0
+E_347cd68a17,comparison,QA,2016.0,QA,2016.0
+E_347cd68a17,comparison,MT,2019.0,QA,2016.0
+E_347cd68a17,comparison,DIA,2021.0,QA,2016.0
+E_347cd68a17,comparison,SA,2022.0,QA,2016.0
+E_3508e2114c,emergent,SA,2022.0,SA,2022.0
+E_3508e2114c,emergent,DIA,2023.0,SA,2022.0
+E_3508e2114c,emergent,MT,2023.0,SA,2022.0
+E_3508e2114c,emergent,QA,2023.0,SA,2022.0
+E_3508e2114c,emergent,SUM,2023.0,SA,2022.0
+E_3521d4ef72,pre-trained model,MT,2018.0,MT,2018.0
+E_3521d4ef72,pre-trained model,SA,2018.0,MT,2018.0
+E_3521d4ef72,pre-trained model,QA,2019.0,MT,2018.0
+E_3521d4ef72,pre-trained model,DIA,2020.0,MT,2018.0
+E_3521d4ef72,pre-trained model,SUM,2021.0,MT,2018.0
+E_3549d284a1,more robust,MT,2012.0,MT,2012.0
+E_3549d284a1,more robust,QA,2016.0,MT,2012.0
+E_3549d284a1,more robust,DIA,2018.0,MT,2012.0
+E_3549d284a1,more robust,SA,2019.0,MT,2012.0
+E_3549d284a1,more robust,SUM,2021.0,MT,2012.0
+E_358dbc9e59,base model,MT,2016.0,SA,2016.0
+E_358dbc9e59,base model,SA,2016.0,SA,2016.0
+E_358dbc9e59,base model,DIA,2017.0,SA,2016.0
+E_358dbc9e59,base model,SUM,2018.0,SA,2016.0
+E_358dbc9e59,base model,QA,2021.0,SA,2016.0
+E_36cc2aa531,degrades,MT,2011.0,MT,2011.0
+E_36cc2aa531,degrades,QA,2018.0,MT,2011.0
+E_36cc2aa531,degrades,SA,2018.0,MT,2011.0
+E_36cc2aa531,degrades,DIA,2021.0,MT,2011.0
+E_36cc2aa531,degrades,SUM,2021.0,MT,2011.0
+E_36cd38f49b,source,MT,2013.0,MT,2013.0
+E_36cd38f49b,source,SUM,2018.0,MT,2013.0
+E_36cd38f49b,source,DIA,2022.0,MT,2013.0
+E_36cd38f49b,source,QA,2022.0,MT,2013.0
+E_36cd38f49b,source,SA,2022.0,MT,2013.0
+E_36fa3a193d,social,DIA,2022.0,SA,2022.0
+E_36fa3a193d,social,MT,2022.0,SA,2022.0
+E_36fa3a193d,social,QA,2022.0,SA,2022.0
+E_36fa3a193d,social,SA,2022.0,SA,2022.0
+E_36fa3a193d,social,SUM,2022.0,SA,2022.0
+E_36fb6f5cc3,decoding speed,MT,2011.0,MT,2011.0
+E_36fb6f5cc3,decoding speed,DIA,2019.0,MT,2011.0
+E_3711252c35,all metrics,MT,2011.0,MT,2011.0
+E_3711252c35,all metrics,SUM,2012.0,MT,2011.0
+E_3711252c35,all metrics,DIA,2016.0,MT,2011.0
+E_3711252c35,all metrics,QA,2016.0,MT,2011.0
+E_3711252c35,all metrics,SA,2019.0,MT,2011.0
+E_37a5612413,mini-batch size,MT,2013.0,MT,2013.0
+E_37a5612413,mini-batch size,QA,2016.0,MT,2013.0
+E_37a5612413,mini-batch size,SA,2016.0,MT,2013.0
+E_37a5612413,mini-batch size,DIA,2017.0,MT,2013.0
+E_37a5612413,mini-batch size,SUM,2018.0,MT,2013.0
+E_37c3450b66,advanced,DIA,2022.0,DIA,2022.0
+E_37c3450b66,advanced,MT,2022.0,DIA,2022.0
+E_37c3450b66,advanced,QA,2022.0,DIA,2022.0
+E_37c3450b66,advanced,SUM,2022.0,DIA,2022.0
+E_37c3450b66,advanced,SA,2023.0,DIA,2022.0
+E_3853c37232,minibatch size,DIA,2017.0,MT,2017.0
+E_3853c37232,minibatch size,MT,2017.0,MT,2017.0
+E_3853c37232,minibatch size,SA,2018.0,MT,2017.0
+E_3853c37232,minibatch size,QA,2019.0,MT,2017.0
+E_385aa5385e,phrase,MT,2013.0,SA,2013.0
+E_385aa5385e,phrase,SA,2013.0,SA,2013.0
+E_385aa5385e,phrase,QA,2019.0,SA,2013.0
+E_385aa5385e,phrase,DIA,2023.0,SA,2013.0
+E_385aa5385e,phrase,SUM,2023.0,SA,2013.0
+E_386bba5a5d,primary,DIA,2022.0,QA,2022.0
+E_386bba5a5d,primary,MT,2022.0,QA,2022.0
+E_386bba5a5d,primary,QA,2022.0,QA,2022.0
+E_386bba5a5d,primary,SA,2022.0,QA,2022.0
+E_386bba5a5d,primary,SUM,2022.0,QA,2022.0
+E_388053b7c0,ensuring,DIA,2022.0,DIA,2022.0
+E_388053b7c0,ensuring,SA,2023.0,DIA,2022.0
+E_388053b7c0,ensuring,SUM,2023.0,DIA,2022.0
+E_388053b7c0,ensuring,MT,2024.0,DIA,2022.0
+E_38f125cea2,other baselines,SUM,2013.0,SUM,2013.0
+E_38f125cea2,other baselines,SA,2018.0,SUM,2013.0
+E_38f125cea2,other baselines,DIA,2019.0,SUM,2013.0
+E_38f125cea2,other baselines,MT,2019.0,SUM,2013.0
+E_38f125cea2,other baselines,QA,2019.0,SUM,2013.0
+E_39524aa473,training data,MT,2011.0,MT,2011.0
+E_39524aa473,training data,SUM,2012.0,MT,2011.0
+E_39524aa473,training data,DIA,2013.0,MT,2011.0
+E_39524aa473,training data,SA,2013.0,MT,2011.0
+E_39524aa473,training data,QA,2016.0,MT,2011.0
+E_39cfe6c08f,target words,MT,2011.0,MT,2011.0
+E_39cfe6c08f,target words,SUM,2019.0,MT,2011.0
+E_39f7b9b748,regulatory,DIA,2022.0,DIA,2022.0
+E_39f7b9b748,regulatory,MT,2022.0,DIA,2022.0
+E_39f7b9b748,regulatory,QA,2022.0,DIA,2022.0
+E_39f7b9b748,regulatory,SA,2022.0,DIA,2022.0
+E_39f7b9b748,regulatory,SUM,2023.0,DIA,2022.0
+E_3a45f3eceb,abstracts,MT,2012.0,MT,2012.0
+E_3a45f3eceb,abstracts,QA,2013.0,MT,2012.0
+E_3a45f3eceb,abstracts,DIA,2023.0,MT,2012.0
+E_3a45f3eceb,abstracts,SA,2023.0,MT,2012.0
+E_3a45f3eceb,abstracts,SUM,2023.0,MT,2012.0
+E_3a6713def8,consistent,MT,2010.0,MT,2010.0
+E_3a6713def8,consistent,SA,2010.0,MT,2010.0
+E_3a6713def8,consistent,DIA,2011.0,MT,2010.0
+E_3a6713def8,consistent,QA,2019.0,MT,2010.0
+E_3a749f8e94,momentum,MT,2014.0,MT,2014.0
+E_3a749f8e94,momentum,DIA,2016.0,MT,2014.0
+E_3a749f8e94,momentum,QA,2016.0,MT,2014.0
+E_3a749f8e94,momentum,SA,2016.0,MT,2014.0
+E_3a749f8e94,momentum,SUM,2020.0,MT,2014.0
+E_3a95f35e0b,our models,SA,2011.0,SA,2011.0
+E_3a95f35e0b,our models,MT,2013.0,SA,2011.0
+E_3a95f35e0b,our models,SUM,2013.0,SA,2011.0
+E_3a95f35e0b,our models,DIA,2014.0,SA,2011.0
+E_3a95f35e0b,our models,QA,2016.0,SA,2011.0
+E_3ab49a5de3,multi-head attention,MT,2018.0,MT,2018.0
+E_3ab49a5de3,multi-head attention,QA,2019.0,MT,2018.0
+E_3ab49a5de3,multi-head attention,SUM,2019.0,MT,2018.0
+E_3ab49a5de3,multi-head attention,DIA,2020.0,MT,2018.0
+E_3ab49a5de3,multi-head attention,SA,2020.0,MT,2018.0
+E_3ac08b2684,relationship,MT,2012.0,MT,2012.0
+E_3ac08b2684,relationship,DIA,2019.0,MT,2012.0
+E_3ac08b2684,relationship,QA,2019.0,MT,2012.0
+E_3ac08b2684,relationship,SA,2019.0,MT,2012.0
+E_3ac08b2684,relationship,SUM,2022.0,MT,2012.0
+E_3ad312362d,correlation,MT,2010.0,MT,2010.0
+E_3ad312362d,correlation,QA,2010.0,MT,2010.0
+E_3ad312362d,correlation,SUM,2015.0,MT,2010.0
+E_3ad312362d,correlation,SA,2017.0,MT,2010.0
+E_3ad312362d,correlation,DIA,2019.0,MT,2010.0
+E_3af869abd8,is not included,DIA,2022.0,DIA,2022.0
+E_3af869abd8,is not included,MT,2022.0,DIA,2022.0
+E_3af869abd8,is not included,QA,2022.0,DIA,2022.0
+E_3af869abd8,is not included,SA,2022.0,DIA,2022.0
+E_3af869abd8,is not included,SUM,2022.0,DIA,2022.0
+E_3bbfdace1e,environmental,DIA,2022.0,SA,2022.0
+E_3bbfdace1e,environmental,MT,2022.0,SA,2022.0
+E_3bbfdace1e,environmental,QA,2022.0,SA,2022.0
+E_3bbfdace1e,environmental,SA,2022.0,SA,2022.0
+E_3bbfdace1e,environmental,SUM,2022.0,SA,2022.0
+E_3cf2521eaa,interpretable,DIA,2022.0,DIA,2022.0
+E_3cf2521eaa,interpretable,MT,2022.0,DIA,2022.0
+E_3cf2521eaa,interpretable,QA,2022.0,DIA,2022.0
+E_3cf2521eaa,interpretable,SA,2022.0,DIA,2022.0
+E_3cf2521eaa,interpretable,SUM,2022.0,DIA,2022.0
+E_3d3eb2e5c4,learning rate,MT,2013.0,MT,2013.0
+E_3d3eb2e5c4,learning rate,DIA,2014.0,MT,2013.0
+E_3d3eb2e5c4,learning rate,QA,2014.0,MT,2013.0
+E_3d3eb2e5c4,learning rate,SA,2015.0,MT,2013.0
+E_3d3eb2e5c4,learning rate,SUM,2017.0,MT,2013.0
+E_3d43221a37,both methods,QA,2011.0,QA,2011.0
+E_3d43221a37,both methods,MT,2017.0,QA,2011.0
+E_3d43221a37,both methods,SA,2017.0,QA,2011.0
+E_3d43221a37,both methods,DIA,2018.0,QA,2011.0
+E_3d53f74c0e,: the authors,DIA,2022.0,SUM,2022.0
+E_3d53f74c0e,: the authors,MT,2022.0,SUM,2022.0
+E_3d53f74c0e,: the authors,QA,2022.0,SUM,2022.0
+E_3d53f74c0e,: the authors,SUM,2022.0,SUM,2022.0
+E_3db1a73a24,united,DIA,2022.0,DIA,2022.0
+E_3db1a73a24,united,MT,2022.0,DIA,2022.0
+E_3db1a73a24,united,QA,2022.0,DIA,2022.0
+E_3db1a73a24,united,SA,2022.0,DIA,2022.0
+E_3db1a73a24,united,SUM,2022.0,DIA,2022.0
+E_3e83b7e2ca,psychological,QA,2022.0,QA,2022.0
+E_3e83b7e2ca,psychological,SA,2022.0,QA,2022.0
+E_3e83b7e2ca,psychological,DIA,2023.0,QA,2022.0
+E_3e83b7e2ca,psychological,MT,2023.0,QA,2022.0
+E_3e83b7e2ca,psychological,SUM,2023.0,QA,2022.0
+E_3ec6a9032b,maximum sentence length,MT,2013.0,MT,2013.0
+E_3ec6a9032b,maximum sentence length,SA,2016.0,MT,2013.0
+E_3ee5d30abb,consistently better,MT,2011.0,MT,2011.0
+E_3ee5d30abb,consistently better,SA,2012.0,MT,2011.0
+E_3ee5d30abb,consistently better,QA,2013.0,MT,2011.0
+E_3ee5d30abb,consistently better,SUM,2015.0,MT,2011.0
+E_3ee5d30abb,consistently better,DIA,2017.0,MT,2011.0
+E_3eef9039b6,each other,MT,2013.0,MT,2013.0
+E_3eef9039b6,each other,DIA,2014.0,MT,2013.0
+E_3eef9039b6,each other,QA,2016.0,MT,2013.0
+E_3eef9039b6,each other,SA,2017.0,MT,2013.0
+E_3eef9039b6,each other,SUM,2020.0,MT,2013.0
+E_3f1d258f31,personalized,DIA,2022.0,QA,2022.0
+E_3f1d258f31,personalized,MT,2022.0,QA,2022.0
+E_3f1d258f31,personalized,QA,2022.0,QA,2022.0
+E_3f1d258f31,personalized,SA,2022.0,QA,2022.0
+E_3f1d258f31,personalized,SUM,2022.0,QA,2022.0
+E_3f6609ba5f,informed,DIA,2022.0,MT,2022.0
+E_3f6609ba5f,informed,MT,2022.0,MT,2022.0
+E_3f6609ba5f,informed,QA,2022.0,MT,2022.0
+E_3f6609ba5f,informed,SA,2022.0,MT,2022.0
+E_3f6609ba5f,informed,SUM,2023.0,MT,2022.0
+E_3f90d678f9,significant margin,SA,2012.0,SA,2012.0
+E_3f90d678f9,significant margin,QA,2015.0,SA,2012.0
+E_3f90d678f9,significant margin,MT,2016.0,SA,2012.0
+E_3f90d678f9,significant margin,DIA,2018.0,SA,2012.0
+E_3f90d678f9,significant margin,SUM,2020.0,SA,2012.0
+E_3f96856b98,multilingual model,MT,2016.0,MT,2016.0
+E_3f96856b98,multilingual model,QA,2019.0,MT,2016.0
+E_405aaff660,nature,DIA,2022.0,DIA,2022.0
+E_405aaff660,nature,MT,2022.0,DIA,2022.0
+E_405aaff660,nature,QA,2022.0,DIA,2022.0
+E_405aaff660,nature,SA,2022.0,DIA,2022.0
+E_405aaff660,nature,SUM,2023.0,DIA,2022.0
+E_41b66e5043,dev set,SUM,2010.0,SUM,2010.0
+E_41b66e5043,dev set,MT,2013.0,SUM,2010.0
+E_41b66e5043,dev set,QA,2016.0,SUM,2010.0
+E_41b66e5043,dev set,SA,2018.0,SUM,2010.0
+E_4239a32557,novel approach,MT,2011.0,MT,2011.0
+E_4239a32557,novel approach,DIA,2012.0,MT,2011.0
+E_4239a32557,novel approach,SA,2015.0,MT,2011.0
+E_4239a32557,novel approach,QA,2016.0,MT,2011.0
+E_4239a32557,novel approach,SUM,2019.0,MT,2011.0
+E_424dbe533d,ability,MT,2013.0,MT,2013.0
+E_424dbe533d,ability,SA,2018.0,MT,2013.0
+E_424dbe533d,ability,DIA,2019.0,MT,2013.0
+E_424dbe533d,ability,QA,2019.0,MT,2013.0
+E_424dbe533d,ability,SUM,2020.0,MT,2013.0
+E_428290d22b,better results,MT,2011.0,MT,2011.0
+E_428290d22b,better results,SA,2012.0,MT,2011.0
+E_428290d22b,better results,SUM,2013.0,MT,2011.0
+E_428290d22b,better results,QA,2016.0,MT,2011.0
+E_428290d22b,better results,DIA,2018.0,MT,2011.0
+E_428add47c7,inflammatory,DIA,2022.0,DIA,2022.0
+E_428add47c7,inflammatory,MT,2022.0,DIA,2022.0
+E_428add47c7,inflammatory,QA,2022.0,DIA,2022.0
+E_428add47c7,inflammatory,SA,2022.0,DIA,2022.0
+E_428add47c7,inflammatory,SUM,2022.0,DIA,2022.0
+E_4290c14934,combining,DIA,2022.0,MT,2022.0
+E_4290c14934,combining,MT,2022.0,MT,2022.0
+E_4290c14934,combining,QA,2022.0,MT,2022.0
+E_4290c14934,combining,SA,2022.0,MT,2022.0
+E_4290c14934,combining,SUM,2023.0,MT,2022.0
+E_42a6661838,circulating,DIA,2022.0,SUM,2022.0
+E_42a6661838,circulating,MT,2022.0,SUM,2022.0
+E_42a6661838,circulating,QA,2022.0,SUM,2022.0
+E_42a6661838,circulating,SUM,2022.0,SUM,2022.0
+E_42aefbae01,target,MT,2013.0,MT,2013.0
+E_42aefbae01,target,SA,2014.0,MT,2013.0
+E_42aefbae01,target,DIA,2018.0,MT,2013.0
+E_42aefbae01,target,QA,2020.0,MT,2013.0
+E_42aefbae01,target,SUM,2022.0,MT,2013.0
+E_42e2b8eb5b,default settings,MT,2010.0,MT,2010.0
+E_42e2b8eb5b,default settings,SA,2016.0,MT,2010.0
+E_42e2b8eb5b,default settings,SUM,2018.0,MT,2010.0
+E_42e2b8eb5b,default settings,QA,2021.0,MT,2010.0
+E_434bac5ae0,adam optimizer,DIA,2016.0,DIA,2016.0
+E_434bac5ae0,adam optimizer,QA,2016.0,DIA,2016.0
+E_434bac5ae0,adam optimizer,MT,2017.0,DIA,2016.0
+E_434bac5ae0,adam optimizer,SA,2017.0,DIA,2016.0
+E_434bac5ae0,adam optimizer,SUM,2017.0,DIA,2016.0
+E_43b5c91759,current,DIA,2022.0,DIA,2022.0
+E_43b5c91759,current,MT,2022.0,DIA,2022.0
+E_43b5c91759,current,QA,2022.0,DIA,2022.0
+E_43b5c91759,current,SA,2022.0,DIA,2022.0
+E_43b5c91759,current,SUM,2022.0,DIA,2022.0
+E_4616a006d0,hyper-parameters,MT,2015.0,MT,2015.0
+E_4616a006d0,hyper-parameters,SA,2017.0,MT,2015.0
+E_4616a006d0,hyper-parameters,QA,2018.0,MT,2015.0
+E_4616a006d0,hyper-parameters,SUM,2018.0,MT,2015.0
+E_4616a006d0,hyper-parameters,DIA,2019.0,MT,2015.0
+E_46194dceff,initial learning rate,MT,2015.0,SA,2015.0
+E_46194dceff,initial learning rate,QA,2015.0,SA,2015.0
+E_46194dceff,initial learning rate,SA,2015.0,SA,2015.0
+E_46194dceff,initial learning rate,DIA,2016.0,SA,2015.0
+E_46194dceff,initial learning rate,SUM,2018.0,SA,2015.0
+E_46848d0bd1,review and meta,DIA,2022.0,DIA,2022.0
+E_46848d0bd1,review and meta,MT,2022.0,DIA,2022.0
+E_46848d0bd1,review and meta,QA,2022.0,DIA,2022.0
+E_46848d0bd1,review and meta,SA,2022.0,DIA,2022.0
+E_46848d0bd1,review and meta,SUM,2023.0,DIA,2022.0
+E_468bfe2bd0,warmup,MT,2018.0,MT,2018.0
+E_468bfe2bd0,warmup,SA,2019.0,MT,2018.0
+E_468bfe2bd0,warmup,DIA,2020.0,MT,2018.0
+E_468bfe2bd0,warmup,QA,2020.0,MT,2018.0
+E_468bfe2bd0,warmup,SUM,2021.0,MT,2018.0
+E_46beaaa025,molecular,DIA,2022.0,DIA,2022.0
+E_46beaaa025,molecular,MT,2022.0,DIA,2022.0
+E_46beaaa025,molecular,QA,2022.0,DIA,2022.0
+E_46beaaa025,molecular,SUM,2022.0,DIA,2022.0
+E_47021dbf4a,further information on,DIA,2022.0,DIA,2022.0
+E_47021dbf4a,further information on,MT,2022.0,DIA,2022.0
+E_47021dbf4a,further information on,SA,2022.0,DIA,2022.0
+E_47021dbf4a,further information on,QA,2023.0,DIA,2022.0
+E_47021dbf4a,further information on,SUM,2023.0,DIA,2022.0
+E_47f0bcb7a4,models to follow,DIA,2022.0,DIA,2022.0
+E_47f0bcb7a4,models to follow,SA,2022.0,DIA,2022.0
+E_47f0bcb7a4,models to follow,MT,2023.0,DIA,2022.0
+E_47f0bcb7a4,models to follow,QA,2023.0,DIA,2022.0
+E_485c26e89e,minibatches,SUM,2015.0,SUM,2015.0
+E_485c26e89e,minibatches,DIA,2016.0,SUM,2015.0
+E_485c26e89e,minibatches,MT,2016.0,SUM,2015.0
+E_485c26e89e,minibatches,QA,2016.0,SUM,2015.0
+E_485c26e89e,minibatches,SA,2018.0,SUM,2015.0
+E_48818f3da3,important,QA,2013.0,SA,2013.0
+E_48818f3da3,important,SA,2013.0,SA,2013.0
+E_48818f3da3,important,MT,2017.0,SA,2013.0
+E_48818f3da3,important,DIA,2018.0,SA,2013.0
+E_48818f3da3,important,SUM,2020.0,SA,2013.0
+E_48920c071f,parallel,MT,2013.0,MT,2013.0
+E_48920c071f,parallel,SA,2017.0,MT,2013.0
+E_48920c071f,parallel,DIA,2019.0,MT,2013.0
+E_48920c071f,parallel,SUM,2019.0,MT,2013.0
+E_48920c071f,parallel,QA,2020.0,MT,2013.0
+E_48efbb839d,transformers,MT,2019.0,MT,2019.0
+E_48efbb839d,transformers,DIA,2020.0,MT,2019.0
+E_48efbb839d,transformers,QA,2020.0,MT,2019.0
+E_48efbb839d,transformers,SUM,2020.0,MT,2019.0
+E_48efbb839d,transformers,SA,2022.0,MT,2019.0
+E_490e1788a7,enhancing,SA,2016.0,SA,2016.0
+E_490e1788a7,enhancing,SUM,2021.0,SA,2016.0
+E_490e1788a7,enhancing,DIA,2022.0,SA,2016.0
+E_490e1788a7,enhancing,MT,2022.0,SA,2016.0
+E_490e1788a7,enhancing,QA,2022.0,SA,2016.0
+E_491c7f709a,baseline methods,QA,2015.0,SA,2015.0
+E_491c7f709a,baseline methods,SA,2015.0,SA,2015.0
+E_491c7f709a,baseline methods,MT,2017.0,SA,2015.0
+E_491c7f709a,baseline methods,DIA,2018.0,SA,2015.0
+E_491c7f709a,baseline methods,SUM,2020.0,SA,2015.0
+E_49a31dfdbc,sustainable,DIA,2022.0,SA,2022.0
+E_49a31dfdbc,sustainable,MT,2022.0,SA,2022.0
+E_49a31dfdbc,sustainable,QA,2022.0,SA,2022.0
+E_49a31dfdbc,sustainable,SA,2022.0,SA,2022.0
+E_49a31dfdbc,sustainable,SUM,2022.0,SA,2022.0
+E_49f9ad2403,expressed in this,DIA,2022.0,DIA,2022.0
+E_49f9ad2403,expressed in this,MT,2022.0,DIA,2022.0
+E_49f9ad2403,expressed in this,SUM,2022.0,DIA,2022.0
+E_49f9ad2403,expressed in this,QA,2023.0,DIA,2022.0
+E_49f9ad2403,expressed in this,SA,2023.0,DIA,2022.0
+E_4a2906b098,all the metrics,QA,2018.0,QA,2018.0
+E_4a2906b098,all the metrics,DIA,2019.0,QA,2018.0
+E_4a2906b098,all the metrics,SA,2019.0,QA,2018.0
+E_4a2906b098,all the metrics,SUM,2020.0,QA,2018.0
+E_4a68e2894f,investigating,DIA,2022.0,DIA,2022.0
+E_4a68e2894f,investigating,MT,2022.0,DIA,2022.0
+E_4a68e2894f,investigating,QA,2022.0,DIA,2022.0
+E_4a68e2894f,investigating,SA,2022.0,DIA,2022.0
+E_4a68e2894f,investigating,SUM,2022.0,DIA,2022.0
+E_4a7c61ec03,first stage,MT,2011.0,MT,2011.0
+E_4a7c61ec03,first stage,DIA,2018.0,MT,2011.0
+E_4a7c61ec03,first stage,QA,2019.0,MT,2011.0
+E_4a7c61ec03,first stage,SUM,2019.0,MT,2011.0
+E_4a7c61ec03,first stage,SA,2020.0,MT,2011.0
+E_4ae35cd73a,reinforcement learning,DIA,2010.0,DIA,2010.0
+E_4ae35cd73a,reinforcement learning,SUM,2010.0,DIA,2010.0
+E_4ae35cd73a,reinforcement learning,MT,2017.0,DIA,2010.0
+E_4ae35cd73a,reinforcement learning,QA,2018.0,DIA,2010.0
+E_4ae35cd73a,reinforcement learning,SA,2018.0,DIA,2010.0
+E_4ae35dbb42,prompt,DIA,2022.0,SA,2022.0
+E_4ae35dbb42,prompt,QA,2022.0,SA,2022.0
+E_4ae35dbb42,prompt,SA,2022.0,SA,2022.0
+E_4ae35dbb42,prompt,MT,2023.0,SA,2022.0
+E_4ae35dbb42,prompt,SUM,2023.0,SA,2022.0
+E_4c54991589,training set,MT,2011.0,MT,2011.0
+E_4c54991589,training set,SA,2015.0,MT,2011.0
+E_4c54991589,training set,QA,2016.0,MT,2011.0
+E_4c54991589,training set,DIA,2018.0,MT,2011.0
+E_4c54991589,training set,SUM,2019.0,MT,2011.0
+E_4c8476db19,patience,SA,2016.0,SA,2016.0
+E_4c8476db19,patience,MT,2017.0,SA,2016.0
+E_4c8476db19,patience,QA,2017.0,SA,2016.0
+E_4c8476db19,patience,DIA,2018.0,SA,2016.0
+E_4c8476db19,patience,SUM,2021.0,SA,2016.0
+E_4c9184f37c,public,DIA,2022.0,DIA,2022.0
+E_4c9184f37c,public,QA,2022.0,DIA,2022.0
+E_4c9184f37c,public,SA,2022.0,DIA,2022.0
+E_4c9184f37c,public,SUM,2022.0,DIA,2022.0
+E_4c9184f37c,public,MT,2023.0,DIA,2022.0
+E_4d64359c89,regarding,DIA,2022.0,SUM,2022.0
+E_4d64359c89,regarding,MT,2022.0,SUM,2022.0
+E_4d64359c89,regarding,QA,2022.0,SUM,2022.0
+E_4d64359c89,regarding,SA,2022.0,SUM,2022.0
+E_4d64359c89,regarding,SUM,2022.0,SUM,2022.0
+E_4d8eb0a13d,training time,MT,2017.0,MT,2017.0
+E_4d8eb0a13d,training time,DIA,2018.0,MT,2017.0
+E_4d8eb0a13d,training time,QA,2018.0,MT,2017.0
+E_4d8eb0a13d,training time,SA,2018.0,MT,2017.0
+E_4db0062a5e,reasoning,QA,2018.0,QA,2018.0
+E_4db0062a5e,reasoning,SA,2021.0,QA,2018.0
+E_4db0062a5e,reasoning,DIA,2023.0,QA,2018.0
+E_4db0062a5e,reasoning,MT,2023.0,QA,2018.0
+E_4e00deceeb,hidden size,SUM,2014.0,SUM,2014.0
+E_4e00deceeb,hidden size,MT,2017.0,SUM,2014.0
+E_4e00deceeb,hidden size,QA,2017.0,SUM,2014.0
+E_4e00deceeb,hidden size,DIA,2018.0,SUM,2014.0
+E_4e00deceeb,hidden size,SA,2018.0,SUM,2014.0
+E_4e099738fb,attention mechanism,DIA,2016.0,DIA,2016.0
+E_4e099738fb,attention mechanism,MT,2016.0,DIA,2016.0
+E_4e099738fb,attention mechanism,QA,2016.0,DIA,2016.0
+E_4e099738fb,attention mechanism,SA,2016.0,DIA,2016.0
+E_4e099738fb,attention mechanism,SUM,2018.0,DIA,2016.0
+E_4f642e388f,chatgpt,DIA,2022.0,QA,2022.0
+E_4f642e388f,chatgpt,QA,2022.0,QA,2022.0
+E_4f642e388f,chatgpt,SA,2022.0,QA,2022.0
+E_4f642e388f,chatgpt,MT,2023.0,QA,2022.0
+E_4f642e388f,chatgpt,SUM,2023.0,QA,2022.0
+E_4f7ebb68de,good performance,SA,2015.0,SA,2015.0
+E_4f7ebb68de,good performance,MT,2017.0,SA,2015.0
+E_4f7ebb68de,good performance,QA,2018.0,SA,2015.0
+E_4f7ebb68de,good performance,SUM,2019.0,SA,2015.0
+E_4f7ebb68de,good performance,DIA,2021.0,SA,2015.0
+E_4fe0641279,back - translation,MT,2017.0,MT,2017.0
+E_4fe0641279,back - translation,QA,2019.0,MT,2017.0
+E_4fe0641279,back - translation,DIA,2020.0,MT,2017.0
+E_4fec3f273d,important information,MT,2016.0,QA,2016.0
+E_4fec3f273d,important information,QA,2016.0,QA,2016.0
+E_4fec3f273d,important information,SA,2016.0,QA,2016.0
+E_4fec3f273d,important information,SUM,2018.0,QA,2016.0
+E_4fec3f273d,important information,DIA,2020.0,QA,2016.0
+E_50301c95f5,experiments,SA,2011.0,SA,2011.0
+E_50301c95f5,experiments,MT,2012.0,SA,2011.0
+E_50301c95f5,experiments,DIA,2017.0,SA,2011.0
+E_50301c95f5,experiments,SUM,2017.0,SA,2011.0
+E_50301c95f5,experiments,QA,2019.0,SA,2011.0
+E_50606004cb,model performance,SA,2015.0,SA,2015.0
+E_50606004cb,model performance,MT,2018.0,SA,2015.0
+E_50606004cb,model performance,QA,2018.0,SA,2015.0
+E_50606004cb,model performance,DIA,2020.0,SA,2015.0
+E_507d922378,combined,MT,2012.0,MT,2012.0
+E_507d922378,combined,SUM,2015.0,MT,2012.0
+E_507d922378,combined,SA,2021.0,MT,2012.0
+E_507d922378,combined,DIA,2022.0,MT,2012.0
+E_507d922378,combined,QA,2022.0,MT,2012.0
+E_5084c2c1de,significantly outperforms,MT,2010.0,MT,2010.0
+E_5084c2c1de,significantly outperforms,QA,2011.0,MT,2010.0
+E_5084c2c1de,significantly outperforms,SUM,2011.0,MT,2010.0
+E_5084c2c1de,significantly outperforms,SA,2013.0,MT,2010.0
+E_5084c2c1de,significantly outperforms,DIA,2018.0,MT,2010.0
+E_50d701f901,overfitting,MT,2012.0,MT,2012.0
+E_50d701f901,overfitting,SUM,2014.0,MT,2012.0
+E_50d701f901,overfitting,QA,2016.0,MT,2012.0
+E_50d701f901,overfitting,SA,2016.0,MT,2012.0
+E_50d701f901,overfitting,DIA,2019.0,MT,2012.0
+E_50f085d94d,informativeness,SUM,2010.0,SUM,2010.0
+E_50f085d94d,informativeness,DIA,2015.0,SUM,2010.0
+E_50f085d94d,informativeness,MT,2019.0,SUM,2010.0
+E_50f085d94d,informativeness,QA,2019.0,SUM,2010.0
+E_510bf9286c,neural network,MT,2013.0,MT,2013.0
+E_510bf9286c,neural network,SA,2014.0,MT,2013.0
+E_510bf9286c,neural network,DIA,2018.0,MT,2013.0
+E_510bf9286c,neural network,QA,2018.0,MT,2013.0
+E_510bf9286c,neural network,SUM,2023.0,MT,2013.0
+E_5143d2bebf,translating,MT,2010.0,MT,2010.0
+E_5143d2bebf,translating,SA,2016.0,MT,2010.0
+E_5143d2bebf,translating,DIA,2022.0,MT,2010.0
+E_5143d2bebf,translating,SUM,2022.0,MT,2010.0
+E_5143d2bebf,translating,QA,2023.0,MT,2010.0
+E_518a4861e5,feature,MT,2010.0,MT,2010.0
+E_518a4861e5,feature,SA,2014.0,MT,2010.0
+E_518a4861e5,feature,SUM,2014.0,MT,2010.0
+E_518a4861e5,feature,DIA,2020.0,MT,2010.0
+E_518a4861e5,feature,QA,2022.0,MT,2010.0
+E_51badb0708,are unsupervised multitask,DIA,2022.0,DIA,2022.0
+E_51badb0708,are unsupervised multitask,MT,2022.0,DIA,2022.0
+E_51badb0708,are unsupervised multitask,QA,2022.0,DIA,2022.0
+E_51badb0708,are unsupervised multitask,SA,2022.0,DIA,2022.0
+E_51badb0708,are unsupervised multitask,SUM,2022.0,DIA,2022.0
+E_521345a9fb,signal,QA,2013.0,QA,2013.0
+E_521345a9fb,signal,DIA,2017.0,QA,2013.0
+E_521345a9fb,signal,MT,2019.0,QA,2013.0
+E_521345a9fb,signal,SA,2022.0,QA,2013.0
+E_521345a9fb,signal,SUM,2022.0,QA,2013.0
+E_52406e4baf,ensemble,QA,2013.0,QA,2013.0
+E_52406e4baf,ensemble,MT,2016.0,QA,2013.0
+E_52406e4baf,ensemble,SA,2016.0,QA,2013.0
+E_52406e4baf,ensemble,DIA,2020.0,QA,2013.0
+E_530270b128,significantly improve,MT,2011.0,QA,2011.0
+E_530270b128,significantly improve,QA,2011.0,QA,2011.0
+E_530270b128,significantly improve,SA,2013.0,QA,2011.0
+E_530270b128,significantly improve,DIA,2018.0,QA,2011.0
+E_530270b128,significantly improve,SUM,2019.0,QA,2011.0
+E_532c28d541,mobile,DIA,2022.0,DIA,2022.0
+E_532c28d541,mobile,MT,2022.0,DIA,2022.0
+E_532c28d541,mobile,QA,2022.0,DIA,2022.0
+E_532c28d541,mobile,SA,2022.0,DIA,2022.0
+E_532c28d541,mobile,SUM,2022.0,DIA,2022.0
+E_5377a3405f,input text,SA,2016.0,SA,2016.0
+E_5377a3405f,input text,MT,2018.0,SA,2016.0
+E_5377a3405f,input text,QA,2018.0,SA,2016.0
+E_5377a3405f,input text,SUM,2018.0,SA,2016.0
+E_5377a3405f,input text,DIA,2019.0,SA,2016.0
+E_53a0cae122,end-to - end,MT,2016.0,MT,2016.0
+E_53a0cae122,end-to - end,DIA,2017.0,MT,2016.0
+E_53a0cae122,end-to - end,QA,2017.0,MT,2016.0
+E_53a0cae122,end-to - end,SA,2021.0,MT,2016.0
+E_54013aad65,latent variable,MT,2012.0,MT,2012.0
+E_54013aad65,latent variable,QA,2017.0,MT,2012.0
+E_54013aad65,latent variable,DIA,2019.0,MT,2012.0
+E_54013aad65,latent variable,SA,2019.0,MT,2012.0
+E_5494af1f14,question,MT,2013.0,QA,2013.0
+E_5494af1f14,question,QA,2013.0,QA,2013.0
+E_5494af1f14,question,DIA,2019.0,QA,2013.0
+E_5494af1f14,question,SUM,2020.0,QA,2013.0
+E_5494af1f14,question,SA,2021.0,QA,2013.0
+E_54b425b901,substantial improvement,SA,2011.0,SA,2011.0
+E_54b425b901,substantial improvement,MT,2013.0,SA,2011.0
+E_54b425b901,substantial improvement,QA,2020.0,SA,2011.0
+E_54b425b901,substantial improvement,SUM,2021.0,SA,2011.0
+E_54f7b01b04,efficient,MT,2013.0,MT,2013.0
+E_54f7b01b04,efficient,SA,2016.0,MT,2013.0
+E_54f7b01b04,efficient,DIA,2022.0,MT,2013.0
+E_54f7b01b04,efficient,QA,2022.0,MT,2013.0
+E_54f7b01b04,efficient,SUM,2022.0,MT,2013.0
+E_555bf8344c,health,DIA,2022.0,QA,2022.0
+E_555bf8344c,health,MT,2022.0,QA,2022.0
+E_555bf8344c,health,QA,2022.0,QA,2022.0
+E_555bf8344c,health,SA,2022.0,QA,2022.0
+E_555bf8344c,health,SUM,2022.0,QA,2022.0
+E_55a93e485e,previous methods,SA,2017.0,SA,2017.0
+E_55a93e485e,previous methods,DIA,2018.0,SA,2017.0
+E_55a93e485e,previous methods,MT,2018.0,SA,2017.0
+E_55a93e485e,previous methods,QA,2019.0,SA,2017.0
+E_55a93e485e,previous methods,SUM,2020.0,SA,2017.0
+E_55a95650a6,scientific,DIA,2022.0,DIA,2022.0
+E_55a95650a6,scientific,MT,2022.0,DIA,2022.0
+E_55a95650a6,scientific,QA,2022.0,DIA,2022.0
+E_55a95650a6,scientific,SA,2022.0,DIA,2022.0
+E_55a95650a6,scientific,SUM,2023.0,DIA,2022.0
+E_55d65fec54,declare that they,DIA,2022.0,DIA,2022.0
+E_55d65fec54,declare that they,MT,2022.0,DIA,2022.0
+E_55d65fec54,declare that they,QA,2022.0,DIA,2022.0
+E_55d65fec54,declare that they,SA,2022.0,DIA,2022.0
+E_55d65fec54,declare that they,SUM,2022.0,DIA,2022.0
+E_55fe1eebcf,two models,MT,2012.0,MT,2012.0
+E_55fe1eebcf,two models,SA,2014.0,MT,2012.0
+E_55fe1eebcf,two models,SUM,2018.0,MT,2012.0
+E_55fe1eebcf,two models,DIA,2019.0,MT,2012.0
+E_55fe1eebcf,two models,QA,2019.0,MT,2012.0
+E_561e9d062d,or other third,DIA,2022.0,DIA,2022.0
+E_561e9d062d,or other third,MT,2022.0,DIA,2022.0
+E_561e9d062d,or other third,QA,2022.0,DIA,2022.0
+E_561e9d062d,or other third,SA,2022.0,DIA,2022.0
+E_561e9d062d,or other third,SUM,2023.0,DIA,2022.0
+E_56a2ad080e,optimizing,DIA,2019.0,DIA,2019.0
+E_56a2ad080e,optimizing,MT,2022.0,DIA,2019.0
+E_56a2ad080e,optimizing,QA,2022.0,DIA,2019.0
+E_56a2ad080e,optimizing,SA,2022.0,DIA,2019.0
+E_56a2ad080e,optimizing,SUM,2022.0,DIA,2019.0
+E_579fe8571f,interaction,MT,2015.0,MT,2015.0
+E_579fe8571f,interaction,DIA,2018.0,MT,2015.0
+E_579fe8571f,interaction,SUM,2018.0,MT,2015.0
+E_579fe8571f,interaction,SA,2019.0,MT,2015.0
+E_579fe8571f,interaction,QA,2020.0,MT,2015.0
+E_58fe955c74,accurate,MT,2022.0,QA,2022.0
+E_58fe955c74,accurate,QA,2022.0,QA,2022.0
+E_58fe955c74,accurate,SA,2022.0,QA,2022.0
+E_58fe955c74,accurate,DIA,2023.0,QA,2022.0
+E_58fe955c74,accurate,SUM,2023.0,QA,2022.0
+E_5958a604ed,participants,MT,2012.0,MT,2012.0
+E_5958a604ed,participants,SUM,2013.0,MT,2012.0
+E_5958a604ed,participants,QA,2020.0,MT,2012.0
+E_5958a604ed,participants,DIA,2022.0,MT,2012.0
+E_5958a604ed,participants,SA,2023.0,MT,2012.0
+E_59898171aa,intelligent,DIA,2022.0,DIA,2022.0
+E_59898171aa,intelligent,MT,2022.0,DIA,2022.0
+E_59898171aa,intelligent,QA,2022.0,DIA,2022.0
+E_59898171aa,intelligent,SA,2022.0,DIA,2022.0
+E_59898171aa,intelligent,SUM,2022.0,DIA,2022.0
+E_598a3c418f,dimensionality,MT,2015.0,SA,2015.0
+E_598a3c418f,dimensionality,SA,2015.0,SA,2015.0
+E_598a3c418f,dimensionality,QA,2017.0,SA,2015.0
+E_598a3c418f,dimensionality,DIA,2018.0,SA,2015.0
+E_598a3c418f,dimensionality,SUM,2019.0,SA,2015.0
+E_59a2e7f36a,conversations,DIA,2015.0,DIA,2015.0
+E_59a2e7f36a,conversations,QA,2019.0,DIA,2015.0
+E_59a2e7f36a,conversations,SUM,2020.0,DIA,2015.0
+E_59a2e7f36a,conversations,MT,2021.0,DIA,2015.0
+E_59b514174b,images,MT,2016.0,MT,2016.0
+E_59b514174b,images,SUM,2016.0,MT,2016.0
+E_59b514174b,images,DIA,2019.0,MT,2016.0
+E_59b514174b,images,QA,2021.0,MT,2016.0
+E_59b514174b,images,SA,2021.0,MT,2016.0
+E_59b7722c85,works better,MT,2010.0,MT,2010.0
+E_59b7722c85,works better,SA,2016.0,MT,2010.0
+E_59b7722c85,works better,QA,2018.0,MT,2010.0
+E_59b7722c85,works better,SUM,2020.0,MT,2010.0
+E_5a159214b1,alignment,MT,2010.0,MT,2010.0
+E_5a159214b1,alignment,SA,2015.0,MT,2010.0
+E_5a159214b1,alignment,QA,2019.0,MT,2010.0
+E_5a159214b1,alignment,SUM,2020.0,MT,2010.0
+E_5a159214b1,alignment,DIA,2024.0,MT,2010.0
+E_5a1969515a,phrases,MT,2010.0,MT,2010.0
+E_5a1969515a,phrases,SA,2011.0,MT,2010.0
+E_5a1969515a,phrases,SUM,2015.0,MT,2010.0
+E_5a1969515a,phrases,QA,2019.0,MT,2010.0
+E_5a35fa9e8c,bert model,DIA,2019.0,QA,2019.0
+E_5a35fa9e8c,bert model,MT,2019.0,QA,2019.0
+E_5a35fa9e8c,bert model,QA,2019.0,QA,2019.0
+E_5a35fa9e8c,bert model,SA,2019.0,QA,2019.0
+E_5a35fa9e8c,bert model,SUM,2019.0,QA,2019.0
+E_5ad2d7181a,both languages,MT,2010.0,SA,2010.0
+E_5ad2d7181a,both languages,SA,2010.0,SA,2010.0
+E_5ad2d7181a,both languages,QA,2019.0,SA,2010.0
+E_5ae235e0a8,ensembling,MT,2015.0,MT,2015.0
+E_5ae235e0a8,ensembling,SA,2017.0,MT,2015.0
+E_5ae235e0a8,ensembling,QA,2018.0,MT,2015.0
+E_5ba43fe10b,is based on,DIA,2022.0,DIA,2022.0
+E_5ba43fe10b,is based on,MT,2022.0,DIA,2022.0
+E_5ba43fe10b,is based on,QA,2022.0,DIA,2022.0
+E_5ba43fe10b,is based on,SA,2022.0,DIA,2022.0
+E_5ba43fe10b,is based on,SUM,2022.0,DIA,2022.0
+E_5bfb2a35cf,adapting,SA,2011.0,SA,2011.0
+E_5bfb2a35cf,adapting,MT,2013.0,SA,2011.0
+E_5bfb2a35cf,adapting,DIA,2018.0,SA,2011.0
+E_5bfb2a35cf,adapting,QA,2020.0,SA,2011.0
+E_5bfb2a35cf,adapting,SUM,2022.0,SA,2011.0
+E_5c18ef7277,context,SA,2010.0,SA,2010.0
+E_5c18ef7277,context,MT,2011.0,SA,2010.0
+E_5c18ef7277,context,SUM,2014.0,SA,2010.0
+E_5c18ef7277,context,QA,2015.0,SA,2010.0
+E_5c18ef7277,context,DIA,2018.0,SA,2010.0
+E_5c40608fb0,in fig. 2,DIA,2022.0,DIA,2022.0
+E_5c40608fb0,in fig. 2,MT,2022.0,DIA,2022.0
+E_5c40608fb0,in fig. 2,QA,2022.0,DIA,2022.0
+E_5c40608fb0,in fig. 2,SA,2022.0,DIA,2022.0
+E_5c40608fb0,in fig. 2,SUM,2022.0,DIA,2022.0
+E_5d554bc5f3,engineering,DIA,2022.0,DIA,2022.0
+E_5d554bc5f3,engineering,MT,2022.0,DIA,2022.0
+E_5d554bc5f3,engineering,QA,2022.0,DIA,2022.0
+E_5d554bc5f3,engineering,SUM,2022.0,DIA,2022.0
+E_5d7d36319e,breast,DIA,2022.0,QA,2022.0
+E_5d7d36319e,breast,MT,2022.0,QA,2022.0
+E_5d7d36319e,breast,QA,2022.0,QA,2022.0
+E_5d7d36319e,breast,SA,2022.0,QA,2022.0
+E_5d7d36319e,breast,SUM,2022.0,QA,2022.0
+E_5d8977d566,worse performance,MT,2015.0,MT,2015.0
+E_5d8977d566,worse performance,QA,2018.0,MT,2015.0
+E_5d8977d566,worse performance,SA,2018.0,MT,2015.0
+E_5d8977d566,worse performance,DIA,2019.0,MT,2015.0
+E_5da9bd0218,significant improvements,MT,2010.0,MT,2010.0
+E_5da9bd0218,significant improvements,SUM,2010.0,MT,2010.0
+E_5da9bd0218,significant improvements,QA,2013.0,MT,2010.0
+E_5da9bd0218,significant improvements,SA,2013.0,MT,2010.0
+E_5da9bd0218,significant improvements,DIA,2019.0,MT,2010.0
+E_5e2bab0ecb,others,MT,2010.0,MT,2010.0
+E_5e2bab0ecb,others,QA,2011.0,MT,2010.0
+E_5e2bab0ecb,others,SA,2013.0,MT,2010.0
+E_5e2bab0ecb,others,DIA,2015.0,MT,2010.0
+E_5e2bab0ecb,others,SUM,2015.0,MT,2010.0
+E_5e5dca86bc,bidirectional lstm,QA,2017.0,SA,2017.0
+E_5e5dca86bc,bidirectional lstm,SA,2017.0,SA,2017.0
+E_5e5dca86bc,bidirectional lstm,MT,2018.0,SA,2017.0
+E_5e5dca86bc,bidirectional lstm,SUM,2018.0,SA,2017.0
+E_5e5dca86bc,bidirectional lstm,DIA,2019.0,SA,2017.0
+E_5e8a2485fe,useful,MT,2010.0,MT,2010.0
+E_5e8a2485fe,useful,SA,2013.0,MT,2010.0
+E_5e8a2485fe,useful,SUM,2015.0,MT,2010.0
+E_5e8a2485fe,useful,QA,2016.0,MT,2010.0
+E_5e8a2485fe,useful,DIA,2019.0,MT,2010.0
+E_5e8ff9bf55,sample,MT,2019.0,MT,2019.0
+E_5e8ff9bf55,sample,DIA,2022.0,MT,2019.0
+E_5e8ff9bf55,sample,QA,2022.0,MT,2019.0
+E_5e8ff9bf55,sample,SA,2022.0,MT,2019.0
+E_5ef3a7eb73,two methods,MT,2012.0,MT,2012.0
+E_5ef3a7eb73,two methods,QA,2015.0,MT,2012.0
+E_5ef3a7eb73,two methods,SA,2015.0,MT,2012.0
+E_5ef3a7eb73,two methods,SUM,2015.0,MT,2012.0
+E_5ef3a7eb73,two methods,DIA,2017.0,MT,2012.0
+E_5f099425f5,efficiency,MT,2010.0,MT,2010.0
+E_5f099425f5,efficiency,DIA,2017.0,MT,2010.0
+E_5f099425f5,efficiency,SA,2019.0,MT,2010.0
+E_5f099425f5,efficiency,QA,2021.0,MT,2010.0
+E_5f099425f5,efficiency,SUM,2023.0,MT,2010.0
+E_5f449085d8,target sentence,MT,2010.0,MT,2010.0
+E_5f449085d8,target sentence,SA,2020.0,MT,2010.0
+E_5fe05153b7,transformer,MT,2018.0,MT,2018.0
+E_5fe05153b7,transformer,QA,2019.0,MT,2018.0
+E_5fe05153b7,transformer,SA,2019.0,MT,2018.0
+E_5fe05153b7,transformer,SUM,2019.0,MT,2018.0
+E_5fe05153b7,transformer,DIA,2020.0,MT,2018.0
+E_6050ce63e4,please,DIA,2022.0,DIA,2022.0
+E_6050ce63e4,please,QA,2022.0,DIA,2022.0
+E_6050ce63e4,please,SA,2022.0,DIA,2022.0
+E_6050ce63e4,please,MT,2023.0,DIA,2022.0
+E_6050ce63e4,please,SUM,2023.0,DIA,2022.0
+E_60634baf95,coverage,MT,2010.0,MT,2010.0
+E_60634baf95,coverage,SA,2014.0,MT,2010.0
+E_60634baf95,coverage,SUM,2015.0,MT,2010.0
+E_60634baf95,coverage,QA,2016.0,MT,2010.0
+E_60acec6367,taking,DIA,2022.0,MT,2022.0
+E_60acec6367,taking,MT,2022.0,MT,2022.0
+E_60acec6367,taking,QA,2022.0,MT,2022.0
+E_60acec6367,taking,SA,2022.0,MT,2022.0
+E_60acec6367,taking,SUM,2022.0,MT,2022.0
+E_60aef5b4c9,influence,MT,2016.0,MT,2016.0
+E_60aef5b4c9,influence,SA,2016.0,MT,2016.0
+E_60aef5b4c9,influence,QA,2017.0,MT,2016.0
+E_60aef5b4c9,influence,DIA,2019.0,MT,2016.0
+E_60aef5b4c9,influence,SUM,2023.0,MT,2016.0
+E_60df9e64b0,within,DIA,2022.0,SA,2022.0
+E_60df9e64b0,within,MT,2022.0,SA,2022.0
+E_60df9e64b0,within,QA,2022.0,SA,2022.0
+E_60df9e64b0,within,SA,2022.0,SA,2022.0
+E_60df9e64b0,within,SUM,2022.0,SA,2022.0
+E_6185009ec1,classifiers,SA,2010.0,SA,2010.0
+E_6185009ec1,classifiers,MT,2015.0,SA,2010.0
+E_6185009ec1,classifiers,QA,2015.0,SA,2010.0
+E_6185009ec1,classifiers,DIA,2016.0,SA,2010.0
+E_619637785a,word2vec,MT,2015.0,SA,2015.0
+E_619637785a,word2vec,SA,2015.0,SA,2015.0
+E_619637785a,word2vec,QA,2016.0,SA,2015.0
+E_61cd131f06,sentence embeddings,SA,2016.0,SA,2016.0
+E_61cd131f06,sentence embeddings,SUM,2017.0,SA,2016.0
+E_61cd131f06,sentence embeddings,MT,2018.0,SA,2016.0
+E_61cd131f06,sentence embeddings,QA,2018.0,SA,2016.0
+E_6227f68a2f,window size,MT,2013.0,MT,2013.0
+E_6227f68a2f,window size,SA,2013.0,MT,2013.0
+E_6227f68a2f,window size,QA,2015.0,MT,2013.0
+E_6227f68a2f,window size,DIA,2019.0,MT,2013.0
+E_6227f68a2f,window size,SUM,2020.0,MT,2013.0
+E_630c50a3a5,input sentence,MT,2010.0,MT,2010.0
+E_630c50a3a5,input sentence,SUM,2016.0,MT,2010.0
+E_630c50a3a5,input sentence,QA,2017.0,MT,2010.0
+E_630c50a3a5,input sentence,SA,2018.0,MT,2010.0
+E_630c50a3a5,input sentence,DIA,2019.0,MT,2010.0
+E_6340856b6b,rare words,MT,2016.0,MT,2016.0
+E_6340856b6b,rare words,QA,2018.0,MT,2016.0
+E_6340856b6b,rare words,SUM,2019.0,MT,2016.0
+E_6340856b6b,rare words,SA,2020.0,MT,2016.0
+E_6340856b6b,rare words,DIA,2021.0,MT,2016.0
+E_635cd23f48,our best model,QA,2011.0,QA,2011.0
+E_635cd23f48,our best model,MT,2014.0,QA,2011.0
+E_635cd23f48,our best model,SUM,2018.0,QA,2011.0
+E_635cd23f48,our best model,SA,2020.0,QA,2011.0
+E_63951e1759,preprint,DIA,2023.0,QA,2023.0
+E_63951e1759,preprint,QA,2023.0,QA,2023.0
+E_63951e1759,preprint,SA,2023.0,QA,2023.0
+E_63951e1759,preprint,SUM,2023.0,QA,2023.0
+E_63951e1759,preprint,MT,2024.0,QA,2023.0
+E_63f69c7f95,classification,SA,2011.0,SA,2011.0
+E_63f69c7f95,classification,DIA,2016.0,SA,2011.0
+E_63f69c7f95,classification,MT,2016.0,SA,2011.0
+E_63f69c7f95,classification,QA,2016.0,SA,2011.0
+E_63f69c7f95,classification,SUM,2020.0,SA,2011.0
+E_641ca54a35,over-fitting,MT,2014.0,MT,2014.0
+E_641ca54a35,over-fitting,QA,2016.0,MT,2014.0
+E_641ca54a35,over-fitting,DIA,2017.0,MT,2014.0
+E_641ca54a35,over-fitting,SA,2017.0,MT,2014.0
+E_64e12ab6aa,french,MT,2010.0,MT,2010.0
+E_64e12ab6aa,french,DIA,2022.0,MT,2010.0
+E_64e12ab6aa,french,QA,2022.0,MT,2010.0
+E_64e12ab6aa,french,SA,2022.0,MT,2010.0
+E_64f3ecf26f,slight improvement,MT,2011.0,MT,2011.0
+E_64f3ecf26f,slight improvement,SA,2016.0,MT,2011.0
+E_64f3ecf26f,slight improvement,DIA,2017.0,MT,2011.0
+E_64f3ecf26f,slight improvement,QA,2018.0,MT,2011.0
+E_6582626f75,making,DIA,2022.0,DIA,2022.0
+E_6582626f75,making,MT,2022.0,DIA,2022.0
+E_6582626f75,making,QA,2022.0,DIA,2022.0
+E_6582626f75,making,SA,2022.0,DIA,2022.0
+E_6582626f75,making,SUM,2022.0,DIA,2022.0
+E_666be9b7a8,highest scores,SUM,2010.0,SUM,2010.0
+E_666be9b7a8,highest scores,MT,2013.0,SUM,2010.0
+E_666be9b7a8,highest scores,SA,2014.0,SUM,2010.0
+E_666be9b7a8,highest scores,QA,2018.0,SUM,2010.0
+E_666be9b7a8,highest scores,DIA,2019.0,SUM,2010.0
+E_66747da07d,our proposed model,MT,2013.0,QA,2013.0
+E_66747da07d,our proposed model,QA,2013.0,QA,2013.0
+E_66747da07d,our proposed model,SA,2016.0,QA,2013.0
+E_66747da07d,our proposed model,DIA,2019.0,QA,2013.0
+E_66747da07d,our proposed model,SUM,2021.0,QA,2013.0
+E_67139a7262,two datasets,QA,2015.0,QA,2015.0
+E_67139a7262,two datasets,SA,2016.0,QA,2015.0
+E_67139a7262,two datasets,DIA,2017.0,QA,2015.0
+E_67139a7262,two datasets,MT,2018.0,QA,2015.0
+E_67139a7262,two datasets,SUM,2018.0,QA,2015.0
+E_676b1ecdb8,outperforming,MT,2010.0,MT,2010.0
+E_676b1ecdb8,outperforming,QA,2011.0,MT,2010.0
+E_676b1ecdb8,outperforming,SUM,2011.0,MT,2010.0
+E_676b1ecdb8,outperforming,SA,2012.0,MT,2010.0
+E_676b1ecdb8,outperforming,DIA,2017.0,MT,2010.0
+E_67cf2504d5,batch sizes,SA,2013.0,SA,2013.0
+E_67cf2504d5,batch sizes,MT,2018.0,SA,2013.0
+E_67cf2504d5,batch sizes,DIA,2019.0,SA,2013.0
+E_67cf2504d5,batch sizes,QA,2019.0,SA,2013.0
+E_67cf2504d5,batch sizes,SUM,2020.0,SA,2013.0
+E_67fbfa4ece,language model,MT,2010.0,MT,2010.0
+E_67fbfa4ece,language model,QA,2012.0,MT,2010.0
+E_67fbfa4ece,language model,SUM,2014.0,MT,2010.0
+E_67fbfa4ece,language model,SA,2015.0,MT,2010.0
+E_67fbfa4ece,language model,DIA,2020.0,MT,2010.0
+E_6831ab04c5,discriminator,DIA,2017.0,MT,2017.0
+E_6831ab04c5,discriminator,MT,2017.0,MT,2017.0
+E_6831ab04c5,discriminator,QA,2019.0,MT,2017.0
+E_6831ab04c5,discriminator,SUM,2020.0,MT,2017.0
+E_6831ab04c5,discriminator,SA,2021.0,MT,2017.0
+E_6927a3a721,average,MT,2013.0,MT,2013.0
+E_6927a3a721,average,SA,2015.0,MT,2013.0
+E_6927a3a721,average,QA,2018.0,MT,2013.0
+E_6927a3a721,average,DIA,2019.0,MT,2013.0
+E_6927a3a721,average,SUM,2019.0,MT,2013.0
+E_6958198e98,improves,DIA,2011.0,QA,2011.0
+E_6958198e98,improves,MT,2011.0,QA,2011.0
+E_6958198e98,improves,QA,2011.0,QA,2011.0
+E_6958198e98,improves,SA,2011.0,QA,2011.0
+E_6958198e98,improves,SUM,2012.0,QA,2011.0
+E_69a9c97921,all models,MT,2013.0,SA,2013.0
+E_69a9c97921,all models,SA,2013.0,SA,2013.0
+E_69a9c97921,all models,DIA,2014.0,SA,2013.0
+E_69a9c97921,all models,SUM,2014.0,SA,2013.0
+E_69a9c97921,all models,QA,2016.0,SA,2013.0
+E_69b600122c,our proposed approach,SA,2011.0,SA,2011.0
+E_69b600122c,our proposed approach,MT,2012.0,SA,2011.0
+E_69b600122c,our proposed approach,QA,2019.0,SA,2011.0
+E_69b600122c,our proposed approach,DIA,2020.0,SA,2011.0
+E_69fd5bfca8,sampling,MT,2013.0,MT,2013.0
+E_69fd5bfca8,sampling,DIA,2015.0,MT,2013.0
+E_69fd5bfca8,sampling,SA,2016.0,MT,2013.0
+E_69fd5bfca8,sampling,QA,2018.0,MT,2013.0
+E_69fd5bfca8,sampling,SUM,2022.0,MT,2013.0
+E_6ae8e62451,consistency,MT,2012.0,MT,2012.0
+E_6ae8e62451,consistency,DIA,2019.0,MT,2012.0
+E_6ae8e62451,consistency,QA,2019.0,MT,2012.0
+E_6ae8e62451,consistency,SUM,2021.0,MT,2012.0
+E_6b6cc496bc,baseline model,MT,2011.0,QA,2011.0
+E_6b6cc496bc,baseline model,QA,2011.0,QA,2011.0
+E_6b6cc496bc,baseline model,SA,2018.0,QA,2011.0
+E_6b6cc496bc,baseline model,SUM,2018.0,QA,2011.0
+E_6b6cc496bc,baseline model,DIA,2019.0,QA,2011.0
+E_6b9d617264,f1 scores,MT,2013.0,MT,2013.0
+E_6b9d617264,f1 scores,SA,2016.0,MT,2013.0
+E_6b9d617264,f1 scores,QA,2020.0,MT,2013.0
+E_6b9d617264,f1 scores,DIA,2021.0,MT,2013.0
+E_6c984780f7,immune,DIA,2022.0,QA,2022.0
+E_6c984780f7,immune,MT,2022.0,QA,2022.0
+E_6c984780f7,immune,QA,2022.0,QA,2022.0
+E_6c984780f7,immune,SUM,2022.0,QA,2022.0
+E_6cced3688c,strongest baseline,MT,2012.0,MT,2012.0
+E_6cced3688c,strongest baseline,QA,2016.0,MT,2012.0
+E_6cced3688c,strongest baseline,SA,2017.0,MT,2012.0
+E_6cced3688c,strongest baseline,DIA,2019.0,MT,2012.0
+E_6cced3688c,strongest baseline,SUM,2019.0,MT,2012.0
+E_6cebaac34c,all experiments,MT,2012.0,MT,2012.0
+E_6cebaac34c,all experiments,SA,2013.0,MT,2012.0
+E_6cebaac34c,all experiments,QA,2016.0,MT,2012.0
+E_6cebaac34c,all experiments,SUM,2020.0,MT,2012.0
+E_6cebaac34c,all experiments,DIA,2021.0,MT,2012.0
+E_6d0134f2ab,of the paper,DIA,2022.0,DIA,2022.0
+E_6d0134f2ab,of the paper,MT,2022.0,DIA,2022.0
+E_6d0134f2ab,of the paper,QA,2022.0,DIA,2022.0
+E_6d0134f2ab,of the paper,SA,2022.0,DIA,2022.0
+E_6d0134f2ab,of the paper,SUM,2023.0,DIA,2022.0
+E_6d67f73778,distribution,MT,2010.0,MT,2010.0
+E_6d67f73778,distribution,DIA,2017.0,MT,2010.0
+E_6d67f73778,distribution,QA,2017.0,MT,2010.0
+E_6d67f73778,distribution,SA,2019.0,MT,2010.0
+E_6d67f73778,distribution,SUM,2021.0,MT,2010.0
+E_6d84a9ae99,financial,DIA,2022.0,DIA,2022.0
+E_6d84a9ae99,financial,MT,2022.0,DIA,2022.0
+E_6d84a9ae99,financial,QA,2022.0,DIA,2022.0
+E_6d84a9ae99,financial,SA,2022.0,DIA,2022.0
+E_6d84a9ae99,financial,SUM,2023.0,DIA,2022.0
+E_6dd81ccd7b,embedding size,SA,2015.0,SA,2015.0
+E_6dd81ccd7b,embedding size,DIA,2016.0,SA,2015.0
+E_6dd81ccd7b,embedding size,MT,2016.0,SA,2015.0
+E_6dd81ccd7b,embedding size,QA,2016.0,SA,2015.0
+E_6dd81ccd7b,embedding size,SUM,2017.0,SA,2015.0
+E_6e039ff4ca,understanding by generative,MT,2022.0,MT,2022.0
+E_6e039ff4ca,understanding by generative,QA,2022.0,MT,2022.0
+E_6e039ff4ca,understanding by generative,SA,2022.0,MT,2022.0
+E_6e039ff4ca,understanding by generative,SUM,2022.0,MT,2022.0
+E_6e039ff4ca,understanding by generative,DIA,2023.0,MT,2022.0
+E_6e54f3ba80,comparing,DIA,2022.0,DIA,2022.0
+E_6e54f3ba80,comparing,MT,2022.0,DIA,2022.0
+E_6e54f3ba80,comparing,QA,2022.0,DIA,2022.0
+E_6e54f3ba80,comparing,SA,2022.0,DIA,2022.0
+E_6e54f3ba80,comparing,SUM,2022.0,DIA,2022.0
+E_6e6941c17e,protein,DIA,2022.0,MT,2022.0
+E_6e6941c17e,protein,MT,2022.0,MT,2022.0
+E_6e6941c17e,protein,QA,2022.0,MT,2022.0
+E_6e6941c17e,protein,SUM,2022.0,MT,2022.0
+E_6e7fcdb1f6,model training,MT,2014.0,MT,2014.0
+E_6e7fcdb1f6,model training,SA,2018.0,MT,2014.0
+E_6e7fcdb1f6,model training,DIA,2019.0,MT,2014.0
+E_6e7fcdb1f6,model training,QA,2020.0,MT,2014.0
+E_6e7fcdb1f6,model training,SUM,2021.0,MT,2014.0
+E_6ea2a9e265,maximum length,MT,2012.0,MT,2012.0
+E_6ea2a9e265,maximum length,DIA,2018.0,MT,2012.0
+E_6ea2a9e265,maximum length,SUM,2018.0,MT,2012.0
+E_6ea2a9e265,maximum length,QA,2019.0,MT,2012.0
+E_6ea2a9e265,maximum length,SA,2019.0,MT,2012.0
+E_6ec7489017,sequential,SA,2016.0,SA,2016.0
+E_6ec7489017,sequential,DIA,2022.0,SA,2016.0
+E_6ec7489017,sequential,MT,2022.0,SA,2016.0
+E_6ec7489017,sequential,QA,2022.0,SA,2016.0
+E_6ec7489017,sequential,SUM,2022.0,SA,2016.0
+E_6ee567de40,increasing,QA,2011.0,QA,2011.0
+E_6ee567de40,increasing,SA,2015.0,QA,2011.0
+E_6ee567de40,increasing,DIA,2016.0,QA,2011.0
+E_6ee567de40,increasing,MT,2017.0,QA,2011.0
+E_6ee567de40,increasing,SUM,2022.0,QA,2011.0
+E_6ef9161b90,samples,SUM,2015.0,SUM,2015.0
+E_6ef9161b90,samples,DIA,2019.0,SUM,2015.0
+E_6ef9161b90,samples,MT,2019.0,SUM,2015.0
+E_6ef9161b90,samples,QA,2020.0,SUM,2015.0
+E_6ef9161b90,samples,SA,2024.0,SUM,2015.0
+E_6f007f4188,test time,MT,2016.0,MT,2016.0
+E_6f007f4188,test time,QA,2016.0,MT,2016.0
+E_6f007f4188,test time,SUM,2018.0,MT,2016.0
+E_6f007f4188,test time,DIA,2020.0,MT,2016.0
+E_6f007f4188,test time,SA,2021.0,MT,2016.0
+E_6f7f9432d3,strong,QA,2010.0,QA,2010.0
+E_6f7f9432d3,strong,MT,2013.0,QA,2010.0
+E_6f7f9432d3,strong,SA,2015.0,QA,2010.0
+E_6f7f9432d3,strong,DIA,2022.0,QA,2010.0
+E_6f7f9432d3,strong,SUM,2023.0,QA,2010.0
+E_6fcc4b7d36,possible,MT,2012.0,MT,2012.0
+E_6fcc4b7d36,possible,QA,2018.0,MT,2012.0
+E_6fcc4b7d36,possible,DIA,2022.0,MT,2012.0
+E_6fcc4b7d36,possible,SA,2022.0,MT,2012.0
+E_6fcc4b7d36,possible,SUM,2023.0,MT,2012.0
+E_7002122cf0,visual features,SUM,2016.0,SUM,2016.0
+E_7002122cf0,visual features,MT,2017.0,SUM,2016.0
+E_7002122cf0,visual features,QA,2018.0,SUM,2016.0
+E_7002122cf0,visual features,DIA,2020.0,SUM,2016.0
+E_7069c61974,our methods,MT,2014.0,MT,2014.0
+E_7069c61974,our methods,QA,2017.0,MT,2014.0
+E_7069c61974,our methods,SUM,2018.0,MT,2014.0
+E_7069c61974,our methods,SA,2019.0,MT,2014.0
+E_70a0b39e0e,output layer,MT,2014.0,MT,2014.0
+E_70a0b39e0e,output layer,QA,2017.0,MT,2014.0
+E_70a0b39e0e,output layer,SA,2017.0,MT,2014.0
+E_710825a69a,declarations,DIA,2022.0,DIA,2022.0
+E_710825a69a,declarations,MT,2022.0,DIA,2022.0
+E_710825a69a,declarations,QA,2022.0,DIA,2022.0
+E_710825a69a,declarations,SA,2022.0,DIA,2022.0
+E_710825a69a,declarations,SUM,2022.0,DIA,2022.0
+E_710a3f4d65,shared vocabulary,MT,2018.0,MT,2018.0
+E_710a3f4d65,shared vocabulary,SA,2020.0,MT,2018.0
+E_71209996cb,loss function,MT,2013.0,MT,2013.0
+E_71209996cb,loss function,SA,2016.0,MT,2013.0
+E_71209996cb,loss function,QA,2017.0,MT,2013.0
+E_71209996cb,loss function,SUM,2018.0,MT,2013.0
+E_71209996cb,loss function,DIA,2019.0,MT,2013.0
+E_715a14d1eb,models are zero,DIA,2022.0,DIA,2022.0
+E_715a14d1eb,models are zero,MT,2022.0,DIA,2022.0
+E_715a14d1eb,models are zero,QA,2022.0,DIA,2022.0
+E_715a14d1eb,models are zero,SA,2022.0,DIA,2022.0
+E_715a14d1eb,models are zero,SUM,2023.0,DIA,2022.0
+E_7170f2678a,importance,DIA,2010.0,DIA,2010.0
+E_7170f2678a,importance,SUM,2015.0,DIA,2010.0
+E_7170f2678a,importance,MT,2016.0,DIA,2010.0
+E_7170f2678a,importance,QA,2016.0,DIA,2010.0
+E_7170f2678a,importance,SA,2016.0,DIA,2010.0
+E_72242ae0f2,on research design,MT,2022.0,QA,2022.0
+E_72242ae0f2,on research design,QA,2022.0,QA,2022.0
+E_72242ae0f2,on research design,SA,2022.0,QA,2022.0
+E_72242ae0f2,on research design,SUM,2022.0,QA,2022.0
+E_72242ae0f2,on research design,DIA,2023.0,QA,2022.0
+E_722d4ebad9,translation performance,MT,2010.0,MT,2010.0
+E_722d4ebad9,translation performance,SA,2021.0,MT,2010.0
+E_723a99d8c2,comparative,DIA,2022.0,SUM,2022.0
+E_723a99d8c2,comparative,MT,2022.0,SUM,2022.0
+E_723a99d8c2,comparative,QA,2022.0,SUM,2022.0
+E_723a99d8c2,comparative,SA,2022.0,SUM,2022.0
+E_723a99d8c2,comparative,SUM,2022.0,SUM,2022.0
+E_7278ff6867,adaptation,DIA,2010.0,DIA,2010.0
+E_7278ff6867,adaptation,MT,2011.0,DIA,2010.0
+E_7278ff6867,adaptation,SA,2022.0,DIA,2010.0
+E_7278ff6867,adaptation,SUM,2022.0,DIA,2010.0
+E_7290d6b1f1,probability,MT,2010.0,MT,2010.0
+E_7290d6b1f1,probability,SA,2017.0,MT,2010.0
+E_7290d6b1f1,probability,QA,2020.0,MT,2010.0
+E_7290d6b1f1,probability,SUM,2021.0,MT,2010.0
+E_72c2397bff,large improvements,MT,2011.0,MT,2011.0
+E_72c2397bff,large improvements,SUM,2014.0,MT,2011.0
+E_72c2397bff,large improvements,SA,2015.0,MT,2011.0
+E_72c2397bff,large improvements,DIA,2017.0,MT,2011.0
+E_72c2397bff,large improvements,QA,2020.0,MT,2011.0
+E_7383319295,predicting,SA,2018.0,SA,2018.0
+E_7383319295,predicting,MT,2021.0,SA,2018.0
+E_7383319295,predicting,DIA,2022.0,SA,2018.0
+E_7383319295,predicting,QA,2022.0,SA,2018.0
+E_7383319295,predicting,SUM,2022.0,SA,2018.0
+E_73fe5b24fe,all domains,SA,2014.0,SA,2014.0
+E_73fe5b24fe,all domains,DIA,2017.0,SA,2014.0
+E_73fe5b24fe,all domains,MT,2018.0,SA,2014.0
+E_73fe5b24fe,all domains,QA,2018.0,SA,2014.0
+E_73fe5b24fe,all domains,SUM,2018.0,SA,2014.0
+E_7412df2b1d,research,DIA,2022.0,SUM,2022.0
+E_7412df2b1d,research,MT,2022.0,SUM,2022.0
+E_7412df2b1d,research,QA,2022.0,SUM,2022.0
+E_7412df2b1d,research,SA,2022.0,SUM,2022.0
+E_7412df2b1d,research,SUM,2022.0,SUM,2022.0
+E_742f32c65f,factor,SA,2011.0,SA,2011.0
+E_742f32c65f,factor,MT,2012.0,SA,2011.0
+E_742f32c65f,factor,DIA,2019.0,SA,2011.0
+E_749df99313,pre-training,MT,2014.0,MT,2014.0
+E_749df99313,pre-training,QA,2015.0,MT,2014.0
+E_749df99313,pre-training,DIA,2017.0,MT,2014.0
+E_749df99313,pre-training,SA,2019.0,MT,2014.0
+E_749df99313,pre-training,SUM,2019.0,MT,2014.0
+E_74e0a8e1e3,hyperparameter,MT,2012.0,MT,2012.0
+E_74e0a8e1e3,hyperparameter,QA,2016.0,MT,2012.0
+E_74e0a8e1e3,hyperparameter,SA,2016.0,MT,2012.0
+E_74e0a8e1e3,hyperparameter,DIA,2018.0,MT,2012.0
+E_74e0a8e1e3,hyperparameter,SUM,2020.0,MT,2012.0
+E_751a9a8df9,managing,DIA,2022.0,DIA,2022.0
+E_751a9a8df9,managing,MT,2022.0,DIA,2022.0
+E_751a9a8df9,managing,QA,2022.0,DIA,2022.0
+E_751a9a8df9,managing,SA,2022.0,DIA,2022.0
+E_751a9a8df9,managing,SUM,2022.0,DIA,2022.0
+E_756457dc85,framework,MT,2010.0,MT,2010.0
+E_756457dc85,framework,SA,2012.0,MT,2010.0
+E_756457dc85,framework,QA,2013.0,MT,2010.0
+E_756457dc85,framework,SUM,2015.0,MT,2010.0
+E_756457dc85,framework,DIA,2019.0,MT,2010.0
+E_75896c5641,external knowledge,MT,2017.0,MT,2017.0
+E_75896c5641,external knowledge,QA,2018.0,MT,2017.0
+E_75896c5641,external knowledge,SA,2018.0,MT,2017.0
+E_75896c5641,external knowledge,DIA,2020.0,MT,2017.0
+E_75a6036f30,for neural language,DIA,2022.0,DIA,2022.0
+E_75a6036f30,for neural language,QA,2022.0,DIA,2022.0
+E_75a6036f30,for neural language,MT,2023.0,DIA,2022.0
+E_75a6036f30,for neural language,SA,2023.0,DIA,2022.0
+E_75a6036f30,for neural language,SUM,2023.0,DIA,2022.0
+E_75abd646aa,further,SA,2010.0,SA,2010.0
+E_75abd646aa,further,MT,2011.0,SA,2010.0
+E_75abd646aa,further,QA,2018.0,SA,2010.0
+E_75abd646aa,further,SUM,2020.0,SA,2010.0
+E_75abd646aa,further,DIA,2022.0,SA,2010.0
+E_75cf4b74c5,copy mechanism,QA,2018.0,QA,2018.0
+E_75cf4b74c5,copy mechanism,SUM,2018.0,QA,2018.0
+E_75cf4b74c5,copy mechanism,DIA,2019.0,QA,2018.0
+E_75cf4b74c5,copy mechanism,MT,2020.0,QA,2018.0
+E_75d37c6cbf,students,DIA,2022.0,DIA,2022.0
+E_75d37c6cbf,students,MT,2022.0,DIA,2022.0
+E_75d37c6cbf,students,QA,2022.0,DIA,2022.0
+E_75d37c6cbf,students,SA,2023.0,DIA,2022.0
+E_75d37c6cbf,students,SUM,2023.0,DIA,2022.0
+E_7625ac700f,functional,MT,2021.0,MT,2021.0
+E_7625ac700f,functional,DIA,2022.0,MT,2021.0
+E_7625ac700f,functional,QA,2022.0,MT,2021.0
+E_7625ac700f,functional,SA,2022.0,MT,2021.0
+E_7625ac700f,functional,SUM,2022.0,MT,2021.0
+E_76a2323ace,word embedding,MT,2013.0,MT,2013.0
+E_76a2323ace,word embedding,SA,2014.0,MT,2013.0
+E_76a2323ace,word embedding,QA,2015.0,MT,2013.0
+E_76a2323ace,word embedding,DIA,2019.0,MT,2013.0
+E_76a2323ace,word embedding,SUM,2020.0,MT,2013.0
+E_76cc47e21b,designing,DIA,2022.0,DIA,2022.0
+E_76cc47e21b,designing,MT,2022.0,DIA,2022.0
+E_76cc47e21b,designing,QA,2022.0,DIA,2022.0
+E_76cc47e21b,designing,SUM,2022.0,DIA,2022.0
+E_76cc47e21b,designing,SA,2023.0,DIA,2022.0
+E_76e11841d6,fine - tuning,MT,2020.0,MT,2020.0
+E_76e11841d6,fine - tuning,QA,2020.0,MT,2020.0
+E_76e11841d6,fine - tuning,SUM,2021.0,MT,2020.0
+E_76e11841d6,fine - tuning,DIA,2023.0,MT,2020.0
+E_76e11841d6,fine - tuning,SA,2023.0,MT,2020.0
+E_76ee4ad3b1,agents,MT,2017.0,MT,2017.0
+E_76ee4ad3b1,agents,DIA,2019.0,MT,2017.0
+E_76ee4ad3b1,agents,QA,2021.0,MT,2017.0
+E_76ee4ad3b1,agents,SUM,2022.0,MT,2017.0
+E_76ee4ad3b1,agents,SA,2023.0,MT,2017.0
+E_7724a3f6f3,number of epochs,MT,2017.0,SA,2017.0
+E_7724a3f6f3,number of epochs,SA,2017.0,SA,2017.0
+E_7724a3f6f3,number of epochs,DIA,2019.0,SA,2017.0
+E_7724a3f6f3,number of epochs,QA,2020.0,SA,2017.0
+E_7724a3f6f3,number of epochs,SUM,2021.0,SA,2017.0
+E_7769c63673,our proposed method,MT,2010.0,SUM,2010.0
+E_7769c63673,our proposed method,SUM,2010.0,SUM,2010.0
+E_7769c63673,our proposed method,SA,2011.0,SUM,2010.0
+E_7769c63673,our proposed method,DIA,2019.0,SUM,2010.0
+E_7769c63673,our proposed method,QA,2021.0,SUM,2010.0
+E_776ea3bf11,integration,SA,2012.0,SA,2012.0
+E_776ea3bf11,integration,MT,2013.0,SA,2012.0
+E_776ea3bf11,integration,DIA,2020.0,SA,2012.0
+E_776ea3bf11,integration,QA,2023.0,SA,2012.0
+E_77b49b1cd6,alzheimer's,DIA,2022.0,DIA,2022.0
+E_77b49b1cd6,alzheimer's,MT,2022.0,DIA,2022.0
+E_77b49b1cd6,alzheimer's,QA,2022.0,DIA,2022.0
+E_77b49b1cd6,alzheimer's,SA,2022.0,DIA,2022.0
+E_77b49b1cd6,alzheimer's,SUM,2022.0,DIA,2022.0
+E_7818da41c1,imagenet,QA,2018.0,QA,2018.0
+E_7818da41c1,imagenet,DIA,2019.0,QA,2018.0
+E_7818da41c1,imagenet,MT,2023.0,QA,2018.0
+E_7818da41c1,imagenet,SA,2023.0,QA,2018.0
+E_7818da41c1,imagenet,SUM,2023.0,QA,2018.0
+E_78949a7517,answers,QA,2012.0,QA,2012.0
+E_78949a7517,answers,SUM,2020.0,QA,2012.0
+E_78949a7517,answers,SA,2021.0,QA,2012.0
+E_78949a7517,answers,DIA,2023.0,QA,2012.0
+E_78949a7517,answers,MT,2023.0,QA,2012.0
+E_78b0558184,qualitative,DIA,2022.0,DIA,2022.0
+E_78b0558184,qualitative,QA,2022.0,DIA,2022.0
+E_78b0558184,qualitative,SA,2022.0,DIA,2022.0
+E_78b0558184,qualitative,SUM,2022.0,DIA,2022.0
+E_78b0558184,qualitative,MT,2023.0,DIA,2022.0
+E_78b381bb85,important role,SA,2014.0,SA,2014.0
+E_78b381bb85,important role,QA,2015.0,SA,2014.0
+E_78b381bb85,important role,MT,2019.0,SA,2014.0
+E_78b381bb85,important role,DIA,2020.0,SA,2014.0
+E_78b381bb85,important role,SUM,2021.0,SA,2014.0
+E_790fce93bc,besides,DIA,2022.0,QA,2022.0
+E_790fce93bc,besides,MT,2022.0,QA,2022.0
+E_790fce93bc,besides,QA,2022.0,QA,2022.0
+E_790fce93bc,besides,SA,2022.0,QA,2022.0
+E_790fce93bc,besides,SUM,2022.0,QA,2022.0
+E_79435ad9cf,of the model,MT,2014.0,MT,2014.0
+E_79435ad9cf,of the model,QA,2022.0,MT,2014.0
+E_79435ad9cf,of the model,SA,2022.0,MT,2014.0
+E_79435ad9cf,of the model,SUM,2022.0,MT,2014.0
+E_79435ad9cf,of the model,DIA,2023.0,MT,2014.0
+E_7984e94726,limitations,SA,2022.0,SA,2022.0
+E_7984e94726,limitations,DIA,2023.0,SA,2022.0
+E_7984e94726,limitations,MT,2023.0,SA,2022.0
+E_7984e94726,limitations,QA,2023.0,SA,2022.0
+E_7984e94726,limitations,SUM,2023.0,SA,2022.0
+E_79a2c5b09e,parallel data,MT,2010.0,MT,2010.0
+E_79a2c5b09e,parallel data,SA,2011.0,MT,2010.0
+E_79da17fa16,benefits,MT,2013.0,SA,2013.0
+E_79da17fa16,benefits,SA,2013.0,SA,2013.0
+E_79da17fa16,benefits,DIA,2018.0,SA,2013.0
+E_79da17fa16,benefits,QA,2018.0,SA,2013.0
+E_79da17fa16,benefits,SUM,2019.0,SA,2013.0
+E_7a1cabeafb,mini-batch,SUM,2010.0,SUM,2010.0
+E_7a1cabeafb,mini-batch,MT,2015.0,SUM,2010.0
+E_7a1cabeafb,mini-batch,QA,2015.0,SUM,2010.0
+E_7a1cabeafb,mini-batch,DIA,2016.0,SUM,2010.0
+E_7a1cabeafb,mini-batch,SA,2018.0,SUM,2010.0
+E_7b046d3541,all layers,MT,2015.0,MT,2015.0
+E_7b046d3541,all layers,QA,2017.0,MT,2015.0
+E_7b046d3541,all layers,SA,2018.0,MT,2015.0
+E_7b046d3541,all layers,SUM,2019.0,MT,2015.0
+E_7b48bdfa34,uncertainty,SA,2012.0,SA,2012.0
+E_7b48bdfa34,uncertainty,DIA,2017.0,SA,2012.0
+E_7b48bdfa34,uncertainty,MT,2019.0,SA,2012.0
+E_7b48bdfa34,uncertainty,QA,2020.0,SA,2012.0
+E_7b48bdfa34,uncertainty,SUM,2022.0,SA,2012.0
+E_7b5c448ce3,interests,DIA,2022.0,QA,2022.0
+E_7b5c448ce3,interests,MT,2022.0,QA,2022.0
+E_7b5c448ce3,interests,QA,2022.0,QA,2022.0
+E_7b5c448ce3,interests,SA,2022.0,QA,2022.0
+E_7b5c448ce3,interests,SUM,2023.0,QA,2022.0
+E_7c19187658,neural networks,SA,2013.0,SA,2013.0
+E_7c19187658,neural networks,MT,2015.0,SA,2013.0
+E_7c19187658,neural networks,QA,2017.0,SA,2013.0
+E_7c19187658,neural networks,DIA,2019.0,SA,2013.0
+E_7c19187658,neural networks,SUM,2020.0,SA,2013.0
+E_7c5bd03b45,literature,DIA,2022.0,DIA,2022.0
+E_7c5bd03b45,literature,SA,2022.0,DIA,2022.0
+E_7c5bd03b45,literature,MT,2023.0,DIA,2022.0
+E_7c5bd03b45,literature,QA,2023.0,DIA,2022.0
+E_7c899632ce,transformer architecture,MT,2019.0,MT,2019.0
+E_7c899632ce,transformer architecture,QA,2019.0,MT,2019.0
+E_7c899632ce,transformer architecture,DIA,2021.0,MT,2019.0
+E_7c8cda37ea,provides a comprehensive,MT,2022.0,SA,2022.0
+E_7c8cda37ea,provides a comprehensive,QA,2022.0,SA,2022.0
+E_7c8cda37ea,provides a comprehensive,SA,2022.0,SA,2022.0
+E_7c8cda37ea,provides a comprehensive,DIA,2023.0,SA,2022.0
+E_7c8cda37ea,provides a comprehensive,SUM,2023.0,SA,2022.0
+E_7caa701b2b,direct,MT,2015.0,MT,2015.0
+E_7caa701b2b,direct,DIA,2022.0,MT,2015.0
+E_7caa701b2b,direct,QA,2022.0,MT,2015.0
+E_7caa701b2b,direct,SA,2022.0,MT,2015.0
+E_7caa701b2b,direct,SUM,2022.0,MT,2015.0
+E_7cbdd4e997,medical,MT,2015.0,MT,2015.0
+E_7cbdd4e997,medical,DIA,2022.0,MT,2015.0
+E_7cbdd4e997,medical,QA,2022.0,MT,2015.0
+E_7cbdd4e997,medical,SA,2022.0,MT,2015.0
+E_7cbdd4e997,medical,SUM,2023.0,MT,2015.0
+E_7ddf32e17a,random,MT,2010.0,SA,2010.0
+E_7ddf32e17a,random,SA,2010.0,SA,2010.0
+E_7ddf32e17a,random,SUM,2011.0,SA,2010.0
+E_7ddf32e17a,random,QA,2016.0,SA,2010.0
+E_7ddf32e17a,random,DIA,2020.0,SA,2010.0
+E_7e15c590f8,word embedding size,SA,2016.0,SA,2016.0
+E_7e15c590f8,word embedding size,DIA,2018.0,SA,2016.0
+E_7e15c590f8,word embedding size,MT,2019.0,SA,2016.0
+E_7e15c590f8,word embedding size,SUM,2019.0,SA,2016.0
+E_7e4431ec9d,memnet,SA,2016.0,SA,2016.0
+E_7e4431ec9d,memnet,DIA,2019.0,SA,2016.0
+E_7e4431ec9d,memnet,QA,2021.0,SA,2016.0
+E_7e85bcb66f,critical,DIA,2016.0,DIA,2016.0
+E_7e85bcb66f,critical,QA,2019.0,DIA,2016.0
+E_7e85bcb66f,critical,SUM,2022.0,DIA,2016.0
+E_7e85bcb66f,critical,MT,2023.0,DIA,2016.0
+E_7e85bcb66f,critical,SA,2023.0,DIA,2016.0
+E_7f46165474,online,QA,2018.0,QA,2018.0
+E_7f46165474,online,DIA,2022.0,QA,2018.0
+E_7f46165474,online,MT,2022.0,QA,2018.0
+E_7f46165474,online,SA,2022.0,QA,2018.0
+E_7f46165474,online,SUM,2022.0,QA,2018.0
+E_7f612b9656,mitochondrial,DIA,2022.0,DIA,2022.0
+E_7f612b9656,mitochondrial,MT,2022.0,DIA,2022.0
+E_7f612b9656,mitochondrial,QA,2022.0,DIA,2022.0
+E_7f612b9656,mitochondrial,SUM,2022.0,DIA,2022.0
+E_7f6f42fe60,reranking,MT,2010.0,MT,2010.0
+E_7f6f42fe60,reranking,DIA,2017.0,MT,2010.0
+E_7f6f42fe60,reranking,QA,2020.0,MT,2010.0
+E_7f6f42fe60,reranking,SA,2021.0,MT,2010.0
+E_8002477499,adversarial training,DIA,2018.0,DIA,2018.0
+E_8002477499,adversarial training,MT,2018.0,DIA,2018.0
+E_8002477499,adversarial training,QA,2018.0,DIA,2018.0
+E_8002477499,adversarial training,SA,2018.0,DIA,2018.0
+E_801082d565,models : methods,DIA,2022.0,DIA,2022.0
+E_801082d565,models : methods,QA,2022.0,DIA,2022.0
+E_801082d565,models : methods,SA,2022.0,DIA,2022.0
+E_801082d565,models : methods,MT,2023.0,DIA,2022.0
+E_802024b279,successful,SA,2013.0,SA,2013.0
+E_802024b279,successful,MT,2019.0,SA,2013.0
+E_802024b279,successful,DIA,2022.0,SA,2013.0
+E_802024b279,successful,QA,2022.0,SA,2013.0
+E_802024b279,successful,SUM,2023.0,SA,2013.0
+E_8028f68f9c,two variants,MT,2011.0,MT,2011.0
+E_8028f68f9c,two variants,DIA,2019.0,MT,2011.0
+E_8028f68f9c,two variants,SA,2019.0,MT,2011.0
+E_8028f68f9c,two variants,SUM,2019.0,MT,2011.0
+E_8028f68f9c,two variants,QA,2020.0,MT,2011.0
+E_804266f946,tweets,SA,2011.0,SA,2011.0
+E_804266f946,tweets,QA,2020.0,SA,2011.0
+E_804266f946,tweets,MT,2021.0,SA,2011.0
+E_8154f2ab36,recent,DIA,2022.0,DIA,2022.0
+E_8154f2ab36,recent,MT,2022.0,DIA,2022.0
+E_8154f2ab36,recent,QA,2022.0,DIA,2022.0
+E_8154f2ab36,recent,SA,2022.0,DIA,2022.0
+E_8154f2ab36,recent,SUM,2022.0,DIA,2022.0
+E_8175469f5b,japanese,MT,2010.0,MT,2010.0
+E_8175469f5b,japanese,SA,2021.0,MT,2010.0
+E_8175469f5b,japanese,DIA,2023.0,MT,2010.0
+E_8175469f5b,japanese,QA,2023.0,MT,2010.0
+E_817a4becef,very well,SA,2012.0,SA,2012.0
+E_817a4becef,very well,MT,2013.0,SA,2012.0
+E_817a4becef,very well,DIA,2018.0,SA,2012.0
+E_817a4becef,very well,QA,2018.0,SA,2012.0
+E_818fbcf1b0,first baseline,MT,2012.0,MT,2012.0
+E_818fbcf1b0,first baseline,QA,2016.0,MT,2012.0
+E_818fbcf1b0,first baseline,SUM,2018.0,MT,2012.0
+E_818fbcf1b0,first baseline,DIA,2020.0,MT,2012.0
+E_818fbcf1b0,first baseline,SA,2021.0,MT,2012.0
+E_81f6b75453,validation loss,QA,2017.0,SA,2017.0
+E_81f6b75453,validation loss,SA,2017.0,SA,2017.0
+E_81f6b75453,validation loss,DIA,2018.0,SA,2017.0
+E_81f6b75453,validation loss,MT,2018.0,SA,2017.0
+E_8208271618,positive,SA,2012.0,SA,2012.0
+E_8208271618,positive,MT,2013.0,SA,2012.0
+E_8208271618,positive,DIA,2022.0,SA,2012.0
+E_8208271618,positive,QA,2022.0,SA,2012.0
+E_8208271618,positive,SUM,2022.0,SA,2012.0
+E_82949c20cd,best model,MT,2012.0,MT,2012.0
+E_82949c20cd,best model,SA,2013.0,MT,2012.0
+E_82949c20cd,best model,DIA,2017.0,MT,2012.0
+E_82949c20cd,best model,QA,2017.0,MT,2012.0
+E_82949c20cd,best model,SUM,2018.0,MT,2012.0
+E_8297a3cc29,accuracies,SA,2012.0,SA,2012.0
+E_8297a3cc29,accuracies,MT,2017.0,SA,2012.0
+E_8297a3cc29,accuracies,QA,2017.0,SA,2012.0
+E_8297a3cc29,accuracies,DIA,2019.0,SA,2012.0
+E_832fea3806,our experiments,MT,2013.0,MT,2013.0
+E_832fea3806,our experiments,QA,2015.0,MT,2013.0
+E_832fea3806,our experiments,SA,2017.0,MT,2013.0
+E_832fea3806,our experiments,SUM,2018.0,MT,2013.0
+E_832fea3806,our experiments,DIA,2019.0,MT,2013.0
+E_833197b84f,domain adaptation,MT,2013.0,MT,2013.0
+E_833197b84f,domain adaptation,SA,2014.0,MT,2013.0
+E_833197b84f,domain adaptation,QA,2018.0,MT,2013.0
+E_83826e31e6,best result,MT,2012.0,MT,2012.0
+E_83826e31e6,best result,SA,2015.0,MT,2012.0
+E_83826e31e6,best result,SUM,2015.0,MT,2012.0
+E_83826e31e6,best result,QA,2017.0,MT,2012.0
+E_83826e31e6,best result,DIA,2019.0,MT,2012.0
+E_83ec45960b,technology,MT,2010.0,MT,2010.0
+E_83ec45960b,technology,SA,2022.0,MT,2010.0
+E_83ec45960b,technology,SUM,2022.0,MT,2010.0
+E_83ec45960b,technology,DIA,2023.0,MT,2010.0
+E_83ec45960b,technology,QA,2023.0,MT,2010.0
+E_8403e57cfb,nmt model,MT,2015.0,MT,2015.0
+E_8403e57cfb,nmt model,SUM,2016.0,MT,2015.0
+E_842e5a39b0,physical,DIA,2022.0,DIA,2022.0
+E_842e5a39b0,physical,MT,2022.0,DIA,2022.0
+E_842e5a39b0,physical,QA,2022.0,DIA,2022.0
+E_842e5a39b0,physical,SA,2022.0,DIA,2022.0
+E_842e5a39b0,physical,SUM,2022.0,DIA,2022.0
+E_84338875e6,question answering,SUM,2010.0,SUM,2010.0
+E_84338875e6,question answering,QA,2013.0,SUM,2010.0
+E_84338875e6,question answering,SA,2020.0,SUM,2010.0
+E_843ce07eee,extracellular,DIA,2022.0,DIA,2022.0
+E_843ce07eee,extracellular,MT,2022.0,DIA,2022.0
+E_843ce07eee,extracellular,QA,2022.0,DIA,2022.0
+E_843ce07eee,extracellular,SUM,2023.0,DIA,2022.0
+E_8475aaaa03,joint model,MT,2010.0,MT,2010.0
+E_8475aaaa03,joint model,SA,2011.0,MT,2010.0
+E_8475aaaa03,joint model,QA,2016.0,MT,2010.0
+E_8475aaaa03,joint model,SUM,2019.0,MT,2010.0
+E_8475aaaa03,joint model,DIA,2021.0,MT,2010.0
+E_84a0f3455d,transfer,SA,2011.0,SA,2011.0
+E_84a0f3455d,transfer,MT,2018.0,SA,2011.0
+E_84a0f3455d,transfer,DIA,2022.0,SA,2011.0
+E_84a0f3455d,transfer,QA,2022.0,SA,2011.0
+E_84be4cb540,improved performance,SA,2011.0,SA,2011.0
+E_84be4cb540,improved performance,SUM,2015.0,SA,2011.0
+E_84be4cb540,improved performance,MT,2018.0,SA,2011.0
+E_84be4cb540,improved performance,QA,2020.0,SA,2011.0
+E_84be4cb540,improved performance,DIA,2021.0,SA,2011.0
+E_84bea1f0fd,encoding,MT,2017.0,MT,2017.0
+E_84bea1f0fd,encoding,QA,2018.0,MT,2017.0
+E_84bea1f0fd,encoding,SA,2019.0,MT,2017.0
+E_84bea1f0fd,encoding,DIA,2021.0,MT,2017.0
+E_8512ae7d57,language,MT,2017.0,MT,2017.0
+E_8512ae7d57,language,QA,2019.0,MT,2017.0
+E_8512ae7d57,language,SA,2020.0,MT,2017.0
+E_8512ae7d57,language,DIA,2022.0,MT,2017.0
+E_8512ae7d57,language,SUM,2022.0,MT,2017.0
+E_856d95bf40,our full model,MT,2013.0,MT,2013.0
+E_856d95bf40,our full model,DIA,2015.0,MT,2013.0
+E_856d95bf40,our full model,QA,2016.0,MT,2013.0
+E_856d95bf40,our full model,SA,2018.0,MT,2013.0
+E_856d95bf40,our full model,SUM,2019.0,MT,2013.0
+E_8582ddf157,technological,DIA,2022.0,DIA,2022.0
+E_8582ddf157,technological,SA,2022.0,DIA,2022.0
+E_8582ddf157,technological,MT,2023.0,DIA,2022.0
+E_8582ddf157,technological,QA,2023.0,DIA,2022.0
+E_8596498961,beyond,DIA,2022.0,DIA,2022.0
+E_8596498961,beyond,MT,2022.0,DIA,2022.0
+E_8596498961,beyond,QA,2022.0,DIA,2022.0
+E_8596498961,beyond,SA,2022.0,DIA,2022.0
+E_8596498961,beyond,SUM,2022.0,DIA,2022.0
+E_85aa9c704a,interactions,QA,2016.0,QA,2016.0
+E_85aa9c704a,interactions,SA,2018.0,QA,2016.0
+E_85aa9c704a,interactions,MT,2019.0,QA,2016.0
+E_85aa9c704a,interactions,DIA,2020.0,QA,2016.0
+E_85aa9c704a,interactions,SUM,2020.0,QA,2016.0
+E_85d517e292,fine-tuned,SUM,2014.0,SUM,2014.0
+E_85d517e292,fine-tuned,MT,2016.0,SUM,2014.0
+E_85d517e292,fine-tuned,SA,2016.0,SUM,2014.0
+E_85d517e292,fine-tuned,DIA,2017.0,SUM,2014.0
+E_85d517e292,fine-tuned,QA,2019.0,SUM,2014.0
+E_86128aa79f,predictive,DIA,2022.0,DIA,2022.0
+E_86128aa79f,predictive,MT,2022.0,DIA,2022.0
+E_86128aa79f,predictive,QA,2022.0,DIA,2022.0
+E_86128aa79f,predictive,SA,2022.0,DIA,2022.0
+E_86128aa79f,predictive,SUM,2022.0,DIA,2022.0
+E_8633ac50c9,no improvement,MT,2010.0,MT,2010.0
+E_8633ac50c9,no improvement,SA,2015.0,MT,2010.0
+E_8633ac50c9,no improvement,QA,2019.0,MT,2010.0
+E_8633ac50c9,no improvement,DIA,2020.0,MT,2010.0
+E_8690e946ac,syntactic information,MT,2012.0,MT,2012.0
+E_8690e946ac,syntactic information,SA,2012.0,MT,2012.0
+E_8690e946ac,syntactic information,SUM,2015.0,MT,2012.0
+E_8690e946ac,syntactic information,QA,2018.0,MT,2012.0
+E_8700ed4820,tuning,MT,2011.0,MT,2011.0
+E_8700ed4820,tuning,SA,2018.0,MT,2011.0
+E_8700ed4820,tuning,SUM,2018.0,MT,2011.0
+E_8700ed4820,tuning,QA,2022.0,MT,2011.0
+E_8726c9b848,effective,MT,2010.0,MT,2010.0
+E_8726c9b848,effective,SA,2014.0,MT,2010.0
+E_8726c9b848,effective,SUM,2014.0,MT,2010.0
+E_8726c9b848,effective,QA,2017.0,MT,2010.0
+E_8726c9b848,effective,DIA,2019.0,MT,2010.0
+E_87b9f7945e,outperformed,MT,2010.0,MT,2010.0
+E_87b9f7945e,outperformed,SA,2010.0,MT,2010.0
+E_87b9f7945e,outperformed,QA,2011.0,MT,2010.0
+E_87b9f7945e,outperformed,SUM,2011.0,MT,2010.0
+E_87b9f7945e,outperformed,DIA,2015.0,MT,2010.0
+E_87edff8b80,all the models,QA,2015.0,QA,2015.0
+E_87edff8b80,all the models,DIA,2016.0,QA,2015.0
+E_87edff8b80,all the models,MT,2017.0,QA,2015.0
+E_87edff8b80,all the models,SA,2017.0,QA,2015.0
+E_87edff8b80,all the models,SUM,2020.0,QA,2015.0
+E_8800e1c9b3,introduction,MT,2019.0,MT,2019.0
+E_8800e1c9b3,introduction,DIA,2022.0,MT,2019.0
+E_8800e1c9b3,introduction,QA,2022.0,MT,2019.0
+E_8800e1c9b3,introduction,SA,2022.0,MT,2019.0
+E_8800e1c9b3,introduction,SUM,2022.0,MT,2019.0
+E_8862a69ae7,other methods,MT,2011.0,MT,2011.0
+E_8862a69ae7,other methods,SA,2013.0,MT,2011.0
+E_8862a69ae7,other methods,SUM,2014.0,MT,2011.0
+E_8862a69ae7,other methods,QA,2015.0,MT,2011.0
+E_8862a69ae7,other methods,DIA,2016.0,MT,2011.0
+E_88645dd77a,practical,DIA,2022.0,SA,2022.0
+E_88645dd77a,practical,MT,2022.0,SA,2022.0
+E_88645dd77a,practical,QA,2022.0,SA,2022.0
+E_88645dd77a,practical,SA,2022.0,SA,2022.0
+E_8abfa863f7,educational,DIA,2022.0,DIA,2022.0
+E_8abfa863f7,educational,QA,2022.0,DIA,2022.0
+E_8abfa863f7,educational,MT,2023.0,DIA,2022.0
+E_8abfa863f7,educational,SA,2023.0,DIA,2022.0
+E_8aca9ffe13,finetuned,MT,2012.0,MT,2012.0
+E_8aca9ffe13,finetuned,SA,2019.0,MT,2012.0
+E_8aca9ffe13,finetuned,DIA,2020.0,MT,2012.0
+E_8aca9ffe13,finetuned,QA,2020.0,MT,2012.0
+E_8aca9ffe13,finetuned,SUM,2020.0,MT,2012.0
+E_8bdcb08f6f,development set,MT,2010.0,MT,2010.0
+E_8bdcb08f6f,development set,QA,2016.0,MT,2010.0
+E_8bdcb08f6f,development set,SA,2016.0,MT,2010.0
+E_8bdcb08f6f,development set,SUM,2019.0,MT,2010.0
+E_8bdcb08f6f,development set,DIA,2020.0,MT,2010.0
+E_8c2ac10674,each sentence,SUM,2013.0,SUM,2013.0
+E_8c2ac10674,each sentence,SA,2014.0,SUM,2013.0
+E_8c2ac10674,each sentence,MT,2015.0,SUM,2013.0
+E_8c2ac10674,each sentence,DIA,2016.0,SUM,2013.0
+E_8c2ac10674,each sentence,QA,2018.0,SUM,2013.0
+E_8c6859da43,sentiment analysis,SA,2010.0,SA,2010.0
+E_8c6859da43,sentiment analysis,DIA,2019.0,SA,2010.0
+E_8c6859da43,sentiment analysis,MT,2021.0,SA,2010.0
+E_8cb043b2da,adaptive,DIA,2022.0,DIA,2022.0
+E_8cb043b2da,adaptive,MT,2022.0,DIA,2022.0
+E_8cb043b2da,adaptive,QA,2022.0,DIA,2022.0
+E_8cb043b2da,adaptive,SA,2022.0,DIA,2022.0
+E_8cb043b2da,adaptive,SUM,2022.0,DIA,2022.0
+E_8cbab9c97f,greedy search,MT,2014.0,MT,2014.0
+E_8cbab9c97f,greedy search,SA,2019.0,MT,2014.0
+E_8cbab9c97f,greedy search,DIA,2020.0,MT,2014.0
+E_8cf199e7ba,randomly initialized,MT,2014.0,MT,2014.0
+E_8cf199e7ba,randomly initialized,SA,2014.0,MT,2014.0
+E_8cf199e7ba,randomly initialized,QA,2017.0,MT,2014.0
+E_8cf199e7ba,randomly initialized,DIA,2019.0,MT,2014.0
+E_8cf199e7ba,randomly initialized,SUM,2020.0,MT,2014.0
+E_8d78838543,teacher,MT,2014.0,MT,2014.0
+E_8d78838543,teacher,DIA,2017.0,MT,2014.0
+E_8d78838543,teacher,QA,2020.0,MT,2014.0
+E_8d78838543,teacher,SUM,2021.0,MT,2014.0
+E_8d78838543,teacher,SA,2023.0,MT,2014.0
+E_8da6f5e5e8,academic,DIA,2022.0,DIA,2022.0
+E_8da6f5e5e8,academic,QA,2022.0,DIA,2022.0
+E_8da6f5e5e8,academic,SA,2022.0,DIA,2022.0
+E_8da6f5e5e8,academic,MT,2023.0,DIA,2022.0
+E_8da6f5e5e8,academic,SUM,2023.0,DIA,2022.0
+E_8dbdda48fb,simple,QA,2020.0,QA,2020.0
+E_8dbdda48fb,simple,SA,2020.0,QA,2020.0
+E_8dbdda48fb,simple,MT,2021.0,QA,2020.0
+E_8dbdda48fb,simple,DIA,2022.0,QA,2020.0
+E_8dbdda48fb,simple,SUM,2023.0,QA,2020.0
+E_8dc497ec2e,developing,DIA,2022.0,DIA,2022.0
+E_8dc497ec2e,developing,MT,2022.0,DIA,2022.0
+E_8dc497ec2e,developing,QA,2022.0,DIA,2022.0
+E_8dc497ec2e,developing,SA,2022.0,DIA,2022.0
+E_8dc497ec2e,developing,SUM,2022.0,DIA,2022.0
+E_8e04beece3,competitive results,QA,2010.0,QA,2010.0
+E_8e04beece3,competitive results,SUM,2010.0,QA,2010.0
+E_8e04beece3,competitive results,SA,2013.0,QA,2010.0
+E_8e04beece3,competitive results,MT,2018.0,QA,2010.0
+E_8e2c5395f5,large improvement,MT,2010.0,MT,2010.0
+E_8e2c5395f5,large improvement,QA,2018.0,MT,2010.0
+E_8e2c5395f5,large improvement,SA,2018.0,MT,2010.0
+E_8e2c5395f5,large improvement,SUM,2018.0,MT,2010.0
+E_8efbc76bb9,finetuning,MT,2012.0,MT,2012.0
+E_8efbc76bb9,finetuning,QA,2019.0,MT,2012.0
+E_8efbc76bb9,finetuning,DIA,2020.0,MT,2012.0
+E_8efbc76bb9,finetuning,SUM,2020.0,MT,2012.0
+E_8f0f127fa2,consistent gains,MT,2013.0,MT,2013.0
+E_8f0f127fa2,consistent gains,SA,2014.0,MT,2013.0
+E_8f0f127fa2,consistent gains,QA,2019.0,MT,2013.0
+E_8f26755056,transformer model,MT,2018.0,MT,2018.0
+E_8f26755056,transformer model,QA,2019.0,MT,2018.0
+E_8f26755056,transformer model,DIA,2020.0,MT,2018.0
+E_8f26755056,transformer model,SUM,2020.0,MT,2018.0
+E_8f26755056,transformer model,SA,2021.0,MT,2018.0
+E_8f3d6ead95,epigenetic,DIA,2022.0,SA,2022.0
+E_8f3d6ead95,epigenetic,MT,2022.0,SA,2022.0
+E_8f3d6ead95,epigenetic,QA,2022.0,SA,2022.0
+E_8f3d6ead95,epigenetic,SA,2022.0,SA,2022.0
+E_8f3d6ead95,epigenetic,SUM,2022.0,SA,2022.0
+E_8f4ef05b54,natural,DIA,2022.0,MT,2022.0
+E_8f4ef05b54,natural,MT,2022.0,MT,2022.0
+E_8f4ef05b54,natural,QA,2022.0,MT,2022.0
+E_8f4ef05b54,natural,SA,2022.0,MT,2022.0
+E_8f4ef05b54,natural,SUM,2022.0,MT,2022.0
+E_8f6b983ad0,meteor,MT,2010.0,MT,2010.0
+E_8f6b983ad0,meteor,SUM,2018.0,MT,2010.0
+E_8f6b983ad0,meteor,DIA,2019.0,MT,2010.0
+E_8f6b983ad0,meteor,QA,2019.0,MT,2010.0
+E_8f888fedf6,published,DIA,2022.0,DIA,2022.0
+E_8f888fedf6,published,MT,2022.0,DIA,2022.0
+E_8f888fedf6,published,SA,2022.0,DIA,2022.0
+E_8f888fedf6,published,SUM,2022.0,DIA,2022.0
+E_8f888fedf6,published,QA,2023.0,DIA,2022.0
+E_8fd22ea29d,exploiting,DIA,2022.0,DIA,2022.0
+E_8fd22ea29d,exploiting,MT,2022.0,DIA,2022.0
+E_8fd22ea29d,exploiting,QA,2022.0,DIA,2022.0
+E_8fd22ea29d,exploiting,SA,2022.0,DIA,2022.0
+E_8fd22ea29d,exploiting,SUM,2022.0,DIA,2022.0
+E_90538e129e,that may be,DIA,2022.0,SUM,2022.0
+E_90538e129e,that may be,MT,2022.0,SUM,2022.0
+E_90538e129e,that may be,QA,2022.0,SUM,2022.0
+E_90538e129e,that may be,SA,2022.0,SUM,2022.0
+E_90538e129e,that may be,SUM,2022.0,SUM,2022.0
+E_9074d4992d,aspects,SA,2016.0,SA,2016.0
+E_9074d4992d,aspects,DIA,2019.0,SA,2016.0
+E_9074d4992d,aspects,QA,2022.0,SA,2016.0
+E_90ed4512c9,related,DIA,2022.0,SA,2022.0
+E_90ed4512c9,related,MT,2022.0,SA,2022.0
+E_90ed4512c9,related,QA,2022.0,SA,2022.0
+E_90ed4512c9,related,SA,2022.0,SA,2022.0
+E_90ed4512c9,related,SUM,2022.0,SA,2022.0
+E_9214e0c2c3,each epoch,DIA,2017.0,SA,2017.0
+E_9214e0c2c3,each epoch,MT,2017.0,SA,2017.0
+E_9214e0c2c3,each epoch,SA,2017.0,SA,2017.0
+E_9214e0c2c3,each epoch,SUM,2019.0,SA,2017.0
+E_9214e0c2c3,each epoch,QA,2020.0,SA,2017.0
+E_92a2b5cb9c,article,QA,2018.0,QA,2018.0
+E_92a2b5cb9c,article,SUM,2019.0,QA,2018.0
+E_92a2b5cb9c,article,DIA,2022.0,QA,2018.0
+E_92a2b5cb9c,article,MT,2022.0,QA,2018.0
+E_92a2b5cb9c,article,SA,2022.0,QA,2018.0
+E_93aefb91c3,tissue,DIA,2022.0,DIA,2022.0
+E_93aefb91c3,tissue,MT,2022.0,DIA,2022.0
+E_93aefb91c3,tissue,QA,2022.0,DIA,2022.0
+E_93aefb91c3,tissue,SUM,2022.0,DIA,2022.0
+E_93d5902861,byte-pair encoding,MT,2017.0,MT,2017.0
+E_93d5902861,byte-pair encoding,SUM,2019.0,MT,2017.0
+E_93d5902861,byte-pair encoding,DIA,2020.0,MT,2017.0
+E_93d5902861,byte-pair encoding,QA,2020.0,MT,2017.0
+E_945093eb10,fine-tuning,MT,2014.0,SUM,2014.0
+E_945093eb10,fine-tuning,SUM,2014.0,SUM,2014.0
+E_945093eb10,fine-tuning,QA,2018.0,SUM,2014.0
+E_945093eb10,fine-tuning,SA,2018.0,SUM,2014.0
+E_945093eb10,fine-tuning,DIA,2019.0,SUM,2014.0
+E_9462d52fc6,feature weights,MT,2010.0,MT,2010.0
+E_9462d52fc6,feature weights,SUM,2015.0,MT,2010.0
+E_9472cc4c57,evaluating,QA,2019.0,QA,2019.0
+E_9472cc4c57,evaluating,DIA,2022.0,QA,2019.0
+E_9472cc4c57,evaluating,MT,2022.0,QA,2019.0
+E_9472cc4c57,evaluating,SA,2022.0,QA,2019.0
+E_9472cc4c57,evaluating,SUM,2023.0,QA,2019.0
+E_9502583444,improved,MT,2010.0,MT,2010.0
+E_9502583444,improved,SA,2015.0,MT,2010.0
+E_9502583444,improved,QA,2018.0,MT,2010.0
+E_9502583444,improved,DIA,2019.0,MT,2010.0
+E_9502583444,improved,SUM,2020.0,MT,2010.0
+E_95456e7506,difference,MT,2010.0,MT,2010.0
+E_95456e7506,difference,SUM,2010.0,MT,2010.0
+E_95456e7506,difference,QA,2011.0,MT,2010.0
+E_95456e7506,difference,SA,2015.0,MT,2010.0
+E_95456e7506,difference,DIA,2017.0,MT,2010.0
+E_958153f1b8,general,MT,2015.0,MT,2015.0
+E_958153f1b8,general,DIA,2022.0,MT,2015.0
+E_958153f1b8,general,SA,2022.0,MT,2015.0
+E_958153f1b8,general,SUM,2022.0,MT,2015.0
+E_95a966806d,dialogues,DIA,2016.0,DIA,2016.0
+E_95a966806d,dialogues,SUM,2021.0,DIA,2016.0
+E_95c359186c,funding,DIA,2022.0,MT,2022.0
+E_95c359186c,funding,MT,2022.0,MT,2022.0
+E_95c359186c,funding,QA,2022.0,MT,2022.0
+E_95c359186c,funding,SA,2022.0,MT,2022.0
+E_95c359186c,funding,SUM,2022.0,MT,2022.0
+E_95f808ad07,significantly outperform,SUM,2010.0,SUM,2010.0
+E_95f808ad07,significantly outperform,SA,2011.0,SUM,2010.0
+E_95f808ad07,significantly outperform,MT,2012.0,SUM,2010.0
+E_95f808ad07,significantly outperform,QA,2013.0,SUM,2010.0
+E_95f808ad07,significantly outperform,DIA,2017.0,SUM,2010.0
+E_963cc5239e,publisher's,DIA,2022.0,DIA,2022.0
+E_963cc5239e,publisher's,MT,2022.0,DIA,2022.0
+E_963cc5239e,publisher's,QA,2022.0,DIA,2022.0
+E_963cc5239e,publisher's,SA,2022.0,DIA,2022.0
+E_963cc5239e,publisher's,SUM,2022.0,DIA,2022.0
+E_97081c1611,diversity,SUM,2014.0,SUM,2014.0
+E_97081c1611,diversity,QA,2016.0,SUM,2014.0
+E_97081c1611,diversity,DIA,2017.0,SUM,2014.0
+E_97081c1611,diversity,MT,2018.0,SUM,2014.0
+E_97081c1611,diversity,SA,2022.0,SUM,2014.0
+E_97523c41f1,hidden layers,MT,2015.0,MT,2015.0
+E_97523c41f1,hidden layers,QA,2016.0,MT,2015.0
+E_97523c41f1,hidden layers,SA,2017.0,MT,2015.0
+E_97523c41f1,hidden layers,DIA,2019.0,MT,2015.0
+E_984f6b4726,vectors,SA,2012.0,SA,2012.0
+E_984f6b4726,vectors,MT,2013.0,SA,2012.0
+E_984f6b4726,vectors,SUM,2013.0,SA,2012.0
+E_984f6b4726,vectors,QA,2016.0,SA,2012.0
+E_984f6b4726,vectors,DIA,2020.0,SA,2012.0
+E_9850404df9,our system,MT,2010.0,MT,2010.0
+E_9850404df9,our system,QA,2012.0,MT,2010.0
+E_9850404df9,our system,SA,2013.0,MT,2010.0
+E_9850404df9,our system,SUM,2013.0,MT,2010.0
+E_9850404df9,our system,DIA,2018.0,MT,2010.0
+E_989dd07400,scratch,MT,2012.0,MT,2012.0
+E_989dd07400,scratch,DIA,2016.0,MT,2012.0
+E_989dd07400,scratch,SUM,2018.0,MT,2012.0
+E_989dd07400,scratch,QA,2019.0,MT,2012.0
+E_989dd07400,scratch,SA,2019.0,MT,2012.0
+E_996be9c40a,good results,MT,2014.0,MT,2014.0
+E_996be9c40a,good results,SA,2014.0,MT,2014.0
+E_996be9c40a,good results,QA,2016.0,MT,2014.0
+E_996be9c40a,good results,DIA,2018.0,MT,2014.0
+E_996be9c40a,good results,SUM,2019.0,MT,2014.0
+E_9a0364b9e9,content,SUM,2012.0,SUM,2012.0
+E_9a0364b9e9,content,QA,2013.0,SUM,2012.0
+E_9a0364b9e9,content,MT,2018.0,SUM,2012.0
+E_9a0364b9e9,content,SA,2020.0,SUM,2012.0
+E_9a0364b9e9,content,DIA,2022.0,SUM,2012.0
+E_9a7b02ceac,revisiting,DIA,2022.0,DIA,2022.0
+E_9a7b02ceac,revisiting,MT,2022.0,DIA,2022.0
+E_9a7b02ceac,revisiting,QA,2022.0,DIA,2022.0
+E_9a7b02ceac,revisiting,SA,2022.0,DIA,2022.0
+E_9a7b02ceac,revisiting,SUM,2022.0,DIA,2022.0
+E_9a91380374,corpus,MT,2012.0,MT,2012.0
+E_9a91380374,corpus,SUM,2015.0,MT,2012.0
+E_9a91380374,corpus,DIA,2018.0,MT,2012.0
+E_9a91380374,corpus,QA,2018.0,MT,2012.0
+E_9a91380374,corpus,SA,2018.0,MT,2012.0
+E_9b5b7dc72a,previous work,MT,2010.0,MT,2010.0
+E_9b5b7dc72a,previous work,SUM,2014.0,MT,2010.0
+E_9b5b7dc72a,previous work,QA,2016.0,MT,2010.0
+E_9b5b7dc72a,previous work,SA,2018.0,MT,2010.0
+E_9b5b7dc72a,previous work,DIA,2021.0,MT,2010.0
+E_9b732bf885,traditional,DIA,2022.0,DIA,2022.0
+E_9b732bf885,traditional,MT,2022.0,DIA,2022.0
+E_9b732bf885,traditional,QA,2022.0,DIA,2022.0
+E_9b732bf885,traditional,SA,2022.0,DIA,2022.0
+E_9b732bf885,traditional,SUM,2022.0,DIA,2022.0
+E_9b9f55e1d9,significant improvement,DIA,2010.0,DIA,2010.0
+E_9b9f55e1d9,significant improvement,MT,2010.0,DIA,2010.0
+E_9b9f55e1d9,significant improvement,SA,2010.0,DIA,2010.0
+E_9b9f55e1d9,significant improvement,QA,2016.0,DIA,2010.0
+E_9b9f55e1d9,significant improvement,SUM,2018.0,DIA,2010.0
+E_9bf18d329f,selective,MT,2020.0,MT,2020.0
+E_9bf18d329f,selective,DIA,2022.0,MT,2020.0
+E_9bf18d329f,selective,QA,2022.0,MT,2020.0
+E_9bf18d329f,selective,SA,2022.0,MT,2020.0
+E_9bf18d329f,selective,SUM,2022.0,MT,2020.0
+E_9c0bc9434e,explainable,DIA,2022.0,MT,2022.0
+E_9c0bc9434e,explainable,MT,2022.0,MT,2022.0
+E_9c0bc9434e,explainable,QA,2022.0,MT,2022.0
+E_9c0bc9434e,explainable,SA,2022.0,MT,2022.0
+E_9c70933aff,global,MT,2018.0,MT,2018.0
+E_9c70933aff,global,DIA,2022.0,MT,2018.0
+E_9c70933aff,global,QA,2022.0,MT,2018.0
+E_9c70933aff,global,SA,2022.0,MT,2018.0
+E_9c70933aff,global,SUM,2022.0,MT,2018.0
+E_9cb9ce5bd9,generation,MT,2012.0,MT,2012.0
+E_9cb9ce5bd9,generation,DIA,2019.0,MT,2012.0
+E_9cb9ce5bd9,generation,QA,2019.0,MT,2012.0
+E_9cb9ce5bd9,generation,SA,2019.0,MT,2012.0
+E_9cb9ce5bd9,generation,SUM,2019.0,MT,2012.0
+E_9cc49ff7cd,sentences,MT,2010.0,SA,2010.0
+E_9cc49ff7cd,sentences,SA,2010.0,SA,2010.0
+E_9cc49ff7cd,sentences,SUM,2010.0,SA,2010.0
+E_9cc49ff7cd,sentences,QA,2012.0,SA,2010.0
+E_9cc49ff7cd,sentences,DIA,2019.0,SA,2010.0
+E_9ce90fddf2,towards,DIA,2022.0,DIA,2022.0
+E_9ce90fddf2,towards,MT,2022.0,DIA,2022.0
+E_9ce90fddf2,towards,QA,2022.0,DIA,2022.0
+E_9ce90fddf2,towards,SA,2022.0,DIA,2022.0
+E_9ce90fddf2,towards,SUM,2022.0,DIA,2022.0
+E_9d173a589b,can be used,DIA,2022.0,DIA,2022.0
+E_9d173a589b,can be used,QA,2022.0,DIA,2022.0
+E_9d173a589b,can be used,SA,2022.0,DIA,2022.0
+E_9d173a589b,can be used,SUM,2022.0,DIA,2022.0
+E_9d173a589b,can be used,MT,2023.0,DIA,2022.0
+E_9efab2399c,common,DIA,2022.0,SUM,2022.0
+E_9efab2399c,common,MT,2022.0,SUM,2022.0
+E_9efab2399c,common,QA,2022.0,SUM,2022.0
+E_9efab2399c,common,SA,2022.0,SUM,2022.0
+E_9efab2399c,common,SUM,2022.0,SUM,2022.0
+E_9f79df1a59,much worse,SA,2015.0,SA,2015.0
+E_9f79df1a59,much worse,MT,2018.0,SA,2015.0
+E_9f79df1a59,much worse,DIA,2019.0,SA,2015.0
+E_9f79df1a59,much worse,QA,2020.0,SA,2015.0
+E_9f79df1a59,much worse,SUM,2020.0,SA,2015.0
+E_9fc7f6cbb9,f1 score,MT,2014.0,SA,2014.0
+E_9fc7f6cbb9,f1 score,SA,2014.0,SA,2014.0
+E_9fc7f6cbb9,f1 score,QA,2016.0,SA,2014.0
+E_9fc7f6cbb9,f1 score,DIA,2020.0,SA,2014.0
+E_9fc7f6cbb9,f1 score,SUM,2021.0,SA,2014.0
+E_9ff28bfa80,healthcare,DIA,2022.0,DIA,2022.0
+E_9ff28bfa80,healthcare,MT,2022.0,DIA,2022.0
+E_9ff28bfa80,healthcare,QA,2022.0,DIA,2022.0
+E_9ff28bfa80,healthcare,SA,2022.0,DIA,2022.0
+E_a04fe4e390,alternative,MT,2017.0,MT,2017.0
+E_a04fe4e390,alternative,DIA,2022.0,MT,2017.0
+E_a04fe4e390,alternative,QA,2022.0,MT,2017.0
+E_a04fe4e390,alternative,SA,2022.0,MT,2017.0
+E_a04fe4e390,alternative,SUM,2022.0,MT,2017.0
+E_a05550b785,recall,MT,2011.0,MT,2011.0
+E_a05550b785,recall,SUM,2012.0,MT,2011.0
+E_a05550b785,recall,QA,2013.0,MT,2011.0
+E_a05550b785,recall,SA,2014.0,MT,2011.0
+E_a05550b785,recall,DIA,2015.0,MT,2011.0
+E_a07508e576,fine- tuning,MT,2018.0,MT,2018.0
+E_a07508e576,fine- tuning,DIA,2020.0,MT,2018.0
+E_a07508e576,fine- tuning,QA,2020.0,MT,2018.0
+E_a07508e576,fine- tuning,SA,2020.0,MT,2018.0
+E_a07508e576,fine- tuning,SUM,2020.0,MT,2018.0
+E_a086c3e969,studies,DIA,2022.0,DIA,2022.0
+E_a086c3e969,studies,MT,2022.0,DIA,2022.0
+E_a086c3e969,studies,QA,2022.0,DIA,2022.0
+E_a086c3e969,studies,SA,2022.0,DIA,2022.0
+E_a086c3e969,studies,SUM,2022.0,DIA,2022.0
+E_a0d8f160d7,of research on,DIA,2022.0,DIA,2022.0
+E_a0d8f160d7,of research on,MT,2022.0,DIA,2022.0
+E_a0d8f160d7,of research on,QA,2022.0,DIA,2022.0
+E_a0d8f160d7,of research on,SA,2023.0,DIA,2022.0
+E_a0f35e86dd,adagrad,SA,2013.0,SA,2013.0
+E_a0f35e86dd,adagrad,MT,2015.0,SA,2013.0
+E_a0f35e86dd,adagrad,QA,2015.0,SA,2013.0
+E_a0f35e86dd,adagrad,SUM,2019.0,SA,2013.0
+E_a0f35e86dd,adagrad,DIA,2020.0,SA,2013.0
+E_a130579793,gradient clipping,DIA,2016.0,DIA,2016.0
+E_a130579793,gradient clipping,MT,2017.0,DIA,2016.0
+E_a130579793,gradient clipping,SUM,2017.0,DIA,2016.0
+E_a130579793,gradient clipping,QA,2018.0,DIA,2016.0
+E_a130579793,gradient clipping,SA,2019.0,DIA,2016.0
+E_a175778637,final performance,SA,2014.0,SA,2014.0
+E_a175778637,final performance,MT,2016.0,SA,2014.0
+E_a175778637,final performance,QA,2016.0,SA,2014.0
+E_a175778637,final performance,DIA,2020.0,SA,2014.0
+E_a175778637,final performance,SUM,2021.0,SA,2014.0
+E_a27a84367b,on machine learning,DIA,2022.0,DIA,2022.0
+E_a27a84367b,on machine learning,MT,2022.0,DIA,2022.0
+E_a27a84367b,on machine learning,QA,2022.0,DIA,2022.0
+E_a27a84367b,on machine learning,SA,2022.0,DIA,2022.0
+E_a27a84367b,on machine learning,SUM,2023.0,DIA,2022.0
+E_a363b8d135,answer,MT,2013.0,QA,2013.0
+E_a363b8d135,answer,QA,2013.0,QA,2013.0
+E_a363b8d135,answer,DIA,2016.0,QA,2013.0
+E_a363b8d135,answer,SUM,2019.0,QA,2013.0
+E_a363b8d135,answer,SA,2021.0,QA,2013.0
+E_a3b1292058,have shown that,DIA,2022.0,DIA,2022.0
+E_a3b1292058,have shown that,MT,2022.0,DIA,2022.0
+E_a3b1292058,have shown that,QA,2022.0,DIA,2022.0
+E_a3b1292058,have shown that,SA,2022.0,DIA,2022.0
+E_a3b1292058,have shown that,SUM,2022.0,DIA,2022.0
+E_a4157ff94f,summarization,SUM,2010.0,SUM,2010.0
+E_a4157ff94f,summarization,QA,2019.0,SUM,2010.0
+E_a4157ff94f,summarization,MT,2020.0,SUM,2010.0
+E_a4157ff94f,summarization,DIA,2021.0,SUM,2010.0
+E_a4157ff94f,summarization,SA,2023.0,SUM,2010.0
+E_a434f46aa7,automated,DIA,2022.0,DIA,2022.0
+E_a434f46aa7,automated,MT,2022.0,DIA,2022.0
+E_a434f46aa7,automated,QA,2022.0,DIA,2022.0
+E_a434f46aa7,automated,SA,2022.0,DIA,2022.0
+E_a434f46aa7,automated,SUM,2022.0,DIA,2022.0
+E_a49374aae2,statistically significant improvements,MT,2011.0,SA,2011.0
+E_a49374aae2,statistically significant improvements,SA,2011.0,SA,2011.0
+E_a49374aae2,statistically significant improvements,SUM,2016.0,SA,2011.0
+E_a49374aae2,statistically significant improvements,QA,2018.0,SA,2011.0
+E_a4c8134a55,abbreviations,DIA,2022.0,DIA,2022.0
+E_a4c8134a55,abbreviations,MT,2022.0,DIA,2022.0
+E_a4c8134a55,abbreviations,QA,2022.0,DIA,2022.0
+E_a4c8134a55,abbreviations,SA,2022.0,DIA,2022.0
+E_a4c8134a55,abbreviations,SUM,2022.0,DIA,2022.0
+E_a542e9b744,knowledge,SA,2012.0,SA,2012.0
+E_a542e9b744,knowledge,QA,2013.0,SA,2012.0
+E_a542e9b744,knowledge,SUM,2016.0,SA,2012.0
+E_a542e9b744,knowledge,MT,2017.0,SA,2012.0
+E_a542e9b744,knowledge,DIA,2018.0,SA,2012.0
+E_a57da4024d,targeting,DIA,2022.0,DIA,2022.0
+E_a57da4024d,targeting,MT,2022.0,DIA,2022.0
+E_a57da4024d,targeting,QA,2022.0,DIA,2022.0
+E_a57da4024d,targeting,SA,2022.0,DIA,2022.0
+E_a57da4024d,targeting,SUM,2022.0,DIA,2022.0
+E_a617908b17,validation,MT,2017.0,SA,2017.0
+E_a617908b17,validation,SA,2017.0,SA,2017.0
+E_a617908b17,validation,DIA,2018.0,SA,2017.0
+E_a617908b17,validation,QA,2021.0,SA,2017.0
+E_a65b94a37c,similarity,MT,2012.0,MT,2012.0
+E_a65b94a37c,similarity,QA,2014.0,MT,2012.0
+E_a65b94a37c,similarity,SUM,2014.0,MT,2012.0
+E_a65b94a37c,similarity,SA,2016.0,MT,2012.0
+E_a65b94a37c,similarity,DIA,2019.0,MT,2012.0
+E_a68b4c5287,more effective,MT,2010.0,MT,2010.0
+E_a68b4c5287,more effective,QA,2011.0,MT,2010.0
+E_a68b4c5287,more effective,SA,2015.0,MT,2010.0
+E_a68b4c5287,more effective,DIA,2017.0,MT,2010.0
+E_a68b4c5287,more effective,SUM,2021.0,MT,2010.0
+E_a68de436d6,prospective,DIA,2022.0,DIA,2022.0
+E_a68de436d6,prospective,MT,2022.0,DIA,2022.0
+E_a68de436d6,prospective,QA,2022.0,DIA,2022.0
+E_a68de436d6,prospective,SUM,2022.0,DIA,2022.0
+E_a6b99a7444,similar performance,MT,2010.0,MT,2010.0
+E_a6b99a7444,similar performance,SA,2013.0,MT,2010.0
+E_a6b99a7444,similar performance,DIA,2018.0,MT,2010.0
+E_a6b99a7444,similar performance,QA,2018.0,MT,2010.0
+E_a6b99a7444,similar performance,SUM,2018.0,MT,2010.0
+E_a6d414ac4f,german,MT,2010.0,MT,2010.0
+E_a6d414ac4f,german,SA,2022.0,MT,2010.0
+E_a74ec9c5b6,distance,MT,2011.0,MT,2011.0
+E_a74ec9c5b6,distance,QA,2018.0,MT,2011.0
+E_a74ec9c5b6,distance,SA,2018.0,MT,2011.0
+E_a74ec9c5b6,distance,SUM,2018.0,MT,2011.0
+E_a74ec9c5b6,distance,DIA,2020.0,MT,2011.0
+E_a7b5815bef,word vectors,MT,2015.0,SA,2015.0
+E_a7b5815bef,word vectors,QA,2015.0,SA,2015.0
+E_a7b5815bef,word vectors,SA,2015.0,SA,2015.0
+E_a7b5815bef,word vectors,DIA,2016.0,SA,2015.0
+E_a80da1282f,summary,SA,2010.0,SA,2010.0
+E_a80da1282f,summary,SUM,2010.0,SA,2010.0
+E_a80da1282f,summary,QA,2019.0,SA,2010.0
+E_a80da1282f,summary,DIA,2021.0,SA,2010.0
+E_a80da1282f,summary,MT,2022.0,SA,2010.0
+E_a8ffd7d52a,best scores,MT,2012.0,MT,2012.0
+E_a8ffd7d52a,best scores,SUM,2012.0,MT,2012.0
+E_a8ffd7d52a,best scores,QA,2018.0,MT,2012.0
+E_a8ffd7d52a,best scores,SA,2018.0,MT,2012.0
+E_a96924f2c4,target side,MT,2012.0,MT,2012.0
+E_a96924f2c4,target side,DIA,2021.0,MT,2012.0
+E_a972b32f3f,of artificial intelligence,DIA,2022.0,DIA,2022.0
+E_a972b32f3f,of artificial intelligence,MT,2022.0,DIA,2022.0
+E_a972b32f3f,of artificial intelligence,QA,2022.0,DIA,2022.0
+E_a972b32f3f,of artificial intelligence,SA,2022.0,DIA,2022.0
+E_a972b32f3f,of artificial intelligence,SUM,2023.0,DIA,2022.0
+E_a9784ab70a,hidden states,MT,2017.0,SUM,2017.0
+E_a9784ab70a,hidden states,QA,2017.0,SUM,2017.0
+E_a9784ab70a,hidden states,SUM,2017.0,SUM,2017.0
+E_a9784ab70a,hidden states,SA,2018.0,SUM,2017.0
+E_a9784ab70a,hidden states,DIA,2019.0,SUM,2017.0
+E_a98abe6be3,systematic,DIA,2022.0,DIA,2022.0
+E_a98abe6be3,systematic,MT,2022.0,DIA,2022.0
+E_a98abe6be3,systematic,QA,2022.0,DIA,2022.0
+E_a98abe6be3,systematic,SA,2022.0,DIA,2022.0
+E_a98abe6be3,systematic,SUM,2022.0,DIA,2022.0
+E_a99dca5593,cancer,DIA,2022.0,DIA,2022.0
+E_a99dca5593,cancer,MT,2022.0,DIA,2022.0
+E_a99dca5593,cancer,QA,2022.0,DIA,2022.0
+E_a99dca5593,cancer,SUM,2022.0,DIA,2022.0
+E_a9a07bad99,all the baselines,QA,2012.0,QA,2012.0
+E_a9a07bad99,all the baselines,SA,2014.0,QA,2012.0
+E_a9a07bad99,all the baselines,SUM,2016.0,QA,2012.0
+E_a9a07bad99,all the baselines,DIA,2017.0,QA,2012.0
+E_a9a07bad99,all the baselines,MT,2019.0,QA,2012.0
+E_a9f0a3a63f,responses,DIA,2016.0,DIA,2016.0
+E_a9f0a3a63f,responses,QA,2020.0,DIA,2016.0
+E_a9f0e61a13,second,MT,2010.0,MT,2010.0
+E_a9f0e61a13,second,SA,2014.0,MT,2010.0
+E_a9f0e61a13,second,QA,2016.0,MT,2010.0
+E_a9f0e61a13,second,DIA,2018.0,MT,2010.0
+E_a9f0e61a13,second,SUM,2021.0,MT,2010.0
+E_a9f8a82b19,all methods,MT,2011.0,MT,2011.0
+E_a9f8a82b19,all methods,SA,2013.0,MT,2011.0
+E_a9f8a82b19,all methods,SUM,2017.0,MT,2011.0
+E_a9f8a82b19,all methods,DIA,2019.0,MT,2011.0
+E_a9f8a82b19,all methods,QA,2019.0,MT,2011.0
+E_aa59d67c21,metrics,DIA,2019.0,SUM,2019.0
+E_aa59d67c21,metrics,MT,2019.0,SUM,2019.0
+E_aa59d67c21,metrics,QA,2019.0,SUM,2019.0
+E_aa59d67c21,metrics,SUM,2019.0,SUM,2019.0
+E_ab256241aa,as well,MT,2012.0,SUM,2012.0
+E_ab256241aa,as well,SUM,2012.0,SUM,2012.0
+E_ab256241aa,as well,DIA,2018.0,SUM,2012.0
+E_ab256241aa,as well,QA,2018.0,SUM,2012.0
+E_ab256241aa,as well,SA,2020.0,SUM,2012.0
+E_ab5666a350,tokenization,MT,2017.0,QA,2017.0
+E_ab5666a350,tokenization,QA,2017.0,QA,2017.0
+E_ab5666a350,tokenization,DIA,2020.0,QA,2017.0
+E_abfa37f26d,sentiment classification,SA,2011.0,SA,2011.0
+E_abfa37f26d,sentiment classification,QA,2021.0,SA,2011.0
+E_ac039d76af,approval and consent,DIA,2022.0,DIA,2022.0
+E_ac039d76af,approval and consent,MT,2022.0,DIA,2022.0
+E_ac039d76af,approval and consent,QA,2022.0,DIA,2022.0
+E_ac039d76af,approval and consent,SA,2022.0,DIA,2022.0
+E_ac039d76af,approval and consent,SUM,2022.0,DIA,2022.0
+E_ac15dd3026,experimental,DIA,2022.0,DIA,2022.0
+E_ac15dd3026,experimental,MT,2022.0,DIA,2022.0
+E_ac15dd3026,experimental,QA,2022.0,DIA,2022.0
+E_ac15dd3026,experimental,SA,2022.0,DIA,2022.0
+E_ac15dd3026,experimental,SUM,2022.0,DIA,2022.0
+E_ac96a67ff4,consistently outperforms,MT,2010.0,SUM,2010.0
+E_ac96a67ff4,consistently outperforms,SUM,2010.0,SUM,2010.0
+E_ac96a67ff4,consistently outperforms,SA,2011.0,SUM,2010.0
+E_ac96a67ff4,consistently outperforms,QA,2015.0,SUM,2010.0
+E_ac96a67ff4,consistently outperforms,DIA,2018.0,SUM,2010.0
+E_acaeddf0e4,other models,SUM,2011.0,SUM,2011.0
+E_acaeddf0e4,other models,MT,2012.0,SUM,2011.0
+E_acaeddf0e4,other models,SA,2015.0,SUM,2011.0
+E_acaeddf0e4,other models,DIA,2017.0,SUM,2011.0
+E_acaeddf0e4,other models,QA,2018.0,SUM,2011.0
+E_acc775c235,source sentences,MT,2011.0,MT,2011.0
+E_acc775c235,source sentences,SUM,2014.0,MT,2011.0
+E_acc775c235,source sentences,QA,2020.0,MT,2011.0
+E_acc775c235,source sentences,SA,2020.0,MT,2011.0
+E_ad27e4ee16,large margin,SUM,2010.0,SUM,2010.0
+E_ad27e4ee16,large margin,MT,2012.0,SUM,2010.0
+E_ad27e4ee16,large margin,SA,2012.0,SUM,2010.0
+E_ad27e4ee16,large margin,DIA,2015.0,SUM,2010.0
+E_ad27e4ee16,large margin,QA,2016.0,SUM,2010.0
+E_ad5f82e879,domain,MT,2013.0,MT,2013.0
+E_ad5f82e879,domain,SA,2014.0,MT,2013.0
+E_ad5f82e879,domain,DIA,2018.0,MT,2013.0
+E_ad5f82e879,domain,QA,2023.0,MT,2013.0
+E_ad5f82e879,domain,SUM,2023.0,MT,2013.0
+E_ad7d0e2941,teachers,MT,2019.0,MT,2019.0
+E_ad7d0e2941,teachers,DIA,2022.0,MT,2019.0
+E_ad7d0e2941,teachers,QA,2022.0,MT,2019.0
+E_ad7d0e2941,teachers,SA,2023.0,MT,2019.0
+E_ad7d0e2941,teachers,SUM,2023.0,MT,2019.0
+E_ae2b1fca51,testing,DIA,2014.0,DIA,2014.0
+E_ae2b1fca51,testing,MT,2018.0,DIA,2014.0
+E_ae2b1fca51,testing,SA,2021.0,DIA,2014.0
+E_ae2b1fca51,testing,SUM,2021.0,DIA,2014.0
+E_ae2b1fca51,testing,QA,2023.0,DIA,2014.0
+E_ae74ea4e2e,modern,DIA,2022.0,MT,2022.0
+E_ae74ea4e2e,modern,MT,2022.0,MT,2022.0
+E_ae74ea4e2e,modern,SA,2022.0,MT,2022.0
+E_ae74ea4e2e,modern,SUM,2022.0,MT,2022.0
+E_ae74ea4e2e,modern,QA,2023.0,MT,2022.0
+E_aea6f99cff,consistently improves,MT,2013.0,MT,2013.0
+E_aea6f99cff,consistently improves,DIA,2016.0,MT,2013.0
+E_aea6f99cff,consistently improves,QA,2017.0,MT,2013.0
+E_aea6f99cff,consistently improves,SA,2017.0,MT,2013.0
+E_af0b511501,performance improvement,MT,2012.0,SA,2012.0
+E_af0b511501,performance improvement,SA,2012.0,SA,2012.0
+E_af0b511501,performance improvement,QA,2013.0,SA,2012.0
+E_af0b511501,performance improvement,DIA,2019.0,SA,2012.0
+E_af0b511501,performance improvement,SUM,2021.0,SA,2012.0
+E_af14b067a4,association,SA,2011.0,SA,2011.0
+E_af14b067a4,association,DIA,2022.0,SA,2011.0
+E_af14b067a4,association,MT,2022.0,SA,2011.0
+E_af14b067a4,association,QA,2022.0,SA,2011.0
+E_af14b067a4,association,SUM,2022.0,SA,2011.0
+E_af37d08ae2,regular,DIA,2022.0,DIA,2022.0
+E_af37d08ae2,regular,QA,2022.0,DIA,2022.0
+E_af37d08ae2,regular,SA,2023.0,DIA,2022.0
+E_af37d08ae2,regular,SUM,2023.0,DIA,2022.0
+E_af37d08ae2,regular,MT,2024.0,DIA,2022.0
+E_afe2ee370e,therapeutic,DIA,2022.0,DIA,2022.0
+E_afe2ee370e,therapeutic,MT,2022.0,DIA,2022.0
+E_afe2ee370e,therapeutic,QA,2022.0,DIA,2022.0
+E_afe2ee370e,therapeutic,SA,2022.0,DIA,2022.0
+E_afe2ee370e,therapeutic,SUM,2022.0,DIA,2022.0
+E_b04f3782a8,teaching,DIA,2017.0,DIA,2017.0
+E_b04f3782a8,teaching,MT,2022.0,DIA,2017.0
+E_b04f3782a8,teaching,QA,2022.0,DIA,2017.0
+E_b04f3782a8,teaching,SA,2022.0,DIA,2017.0
+E_b04f3782a8,teaching,SUM,2023.0,DIA,2017.0
+E_b07286ebbb,removed,MT,2012.0,MT,2012.0
+E_b07286ebbb,removed,SA,2013.0,MT,2012.0
+E_b07286ebbb,removed,QA,2017.0,MT,2012.0
+E_b07286ebbb,removed,SUM,2020.0,MT,2012.0
+E_b07286ebbb,removed,DIA,2021.0,MT,2012.0
+E_b081516f5b,training process,MT,2015.0,MT,2015.0
+E_b081516f5b,training process,QA,2017.0,MT,2015.0
+E_b081516f5b,training process,DIA,2018.0,MT,2015.0
+E_b081516f5b,training process,SA,2018.0,MT,2015.0
+E_b081516f5b,training process,SUM,2019.0,MT,2015.0
+E_b0fe2606af,decrease,MT,2011.0,SA,2011.0
+E_b0fe2606af,decrease,SA,2011.0,SA,2011.0
+E_b0fe2606af,decrease,SUM,2015.0,SA,2011.0
+E_b0fe2606af,decrease,QA,2016.0,SA,2011.0
+E_b0fe2606af,decrease,DIA,2018.0,SA,2011.0
+E_b192459581,semantics,SA,2015.0,SA,2015.0
+E_b192459581,semantics,MT,2017.0,SA,2015.0
+E_b192459581,semantics,SUM,2019.0,SA,2015.0
+E_b192459581,semantics,DIA,2020.0,SA,2015.0
+E_b192459581,semantics,QA,2020.0,SA,2015.0
+E_b1f964d519,word embeddings,SA,2014.0,SA,2014.0
+E_b1f964d519,word embeddings,SUM,2014.0,SA,2014.0
+E_b1f964d519,word embeddings,MT,2015.0,SA,2014.0
+E_b1f964d519,word embeddings,QA,2015.0,SA,2014.0
+E_b1f964d519,word embeddings,DIA,2016.0,SA,2014.0
+E_b22b975e3f,knowledge distillation,MT,2017.0,MT,2017.0
+E_b22b975e3f,knowledge distillation,DIA,2020.0,MT,2017.0
+E_b22b975e3f,knowledge distillation,QA,2021.0,MT,2017.0
+E_b22b975e3f,knowledge distillation,SA,2021.0,MT,2017.0
+E_b22b975e3f,knowledge distillation,SUM,2021.0,MT,2017.0
+E_b24e976029,conversation,SUM,2014.0,SUM,2014.0
+E_b24e976029,conversation,SA,2015.0,SUM,2014.0
+E_b24e976029,conversation,DIA,2016.0,SUM,2014.0
+E_b24e976029,conversation,QA,2020.0,SUM,2014.0
+E_b2803b5602,techniques,MT,2014.0,MT,2014.0
+E_b2803b5602,techniques,QA,2016.0,MT,2014.0
+E_b2803b5602,techniques,SA,2018.0,MT,2014.0
+E_b2803b5602,techniques,SUM,2021.0,MT,2014.0
+E_b2803b5602,techniques,DIA,2022.0,MT,2014.0
+E_b29f2e40b4,further improvement,MT,2010.0,MT,2010.0
+E_b29f2e40b4,further improvement,SUM,2010.0,MT,2010.0
+E_b29f2e40b4,further improvement,SA,2012.0,MT,2010.0
+E_b29f2e40b4,further improvement,QA,2018.0,MT,2010.0
+E_b29f2e40b4,further improvement,DIA,2020.0,MT,2010.0
+E_b32d73e56e,another,DIA,2022.0,QA,2022.0
+E_b32d73e56e,another,MT,2022.0,QA,2022.0
+E_b32d73e56e,another,QA,2022.0,QA,2022.0
+E_b32d73e56e,another,SA,2022.0,QA,2022.0
+E_b32d73e56e,another,SUM,2022.0,QA,2022.0
+E_b3b9eb34b5,pre-trained models,DIA,2017.0,MT,2017.0
+E_b3b9eb34b5,pre-trained models,MT,2017.0,MT,2017.0
+E_b3b9eb34b5,pre-trained models,QA,2019.0,MT,2017.0
+E_b3b9eb34b5,pre-trained models,SA,2020.0,MT,2017.0
+E_b3b9eb34b5,pre-trained models,SUM,2021.0,MT,2017.0
+E_b40cb1a659,training corpus,MT,2010.0,MT,2010.0
+E_b40cb1a659,training corpus,DIA,2013.0,MT,2010.0
+E_b40cb1a659,training corpus,SA,2016.0,MT,2010.0
+E_b40cb1a659,training corpus,SUM,2018.0,MT,2010.0
+E_b427584661,hidden layer,MT,2014.0,MT,2014.0
+E_b427584661,hidden layer,DIA,2016.0,MT,2014.0
+E_b427584661,hidden layer,QA,2016.0,MT,2014.0
+E_b427584661,hidden layer,SA,2017.0,MT,2014.0
+E_b4a88417b3,result,MT,2010.0,MT,2010.0
+E_b4a88417b3,result,SA,2010.0,MT,2010.0
+E_b4a88417b3,result,QA,2013.0,MT,2010.0
+E_b4a88417b3,result,SUM,2015.0,MT,2010.0
+E_b4a88417b3,result,DIA,2018.0,MT,2010.0
+E_b5b6116573,toward,DIA,2022.0,DIA,2022.0
+E_b5b6116573,toward,MT,2022.0,DIA,2022.0
+E_b5b6116573,toward,QA,2022.0,DIA,2022.0
+E_b5b6116573,toward,SA,2022.0,DIA,2022.0
+E_b5b6116573,toward,SUM,2022.0,DIA,2022.0
+E_b5dc07c408,self-attention,DIA,2018.0,DIA,2018.0
+E_b5dc07c408,self-attention,MT,2018.0,DIA,2018.0
+E_b5dc07c408,self-attention,QA,2018.0,DIA,2018.0
+E_b5dc07c408,self-attention,SA,2018.0,DIA,2018.0
+E_b5dc07c408,self-attention,SUM,2019.0,DIA,2018.0
+E_b60d30cede,jointly,SUM,2012.0,SUM,2012.0
+E_b60d30cede,jointly,MT,2015.0,SUM,2012.0
+E_b60d30cede,jointly,DIA,2019.0,SUM,2012.0
+E_b60d30cede,jointly,QA,2020.0,SUM,2012.0
+E_b60d30cede,jointly,SA,2021.0,SUM,2012.0
+E_b61075c67b,length penalty,SUM,2014.0,SUM,2014.0
+E_b61075c67b,length penalty,MT,2018.0,SUM,2014.0
+E_b61075c67b,length penalty,DIA,2020.0,SUM,2014.0
+E_b621e7d067,of large language,SA,2022.0,SA,2022.0
+E_b621e7d067,of large language,DIA,2023.0,SA,2022.0
+E_b621e7d067,of large language,MT,2023.0,SA,2022.0
+E_b621e7d067,of large language,QA,2023.0,SA,2022.0
+E_b621e7d067,of large language,SUM,2023.0,SA,2022.0
+E_b669f32bad,conclusion,QA,2017.0,QA,2017.0
+E_b669f32bad,conclusion,DIA,2022.0,QA,2017.0
+E_b669f32bad,conclusion,MT,2022.0,QA,2017.0
+E_b669f32bad,conclusion,SA,2022.0,QA,2017.0
+E_b669f32bad,conclusion,SUM,2023.0,QA,2017.0
+E_b6c2792c5f,contextual information,MT,2011.0,QA,2011.0
+E_b6c2792c5f,contextual information,QA,2011.0,QA,2011.0
+E_b6c2792c5f,contextual information,SA,2012.0,QA,2011.0
+E_b6c2792c5f,contextual information,DIA,2018.0,QA,2011.0
+E_b6ed04f59c,relative improvement,MT,2010.0,MT,2010.0
+E_b6ed04f59c,relative improvement,QA,2010.0,MT,2010.0
+E_b6ed04f59c,relative improvement,SA,2015.0,MT,2010.0
+E_b6ed04f59c,relative improvement,DIA,2018.0,MT,2010.0
+E_b6ed04f59c,relative improvement,SUM,2018.0,MT,2010.0
+E_b6fa15360b,implementation,MT,2013.0,MT,2013.0
+E_b6fa15360b,implementation,SA,2017.0,MT,2013.0
+E_b6fa15360b,implementation,QA,2018.0,MT,2013.0
+E_b6fa15360b,implementation,DIA,2022.0,MT,2013.0
+E_b6fa15360b,implementation,SUM,2022.0,MT,2013.0
+E_b7130ec057,differential,SA,2016.0,SA,2016.0
+E_b7130ec057,differential,DIA,2022.0,SA,2016.0
+E_b7130ec057,differential,MT,2022.0,SA,2016.0
+E_b7130ec057,differential,QA,2022.0,SA,2016.0
+E_b7130ec057,differential,SUM,2022.0,SA,2016.0
+E_b72f3bd391,dynamic,MT,2010.0,MT,2010.0
+E_b72f3bd391,dynamic,DIA,2022.0,MT,2010.0
+E_b72f3bd391,dynamic,QA,2022.0,MT,2010.0
+E_b72f3bd391,dynamic,SA,2022.0,MT,2010.0
+E_b72f3bd391,dynamic,SUM,2022.0,MT,2010.0
+E_b73b8cf102,statistically significant,MT,2010.0,MT,2010.0
+E_b73b8cf102,statistically significant,SUM,2010.0,MT,2010.0
+E_b73b8cf102,statistically significant,SA,2013.0,MT,2010.0
+E_b73b8cf102,statistically significant,DIA,2017.0,MT,2010.0
+E_b73b8cf102,statistically significant,QA,2017.0,MT,2010.0
+E_b73c2d2276,twitter,SA,2014.0,SA,2014.0
+E_b73c2d2276,twitter,DIA,2022.0,SA,2014.0
+E_b73c2d2276,twitter,SUM,2022.0,SA,2014.0
+E_b73ed72c37,target language,MT,2010.0,SA,2010.0
+E_b73ed72c37,target language,SA,2010.0,SA,2010.0
+E_b73ed72c37,target language,SUM,2020.0,SA,2010.0
+E_b73ed72c37,target language,DIA,2021.0,SA,2010.0
+E_b73ed72c37,target language,QA,2021.0,SA,2010.0
+E_b7922e3b59,beam width,SUM,2014.0,SUM,2014.0
+E_b7922e3b59,beam width,MT,2017.0,SUM,2014.0
+E_b7922e3b59,beam width,DIA,2018.0,SUM,2014.0
+E_b794c3472c,batch size,MT,2012.0,MT,2012.0
+E_b794c3472c,batch size,SUM,2014.0,MT,2012.0
+E_b794c3472c,batch size,DIA,2016.0,MT,2012.0
+E_b794c3472c,batch size,QA,2016.0,MT,2012.0
+E_b794c3472c,batch size,SA,2016.0,MT,2012.0
+E_b7fc5ca5b1,seq2seq model,DIA,2016.0,DIA,2016.0
+E_b7fc5ca5b1,seq2seq model,MT,2018.0,DIA,2016.0
+E_b7fc5ca5b1,seq2seq model,QA,2018.0,DIA,2016.0
+E_b7fc5ca5b1,seq2seq model,SA,2018.0,DIA,2016.0
+E_b7fc5ca5b1,seq2seq model,SUM,2018.0,DIA,2016.0
+E_b84d43d958,auxiliary task,MT,2018.0,MT,2018.0
+E_b84d43d958,auxiliary task,QA,2019.0,MT,2018.0
+E_b84d43d958,auxiliary task,SA,2019.0,MT,2018.0
+E_b84d43d958,auxiliary task,SUM,2019.0,MT,2018.0
+E_b84d43d958,auxiliary task,DIA,2020.0,MT,2018.0
+E_b888b2fd35,decoding,MT,2010.0,MT,2010.0
+E_b888b2fd35,decoding,DIA,2016.0,MT,2010.0
+E_b888b2fd35,decoding,SUM,2018.0,MT,2010.0
+E_b888b2fd35,decoding,QA,2019.0,MT,2010.0
+E_b888b2fd35,decoding,SA,2021.0,MT,2010.0
+E_b8e0f13af6,of this paper,DIA,2022.0,DIA,2022.0
+E_b8e0f13af6,of this paper,MT,2022.0,DIA,2022.0
+E_b8e0f13af6,of this paper,SA,2022.0,DIA,2022.0
+E_b8e0f13af6,of this paper,SUM,2022.0,DIA,2022.0
+E_b968fe9114,combination,DIA,2013.0,MT,2013.0
+E_b968fe9114,combination,MT,2013.0,MT,2013.0
+E_b968fe9114,combination,SA,2013.0,MT,2013.0
+E_b968fe9114,combination,SUM,2014.0,MT,2013.0
+E_b968fe9114,combination,QA,2019.0,MT,2013.0
+E_b970313e52,statistical,MT,2022.0,MT,2022.0
+E_b970313e52,statistical,QA,2022.0,MT,2022.0
+E_b970313e52,statistical,SA,2022.0,MT,2022.0
+E_b970313e52,statistical,DIA,2023.0,MT,2022.0
+E_b970313e52,statistical,SUM,2023.0,MT,2022.0
+E_b9b9e36c1a,decision,DIA,2018.0,DIA,2018.0
+E_b9b9e36c1a,decision,MT,2022.0,DIA,2018.0
+E_b9b9e36c1a,decision,QA,2022.0,DIA,2018.0
+E_b9b9e36c1a,decision,SA,2022.0,DIA,2018.0
+E_ba06facad7,convergence,MT,2011.0,MT,2011.0
+E_ba06facad7,convergence,SA,2018.0,MT,2011.0
+E_ba06facad7,convergence,SUM,2018.0,MT,2011.0
+E_ba06facad7,convergence,DIA,2019.0,MT,2011.0
+E_ba06facad7,convergence,QA,2022.0,MT,2011.0
+E_ba0a6ddd94,english,MT,2010.0,MT,2010.0
+E_ba0a6ddd94,english,SA,2011.0,MT,2010.0
+E_ba0a6ddd94,english,QA,2018.0,MT,2010.0
+E_ba0a6ddd94,english,DIA,2019.0,MT,2010.0
+E_ba0a6ddd94,english,SUM,2019.0,MT,2010.0
+E_babd2925f9,chinese,SA,2011.0,SA,2011.0
+E_babd2925f9,chinese,MT,2013.0,SA,2011.0
+E_babd2925f9,chinese,DIA,2015.0,SA,2011.0
+E_babd2925f9,chinese,QA,2019.0,SA,2011.0
+E_babd2925f9,chinese,SUM,2023.0,SA,2011.0
+E_bae9162246,reactive,DIA,2022.0,DIA,2022.0
+E_bae9162246,reactive,MT,2022.0,DIA,2022.0
+E_bae9162246,reactive,SA,2022.0,DIA,2022.0
+E_bae9162246,reactive,SUM,2022.0,DIA,2022.0
+E_bae9162246,reactive,QA,2023.0,DIA,2022.0
+E_bb19f3e14e,causal,DIA,2022.0,MT,2022.0
+E_bb19f3e14e,causal,MT,2022.0,MT,2022.0
+E_bb19f3e14e,causal,QA,2022.0,MT,2022.0
+E_bb19f3e14e,causal,SA,2022.0,MT,2022.0
+E_bb3ccd5881,information,SA,2010.0,SA,2010.0
+E_bb3ccd5881,information,MT,2015.0,SA,2010.0
+E_bb3ccd5881,information,QA,2016.0,SA,2010.0
+E_bb3ccd5881,information,DIA,2018.0,SA,2010.0
+E_bb3ccd5881,information,SUM,2018.0,SA,2010.0
+E_bba2d275be,substantially outperforms,MT,2016.0,MT,2016.0
+E_bba2d275be,substantially outperforms,SA,2016.0,MT,2016.0
+E_bba2d275be,substantially outperforms,DIA,2018.0,MT,2016.0
+E_bba2d275be,substantially outperforms,SUM,2019.0,MT,2016.0
+E_bbb8cbb9e5,extensive,DIA,2022.0,DIA,2022.0
+E_bbb8cbb9e5,extensive,MT,2022.0,DIA,2022.0
+E_bbb8cbb9e5,extensive,QA,2022.0,DIA,2022.0
+E_bbb8cbb9e5,extensive,SA,2022.0,DIA,2022.0
+E_bbb8cbb9e5,extensive,SUM,2022.0,DIA,2022.0
+E_bc500dd033,during,DIA,2022.0,DIA,2022.0
+E_bc500dd033,during,MT,2022.0,DIA,2022.0
+E_bc500dd033,during,QA,2022.0,DIA,2022.0
+E_bc500dd033,during,SA,2022.0,DIA,2022.0
+E_bc500dd033,during,SUM,2022.0,DIA,2022.0
+E_bca339e830,all test sets,MT,2010.0,MT,2010.0
+E_bca339e830,all test sets,SA,2015.0,MT,2010.0
+E_bca339e830,all test sets,QA,2020.0,MT,2010.0
+E_bd13a3ea8d,bleu score,MT,2010.0,MT,2010.0
+E_bd13a3ea8d,bleu score,DIA,2017.0,MT,2010.0
+E_bd13a3ea8d,bleu score,QA,2018.0,MT,2010.0
+E_bd13a3ea8d,bleu score,SA,2018.0,MT,2010.0
+E_bd1cae40e9,are based on,DIA,2022.0,DIA,2022.0
+E_bd1cae40e9,are based on,MT,2022.0,DIA,2022.0
+E_bd1cae40e9,are based on,QA,2022.0,DIA,2022.0
+E_bd1cae40e9,are based on,SA,2022.0,DIA,2022.0
+E_bd1cae40e9,are based on,SUM,2022.0,DIA,2022.0
+E_bd21408a63,all evaluation metrics,QA,2011.0,QA,2011.0
+E_bd21408a63,all evaluation metrics,SUM,2011.0,QA,2011.0
+E_bd21408a63,all evaluation metrics,MT,2016.0,QA,2011.0
+E_bd21408a63,all evaluation metrics,SA,2019.0,QA,2011.0
+E_bd21408a63,all evaluation metrics,DIA,2020.0,QA,2011.0
+E_bd8bc36eb4,discussion,DIA,2022.0,DIA,2022.0
+E_bd8bc36eb4,discussion,MT,2022.0,DIA,2022.0
+E_bd8bc36eb4,discussion,QA,2022.0,DIA,2022.0
+E_bd8bc36eb4,discussion,SA,2022.0,DIA,2022.0
+E_bd8bc36eb4,discussion,SUM,2023.0,DIA,2022.0
+E_bdbebaae67,much better,SUM,2010.0,SUM,2010.0
+E_bdbebaae67,much better,MT,2012.0,SUM,2010.0
+E_bdbebaae67,much better,SA,2012.0,SUM,2010.0
+E_bdbebaae67,much better,QA,2015.0,SUM,2010.0
+E_bdbebaae67,much better,DIA,2016.0,SUM,2010.0
+E_bdd31e4068,read and approved,DIA,2022.0,DIA,2022.0
+E_bdd31e4068,read and approved,MT,2022.0,DIA,2022.0
+E_bdd31e4068,read and approved,QA,2022.0,DIA,2022.0
+E_bdd31e4068,read and approved,SA,2022.0,DIA,2022.0
+E_bdd31e4068,read and approved,SUM,2022.0,DIA,2022.0
+E_be408cc8d9,analyzing,DIA,2022.0,SUM,2022.0
+E_be408cc8d9,analyzing,MT,2022.0,SUM,2022.0
+E_be408cc8d9,analyzing,QA,2022.0,SUM,2022.0
+E_be408cc8d9,analyzing,SA,2022.0,SUM,2022.0
+E_be408cc8d9,analyzing,SUM,2022.0,SUM,2022.0
+E_bf5b17fac5,effect,MT,2010.0,MT,2010.0
+E_bf5b17fac5,effect,DIA,2016.0,MT,2010.0
+E_bf5b17fac5,effect,SA,2017.0,MT,2010.0
+E_bf5b17fac5,effect,QA,2018.0,MT,2010.0
+E_bfb9b9a657,best baseline,SUM,2013.0,SUM,2013.0
+E_bfb9b9a657,best baseline,DIA,2015.0,SUM,2013.0
+E_bfb9b9a657,best baseline,QA,2015.0,SUM,2013.0
+E_bfb9b9a657,best baseline,MT,2018.0,SUM,2013.0
+E_bfb9b9a657,best baseline,SA,2019.0,SUM,2013.0
+E_bfebe34154,examples,MT,2017.0,QA,2017.0
+E_bfebe34154,examples,QA,2017.0,QA,2017.0
+E_bfebe34154,examples,SA,2019.0,QA,2017.0
+E_bfebe34154,examples,DIA,2021.0,QA,2017.0
+E_bfebe34154,examples,SUM,2022.0,QA,2017.0
+E_c00f0c4675,standard,MT,2018.0,MT,2018.0
+E_c00f0c4675,standard,DIA,2022.0,MT,2018.0
+E_c00f0c4675,standard,QA,2022.0,MT,2018.0
+E_c00f0c4675,standard,SA,2022.0,MT,2018.0
+E_c00f0c4675,standard,SUM,2023.0,MT,2018.0
+E_c06e73dfba,human evaluation,MT,2013.0,SUM,2013.0
+E_c06e73dfba,human evaluation,SUM,2013.0,SUM,2013.0
+E_c06e73dfba,human evaluation,SA,2018.0,SUM,2013.0
+E_c06e73dfba,human evaluation,DIA,2019.0,SUM,2013.0
+E_c06e73dfba,human evaluation,QA,2020.0,SUM,2013.0
+E_c0cb76c26c,appendix,DIA,2022.0,DIA,2022.0
+E_c0cb76c26c,appendix,MT,2022.0,DIA,2022.0
+E_c0cb76c26c,appendix,QA,2022.0,DIA,2022.0
+E_c0cb76c26c,appendix,SA,2022.0,DIA,2022.0
+E_c0f419ac3e,competitive performance,SA,2012.0,SA,2012.0
+E_c0f419ac3e,competitive performance,MT,2013.0,SA,2012.0
+E_c0f419ac3e,competitive performance,QA,2019.0,SA,2012.0
+E_c0f419ac3e,competitive performance,DIA,2020.0,SA,2012.0
+E_c0f419ac3e,competitive performance,SUM,2021.0,SA,2012.0
+E_c158b33d64,helpful,MT,2013.0,MT,2013.0
+E_c158b33d64,helpful,DIA,2018.0,MT,2013.0
+E_c158b33d64,helpful,QA,2018.0,MT,2013.0
+E_c158b33d64,helpful,SA,2018.0,MT,2013.0
+E_c1a9907ed5,single model,MT,2017.0,QA,2017.0
+E_c1a9907ed5,single model,QA,2017.0,QA,2017.0
+E_c1a9907ed5,single model,SA,2018.0,QA,2017.0
+E_c1a9907ed5,single model,SUM,2020.0,QA,2017.0
+E_c1a9907ed5,single model,DIA,2021.0,QA,2017.0
+E_c21f3ab74b,greedy decoding,MT,2016.0,MT,2016.0
+E_c21f3ab74b,greedy decoding,DIA,2018.0,MT,2016.0
+E_c21f3ab74b,greedy decoding,SA,2020.0,MT,2016.0
+E_c2245fbe94,perform better,MT,2011.0,MT,2011.0
+E_c2245fbe94,perform better,DIA,2014.0,MT,2011.0
+E_c2245fbe94,perform better,SA,2014.0,MT,2011.0
+E_c2245fbe94,perform better,QA,2019.0,MT,2011.0
+E_c2245fbe94,perform better,SUM,2020.0,MT,2011.0
+E_c2a63ec526,unknown words,MT,2010.0,MT,2010.0
+E_c2a63ec526,unknown words,DIA,2013.0,MT,2010.0
+E_c2a63ec526,unknown words,SA,2016.0,MT,2010.0
+E_c2af294b46,gradients,MT,2013.0,MT,2013.0
+E_c2af294b46,gradients,QA,2015.0,MT,2013.0
+E_c2af294b46,gradients,DIA,2017.0,MT,2013.0
+E_c2af294b46,gradients,SA,2018.0,MT,2013.0
+E_c2af294b46,gradients,SUM,2021.0,MT,2013.0
+E_c327b49efd,working,DIA,2022.0,DIA,2022.0
+E_c327b49efd,working,MT,2022.0,DIA,2022.0
+E_c327b49efd,working,QA,2022.0,DIA,2022.0
+E_c327b49efd,working,SA,2022.0,DIA,2022.0
+E_c327b49efd,working,SUM,2022.0,DIA,2022.0
+E_c34c08e62d,system performance,MT,2010.0,MT,2010.0
+E_c34c08e62d,system performance,QA,2012.0,MT,2010.0
+E_c34c08e62d,system performance,SUM,2013.0,MT,2010.0
+E_c34c08e62d,system performance,SA,2016.0,MT,2010.0
+E_c40dd22f75,autoencoder,SA,2015.0,SA,2015.0
+E_c40dd22f75,autoencoder,DIA,2018.0,SA,2015.0
+E_c40dd22f75,autoencoder,SUM,2018.0,SA,2015.0
+E_c40dd22f75,autoencoder,MT,2019.0,SA,2015.0
+E_c40dd22f75,autoencoder,QA,2020.0,SA,2015.0
+E_c40eb5155f,sentiment,SA,2010.0,SA,2010.0
+E_c40eb5155f,sentiment,MT,2014.0,SA,2010.0
+E_c41b9ec75e,prediction,MT,2015.0,SA,2015.0
+E_c41b9ec75e,prediction,SA,2015.0,SA,2015.0
+E_c41b9ec75e,prediction,DIA,2019.0,SA,2015.0
+E_c41b9ec75e,prediction,QA,2019.0,SA,2015.0
+E_c41b9ec75e,prediction,SUM,2022.0,SA,2015.0
+E_c424d7ffb0,target domain,SA,2012.0,SA,2012.0
+E_c424d7ffb0,target domain,MT,2018.0,SA,2012.0
+E_c424d7ffb0,target domain,QA,2018.0,SA,2012.0
+E_c424d7ffb0,target domain,DIA,2020.0,SA,2012.0
+E_c53df31e20,significant,MT,2010.0,MT,2010.0
+E_c53df31e20,significant,SA,2015.0,MT,2010.0
+E_c53df31e20,significant,SUM,2015.0,MT,2010.0
+E_c53df31e20,significant,DIA,2016.0,MT,2010.0
+E_c53df31e20,significant,QA,2018.0,MT,2010.0
+E_c557047287,across,DIA,2022.0,DIA,2022.0
+E_c557047287,across,QA,2022.0,DIA,2022.0
+E_c557047287,across,SA,2022.0,DIA,2022.0
+E_c557047287,across,SUM,2023.0,DIA,2022.0
+E_c576a841fd,reporting,DIA,2022.0,DIA,2022.0
+E_c576a841fd,reporting,MT,2022.0,DIA,2022.0
+E_c576a841fd,reporting,QA,2022.0,DIA,2022.0
+E_c576a841fd,reporting,SA,2022.0,DIA,2022.0
+E_c576a841fd,reporting,SUM,2023.0,DIA,2022.0
+E_c57a4d2d0d,leveraging,DIA,2019.0,QA,2019.0
+E_c57a4d2d0d,leveraging,QA,2019.0,QA,2019.0
+E_c57a4d2d0d,leveraging,MT,2021.0,QA,2019.0
+E_c57a4d2d0d,leveraging,SA,2022.0,QA,2019.0
+E_c57a4d2d0d,leveraging,SUM,2024.0,QA,2019.0
+E_c5beb29ccb,in- domain data,MT,2012.0,MT,2012.0
+E_c5beb29ccb,in- domain data,QA,2015.0,MT,2012.0
+E_c5beb29ccb,in- domain data,DIA,2018.0,MT,2012.0
+E_c5beb29ccb,in- domain data,SUM,2020.0,MT,2012.0
+E_c65fce3822,latter,SA,2010.0,SA,2010.0
+E_c65fce3822,latter,SUM,2010.0,SA,2010.0
+E_c65fce3822,latter,MT,2012.0,SA,2010.0
+E_c65fce3822,latter,DIA,2018.0,SA,2010.0
+E_c65fce3822,latter,QA,2019.0,SA,2010.0
+E_c69d78f9f4,ethical,DIA,2022.0,DIA,2022.0
+E_c69d78f9f4,ethical,MT,2022.0,DIA,2022.0
+E_c69d78f9f4,ethical,QA,2022.0,DIA,2022.0
+E_c69d78f9f4,ethical,SA,2023.0,DIA,2022.0
+E_c69d78f9f4,ethical,SUM,2023.0,DIA,2022.0
+E_c6b7ed918a,factors,MT,2014.0,MT,2014.0
+E_c6b7ed918a,factors,DIA,2022.0,MT,2014.0
+E_c6b7ed918a,factors,QA,2022.0,MT,2014.0
+E_c6b7ed918a,factors,SA,2022.0,MT,2014.0
+E_c6b7ed918a,factors,SUM,2022.0,MT,2014.0
+E_c6eb4749b4,alignments,MT,2010.0,MT,2010.0
+E_c6eb4749b4,alignments,SUM,2018.0,MT,2010.0
+E_c6eb4749b4,alignments,QA,2019.0,MT,2010.0
+E_c76a5e84e4,active,DIA,2022.0,MT,2022.0
+E_c76a5e84e4,active,MT,2022.0,MT,2022.0
+E_c76a5e84e4,active,SA,2022.0,MT,2022.0
+E_c76a5e84e4,active,SUM,2023.0,MT,2022.0
+E_c783a20f85,in education :,DIA,2022.0,DIA,2022.0
+E_c783a20f85,in education :,QA,2022.0,DIA,2022.0
+E_c783a20f85,in education :,SA,2022.0,DIA,2022.0
+E_c783a20f85,in education :,MT,2023.0,DIA,2022.0
+E_c7c21f16cb,performance drop,QA,2012.0,QA,2012.0
+E_c7c21f16cb,performance drop,SA,2014.0,QA,2012.0
+E_c7c21f16cb,performance drop,MT,2016.0,QA,2012.0
+E_c7c21f16cb,performance drop,DIA,2020.0,QA,2012.0
+E_c804404e02,our results,MT,2013.0,MT,2013.0
+E_c804404e02,our results,QA,2017.0,MT,2013.0
+E_c804404e02,our results,SA,2018.0,MT,2013.0
+E_c847837586,numerous,DIA,2022.0,DIA,2022.0
+E_c847837586,numerous,MT,2022.0,DIA,2022.0
+E_c847837586,numerous,QA,2022.0,DIA,2022.0
+E_c847837586,numerous,SA,2022.0,DIA,2022.0
+E_c847837586,numerous,SUM,2022.0,DIA,2022.0
+E_c8d696e648,beam size,MT,2011.0,MT,2011.0
+E_c8d696e648,beam size,SUM,2016.0,MT,2011.0
+E_c8d696e648,beam size,QA,2017.0,MT,2011.0
+E_c8d696e648,beam size,DIA,2018.0,MT,2011.0
+E_c99333b4b4,source language,MT,2010.0,MT,2010.0
+E_c99333b4b4,source language,SA,2015.0,MT,2010.0
+E_c99333b4b4,source language,QA,2020.0,MT,2010.0
+E_c99333b4b4,source language,SUM,2020.0,MT,2010.0
+E_ca216a73be,novel model,SUM,2013.0,SUM,2013.0
+E_ca216a73be,novel model,MT,2015.0,SUM,2013.0
+E_ca216a73be,novel model,SA,2018.0,SUM,2013.0
+E_ca216a73be,novel model,DIA,2019.0,SUM,2013.0
+E_ca216a73be,novel model,QA,2021.0,SUM,2013.0
+E_ca23ba209c,through,DIA,2022.0,DIA,2022.0
+E_ca23ba209c,through,MT,2022.0,DIA,2022.0
+E_ca23ba209c,through,QA,2022.0,DIA,2022.0
+E_ca23ba209c,through,SA,2022.0,DIA,2022.0
+E_ca23ba209c,through,SUM,2022.0,DIA,2022.0
+E_ca34affee8,opennmt,MT,2018.0,SUM,2018.0
+E_ca34affee8,opennmt,SUM,2018.0,SUM,2018.0
+E_ca34affee8,opennmt,DIA,2020.0,SUM,2018.0
+E_ca45a19191,cnn / dm,SUM,2018.0,SUM,2018.0
+E_ca45a19191,cnn / dm,QA,2020.0,SUM,2018.0
+E_ca4c12e6c8,superiority,MT,2013.0,MT,2013.0
+E_ca4c12e6c8,superiority,QA,2015.0,MT,2013.0
+E_ca4c12e6c8,superiority,SA,2016.0,MT,2013.0
+E_ca4c12e6c8,superiority,DIA,2018.0,MT,2013.0
+E_ca4c12e6c8,superiority,SUM,2021.0,MT,2013.0
+E_ca81352e28,unlabeled data,MT,2010.0,MT,2010.0
+E_ca81352e28,unlabeled data,SA,2011.0,MT,2010.0
+E_ca81352e28,unlabeled data,QA,2020.0,MT,2010.0
+E_caa9ca22dd,pretrained model,MT,2012.0,MT,2012.0
+E_caa9ca22dd,pretrained model,SA,2018.0,MT,2012.0
+E_caa9ca22dd,pretrained model,QA,2019.0,MT,2012.0
+E_caa9ca22dd,pretrained model,DIA,2020.0,MT,2012.0
+E_caa9ca22dd,pretrained model,SUM,2020.0,MT,2012.0
+E_cab58848ef,number of layers,MT,2017.0,MT,2017.0
+E_cab58848ef,number of layers,QA,2018.0,MT,2017.0
+E_cab58848ef,number of layers,SUM,2018.0,MT,2017.0
+E_cab58848ef,number of layers,SA,2019.0,MT,2017.0
+E_cab58848ef,number of layers,DIA,2020.0,MT,2017.0
+E_cb071d80d1,figure,DIA,2022.0,DIA,2022.0
+E_cb071d80d1,figure,MT,2022.0,DIA,2022.0
+E_cb071d80d1,figure,QA,2022.0,DIA,2022.0
+E_cb071d80d1,figure,SUM,2022.0,DIA,2022.0
+E_cb071d80d1,figure,SA,2023.0,DIA,2022.0
+E_cb883aa1b4,identifying,DIA,2014.0,DIA,2014.0
+E_cb883aa1b4,identifying,SA,2017.0,DIA,2014.0
+E_cb883aa1b4,identifying,MT,2022.0,DIA,2014.0
+E_cb883aa1b4,identifying,QA,2022.0,DIA,2014.0
+E_cb883aa1b4,identifying,SUM,2022.0,DIA,2014.0
+E_cbad7f3e2a,pre-trained word embeddings,QA,2015.0,QA,2015.0
+E_cbad7f3e2a,pre-trained word embeddings,SA,2016.0,QA,2015.0
+E_cbad7f3e2a,pre-trained word embeddings,MT,2018.0,QA,2015.0
+E_cbad7f3e2a,pre-trained word embeddings,SUM,2018.0,QA,2015.0
+E_cbf07d0fe0,humans,DIA,2017.0,DIA,2017.0
+E_cbf07d0fe0,humans,QA,2020.0,DIA,2017.0
+E_cbf07d0fe0,humans,SUM,2020.0,DIA,2017.0
+E_cbf07d0fe0,humans,SA,2021.0,DIA,2017.0
+E_cbf07d0fe0,humans,MT,2022.0,DIA,2017.0
+E_cc6afe156e,abstractive summarization,SUM,2018.0,SUM,2018.0
+E_cc6afe156e,abstractive summarization,MT,2021.0,SUM,2018.0
+E_cc70865f1e,because,DIA,2022.0,DIA,2022.0
+E_cc70865f1e,because,MT,2022.0,DIA,2022.0
+E_cc70865f1e,because,QA,2022.0,DIA,2022.0
+E_cc70865f1e,because,SA,2022.0,DIA,2022.0
+E_cc70865f1e,because,SUM,2022.0,DIA,2022.0
+E_cd69b4957f,memory,MT,2011.0,MT,2011.0
+E_cd69b4957f,memory,SA,2016.0,MT,2011.0
+E_cd69b4957f,memory,QA,2019.0,MT,2011.0
+E_cd69b4957f,memory,DIA,2020.0,MT,2011.0
+E_cd69b4957f,memory,SUM,2020.0,MT,2011.0
+E_cd6e059856,comput,MT,2022.0,MT,2022.0
+E_cd6e059856,comput,SA,2022.0,MT,2022.0
+E_cd6e059856,comput,DIA,2023.0,MT,2022.0
+E_cd6e059856,comput,QA,2023.0,MT,2022.0
+E_cd6e059856,comput,SUM,2023.0,MT,2022.0
+E_cd73502828,student,DIA,2020.0,DIA,2020.0
+E_cd73502828,student,MT,2021.0,DIA,2020.0
+E_cd73502828,student,SUM,2021.0,DIA,2020.0
+E_cd73502828,student,QA,2022.0,DIA,2020.0
+E_cd73502828,student,SA,2022.0,DIA,2020.0
+E_cdb36c370b,spatial,MT,2022.0,MT,2022.0
+E_cdb36c370b,spatial,QA,2022.0,MT,2022.0
+E_cdb36c370b,spatial,SA,2022.0,MT,2022.0
+E_cdb36c370b,spatial,SUM,2022.0,MT,2022.0
+E_cdb36c370b,spatial,DIA,2023.0,MT,2022.0
+E_ce2f1fbd24,softmax,MT,2014.0,MT,2014.0
+E_ce2f1fbd24,softmax,SA,2016.0,MT,2014.0
+E_ce2f1fbd24,softmax,QA,2018.0,MT,2014.0
+E_ce2f1fbd24,softmax,DIA,2019.0,MT,2014.0
+E_ce495ab8d7,multiple,DIA,2022.0,SUM,2022.0
+E_ce495ab8d7,multiple,MT,2022.0,SUM,2022.0
+E_ce495ab8d7,multiple,QA,2022.0,SUM,2022.0
+E_ce495ab8d7,multiple,SA,2022.0,SUM,2022.0
+E_ce495ab8d7,multiple,SUM,2022.0,SUM,2022.0
+E_ce6e0e609f,our method,MT,2010.0,MT,2010.0
+E_ce6e0e609f,our method,SA,2011.0,MT,2010.0
+E_ce6e0e609f,our method,QA,2013.0,MT,2010.0
+E_ce6e0e609f,our method,SUM,2013.0,MT,2010.0
+E_ce6e0e609f,our method,DIA,2018.0,MT,2010.0
+E_cec2158311,supervised,SA,2013.0,SA,2013.0
+E_cec2158311,supervised,MT,2019.0,SA,2013.0
+E_cec2158311,supervised,DIA,2022.0,SA,2013.0
+E_cec2158311,supervised,SUM,2022.0,SA,2013.0
+E_cec2158311,supervised,QA,2023.0,SA,2013.0
+E_cec8b5c8b9,recurrent,SA,2015.0,SA,2015.0
+E_cec8b5c8b9,recurrent,MT,2022.0,SA,2015.0
+E_cec8b5c8b9,recurrent,QA,2022.0,SA,2015.0
+E_cec8b5c8b9,recurrent,DIA,2023.0,SA,2015.0
+E_cec8b5c8b9,recurrent,SUM,2023.0,SA,2015.0
+E_cfca108847,further improvements,MT,2012.0,MT,2012.0
+E_cfca108847,further improvements,SA,2017.0,MT,2012.0
+E_cfca108847,further improvements,QA,2018.0,MT,2012.0
+E_cfca108847,further improvements,SUM,2018.0,MT,2012.0
+E_cfca108847,further improvements,DIA,2020.0,MT,2012.0
+E_cfca937a34,prior knowledge,MT,2012.0,MT,2012.0
+E_cfca937a34,prior knowledge,SA,2013.0,MT,2012.0
+E_cfca937a34,prior knowledge,QA,2019.0,MT,2012.0
+E_cfca937a34,prior knowledge,DIA,2020.0,MT,2012.0
+E_cfca937a34,prior knowledge,SUM,2020.0,MT,2012.0
+E_d07182257b,evaluation,MT,2015.0,MT,2015.0
+E_d07182257b,evaluation,QA,2018.0,MT,2015.0
+E_d07182257b,evaluation,DIA,2020.0,MT,2015.0
+E_d07182257b,evaluation,SA,2021.0,MT,2015.0
+E_d07182257b,evaluation,SUM,2021.0,MT,2015.0
+E_d0df4800ed,mental,DIA,2022.0,DIA,2022.0
+E_d0df4800ed,mental,QA,2022.0,DIA,2022.0
+E_d0df4800ed,mental,SA,2022.0,DIA,2022.0
+E_d0e904e16c,each layer,MT,2014.0,MT,2014.0
+E_d0e904e16c,each layer,QA,2015.0,MT,2014.0
+E_d0e904e16c,each layer,SA,2016.0,MT,2014.0
+E_d0e904e16c,each layer,SUM,2016.0,MT,2014.0
+E_d0e904e16c,each layer,DIA,2019.0,MT,2014.0
+E_d1118a633c,sentiment information,SA,2014.0,SA,2014.0
+E_d1118a633c,sentiment information,QA,2018.0,SA,2014.0
+E_d15c9ec270,embedding layer,QA,2016.0,QA,2016.0
+E_d15c9ec270,embedding layer,SA,2016.0,QA,2016.0
+E_d15c9ec270,embedding layer,MT,2017.0,QA,2016.0
+E_d15c9ec270,embedding layer,DIA,2019.0,QA,2016.0
+E_d16615ef23,rouge scores,SA,2010.0,SA,2010.0
+E_d16615ef23,rouge scores,SUM,2010.0,SA,2010.0
+E_d16615ef23,rouge scores,DIA,2020.0,SA,2010.0
+E_d1addc1e9e,transformer models,MT,2018.0,MT,2018.0
+E_d1addc1e9e,transformer models,SUM,2020.0,MT,2018.0
+E_d1addc1e9e,transformer models,DIA,2021.0,MT,2018.0
+E_d1fc8eaf36,response,QA,2012.0,QA,2012.0
+E_d1fc8eaf36,response,MT,2014.0,QA,2012.0
+E_d1fc8eaf36,response,DIA,2018.0,QA,2012.0
+E_d1fc8eaf36,response,SA,2023.0,QA,2012.0
+E_d1fc8eaf36,response,SUM,2023.0,QA,2012.0
+E_d229bbf31e,background,SUM,2014.0,SUM,2014.0
+E_d229bbf31e,background,DIA,2022.0,SUM,2014.0
+E_d229bbf31e,background,MT,2022.0,SUM,2014.0
+E_d229bbf31e,background,QA,2022.0,SUM,2014.0
+E_d229bbf31e,background,SA,2022.0,SUM,2014.0
+E_d234403d78,robustness,MT,2014.0,MT,2014.0
+E_d234403d78,robustness,SA,2017.0,MT,2014.0
+E_d234403d78,robustness,DIA,2018.0,MT,2014.0
+E_d234403d78,robustness,SUM,2019.0,MT,2014.0
+E_d234403d78,robustness,QA,2020.0,MT,2014.0
+E_d2728d3f36,learning rates,QA,2016.0,QA,2016.0
+E_d2728d3f36,learning rates,MT,2018.0,QA,2016.0
+E_d2728d3f36,learning rates,SA,2018.0,QA,2016.0
+E_d2728d3f36,learning rates,DIA,2019.0,QA,2016.0
+E_d2728d3f36,learning rates,SUM,2020.0,QA,2016.0
+E_d2884efee7,continuous,DIA,2022.0,DIA,2022.0
+E_d2884efee7,continuous,MT,2022.0,DIA,2022.0
+E_d2884efee7,continuous,QA,2022.0,DIA,2022.0
+E_d2884efee7,continuous,SA,2022.0,DIA,2022.0
+E_d2884efee7,continuous,SUM,2022.0,DIA,2022.0
+E_d2940a0e09,continued,MT,2022.0,MT,2022.0
+E_d2940a0e09,continued,QA,2022.0,MT,2022.0
+E_d2940a0e09,continued,SA,2022.0,MT,2022.0
+E_d2940a0e09,continued,SUM,2022.0,MT,2022.0
+E_d2940a0e09,continued,DIA,2024.0,MT,2022.0
+E_d3019918d2,number of heads,MT,2019.0,SUM,2019.0
+E_d3019918d2,number of heads,SUM,2019.0,SUM,2019.0
+E_d3019918d2,number of heads,DIA,2020.0,SUM,2019.0
+E_d3052a2680,label smoothing,MT,2018.0,MT,2018.0
+E_d3052a2680,label smoothing,DIA,2019.0,MT,2018.0
+E_d3052a2680,label smoothing,QA,2019.0,MT,2018.0
+E_d3052a2680,label smoothing,SUM,2019.0,MT,2018.0
+E_d3052a2680,label smoothing,SA,2021.0,MT,2018.0
+E_d324a48516,activation function,SA,2012.0,SA,2012.0
+E_d324a48516,activation function,MT,2015.0,SA,2012.0
+E_d324a48516,activation function,QA,2017.0,SA,2012.0
+E_d324a48516,activation function,DIA,2019.0,SA,2012.0
+E_d391cc693a,consistently outperform,MT,2012.0,MT,2012.0
+E_d391cc693a,consistently outperform,DIA,2018.0,MT,2012.0
+E_d391cc693a,consistently outperform,QA,2020.0,MT,2012.0
+E_d391cc693a,consistently outperform,SA,2020.0,MT,2012.0
+E_d391cc693a,consistently outperform,SUM,2020.0,MT,2012.0
+E_d3e4d5c5b3,both metrics,MT,2010.0,MT,2010.0
+E_d3e4d5c5b3,both metrics,SA,2015.0,MT,2010.0
+E_d3e4d5c5b3,both metrics,DIA,2016.0,MT,2010.0
+E_d3e4d5c5b3,both metrics,QA,2018.0,MT,2010.0
+E_d3e4d5c5b3,both metrics,SUM,2021.0,MT,2010.0
+E_d3e78e3d3b,extended,MT,2022.0,MT,2022.0
+E_d3e78e3d3b,extended,SA,2022.0,MT,2022.0
+E_d3e78e3d3b,extended,DIA,2023.0,MT,2022.0
+E_d3e78e3d3b,extended,QA,2023.0,MT,2022.0
+E_d3e78e3d3b,extended,SUM,2023.0,MT,2022.0
+E_d4223b64eb,are few -,DIA,2022.0,SA,2022.0
+E_d4223b64eb,are few -,MT,2022.0,SA,2022.0
+E_d4223b64eb,are few -,QA,2022.0,SA,2022.0
+E_d4223b64eb,are few -,SA,2022.0,SA,2022.0
+E_d4223b64eb,are few -,SUM,2023.0,SA,2022.0
+E_d42f4851e7,margin,MT,2013.0,MT,2013.0
+E_d42f4851e7,margin,QA,2016.0,MT,2013.0
+E_d42f4851e7,margin,SA,2017.0,MT,2013.0
+E_d42f4851e7,margin,SUM,2020.0,MT,2013.0
+E_d43d041fde,question generation,QA,2018.0,QA,2018.0
+E_d43d041fde,question generation,MT,2021.0,QA,2018.0
+E_d5bc5e0845,proposed method,MT,2010.0,MT,2010.0
+E_d5bc5e0845,proposed method,QA,2012.0,MT,2010.0
+E_d5bc5e0845,proposed method,SA,2012.0,MT,2010.0
+E_d5bc5e0845,proposed method,DIA,2019.0,MT,2010.0
+E_d5bc5e0845,proposed method,SUM,2020.0,MT,2010.0
+E_d63c7ede8c,limited,SA,2014.0,SA,2014.0
+E_d63c7ede8c,limited,DIA,2016.0,SA,2014.0
+E_d63c7ede8c,limited,QA,2017.0,SA,2014.0
+E_d63c7ede8c,limited,SUM,2019.0,SA,2014.0
+E_d63c7ede8c,limited,MT,2020.0,SA,2014.0
+E_d6614b5576,potential,QA,2012.0,SUM,2012.0
+E_d6614b5576,potential,SUM,2012.0,SUM,2012.0
+E_d6614b5576,potential,DIA,2014.0,SUM,2012.0
+E_d6614b5576,potential,MT,2022.0,SUM,2012.0
+E_d6614b5576,potential,SA,2022.0,SUM,2012.0
+E_d66636b253,quality,MT,2012.0,MT,2012.0
+E_d66636b253,quality,QA,2013.0,MT,2012.0
+E_d66636b253,quality,SA,2013.0,MT,2012.0
+E_d66636b253,quality,DIA,2019.0,MT,2012.0
+E_d66636b253,quality,SUM,2022.0,MT,2012.0
+E_d6c70a1379,introducing,DIA,2022.0,DIA,2022.0
+E_d6c70a1379,introducing,MT,2022.0,DIA,2022.0
+E_d6c70a1379,introducing,QA,2022.0,DIA,2022.0
+E_d6c70a1379,introducing,SA,2023.0,DIA,2022.0
+E_d6c70a1379,introducing,SUM,2023.0,DIA,2022.0
+E_d6cf78db41,decreases,MT,2012.0,MT,2012.0
+E_d6cf78db41,decreases,SA,2014.0,MT,2012.0
+E_d6cf78db41,decreases,QA,2016.0,MT,2012.0
+E_d6cf78db41,decreases,DIA,2018.0,MT,2012.0
+E_d6cf78db41,decreases,SUM,2020.0,MT,2012.0
+E_d6fa5adbdf,multimodal,DIA,2022.0,SA,2022.0
+E_d6fa5adbdf,multimodal,MT,2022.0,SA,2022.0
+E_d6fa5adbdf,multimodal,QA,2022.0,SA,2022.0
+E_d6fa5adbdf,multimodal,SA,2022.0,SA,2022.0
+E_d6fa5adbdf,multimodal,SUM,2023.0,SA,2022.0
+E_d79019a185,higher scores,MT,2010.0,MT,2010.0
+E_d79019a185,higher scores,SUM,2010.0,MT,2010.0
+E_d79019a185,higher scores,DIA,2017.0,MT,2010.0
+E_d79019a185,higher scores,SA,2017.0,MT,2010.0
+E_d79019a185,higher scores,QA,2019.0,MT,2010.0
+E_d79eb34312,beam search,MT,2010.0,MT,2010.0
+E_d79eb34312,beam search,SA,2010.0,MT,2010.0
+E_d79eb34312,beam search,SUM,2010.0,MT,2010.0
+E_d79eb34312,beam search,DIA,2016.0,MT,2010.0
+E_d79eb34312,beam search,QA,2017.0,MT,2010.0
+E_d7c35bd01e,elevated,DIA,2022.0,DIA,2022.0
+E_d7c35bd01e,elevated,MT,2022.0,DIA,2022.0
+E_d7c35bd01e,elevated,QA,2022.0,DIA,2022.0
+E_d7c35bd01e,elevated,SUM,2022.0,DIA,2022.0
+E_d866f4a8ea,sentence,MT,2010.0,MT,2010.0
+E_d866f4a8ea,sentence,QA,2013.0,MT,2010.0
+E_d866f4a8ea,sentence,SA,2015.0,MT,2010.0
+E_d866f4a8ea,sentence,SUM,2015.0,MT,2010.0
+E_d866f4a8ea,sentence,DIA,2016.0,MT,2010.0
+E_d92904e33b,monolingual corpora,MT,2011.0,MT,2011.0
+E_d92904e33b,monolingual corpora,QA,2019.0,MT,2011.0
+E_d992bf87d1,softmax layer,MT,2013.0,MT,2013.0
+E_d992bf87d1,softmax layer,SA,2016.0,MT,2013.0
+E_d992bf87d1,softmax layer,DIA,2019.0,MT,2013.0
+E_d992bf87d1,softmax layer,QA,2021.0,MT,2013.0
+E_d99ad5ec30,data augmentation,MT,2017.0,MT,2017.0
+E_d99ad5ec30,data augmentation,QA,2017.0,MT,2017.0
+E_d99ad5ec30,data augmentation,DIA,2018.0,MT,2017.0
+E_d99ad5ec30,data augmentation,SA,2021.0,MT,2017.0
+E_d9b26a6f46,word representations,SA,2015.0,SA,2015.0
+E_d9b26a6f46,word representations,MT,2017.0,SA,2015.0
+E_d9b26a6f46,word representations,QA,2019.0,SA,2015.0
+E_d9b26a6f46,word representations,SUM,2019.0,SA,2015.0
+E_d9b26a6f46,word representations,DIA,2020.0,SA,2015.0
+E_da0c9cf50b,detecting,QA,2020.0,QA,2020.0
+E_da0c9cf50b,detecting,DIA,2022.0,QA,2020.0
+E_da0c9cf50b,detecting,MT,2022.0,QA,2020.0
+E_da0c9cf50b,detecting,SA,2022.0,QA,2020.0
+E_da0c9cf50b,detecting,SUM,2022.0,QA,2020.0
+E_da63413e0a,learning rate schedule,MT,2018.0,MT,2018.0
+E_da63413e0a,learning rate schedule,SUM,2019.0,MT,2018.0
+E_da68679dc1,embedding dimension,QA,2015.0,QA,2015.0
+E_da68679dc1,embedding dimension,MT,2016.0,QA,2015.0
+E_da68679dc1,embedding dimension,SA,2017.0,QA,2015.0
+E_da68679dc1,embedding dimension,DIA,2020.0,QA,2015.0
+E_da68679dc1,embedding dimension,SUM,2021.0,QA,2015.0
+E_da7373a147,macrophage,DIA,2022.0,DIA,2022.0
+E_da7373a147,macrophage,MT,2022.0,DIA,2022.0
+E_da7373a147,macrophage,QA,2022.0,DIA,2022.0
+E_da7373a147,macrophage,SUM,2022.0,DIA,2022.0
+E_da907a1b8f,future,MT,2019.0,MT,2019.0
+E_da907a1b8f,future,DIA,2022.0,MT,2019.0
+E_da907a1b8f,future,QA,2022.0,MT,2019.0
+E_da907a1b8f,future,SA,2022.0,MT,2019.0
+E_da907a1b8f,future,SUM,2022.0,MT,2019.0
+E_daa91cf20b,integrating,MT,2021.0,MT,2021.0
+E_daa91cf20b,integrating,DIA,2022.0,MT,2021.0
+E_daa91cf20b,integrating,SA,2022.0,MT,2021.0
+E_daa91cf20b,integrating,SUM,2022.0,MT,2021.0
+E_daa91cf20b,integrating,QA,2023.0,MT,2021.0
+E_db05b5c69f,language models,MT,2011.0,MT,2011.0
+E_db05b5c69f,language models,SUM,2015.0,MT,2011.0
+E_db05b5c69f,language models,SA,2017.0,MT,2011.0
+E_db05b5c69f,language models,DIA,2019.0,MT,2011.0
+E_db05b5c69f,language models,QA,2019.0,MT,2011.0
+E_db167aaffd,decreased,MT,2015.0,MT,2015.0
+E_db167aaffd,decreased,QA,2018.0,MT,2015.0
+E_db167aaffd,decreased,SA,2019.0,MT,2015.0
+E_db167aaffd,decreased,DIA,2020.0,MT,2015.0
+E_db167aaffd,decreased,SUM,2022.0,MT,2015.0
+E_db721c8582,genetic,DIA,2022.0,SA,2022.0
+E_db721c8582,genetic,MT,2022.0,SA,2022.0
+E_db721c8582,genetic,QA,2022.0,SA,2022.0
+E_db721c8582,genetic,SA,2022.0,SA,2022.0
+E_db721c8582,genetic,SUM,2022.0,SA,2022.0
+E_db8857b420,virtual,DIA,2022.0,MT,2022.0
+E_db8857b420,virtual,MT,2022.0,MT,2022.0
+E_db8857b420,virtual,SA,2022.0,MT,2022.0
+E_db8857b420,virtual,SUM,2022.0,MT,2022.0
+E_db8857b420,virtual,QA,2023.0,MT,2022.0
+E_dc3a388cf3,faster,MT,2012.0,MT,2012.0
+E_dc3a388cf3,faster,SUM,2017.0,MT,2012.0
+E_dc3a388cf3,faster,QA,2018.0,MT,2012.0
+E_dc3a388cf3,faster,DIA,2020.0,MT,2012.0
+E_dc3a388cf3,faster,SA,2023.0,MT,2012.0
+E_dc628951ec,two languages,MT,2015.0,MT,2015.0
+E_dc628951ec,two languages,SA,2019.0,MT,2015.0
+E_dc7d284a3b,preclinical,DIA,2022.0,DIA,2022.0
+E_dc7d284a3b,preclinical,MT,2022.0,DIA,2022.0
+E_dc7d284a3b,preclinical,QA,2022.0,DIA,2022.0
+E_dc7d284a3b,preclinical,SUM,2022.0,DIA,2022.0
+E_dcaa859c3d,chatgpt's,DIA,2022.0,DIA,2022.0
+E_dcaa859c3d,chatgpt's,QA,2022.0,DIA,2022.0
+E_dcaa859c3d,chatgpt's,SA,2022.0,DIA,2022.0
+E_dcaa859c3d,chatgpt's,MT,2023.0,DIA,2022.0
+E_dcaa859c3d,chatgpt's,SUM,2023.0,DIA,2022.0
+E_dcbf294a2b,more data,MT,2014.0,MT,2014.0
+E_dcbf294a2b,more data,DIA,2018.0,MT,2014.0
+E_dcbf294a2b,more data,SA,2019.0,MT,2014.0
+E_dcbf294a2b,more data,QA,2020.0,MT,2014.0
+E_dd22475f74,very effective,MT,2012.0,MT,2012.0
+E_dd22475f74,very effective,SUM,2015.0,MT,2012.0
+E_dd22475f74,very effective,SA,2017.0,MT,2012.0
+E_dd22475f74,very effective,QA,2020.0,MT,2012.0
+E_dd22475f74,very effective,DIA,2021.0,MT,2012.0
+E_dd7b77ccae,accelerated,DIA,2022.0,DIA,2022.0
+E_dd7b77ccae,accelerated,MT,2022.0,DIA,2022.0
+E_dd7b77ccae,accelerated,QA,2022.0,DIA,2022.0
+E_dd7b77ccae,accelerated,SUM,2022.0,DIA,2022.0
+E_dddf81e9a2,hypothesis,MT,2010.0,MT,2010.0
+E_dddf81e9a2,hypothesis,DIA,2011.0,MT,2010.0
+E_dddf81e9a2,hypothesis,SA,2012.0,MT,2010.0
+E_dddf81e9a2,hypothesis,QA,2013.0,MT,2010.0
+E_dddf81e9a2,hypothesis,SUM,2020.0,MT,2010.0
+E_de17ea0eca,overall performance,DIA,2011.0,DIA,2011.0
+E_de17ea0eca,overall performance,MT,2014.0,DIA,2011.0
+E_de17ea0eca,overall performance,SA,2016.0,DIA,2011.0
+E_de17ea0eca,overall performance,QA,2019.0,DIA,2011.0
+E_de17ea0eca,overall performance,SUM,2019.0,DIA,2011.0
+E_de3601cbed,bleu scores,MT,2010.0,MT,2010.0
+E_de3601cbed,bleu scores,DIA,2016.0,MT,2010.0
+E_de3601cbed,bleu scores,QA,2019.0,MT,2010.0
+E_de3601cbed,bleu scores,SA,2020.0,MT,2010.0
+E_de3706d29d,highest,SUM,2010.0,SUM,2010.0
+E_de3706d29d,highest,MT,2012.0,SUM,2010.0
+E_de3706d29d,highest,DIA,2016.0,SUM,2010.0
+E_de3706d29d,highest,SA,2016.0,SUM,2010.0
+E_de3706d29d,highest,QA,2019.0,SUM,2010.0
+E_decc0dfb2d,differences,MT,2013.0,SA,2013.0
+E_decc0dfb2d,differences,SA,2013.0,SA,2013.0
+E_decc0dfb2d,differences,SUM,2018.0,SA,2013.0
+E_decc0dfb2d,differences,QA,2021.0,SA,2013.0
+E_df53ca2682,computer,DIA,2022.0,SUM,2022.0
+E_df53ca2682,computer,MT,2022.0,SUM,2022.0
+E_df53ca2682,computer,SA,2022.0,SUM,2022.0
+E_df53ca2682,computer,SUM,2022.0,SUM,2022.0
+E_df53ca2682,computer,QA,2023.0,SUM,2022.0
+E_df9831df90,getting,DIA,2022.0,DIA,2022.0
+E_df9831df90,getting,MT,2022.0,DIA,2022.0
+E_df9831df90,getting,QA,2022.0,DIA,2022.0
+E_df9831df90,getting,SA,2022.0,DIA,2022.0
+E_df9831df90,getting,SUM,2022.0,DIA,2022.0
+E_dfa5fcadaa,both models,SA,2010.0,SA,2010.0
+E_dfa5fcadaa,both models,MT,2011.0,SA,2010.0
+E_dfa5fcadaa,both models,DIA,2017.0,SA,2010.0
+E_dfa5fcadaa,both models,QA,2018.0,SA,2010.0
+E_dfa5fcadaa,both models,SUM,2018.0,SA,2010.0
+E_dfc0f9c9dc,of the study,DIA,2022.0,DIA,2022.0
+E_dfc0f9c9dc,of the study,QA,2022.0,DIA,2022.0
+E_dfc0f9c9dc,of the study,SA,2022.0,DIA,2022.0
+E_dfc0f9c9dc,of the study,SUM,2023.0,DIA,2022.0
+E_dfef988e5e,peripheral,DIA,2022.0,DIA,2022.0
+E_dfef988e5e,peripheral,MT,2022.0,DIA,2022.0
+E_dfef988e5e,peripheral,QA,2022.0,DIA,2022.0
+E_dfef988e5e,peripheral,SA,2022.0,DIA,2022.0
+E_dfef988e5e,peripheral,SUM,2022.0,DIA,2022.0
+E_e0e1d64fda,digital,DIA,2022.0,DIA,2022.0
+E_e0e1d64fda,digital,MT,2022.0,DIA,2022.0
+E_e0e1d64fda,digital,QA,2022.0,DIA,2022.0
+E_e0e1d64fda,digital,SA,2022.0,DIA,2022.0
+E_e0f595d2c0,validation set,SA,2011.0,SA,2011.0
+E_e0f595d2c0,validation set,QA,2016.0,SA,2011.0
+E_e0f595d2c0,validation set,DIA,2017.0,SA,2011.0
+E_e0f595d2c0,validation set,MT,2017.0,SA,2011.0
+E_e0f595d2c0,validation set,SUM,2018.0,SA,2011.0
+E_e10522505d,f-score,MT,2012.0,MT,2012.0
+E_e10522505d,f-score,SA,2013.0,MT,2012.0
+E_e10522505d,f-score,DIA,2016.0,MT,2012.0
+E_e10522505d,f-score,QA,2016.0,MT,2012.0
+E_e10522505d,f-score,SUM,2021.0,MT,2012.0
+E_e14ac481fc,strong baselines,MT,2013.0,MT,2013.0
+E_e14ac481fc,strong baselines,DIA,2017.0,MT,2013.0
+E_e14ac481fc,strong baselines,QA,2018.0,MT,2013.0
+E_e14ac481fc,strong baselines,SA,2018.0,MT,2013.0
+E_e14ac481fc,strong baselines,SUM,2018.0,MT,2013.0
+E_e15ee067d8,generative,DIA,2022.0,DIA,2022.0
+E_e15ee067d8,generative,QA,2022.0,DIA,2022.0
+E_e15ee067d8,generative,SA,2022.0,DIA,2022.0
+E_e15ee067d8,generative,MT,2023.0,DIA,2022.0
+E_e15ee067d8,generative,SUM,2023.0,DIA,2022.0
+E_e168af1b6b,utterances,SA,2012.0,SA,2012.0
+E_e168af1b6b,utterances,DIA,2014.0,SA,2012.0
+E_e168af1b6b,utterances,SUM,2014.0,SA,2012.0
+E_e168af1b6b,utterances,MT,2019.0,SA,2012.0
+E_e168af1b6b,utterances,QA,2021.0,SA,2012.0
+E_e1751fe992,what's,MT,2022.0,SUM,2022.0
+E_e1751fe992,what's,SA,2022.0,SUM,2022.0
+E_e1751fe992,what's,SUM,2022.0,SUM,2022.0
+E_e1751fe992,what's,DIA,2023.0,SUM,2022.0
+E_e1751fe992,what's,QA,2023.0,SUM,2022.0
+E_e1adfb9dcd,uniform distribution,MT,2015.0,MT,2015.0
+E_e1adfb9dcd,uniform distribution,QA,2016.0,MT,2015.0
+E_e1adfb9dcd,uniform distribution,SA,2016.0,MT,2015.0
+E_e1adfb9dcd,uniform distribution,DIA,2017.0,MT,2015.0
+E_e1e0473590,applying,DIA,2022.0,QA,2022.0
+E_e1e0473590,applying,MT,2022.0,QA,2022.0
+E_e1e0473590,applying,QA,2022.0,QA,2022.0
+E_e1e0473590,applying,SA,2022.0,QA,2022.0
+E_e1e0473590,applying,SUM,2022.0,QA,2022.0
+E_e1eff6b071,neural models,MT,2015.0,MT,2015.0
+E_e1eff6b071,neural models,SA,2015.0,MT,2015.0
+E_e1eff6b071,neural models,DIA,2017.0,MT,2015.0
+E_e1eff6b071,neural models,QA,2018.0,MT,2015.0
+E_e1eff6b071,neural models,SUM,2020.0,MT,2015.0
+E_e268443e43,account,SA,2012.0,SA,2012.0
+E_e268443e43,account,MT,2013.0,SA,2012.0
+E_e268443e43,account,QA,2017.0,SA,2012.0
+E_e268443e43,account,SUM,2019.0,SA,2012.0
+E_e268443e43,account,DIA,2020.0,SA,2012.0
+E_e26c251e26,slightly worse,MT,2010.0,MT,2010.0
+E_e26c251e26,slightly worse,SA,2010.0,MT,2010.0
+E_e26c251e26,slightly worse,QA,2016.0,MT,2010.0
+E_e26c251e26,slightly worse,SUM,2016.0,MT,2010.0
+E_e26c251e26,slightly worse,DIA,2018.0,MT,2010.0
+E_e2794d8f12,precision,MT,2010.0,SA,2010.0
+E_e2794d8f12,precision,SA,2010.0,SA,2010.0
+E_e2794d8f12,precision,SUM,2012.0,SA,2010.0
+E_e2794d8f12,precision,QA,2013.0,SA,2010.0
+E_e2794d8f12,precision,DIA,2016.0,SA,2010.0
+E_e2b6dfb8a5,gradient,MT,2016.0,MT,2016.0
+E_e2b6dfb8a5,gradient,SA,2016.0,MT,2016.0
+E_e2b6dfb8a5,gradient,QA,2017.0,MT,2016.0
+E_e2b6dfb8a5,gradient,SUM,2021.0,MT,2016.0
+E_e3d2d21894,neural machine translation,MT,2015.0,MT,2015.0
+E_e3d2d21894,neural machine translation,QA,2017.0,MT,2015.0
+E_e3d2d21894,neural machine translation,SUM,2018.0,MT,2015.0
+E_e3d2d21894,neural machine translation,SA,2020.0,MT,2015.0
+E_e48199eaab,international conference on,DIA,2022.0,DIA,2022.0
+E_e48199eaab,international conference on,MT,2022.0,DIA,2022.0
+E_e48199eaab,international conference on,QA,2022.0,DIA,2022.0
+E_e48199eaab,international conference on,SA,2022.0,DIA,2022.0
+E_e48199eaab,international conference on,SUM,2022.0,DIA,2022.0
+E_e4894ca167,available,SA,2010.0,SA,2010.0
+E_e4894ca167,available,MT,2012.0,SA,2010.0
+E_e4894ca167,available,DIA,2016.0,SA,2010.0
+E_e4894ca167,available,QA,2021.0,SA,2010.0
+E_e4894ca167,available,SUM,2022.0,SA,2010.0
+E_e4e46deb7f,domains,MT,2014.0,MT,2014.0
+E_e4e46deb7f,domains,DIA,2016.0,MT,2014.0
+E_e4e46deb7f,domains,SA,2016.0,MT,2014.0
+E_e4e46deb7f,domains,QA,2020.0,MT,2014.0
+E_e4e46deb7f,domains,SUM,2021.0,MT,2014.0
+E_e50a1c90d5,superior performance,SA,2015.0,SA,2015.0
+E_e50a1c90d5,superior performance,QA,2018.0,SA,2015.0
+E_e50a1c90d5,superior performance,DIA,2019.0,SA,2015.0
+E_e50a1c90d5,superior performance,MT,2019.0,SA,2015.0
+E_e50a1c90d5,superior performance,SUM,2019.0,SA,2015.0
+E_e5ef2a445e,base models,MT,2016.0,MT,2016.0
+E_e5ef2a445e,base models,QA,2017.0,MT,2016.0
+E_e5ef2a445e,base models,SA,2019.0,MT,2016.0
+E_e5ef2a445e,base models,DIA,2020.0,MT,2016.0
+E_e67e20d1ed,aspect,SA,2016.0,SA,2016.0
+E_e67e20d1ed,aspect,SUM,2019.0,SA,2016.0
+E_e67e20d1ed,aspect,QA,2020.0,SA,2016.0
+E_e67e20d1ed,aspect,DIA,2023.0,SA,2016.0
+E_e68cb42418,underperforms,MT,2013.0,MT,2013.0
+E_e68cb42418,underperforms,SA,2018.0,MT,2013.0
+E_e68cb42418,underperforms,DIA,2020.0,MT,2013.0
+E_e68cb42418,underperforms,QA,2020.0,MT,2013.0
+E_e698a1a040,all languages,MT,2013.0,SA,2013.0
+E_e698a1a040,all languages,SA,2013.0,SA,2013.0
+E_e698a1a040,all languages,QA,2019.0,SA,2013.0
+E_e698a1a040,all languages,SUM,2020.0,SA,2013.0
+E_e6a9f8a703,summaries,SUM,2010.0,SUM,2010.0
+E_e6a9f8a703,summaries,QA,2019.0,SUM,2010.0
+E_e6a9f8a703,summaries,DIA,2021.0,SUM,2010.0
+E_e6d1833ee1,increased,MT,2012.0,MT,2012.0
+E_e6d1833ee1,increased,SA,2016.0,MT,2012.0
+E_e6d1833ee1,increased,QA,2018.0,MT,2012.0
+E_e6d1833ee1,increased,DIA,2019.0,MT,2012.0
+E_e6d1833ee1,increased,SUM,2022.0,MT,2012.0
+E_e727c5b796,generating,MT,2013.0,MT,2013.0
+E_e727c5b796,generating,QA,2015.0,MT,2013.0
+E_e727c5b796,generating,DIA,2018.0,MT,2013.0
+E_e727c5b796,generating,SA,2022.0,MT,2013.0
+E_e727c5b796,generating,SUM,2022.0,MT,2013.0
+E_e7720de6db,each language,SA,2011.0,SA,2011.0
+E_e7720de6db,each language,MT,2013.0,SA,2011.0
+E_e9ec7f4e74,detailed,QA,2019.0,QA,2019.0
+E_e9ec7f4e74,detailed,DIA,2022.0,QA,2019.0
+E_e9ec7f4e74,detailed,MT,2022.0,QA,2019.0
+E_e9ec7f4e74,detailed,SA,2022.0,QA,2019.0
+E_e9ec7f4e74,detailed,SUM,2023.0,QA,2019.0
+E_eaa7c88f5c,relationships,SA,2012.0,SA,2012.0
+E_eaa7c88f5c,relationships,DIA,2016.0,SA,2012.0
+E_eaa7c88f5c,relationships,QA,2019.0,SA,2012.0
+E_eaa7c88f5c,relationships,SUM,2020.0,SA,2012.0
+E_eaa7c88f5c,relationships,MT,2022.0,SA,2012.0
+E_eaf0e0df2f,approaches,SA,2013.0,SA,2013.0
+E_eaf0e0df2f,approaches,MT,2014.0,SA,2013.0
+E_eaf0e0df2f,approaches,QA,2018.0,SA,2013.0
+E_eaf0e0df2f,approaches,DIA,2019.0,SA,2013.0
+E_eaf0e0df2f,approaches,SUM,2021.0,SA,2013.0
+E_eb2a269fe9,industrial,DIA,2022.0,DIA,2022.0
+E_eb2a269fe9,industrial,MT,2022.0,DIA,2022.0
+E_eb2a269fe9,industrial,SA,2022.0,DIA,2022.0
+E_eb2a269fe9,industrial,SUM,2022.0,DIA,2022.0
+E_eb2a269fe9,industrial,QA,2024.0,DIA,2022.0
+E_eb733a00c0,test data,SA,2011.0,SA,2011.0
+E_eb733a00c0,test data,MT,2014.0,SA,2011.0
+E_eb733a00c0,test data,DIA,2017.0,SA,2011.0
+E_eb733a00c0,test data,QA,2017.0,SA,2011.0
+E_eb7a99e5f2,effectiveness,MT,2010.0,MT,2010.0
+E_eb7a99e5f2,effectiveness,SA,2015.0,MT,2010.0
+E_eb7a99e5f2,effectiveness,DIA,2016.0,MT,2010.0
+E_eb7a99e5f2,effectiveness,QA,2018.0,MT,2010.0
+E_eb7a99e5f2,effectiveness,SUM,2018.0,MT,2010.0
+E_ebd73ade48,choose,DIA,2022.0,MT,2022.0
+E_ebd73ade48,choose,MT,2022.0,MT,2022.0
+E_ebd73ade48,choose,QA,2022.0,MT,2022.0
+E_ebd73ade48,choose,SA,2022.0,MT,2022.0
+E_ebd73ade48,choose,SUM,2022.0,MT,2022.0
+E_ebdb0c5a06,each token,SA,2017.0,SA,2017.0
+E_ebdb0c5a06,each token,QA,2018.0,SA,2017.0
+E_ebdb0c5a06,each token,DIA,2019.0,SA,2017.0
+E_ebdb0c5a06,each token,MT,2019.0,SA,2017.0
+E_ebdb0c5a06,each token,SUM,2019.0,SA,2017.0
+E_ebebbe6ae1,pretraining,SUM,2014.0,SUM,2014.0
+E_ebebbe6ae1,pretraining,QA,2016.0,SUM,2014.0
+E_ebebbe6ae1,pretraining,SA,2016.0,SUM,2014.0
+E_ebebbe6ae1,pretraining,MT,2019.0,SUM,2014.0
+E_ebebbe6ae1,pretraining,DIA,2020.0,SUM,2014.0
+E_ecdda6d49d,larger,MT,2018.0,MT,2018.0
+E_ecdda6d49d,larger,QA,2019.0,MT,2018.0
+E_ecdda6d49d,larger,SA,2019.0,MT,2018.0
+E_ecdda6d49d,larger,DIA,2020.0,MT,2018.0
+E_ecdda6d49d,larger,SUM,2020.0,MT,2018.0
+E_eceadc1d40,reading,MT,2019.0,QA,2019.0
+E_eceadc1d40,reading,QA,2019.0,QA,2019.0
+E_eceadc1d40,reading,SUM,2021.0,QA,2019.0
+E_eceadc1d40,reading,DIA,2022.0,QA,2019.0
+E_eceadc1d40,reading,SA,2022.0,QA,2019.0
+E_ed1a5f3ffc,significantly better,MT,2010.0,MT,2010.0
+E_ed1a5f3ffc,significantly better,SUM,2010.0,MT,2010.0
+E_ed1a5f3ffc,significantly better,SA,2011.0,MT,2010.0
+E_ed1a5f3ffc,significantly better,QA,2012.0,MT,2010.0
+E_ed1a5f3ffc,significantly better,DIA,2016.0,MT,2010.0
+E_ed46961889,algorithm,SA,2010.0,SA,2010.0
+E_ed46961889,algorithm,SUM,2010.0,SA,2010.0
+E_ed46961889,algorithm,MT,2012.0,SA,2010.0
+E_ed46961889,algorithm,DIA,2016.0,SA,2010.0
+E_ed46961889,algorithm,QA,2020.0,SA,2010.0
+E_ed7835bfdb,substantial improvements,MT,2011.0,MT,2011.0
+E_ed7835bfdb,substantial improvements,SA,2014.0,MT,2011.0
+E_ed7835bfdb,substantial improvements,QA,2017.0,MT,2011.0
+E_ed7835bfdb,substantial improvements,DIA,2019.0,MT,2011.0
+E_ed7835bfdb,substantial improvements,SUM,2020.0,MT,2011.0
+E_ede544fcee,proposed models,MT,2013.0,MT,2013.0
+E_ede544fcee,proposed models,DIA,2014.0,MT,2013.0
+E_ede544fcee,proposed models,QA,2016.0,MT,2013.0
+E_ee16755af8,representation,MT,2013.0,MT,2013.0
+E_ee16755af8,representation,QA,2015.0,MT,2013.0
+E_ee16755af8,representation,SA,2016.0,MT,2013.0
+E_ee16755af8,representation,SUM,2018.0,MT,2013.0
+E_ee16755af8,representation,DIA,2020.0,MT,2013.0
+E_eecde10b08,best accuracy,MT,2013.0,SA,2013.0
+E_eecde10b08,best accuracy,SA,2013.0,SA,2013.0
+E_eecde10b08,best accuracy,QA,2017.0,SA,2013.0
+E_eef438f7e4,temperature,MT,2018.0,MT,2018.0
+E_eef438f7e4,temperature,QA,2018.0,MT,2018.0
+E_eef438f7e4,temperature,DIA,2020.0,MT,2018.0
+E_eef438f7e4,temperature,SA,2021.0,MT,2018.0
+E_eef438f7e4,temperature,SUM,2021.0,MT,2018.0
+E_efe79c3211,architecture,MT,2013.0,MT,2013.0
+E_efe79c3211,architecture,DIA,2016.0,MT,2013.0
+E_efe79c3211,architecture,QA,2016.0,MT,2013.0
+E_efe79c3211,architecture,SA,2016.0,MT,2013.0
+E_efe79c3211,architecture,SUM,2018.0,MT,2013.0
+E_f0598264a6,threshold,SA,2015.0,SA,2015.0
+E_f0598264a6,threshold,QA,2016.0,SA,2015.0
+E_f0598264a6,threshold,DIA,2017.0,SA,2015.0
+E_f0598264a6,threshold,MT,2017.0,SA,2015.0
+E_f0b5891ed3,cellular,DIA,2022.0,DIA,2022.0
+E_f0b5891ed3,cellular,MT,2022.0,DIA,2022.0
+E_f0b5891ed3,cellular,QA,2022.0,DIA,2022.0
+E_f0b5891ed3,cellular,SUM,2022.0,DIA,2022.0
+E_f131e30f2e,concatenation,QA,2016.0,QA,2016.0
+E_f131e30f2e,concatenation,SA,2016.0,QA,2016.0
+E_f131e30f2e,concatenation,MT,2017.0,QA,2016.0
+E_f131e30f2e,concatenation,DIA,2020.0,QA,2016.0
+E_f1ff9a46cf,transcriptional,DIA,2022.0,SUM,2022.0
+E_f1ff9a46cf,transcriptional,MT,2022.0,SUM,2022.0
+E_f1ff9a46cf,transcriptional,QA,2022.0,SUM,2022.0
+E_f1ff9a46cf,transcriptional,SUM,2022.0,SUM,2022.0
+E_f2af3d23e0,baseline systems,MT,2013.0,MT,2013.0
+E_f2af3d23e0,baseline systems,DIA,2018.0,MT,2013.0
+E_f2af3d23e0,baseline systems,SA,2018.0,MT,2013.0
+E_f2af3d23e0,baseline systems,QA,2019.0,MT,2013.0
+E_f3e334d428,languages,MT,2010.0,MT,2010.0
+E_f3e334d428,languages,SA,2010.0,MT,2010.0
+E_f3e334d428,languages,SUM,2021.0,MT,2010.0
+E_f4af8b5789,policy,DIA,2017.0,DIA,2017.0
+E_f4af8b5789,policy,MT,2018.0,DIA,2017.0
+E_f4af8b5789,policy,QA,2019.0,DIA,2017.0
+E_f4af8b5789,policy,SA,2022.0,DIA,2017.0
+E_f4af8b5789,policy,SUM,2022.0,DIA,2017.0
+E_f54f5d2e0e,unsupervised,MT,2012.0,MT,2012.0
+E_f54f5d2e0e,unsupervised,SA,2013.0,MT,2012.0
+E_f54f5d2e0e,unsupervised,QA,2019.0,MT,2012.0
+E_f54f5d2e0e,unsupervised,DIA,2023.0,MT,2012.0
+E_f54f5d2e0e,unsupervised,SUM,2023.0,MT,2012.0
+E_f58be26fe4,semantic,MT,2018.0,MT,2018.0
+E_f58be26fe4,semantic,SA,2018.0,MT,2018.0
+E_f58be26fe4,semantic,QA,2019.0,MT,2018.0
+E_f58be26fe4,semantic,DIA,2022.0,MT,2018.0
+E_f591b6d22d,hidden dimension,DIA,2017.0,SA,2017.0
+E_f591b6d22d,hidden dimension,MT,2017.0,SA,2017.0
+E_f591b6d22d,hidden dimension,QA,2017.0,SA,2017.0
+E_f591b6d22d,hidden dimension,SA,2017.0,SA,2017.0
+E_f65eb7334d,layer normalization,DIA,2017.0,MT,2017.0
+E_f65eb7334d,layer normalization,MT,2017.0,MT,2017.0
+E_f65eb7334d,layer normalization,SUM,2019.0,MT,2017.0
+E_f672dd39f1,all the datasets,MT,2011.0,MT,2011.0
+E_f672dd39f1,all the datasets,SA,2012.0,MT,2011.0
+E_f672dd39f1,all the datasets,QA,2020.0,MT,2011.0
+E_f6bd033cfc,attention weights,SA,2016.0,SA,2016.0
+E_f6bd033cfc,attention weights,MT,2018.0,SA,2016.0
+E_f6bd033cfc,attention weights,QA,2019.0,SA,2016.0
+E_f6bd033cfc,attention weights,SUM,2019.0,SA,2016.0
+E_f70fa3bc1f,default parameters,MT,2010.0,MT,2010.0
+E_f70fa3bc1f,default parameters,SA,2018.0,MT,2010.0
+E_f70fa3bc1f,default parameters,QA,2019.0,MT,2010.0
+E_f783964437,augmenting,MT,2013.0,MT,2013.0
+E_f783964437,augmenting,QA,2017.0,MT,2013.0
+E_f783964437,augmenting,DIA,2022.0,MT,2013.0
+E_f783964437,augmenting,SUM,2023.0,MT,2013.0
+E_f7befc67e4,hybrid,MT,2018.0,MT,2018.0
+E_f7befc67e4,hybrid,QA,2019.0,MT,2018.0
+E_f7befc67e4,hybrid,DIA,2020.0,MT,2018.0
+E_f7befc67e4,hybrid,SA,2022.0,MT,2018.0
+E_f7befc67e4,hybrid,SUM,2022.0,MT,2018.0
+E_f802b30dc7,sentiments,SA,2014.0,SA,2014.0
+E_f802b30dc7,sentiments,DIA,2016.0,SA,2014.0
+E_f82d71a649,national,DIA,2022.0,MT,2022.0
+E_f82d71a649,national,MT,2022.0,MT,2022.0
+E_f82d71a649,national,QA,2022.0,MT,2022.0
+E_f82d71a649,national,SA,2022.0,MT,2022.0
+E_f82d71a649,national,SUM,2022.0,MT,2022.0
+E_f83d0796e5,competing,DIA,2022.0,DIA,2022.0
+E_f83d0796e5,competing,MT,2022.0,DIA,2022.0
+E_f83d0796e5,competing,QA,2022.0,DIA,2022.0
+E_f83d0796e5,competing,SUM,2022.0,DIA,2022.0
+E_f83d0796e5,competing,SA,2023.0,DIA,2022.0
+E_f84f4a69bd,mapping,MT,2015.0,MT,2015.0
+E_f84f4a69bd,mapping,DIA,2022.0,MT,2015.0
+E_f84f4a69bd,mapping,QA,2022.0,MT,2015.0
+E_f84f4a69bd,mapping,SA,2022.0,MT,2015.0
+E_f84f4a69bd,mapping,SUM,2022.0,MT,2015.0
+E_f87adcaf5e,emerging,DIA,2022.0,DIA,2022.0
+E_f87adcaf5e,emerging,MT,2022.0,DIA,2022.0
+E_f87adcaf5e,emerging,QA,2022.0,DIA,2022.0
+E_f87adcaf5e,emerging,SA,2022.0,DIA,2022.0
+E_f87adcaf5e,emerging,SUM,2022.0,DIA,2022.0
+E_f8c77c3bee,batches,MT,2010.0,MT,2010.0
+E_f8c77c3bee,batches,SA,2017.0,MT,2010.0
+E_f8c77c3bee,batches,QA,2020.0,MT,2010.0
+E_f8e7e3e96a,both directions,MT,2010.0,MT,2010.0
+E_f8e7e3e96a,both directions,QA,2016.0,MT,2010.0
+E_f8e7e3e96a,both directions,DIA,2019.0,MT,2010.0
+E_f8e7e3e96a,both directions,SA,2019.0,MT,2010.0
+E_f8e7e3e96a,both directions,SUM,2020.0,MT,2010.0
+E_fb9d43d63d,source and target languages,MT,2014.0,MT,2014.0
+E_fb9d43d63d,source and target languages,SA,2016.0,MT,2014.0
+E_fc46e26a90,translate,MT,2012.0,MT,2012.0
+E_fc46e26a90,translate,SA,2023.0,MT,2012.0
+E_fca12e671a,search space,MT,2010.0,MT,2010.0
+E_fca12e671a,search space,QA,2016.0,MT,2010.0
+E_fca12e671a,search space,DIA,2019.0,MT,2010.0
+E_fca12e671a,search space,SA,2020.0,MT,2010.0
+E_fca12e671a,search space,SUM,2021.0,MT,2010.0
+E_fdfb376a77,transfer learning,SA,2013.0,SA,2013.0
+E_fdfb376a77,transfer learning,MT,2016.0,SA,2013.0
+E_fdfb376a77,transfer learning,QA,2017.0,SA,2013.0
+E_fdfb376a77,transfer learning,SUM,2021.0,SA,2013.0
+E_fe347b8749,fasttext,DIA,2018.0,MT,2018.0
+E_fe347b8749,fasttext,MT,2018.0,MT,2018.0
+E_fe347b8749,fasttext,SA,2018.0,MT,2018.0
+E_fe347b8749,fasttext,SUM,2019.0,MT,2018.0
+E_fe347b8749,fasttext,QA,2020.0,MT,2018.0

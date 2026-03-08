@@ -1,0 +1,89 @@
+concept,era,rank,co_entity,co_count,n_concept_papers
+lstm,Pre-DL (≤2014),1,vector representation,1,1
+lstm,Pre-DL (≤2014),2,best results,1,1
+lstm,Pre-DL (≤2014),3,higher performance,1,1
+lstm,Pre-DL (≤2014),4,on par,1,1
+lstm,Pre-DL (≤2014),5,superior,1,1
+lstm,Pre-DL (≤2014),6,dev set,1,1
+lstm,Pre-DL (≤2014),7,reinforcement learning,1,1
+lstm,Pre-DL (≤2014),8,informativeness,1,1
+lstm,Early DL (2015–17),1,learning rate,6,20
+lstm,Early DL (2015–17),2,word embeddings,6,20
+lstm,Early DL (2015–17),3,batch size,5,20
+lstm,Early DL (2015–17),4,parameters,4,20
+lstm,Early DL (2015–17),5,information,4,20
+lstm,Early DL (2015–17),6,attention mechanism,4,20
+lstm,Early DL (2015–17),7,our models,4,20
+lstm,Early DL (2015–17),8,dropout rate,3,20
+lstm,Transformer (2018–20),1,learning rate,21,59
+lstm,Transformer (2018–20),2,batch size,21,59
+lstm,Transformer (2018–20),3,word embeddings,20,59
+lstm,Transformer (2018–20),4,dropout rate,14,59
+lstm,Transformer (2018–20),5,adam optimizer,11,59
+lstm,Transformer (2018–20),6,attention mechanism,11,59
+lstm,Transformer (2018–20),7,initial learning rate,10,59
+lstm,Transformer (2018–20),8,early stopping,9,59
+word embeddings,Pre-DL (≤2014),1,representations,1,2
+word embeddings,Pre-DL (≤2014),2,text,1,2
+word embeddings,Pre-DL (≤2014),3,documents,1,2
+word embeddings,Pre-DL (≤2014),4,roberta,1,2
+word embeddings,Pre-DL (≤2014),5,cross-entropy loss,1,2
+word embeddings,Pre-DL (≤2014),6,comparably,1,2
+word embeddings,Pre-DL (≤2014),7,machine translation,1,2
+word embeddings,Pre-DL (≤2014),8,bert,1,2
+word embeddings,Early DL (2015–17),1,learning rate,15,64
+word embeddings,Early DL (2015–17),2,batch size,12,64
+word embeddings,Early DL (2015–17),3,test set,9,64
+word embeddings,Early DL (2015–17),4,our system,9,64
+word embeddings,Early DL (2015–17),5,hidden layers,8,64
+word embeddings,Early DL (2015–17),6,size,8,64
+word embeddings,Early DL (2015–17),7,regularization,8,64
+word embeddings,Early DL (2015–17),8,word2vec,8,64
+word embeddings,Transformer (2018–20),1,batch size,48,131
+word embeddings,Transformer (2018–20),2,learning rate,34,131
+word embeddings,Transformer (2018–20),3,initial learning rate,27,131
+word embeddings,Transformer (2018–20),4,adam optimizer,27,131
+word embeddings,Transformer (2018–20),5,dropout rate,21,131
+word embeddings,Transformer (2018–20),6,lstm,20,131
+word embeddings,Transformer (2018–20),7,size,16,131
+word embeddings,Transformer (2018–20),8,significantly outperforms,16,131
+attention mechanism,Early DL (2015–17),1,learning rate,7,20
+attention mechanism,Early DL (2015–17),2,parameters,5,20
+attention mechanism,Early DL (2015–17),3,batch size,5,20
+attention mechanism,Early DL (2015–17),4,test set,4,20
+attention mechanism,Early DL (2015–17),5,training data,4,20
+attention mechanism,Early DL (2015–17),6,lstm,4,20
+attention mechanism,Early DL (2015–17),7,decoding,4,20
+attention mechanism,Early DL (2015–17),8,beam size,4,20
+attention mechanism,Transformer (2018–20),1,batch size,22,64
+attention mechanism,Transformer (2018–20),2,learning rate,16,64
+attention mechanism,Transformer (2018–20),3,word embeddings,15,64
+attention mechanism,Transformer (2018–20),4,lstm,11,64
+attention mechanism,Transformer (2018–20),5,dropout rate,10,64
+attention mechanism,Transformer (2018–20),6,beam size,9,64
+attention mechanism,Transformer (2018–20),7,significantly outperforms,9,64
+attention mechanism,Transformer (2018–20),8,adam optimizer,9,64
+transformer,Transformer (2018–20),1,batch size,24,75
+transformer,Transformer (2018–20),2,learning rate,21,75
+transformer,Transformer (2018–20),3,initial learning rate,15,75
+transformer,Transformer (2018–20),4,translation quality,15,75
+transformer,Transformer (2018–20),5,sentences,14,75
+transformer,Transformer (2018–20),6,label smoothing,14,75
+transformer,Transformer (2018–20),7,beam size,14,75
+transformer,Transformer (2018–20),8,adam optimizer,14,75
+bert,Pre-DL (≤2014),1,representations,1,1
+bert,Pre-DL (≤2014),2,text,1,1
+bert,Pre-DL (≤2014),3,documents,1,1
+bert,Pre-DL (≤2014),4,roberta,1,1
+bert,Pre-DL (≤2014),5,cross-entropy loss,1,1
+bert,Pre-DL (≤2014),6,comparably,1,1
+bert,Pre-DL (≤2014),7,machine translation,1,1
+bert,Pre-DL (≤2014),8,xsum,1,1
+bert,Transformer (2018–20),1,learning rate,37,86
+bert,Transformer (2018–20),2,batch size,36,86
+bert,Transformer (2018–20),3,adam optimizer,18,86
+bert,Transformer (2018–20),4,fine-tuning,15,86
+bert,Transformer (2018–20),5,dropout rate,9,86
+bert,Transformer (2018–20),6,sentences,9,86
+bert,Transformer (2018–20),7,initial learning rate,9,86
+bert,Transformer (2018–20),8,bilstm,9,86

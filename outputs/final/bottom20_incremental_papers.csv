@@ -1,21 +1,21 @@
 paper_id,title,split,domain,year,composite_novelty,structural_novelty,semantic_knn,triple_count
-BLOG_SA_W4283724611,The Vaccine-Hesitant Moment,BLOG,SA,2022,0.0859030657185377,0.0,0.5825787782669067,0.0
-BLOG_PAR_W4318574708,Fourth Report on Chicken Genes and Chromosomes 2022,BLOG,PAR,2022,0.1179084139159817,0.0,0.617275059223175,0.0
-BLOG_PAR_W4291287154,The economics of patient safety,BLOG,PAR,2022,0.137590941737228,0.0,0.6212838888168335,0.0
-BLOG_DIA_W4211106541,The prevalence of loneliness across 113 countries: systematic review and meta-analysis,BLOG,DIA,2022,0.1486970690986561,0.0,0.6188490390777588,0.0
-SKG_MT_263,"Selecting, Planning, and Rewriting A Modular Approach for Data-to-Document Generation and Translation",SKG,MT,2019,0.1651910299584648,0.7077922077922078,0.5704745054244995,154.0
-NOVEL_SA_W4295795036,Associations of physician burnout with career engagement and quality of patient care: systematic review and meta-analysis,NOVEL,SA,2022,0.1843826061179139,0.0,0.6427992582321167,0.0
-NOVEL_MT_188,Findings of the WMT 2021 Biomedical Translation Shared Task Summaries of Animal Experiments as New Test Set,NOVEL,MT,2025,0.2478153002003113,0.7105263157894737,0.622496485710144,76.0
-NOVEL_DIA_W1511604355,Researching Society and Culture,NOVEL,DIA,2025,0.2711001271490556,0.0,0.6884059906005859,0.0
-NOVEL_MT_W4283721142,microbiomeMarker: an R/Bioconductor package for microbiome marker identification and visualization,NOVEL,MT,2022,0.2976285282265235,0.0,0.7133965492248535,0.0
-SKG_NLI_W4205773061,ProteinBERT: a universal deep-learning model of protein sequence and function,SKG,NLI,2022,0.3058799226629327,0.0,0.7133965492248535,0.0
-SKG_SUM_W4226083230,Population of Merging Compact Binaries Inferred Using Gravitational Waves through GWTC-3,SKG,SUM,2023,0.3158532332818872,0.0,0.720037043094635,0.0
-NOVEL_SA_W4380520708,Konsumentenverhalten,NOVEL,SA,2022,0.3217566519046992,0.0,0.7307897806167603,0.0
-NOVEL_DIA_W4319439342,La percepción de la Inteligencia Artificial en contextos educativos tras el lanzamiento de ChatGPT: disrupción o pánico,NOVEL,DIA,2023,0.3466480088998823,0.0,0.7458986043930054,0.0
-BLOG_DIA_W4306736955,COP27 climate change conference: urgent action needed for Africa and the world,BLOG,DIA,2022,0.3619757154567607,0.0,0.7562518119812012,0.0
-BLOG_SUM_W4289958251,Renewed Prospects for Organic Photovoltaics,BLOG,SUM,2022,0.3737632256752387,0.0,0.7547578811645508,0.0
-SKG_SUM_W4281645619,Tremelimumab plus Durvalumab in Unresectable Hepatocellular Carcinoma,SKG,SUM,2022,0.3754604911185933,0.0,0.7535644173622131,0.0
-SKG_PAR_W4285248702,SEGRESS: Software Engineering Guidelines for REporting Secondary Studies,SKG,PAR,2022,0.3801361032831454,0.0,0.7719163298606873,0.0
-BLOG_MT_W4321054304,"Effectiveness of physical activity interventions for improving depression, anxiety and distress: an overview of systematic reviews",BLOG,MT,2023,0.3896818177421689,0.0,0.7656112909317017,0.0
-SKG_SA_W4211256381,MLCM: Multi-Label Confusion Matrix,SKG,SA,2022,0.3905292468624096,0.0,0.7708680033683777,0.0
-SKG_MT_550,Continuous Space Translation Models with Neural Networks,SKG,MT,2012,0.3968404215874953,0.8837209302325582,0.6738219261169434,86.0
+NOVEL_MT_234,cushLEPOR customising hLEPOR metric using Optuna for higher agreement with human judgments or pre-trained language model LaBSE,NOVEL,MT,2021,0.7028153414293352,0.8666666666666667,0.8862196207046509,75.0
+NOVEL_MT_83,Introducing Mouse Actions into Interactive-Predictive Neural Machine Translation,NOVEL,MT,2021,0.7051416415057175,0.5476190476190477,0.9313756823539734,84.0
+NOVEL_MT_31,WeChat Neural Machine Translation Systems for WMT21,NOVEL,MT,2021,0.7073661948642626,0.7286245353159851,0.9105274081230164,269.0
+NOVEL_MT_253,Revisiting the Weaknesses of Reinforcement Learning for Neural Machine Translation,NOVEL,MT,2021,0.7079512847035413,0.6,0.9167448878288268,60.0
+NOVEL_DIA_40,Zero-Shot Dialogue Disentanglement by Self-Supervised Entangled Response Selection,NOVEL,DIA,2021,0.7144685574189021,0.4827586206896552,0.945058524608612,29.0
+NOVEL_MT_291,Almost Free Semantic Draft for Neural Machine Translation,NOVEL,MT,2021,0.7205094337434084,0.5909090909090909,0.9294455647468568,132.0
+NOVEL_MT_209,Like Chalk and Cheese On the Effects of Translationese in MT Training,NOVEL,MT,2021,0.7207950095529081,0.6291390728476821,0.9355510473251344,151.0
+NOVEL_MT_287,Scrambled Translation Problem A Problem of Denoising UNMT,NOVEL,MT,2021,0.722096406699017,0.6703296703296703,0.9312946200370787,91.0
+NOVEL_MT_155,Understanding the Properties of Minimum Bayes Risk Decoding in Neural Machine Translation,NOVEL,MT,2021,0.7230700974619212,0.6,0.9332724809646606,40.0
+NOVEL_DIA_39,Exophoric Pronoun Resolution in Dialogues with Topic Regularization,NOVEL,DIA,2021,0.723435745433683,0.63,0.926443874835968,100.0
+NOVEL_QA_24,UPB at SemEval-2021 Task 8 Extracting Semantic Information on Measurements as Multi-Turn Question Answering,NOVEL,QA,2021,0.7238199456313877,0.6881720430107527,0.9255879521369934,93.0
+NOVEL_MT_270,Don’t Rule Out Monolingual Speakers A Method For Crowdsourcing Machine Translation Data,NOVEL,MT,2021,0.7238332884844957,0.5555555555555556,0.946445643901825,63.0
+NOVEL_SA_26,Ask what’s missing and what’s useful Improving Clarification Question Generation using Global Knowledge,NOVEL,SA,2021,0.7294732118160523,0.7054263565891473,0.9315139651298524,129.0
+NOVEL_MT_0,Investigating Softmax Tempering for Training Neural Machine Translation Models,NOVEL,MT,2021,0.7301405758300659,0.6164383561643836,0.9428442120552064,73.0
+NOVEL_DIA_12,Different Strokes for Different Folks Investigating Appropriate Further Pre-training Approaches for Diverse Dialogue Tasks,NOVEL,DIA,2021,0.7302091567625749,0.7121212121212122,0.9265693426132202,132.0
+NOVEL_MT_45,Surprise Language Challenge Developing a Neural Machine Translation System between Pashto and English in Two Months,NOVEL,MT,2021,0.7303964861705782,0.675,0.9285638928413392,40.0
+NOVEL_MT_91,Translating Headers of Tabular Data A Pilot Study of Schema Translation,NOVEL,MT,2021,0.7320522438366047,0.6844444444444444,0.9284208416938782,225.0
+NOVEL_MT_153,“Wikily” Supervised Neural Translation Tailored to Cross-Lingual Tasks,NOVEL,MT,2021,0.7326804506228799,0.5846994535519126,0.9391485452651978,183.0
+NOVEL_SA_67,Hurdles to Progress in Long-form Question Answering,NOVEL,SA,2021,0.7343429089114435,0.6428571428571429,0.933031439781189,98.0
+NOVEL_MT_9,Self-Training for Unsupervised Neural Machine Translation in Unbalanced Training Data Scenarios,NOVEL,MT,2020,0.7357932947056554,0.5094339622641509,0.9488226175308228,53.0
