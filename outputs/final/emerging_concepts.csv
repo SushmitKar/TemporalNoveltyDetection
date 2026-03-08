@@ -1,0 +1,31 @@
+entity,total_degree,early_count,late_count,growth_score,name
+E_b1f964d519,421,0,336,5.820083,word embeddings
+E_434bac5ae0,329,0,325,5.786897,adam optimizer
+E_7e756a3eef,333,0,311,5.743003,dropout
+E_724a00e315,304,0,293,5.68358,encoder
+E_3d3eb2e5c4,846,2,788,5.572154,learning rate
+E_46194dceff,281,0,257,5.55296,initial learning rate
+E_3de0746a7d,247,0,246,5.509388,bert
+E_3086ea91bd,250,0,235,5.463832,dropout rate
+E_f02b72cab4,218,0,200,5.303305,nmt
+E_945093eb10,197,0,186,5.231109,fine-tuning
+E_5fe05153b7,165,0,165,5.111988,transformer
+E_4e00deceeb,163,0,160,5.081404,hidden size
+E_4e099738fb,168,0,154,5.043425,attention mechanism
+E_ff2ede8059,149,0,139,4.941642,vocabulary size
+E_88f4b3cf9a,131,0,127,4.85203,"adam ( kingma and ba , 2014 )"
+E_b794c3472c,668,4,638,4.850467,batch size
+E_0bc81fe876,140,0,123,4.820282,representations
+E_8f26755056,114,0,114,4.744932,transformer model
+E_893076b346,116,0,113,4.736198,"adam ( kingma and ba , 2015 )"
+E_8403e57cfb,111,0,102,4.634729,nmt model
+E_1d7c2923c1,97,0,97,4.584967,adam
+E_91e02cd2b8,140,0,94,4.553877,network
+E_d3052a2680,93,0,93,4.543295,label smoothing
+E_69f0bf420d,94,0,90,4.51086,monolingual data
+E_a9784ab70a,90,0,90,4.51086,hidden states
+E_1167e551cc,99,0,90,4.51086,early stopping
+E_f412b80e16,93,0,90,4.51086,dimensions
+E_f6cfe2d120,93,0,89,4.49981,optimizer
+E_d0e904e16c,100,0,87,4.477337,each layer
+E_749df99313,93,0,85,4.454347,pre-training
