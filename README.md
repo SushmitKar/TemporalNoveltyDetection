@@ -1,5 +1,60 @@
 # Temporal Novelty Detection in Scientific Literature
 
+## Research Goal
+
+> **Temporal and Evolutionary Novelty Detection in Scientific Literature**
+>
+> *Problem:* Current novelty detection focuses on sentence-level or paper-level novelty. A key open problem is detecting how scientific ideas evolve over time across domains using temporal Scientific Knowledge Graphs (SKGs), enabling fine-grained identification of incremental vs. disruptive research contributions.
+
+---
+
+## Research Goal Assessment
+
+### ✅ Accomplished
+
+| Component | What was done |
+|-----------|---------------|
+| **Temporal KG construction** | A time-stamped SKG was built with 4,860 paper nodes, 293,149 entity nodes, and 577,024 knowledge edges spanning 2010–2025 across 7 NLP domains (MT, QA, SA, SUM, DIA, PAR, NLI). Every edge carries a publication year, enabling temporal slicing. |
+| **Semantic novelty scoring** | Per-paper novelty is computed as 1 − mean cosine similarity to the top-5 most similar prior papers (SciBERT embeddings), correctly respecting the temporal ordering of papers. |
+| **Structural novelty scoring** | For each paper, the fraction of its knowledge-graph triples that had not appeared in any earlier paper is measured, providing a graph-grounded novelty signal. |
+| **Composite novelty scoring** | Semantic, structural, and citation signals are combined (weights 0.70 / 0.20 / 0.10) into a single per-paper score. |
+| **Disruption classification** | All 3,678 SKG+NOVEL papers are classified as *Incremental* or *Disruptive* using a novelty-structural divergence proxy (D = final\_novelty\_score − structural\_novelty) thresholded at the dataset median. 73.4% of NOVEL papers are classified Disruptive vs. 44.4% of SKG papers. |
+| **Temporal trend analysis** | KG growth curves, per-year novelty time-series, and per-year classifier score trends are reported, showing a clear upward trend in novelty from 2010 to 2025. |
+| **Emerging concept detection** | Concepts are ranked by a temporal growth score (log-ratio of late-window to early-window occurrence), identifying emergent entities such as *transformer*, *BERT*, *word embeddings*, and *attention mechanisms*. |
+| **Link prediction** | Adamic-Adar link prediction across four consecutive time windows achieves AUC 0.90–0.93, confirming that the temporal KG encodes meaningful structural regularity. |
+| **Cross-domain coverage** | All seven NLP subfields are represented; per-domain novelty statistics are reported in `outputs/final/summary_statistics.csv`. |
+
+---
+
+### ⚠️ Partially Accomplished
+
+| Component | What was attempted | Shortcoming |
+|-----------|-------------------|-------------|
+| **Temporal modelling** | A time-encoded MLP (Bochner cosine encoding concatenated to SciBERT features) is trained to classify NOVEL vs. SKG papers. It does capture publication year as a feature and shows a gradual upward trend in scores (2010 → 2025). | This is **not** a temporal graph neural network. There is no message passing over graph snapshots, no adjacency matrix, and no modelling of how the graph topology itself changes over time. |
+| **Disruption index** | A proxy D-index separates papers into two contribution types. | The formula (D = final\_novelty\_score − structural\_novelty) is an internal proxy and is **not** the bibliometric disruption index of Wu et al. (2019), which requires forward citation data. All top-20 "most disruptive" papers have negative absolute D values (−0.11 to −0.03), which is counterintuitive even after acknowledging the median threshold. |
+| **Novelty measure calibration** | Three measures are defined and combined. | The combined composite score does **not** significantly separate NOVEL from SKG papers (Mann–Whitney p = 1.0 for the combined variant; SKG papers score higher than NOVEL on composite in most domains). Individual ablation components only achieve marginal separation at best. |
+
+---
+
+### ❌ Not Accomplished
+
+| Gap | Description |
+|-----|-------------|
+| **True temporal graph neural network** | The goal calls for models that learn from the evolving graph structure (e.g., TGN, TGCN, EvolveGCN). The current model treats time as a scalar input feature, not as a sequence of graph snapshots. |
+| **Cross-domain concept diffusion** | How ideas propagate *across* domains (e.g., attention mechanisms moving from MT → QA → DIA) is not modelled or measured. |
+| **Entity-level concept evolution** | Individual entities are treated as static nodes across all years. There is no tracking of how an entity's semantic role, neighbours, or definition changes over time. |
+| **Standard bibliometric disruption index** | The citation-based D-index (Wu et al. 2019) requires forward citation data (who cites a paper and whether those citing papers also cite the paper's references). This was not collected or computed. |
+
+---
+
+### Overall Verdict
+
+**Partially accomplished.** The project successfully delivers the foundational pipeline: a time-stamped SKG, three complementary novelty measures, temporal trend analysis, emerging concept detection, and a disruption proxy that classifies papers as incremental or disruptive. These components together constitute a working proof-of-concept for temporal novelty detection in scientific literature.
+
+However, the research goal is not fully met in its most demanding aspects: the temporal modelling component does not use graph-structured temporal learning; the composite novelty measure does not reliably discriminate novel from standard papers under statistical testing; cross-domain concept diffusion is not tracked; and the disruption index is a heuristic proxy rather than an established bibliometric measure. Addressing these gaps—particularly replacing the time-encoded MLP with a true temporal GNN and collecting forward citation data—would be the natural next step toward fully accomplishing the stated research goal.
+
+---
+
 ## Project Overview
 
 This project detects and analyzes temporal novelty in scientific papers using knowledge graphs, embedding models, and temporal classifiers. The pipeline spans Steps 1–5, covering KG construction, embedding generation, novelty scoring, temporal modelling, and visualization.
