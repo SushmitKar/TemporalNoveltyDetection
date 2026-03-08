@@ -1,0 +1,554 @@
+node_id,node_type,name
+E_424dbe533d,Entity,ability
+E_cc6afe156e,Entity,abstractive summarization
+E_e268443e43,Entity,account
+E_8297a3cc29,Entity,accuracies
+E_d324a48516,Entity,activation function
+E_a0f35e86dd,Entity,adagrad
+E_434bac5ae0,Entity,adam optimizer
+E_7278ff6867,Entity,adaptation
+E_2290dc931c,Entity,advantage
+E_8002477499,Entity,adversarial training
+E_ed46961889,Entity,algorithm
+E_5a159214b1,Entity,alignment
+E_c6eb4749b4,Entity,alignments
+E_22fa872bed,Entity,all cases
+E_13446fec04,Entity,all datasets
+E_73fe5b24fe,Entity,all domains
+E_bd21408a63,Entity,all evaluation metrics
+E_6cebaac34c,Entity,all experiments
+E_7bd78871e8,Entity,all features
+E_8eddb8fb23,Entity,all language pairs
+E_e698a1a040,Entity,all languages
+E_7b046d3541,Entity,all layers
+E_a9f8a82b19,Entity,all methods
+E_3711252c35,Entity,all metrics
+E_69a9c97921,Entity,all models
+E_076af42e96,Entity,all other models
+E_b4f3ea4120,Entity,all settings
+E_bca339e830,Entity,all test sets
+E_a9a07bad99,Entity,all the baselines
+E_f672dd39f1,Entity,all the datasets
+E_4a2906b098,Entity,all the metrics
+E_87edff8b80,Entity,all the models
+E_2ff744558a,Entity,all three datasets
+E_a363b8d135,Entity,answer
+E_78949a7517,Entity,answers
+E_eaf0e0df2f,Entity,approaches
+E_efe79c3211,Entity,architecture
+E_ab256241aa,Entity,as well
+E_e67e20d1ed,Entity,aspect
+E_9074d4992d,Entity,aspects
+E_4e099738fb,Entity,attention mechanism
+E_2d33a13c3f,Entity,attention model
+E_f6bd033cfc,Entity,attention weights
+E_b84d43d958,Entity,auxiliary task
+E_e4894ca167,Entity,available
+E_6927a3a721,Entity,average
+E_18a0f2765b,Entity,average improvement
+E_4fe0641279,Entity,back - translation
+E_0e3b5b99e3,Entity,backtranslation
+E_358dbc9e59,Entity,base model
+E_e5ef2a445e,Entity,base models
+E_491c7f709a,Entity,baseline methods
+E_6b6cc496bc,Entity,baseline model
+E_1becaec954,Entity,baseline models
+E_314f521658,Entity,baseline system
+E_f2af3d23e0,Entity,baseline systems
+E_b794c3472c,Entity,batch size
+E_67cf2504d5,Entity,batch sizes
+E_f8c77c3bee,Entity,batches
+E_d79eb34312,Entity,beam search
+E_c8d696e648,Entity,beam size
+E_b7922e3b59,Entity,beam width
+E_79da17fa16,Entity,benefits
+E_972c074bf4,Entity,bert - base
+E_5a35fa9e8c,Entity,bert model
+E_eecde10b08,Entity,best accuracy
+E_bfb9b9a657,Entity,best baseline
+E_82949c20cd,Entity,best model
+E_170df48525,Entity,best overall performance
+E_83826e31e6,Entity,best result
+E_1e22a0fc4a,Entity,best results
+E_27fa8345c4,Entity,best score
+E_a8ffd7d52a,Entity,best scores
+E_2ea704fac2,Entity,best system
+E_7098932259,Entity,better performances
+E_428290d22b,Entity,better results
+E_cbaf340c35,Entity,bi-lstm
+E_5e5dca86bc,Entity,bidirectional lstm
+E_069796ba08,Entity,bilstm
+E_bd13a3ea8d,Entity,bleu score
+E_de3601cbed,Entity,bleu scores
+E_eabf0764de,Entity,both baselines
+E_f8e7e3e96a,Entity,both directions
+E_3f19cc0cf3,Entity,both language pairs
+E_5ad2d7181a,Entity,both languages
+E_3d43221a37,Entity,both methods
+E_d3e4d5c5b3,Entity,both metrics
+E_dfa5fcadaa,Entity,both models
+E_26b518942d,Entity,both test sets
+E_8234391fe9,Entity,both translation directions
+E_8a183b06d4,Entity,byte pair encoding
+E_93d5902861,Entity,byte-pair encoding
+E_bef2e239e4,Entity,candidates
+E_2593c7ce3f,Entity,characters
+E_babd2925f9,Entity,chinese
+E_63f69c7f95,Entity,classification
+E_31467667d6,Entity,classification accuracy
+E_08dd5c33e8,Entity,classifier
+E_6185009ec1,Entity,classifiers
+E_ca45a19191,Entity,cnn / dm
+E_b968fe9114,Entity,combination
+E_0f68937d06,Entity,comparable performance
+E_2809e9846f,Entity,comparably
+E_14f4aeb5be,Entity,competitive
+E_c0f419ac3e,Entity,competitive performance
+E_8e04beece3,Entity,competitive results
+E_344af2e428,Entity,competitively
+E_f131e30f2e,Entity,concatenation
+E_6ae8e62451,Entity,consistency
+E_3a6713def8,Entity,consistent
+E_8f0f127fa2,Entity,consistent gains
+E_30e1c7a162,Entity,consistent improvements
+E_3ee5d30abb,Entity,consistently better
+E_aea6f99cff,Entity,consistently improves
+E_d391cc693a,Entity,consistently outperform
+E_ac96a67ff4,Entity,consistently outperforms
+E_5c18ef7277,Entity,context
+E_b6c2792c5f,Entity,contextual information
+E_ba06facad7,Entity,convergence
+E_59a2e7f36a,Entity,conversations
+E_9e36fe55da,Entity,convolutional layer
+E_75cf4b74c5,Entity,copy mechanism
+E_9a91380374,Entity,corpus
+E_3ad312362d,Entity,correlation
+E_18262ad813,Entity,cosine similarity
+E_60634baf95,Entity,coverage
+E_243bbdfb5f,Entity,cross-entropy loss
+E_d99ad5ec30,Entity,data augmentation
+E_b888b2fd35,Entity,decoding
+E_323db572c0,Entity,decoding process
+E_36fb6f5cc3,Entity,decoding speed
+E_ab87b3a48d,Entity,decoding time
+E_b0fe2606af,Entity,decrease
+E_d6cf78db41,Entity,decreases
+E_f70fa3bc1f,Entity,default parameters
+E_42e2b8eb5b,Entity,default settings
+E_52dee772cc,Entity,degradation
+E_36cc2aa531,Entity,degrades
+E_0e59167694,Entity,dependencies
+E_44ad49b210,Entity,dependency parsing
+E_41b66e5043,Entity,dev set
+E_8bdcb08f6f,Entity,development set
+E_0456454f03,Entity,dialogue
+E_1273c3b823,Entity,dialogue history
+E_95a966806d,Entity,dialogues
+E_95456e7506,Entity,difference
+E_d6d751d7cb,Entity,different domains
+E_598a3c418f,Entity,dimensionality
+E_6831ab04c5,Entity,discriminator
+E_a74ec9c5b6,Entity,distance
+E_6d67f73778,Entity,distribution
+E_97081c1611,Entity,diversity
+E_21f64da1e5,Entity,documents
+E_1717ff91e8,Entity,does not improve
+E_833197b84f,Entity,domain adaptation
+E_e4e46deb7f,Entity,domains
+E_1f68fb6faf,Entity,dropout probability
+E_3086ea91bd,Entity,dropout rate
+E_9214e0c2c3,Entity,each epoch
+E_e7720de6db,Entity,each language
+E_44d9801b66,Entity,each language pair
+E_d0e904e16c,Entity,each layer
+E_3eef9039b6,Entity,each other
+E_8c2ac10674,Entity,each sentence
+E_ebdb0c5a06,Entity,each token
+E_10b3bbed74,Entity,each word
+E_1167e551cc,Entity,early stopping
+E_bf5b17fac5,Entity,effect
+E_8726c9b848,Entity,effective
+E_eb7a99e5f2,Entity,effectiveness
+E_da68679dc1,Entity,embedding dimension
+E_d15c9ec270,Entity,embedding layer
+E_6dd81ccd7b,Entity,embedding size
+E_53a0cae122,Entity,end-to - end
+E_ba0a6ddd94,Entity,english
+E_52406e4baf,Entity,ensemble
+E_5ae235e0a8,Entity,ensembling
+E_07213a0161,Entity,errors
+E_13ca686865,Entity,even worse
+E_50301c95f5,Entity,experiments
+E_75896c5641,Entity,external knowledge
+E_0de55191ab,Entity,extractive summarization
+E_e10522505d,Entity,f-score
+E_9fc7f6cbb9,Entity,f1 score
+E_6b9d617264,Entity,f1 scores
+E_742f32c65f,Entity,factor
+E_39d53d971e,Entity,fairseq
+E_dc3a388cf3,Entity,faster
+E_fe347b8749,Entity,fasttext
+E_9462d52fc6,Entity,feature weights
+E_a175778637,Entity,final performance
+E_a07508e576,Entity,fine- tuning
+E_85d517e292,Entity,fine-tuned
+E_945093eb10,Entity,fine-tuning
+E_8efbc76bb9,Entity,finetuning
+E_818fbcf1b0,Entity,first baseline
+E_4a7c61ec03,Entity,first stage
+E_1259ccdcb6,Entity,former
+E_756457dc85,Entity,framework
+E_03c88dfb2e,Entity,full model
+E_b29f2e40b4,Entity,further improvement
+E_cfca108847,Entity,further improvements
+E_9cb9ce5bd9,Entity,generation
+E_a6d414ac4f,Entity,german
+E_de2f264361,Entity,giza ++
+E_4f7ebb68de,Entity,good performance
+E_996be9c40a,Entity,good results
+E_e2b6dfb8a5,Entity,gradient
+E_a130579793,Entity,gradient clipping
+E_c2af294b46,Entity,gradients
+E_c21f3ab74b,Entity,greedy decoding
+E_8cbab9c97f,Entity,greedy search
+E_20104f8c28,Entity,grid search
+E_c158b33d64,Entity,helpful
+E_f591b6d22d,Entity,hidden dimension
+E_b427584661,Entity,hidden layer
+E_100695fe0c,Entity,hidden layer size
+E_97523c41f1,Entity,hidden layers
+E_4e00deceeb,Entity,hidden size
+E_a9784ab70a,Entity,hidden states
+E_10ba49ba46,Entity,higher accuracy
+E_1e93a02a58,Entity,higher performance
+E_d79019a185,Entity,higher scores
+E_666be9b7a8,Entity,highest scores
+E_c06e73dfba,Entity,human evaluation
+E_4616a006d0,Entity,hyper-parameters
+E_74e0a8e1e3,Entity,hyperparameter
+E_dddf81e9a2,Entity,hypothesis
+E_59b514174b,Entity,images
+E_05199deca1,Entity,impact
+E_b6fa15360b,Entity,implementation
+E_7170f2678a,Entity,importance
+E_48818f3da3,Entity,important
+E_4fec3f273d,Entity,important information
+E_78b381bb85,Entity,important role
+E_33c0478b99,Entity,improve
+E_9502583444,Entity,improved
+E_84be4cb540,Entity,improved performance
+E_6958198e98,Entity,improves
+E_303e43210f,Entity,improving
+E_c5beb29ccb,Entity,in- domain data
+E_11198b294a,Entity,increase
+E_6ee567de40,Entity,increasing
+E_bb3ccd5881,Entity,information
+E_50f085d94d,Entity,informativeness
+E_46194dceff,Entity,initial learning rate
+E_2d56c84e16,Entity,initialization
+E_630c50a3a5,Entity,input sentence
+E_5377a3405f,Entity,input text
+E_579fe8571f,Entity,interaction
+E_85aa9c704a,Entity,interactions
+E_8475aaaa03,Entity,joint model
+E_4d102d9324,Entity,joint training
+E_b60d30cede,Entity,jointly
+E_a542e9b744,Entity,knowledge
+E_b22b975e3f,Entity,knowledge distillation
+E_d3052a2680,Entity,label smoothing
+E_42cecfeff0,Entity,labels
+E_67fbfa4ece,Entity,language model
+E_db05b5c69f,Entity,language models
+E_101944b002,Entity,language pairs
+E_f3e334d428,Entity,languages
+E_8e2c5395f5,Entity,large improvement
+E_72c2397bff,Entity,large improvements
+E_ad27e4ee16,Entity,large margin
+E_ecdda6d49d,Entity,larger
+E_54013aad65,Entity,latent variable
+E_c65fce3822,Entity,latter
+E_f65eb7334d,Entity,layer normalization
+E_25a9ac406a,Entity,learning
+E_3d3eb2e5c4,Entity,learning rate
+E_da63413e0a,Entity,learning rate schedule
+E_d2728d3f36,Entity,learning rates
+E_2fa47f7c65,Entity,length
+E_b61075c67b,Entity,length penalty
+E_c48daf5930,Entity,long sentences
+E_01e549803b,Entity,longer sentences
+E_71209996cb,Entity,loss function
+E_b93757b5cd,Entity,low-resource languages
+E_3200471517,Entity,machine translation
+E_d42f4851e7,Entity,margin
+E_6ea2a9e265,Entity,maximum length
+E_3ec6a9032b,Entity,maximum sentence length
+E_020b6b5971,Entity,maximum sequence length
+E_7e4431ec9d,Entity,memnet
+E_cd69b4957f,Entity,memory
+E_8f6b983ad0,Entity,meteor
+E_2cbc8352e6,Entity,metric
+E_aa59d67c21,Entity,metrics
+E_7a1cabeafb,Entity,mini-batch
+E_37a5612413,Entity,mini-batch size
+E_167658e298,Entity,mini-batches
+E_3853c37232,Entity,minibatch size
+E_485c26e89e,Entity,minibatches
+E_213c334e95,Entity,model parameters
+E_50606004cb,Entity,model performance
+E_6e7fcdb1f6,Entity,model training
+E_22884db148,Entity,module
+E_3a749f8e94,Entity,momentum
+E_d92904e33b,Entity,monolingual corpora
+E_69f0bf420d,Entity,monolingual data
+E_dcbf294a2b,Entity,more data
+E_a68b4c5287,Entity,more effective
+E_3549d284a1,Entity,more robust
+E_1d9ea393bf,Entity,more significant
+E_304b736223,Entity,moses toolkit
+E_284a3f7ff4,Entity,most metrics
+E_bdbebaae67,Entity,much better
+E_2ab950f95c,Entity,much better performance
+E_9f79df1a59,Entity,much worse
+E_3ab49a5de3,Entity,multi-head attention
+E_31b67e60c7,Entity,multi-task learning
+E_3f96856b98,Entity,multilingual model
+E_276b2fd681,Entity,multilingual models
+E_e3d2d21894,Entity,neural machine translation
+E_0ba53fb94f,Entity,neural model
+E_e1eff6b071,Entity,neural models
+E_510bf9286c,Entity,neural network
+E_7c19187658,Entity,neural networks
+E_8403e57cfb,Entity,nmt model
+E_761b5cc76c,Entity,nmt models
+E_7351a9cade,Entity,nmt system
+E_e4b673d688,Entity,nmt systems
+E_8633ac50c9,Entity,no improvement
+E_4239a32557,Entity,novel approach
+E_16ccdaad23,Entity,novel framework
+E_1844e66efa,Entity,novel method
+E_ca216a73be,Entity,novel model
+E_7724a3f6f3,Entity,number of epochs
+E_d3019918d2,Entity,number of heads
+E_cab58848ef,Entity,number of layers
+E_205360f460,Entity,objective
+E_d44dbe4cd8,Entity,objective function
+E_2753d68b08,Entity,on par
+E_ca34affee8,Entity,opennmt
+E_333aba968c,Entity,optimization
+E_38f125cea2,Entity,other baselines
+E_8862a69ae7,Entity,other methods
+E_acaeddf0e4,Entity,other models
+E_5e2bab0ecb,Entity,others
+E_635cd23f48,Entity,our best model
+E_832fea3806,Entity,our experiments
+E_856d95bf40,Entity,our full model
+E_ce6e0e609f,Entity,our method
+E_7069c61974,Entity,our methods
+E_3a95f35e0b,Entity,our models
+E_69b600122c,Entity,our proposed approach
+E_7769c63673,Entity,our proposed method
+E_66747da07d,Entity,our proposed model
+E_c804404e02,Entity,our results
+E_9850404df9,Entity,our system
+E_87b9f7945e,Entity,outperformed
+E_676b1ecdb8,Entity,outperforming
+E_70a0b39e0e,Entity,output layer
+E_641ca54a35,Entity,over-fitting
+E_057d1fbf7a,Entity,overall accuracy
+E_de17ea0eca,Entity,overall performance
+E_50d701f901,Entity,overfitting
+E_48920c071f,Entity,parallel
+E_027b320e84,Entity,parallel corpus
+E_79a2c5b09e,Entity,parallel data
+E_166e64f6c3,Entity,parameters
+E_3643b86326,Entity,parser
+E_dbc77665f5,Entity,parsing
+E_4c8476db19,Entity,patience
+E_c2245fbe94,Entity,perform better
+E_c7c21f16cb,Entity,performance drop
+E_1693585cf6,Entity,performance gap
+E_af0b511501,Entity,performance improvement
+E_105ab1859d,Entity,performs better
+E_06eaeb413e,Entity,perplexity
+E_5a1969515a,Entity,phrases
+E_3521d4ef72,Entity,pre-trained model
+E_b3b9eb34b5,Entity,pre-trained models
+E_cbad7f3e2a,Entity,pre-trained word embeddings
+E_749df99313,Entity,pre-training
+E_e2794d8f12,Entity,precision
+E_c41b9ec75e,Entity,prediction
+E_caa9ca22dd,Entity,pretrained model
+E_ebebbe6ae1,Entity,pretraining
+E_55a93e485e,Entity,previous methods
+E_9b5b7dc72a,Entity,previous work
+E_cfca937a34,Entity,prior knowledge
+E_7290d6b1f1,Entity,probability
+E_d5bc5e0845,Entity,proposed method
+E_ede544fcee,Entity,proposed models
+E_0b347a8c26,Entity,qa model
+E_d66636b253,Entity,quality
+E_5494af1f14,Entity,question
+E_84338875e6,Entity,question answering
+E_d43d041fde,Entity,question generation
+E_8cf199e7ba,Entity,randomly initialized
+E_6340856b6b,Entity,rare words
+E_a05550b785,Entity,recall
+E_282fabc3aa,Entity,reduced
+E_4ae35cd73a,Entity,reinforcement learning
+E_06c5b10273,Entity,relations
+E_3ac08b2684,Entity,relationship
+E_b6ed04f59c,Entity,relative improvement
+E_b07286ebbb,Entity,removed
+E_ee16755af8,Entity,representation
+E_0bc81fe876,Entity,representations
+E_7f6f42fe60,Entity,reranking
+E_2f49410d21,Entity,residual connections
+E_d1fc8eaf36,Entity,response
+E_5fb4a39978,Entity,response generation
+E_a9f0a3a63f,Entity,responses
+E_b4a88417b3,Entity,result
+E_858e988bb2,Entity,rnnsearch
+E_229e5b1363,Entity,roberta
+E_d234403d78,Entity,robustness
+E_0f52f68262,Entity,rouge -l
+E_d16615ef23,Entity,rouge scores
+E_69fd5bfca8,Entity,sampling
+E_989dd07400,Entity,scratch
+E_fca12e671a,Entity,search space
+E_a9f0e61a13,Entity,second
+E_b5dc07c408,Entity,self-attention
+E_031ffad611,Entity,semantic similarity
+E_b192459581,Entity,semantics
+E_d866f4a8ea,Entity,sentence
+E_61cd131f06,Entity,sentence embeddings
+E_8124eefa1c,Entity,sentence length
+E_0c390c0f18,Entity,sentence representation
+E_9cc49ff7cd,Entity,sentences
+E_c40eb5155f,Entity,sentiment
+E_8c6859da43,Entity,sentiment analysis
+E_abfa37f26d,Entity,sentiment classification
+E_d1118a633c,Entity,sentiment information
+E_8aa1e0981f,Entity,sentiment polarity
+E_b7fc5ca5b1,Entity,seq2seq model
+E_a78546eb45,Entity,sequence - to-sequence model
+E_710a3f4d65,Entity,shared vocabulary
+E_c53df31e20,Entity,significant
+E_218bd911f3,Entity,significant gains
+E_9b9f55e1d9,Entity,significant improvement
+E_5da9bd0218,Entity,significant improvements
+E_3f90d678f9,Entity,significant margin
+E_ed1a5f3ffc,Entity,significantly better
+E_14e12aa198,Entity,significantly better results
+E_530270b128,Entity,significantly improve
+E_95f808ad07,Entity,significantly outperform
+E_2c6a396009,Entity,significantly outperformed
+E_5084c2c1de,Entity,significantly outperforms
+E_211bdc5dc7,Entity,significantly worse
+E_a6b99a7444,Entity,similar performance
+E_a65b94a37c,Entity,similarity
+E_c1a9907ed5,Entity,single model
+E_64f3ecf26f,Entity,slight improvement
+E_0d754e83f7,Entity,slightly outperforms
+E_e26c251e26,Entity,slightly worse
+E_ce2f1fbd24,Entity,softmax
+E_d992bf87d1,Entity,softmax layer
+E_36cd38f49b,Entity,source
+E_fb9d43d63d,Entity,source and target languages
+E_c99333b4b4,Entity,source language
+E_26f4688fc8,Entity,source sentence
+E_acc775c235,Entity,source sentences
+E_543cb11fa9,Entity,source side
+E_a8f22b6b97,Entity,srilm toolkit
+E_339713c8df,Entity,state of the art
+E_b73b8cf102,Entity,statistically significant
+E_a49374aae2,Entity,statistically significant improvements
+E_0e9b9b6a08,Entity,stochastic gradient descent
+E_3152a436c0,Entity,strong baseline
+E_e14ac481fc,Entity,strong baselines
+E_6cced3688c,Entity,strongest baseline
+E_54b425b901,Entity,substantial improvement
+E_ed7835bfdb,Entity,substantial improvements
+E_bba2d275be,Entity,substantially outperforms
+E_e6a9f8a703,Entity,summaries
+E_a4157ff94f,Entity,summarization
+E_a80da1282f,Entity,summary
+E_27f3765c38,Entity,superior
+E_e50a1c90d5,Entity,superior performance
+E_ca4c12e6c8,Entity,superiority
+E_13b789b8dc,Entity,supervision
+E_2e2dd8e3ac,Entity,svm classifier
+E_8690e946ac,Entity,syntactic information
+E_30cac4fe05,Entity,synthetic data
+E_c34c08e62d,Entity,system performance
+E_42aefbae01,Entity,target
+E_c424d7ffb0,Entity,target domain
+E_b73ed72c37,Entity,target language
+E_5f449085d8,Entity,target sentence
+E_a96924f2c4,Entity,target side
+E_39cfe6c08f,Entity,target words
+E_eef438f7e4,Entity,temperature
+E_eb733a00c0,Entity,test data
+E_16cf885fd7,Entity,test set
+E_1d197b3666,Entity,test sets
+E_6f007f4188,Entity,test time
+E_ae2b1fca51,Entity,testing
+E_2f94580a55,Entity,three datasets
+E_f0598264a6,Entity,threshold
+E_ab5666a350,Entity,tokenization
+E_25d7186fe5,Entity,tokens
+E_b40cb1a659,Entity,training corpus
+E_39524aa473,Entity,training data
+E_b081516f5b,Entity,training process
+E_4c54991589,Entity,training set
+E_4d8eb0a13d,Entity,training time
+E_fdfb376a77,Entity,transfer learning
+E_5fe05153b7,Entity,transformer
+E_7c899632ce,Entity,transformer architecture
+E_8f26755056,Entity,transformer model
+E_d1addc1e9e,Entity,transformer models
+E_5143d2bebf,Entity,translating
+E_18bba49526,Entity,translation
+E_6a5c076abe,Entity,translation accuracy
+E_0351f635d5,Entity,translation model
+E_3d7529f096,Entity,translation models
+E_722d4ebad9,Entity,translation performance
+E_0b7ff5625f,Entity,translation quality
+E_2ed18fafe4,Entity,translations
+E_8700ed4820,Entity,tuning
+E_804266f946,Entity,tweets
+E_0982bcfddb,Entity,two approaches
+E_67139a7262,Entity,two datasets
+E_dc628951ec,Entity,two languages
+E_5ef3a7eb73,Entity,two methods
+E_55fe1eebcf,Entity,two models
+E_8028f68f9c,Entity,two variants
+E_e68cb42418,Entity,underperforms
+E_e1adfb9dcd,Entity,uniform distribution
+E_c2a63ec526,Entity,unknown words
+E_ca81352e28,Entity,unlabeled data
+E_5e8a2485fe,Entity,useful
+E_e168af1b6b,Entity,utterances
+E_81f6b75453,Entity,validation loss
+E_e0f595d2c0,Entity,validation set
+E_002ad9922a,Entity,vector representation
+E_984f6b4726,Entity,vectors
+E_dd22475f74,Entity,very effective
+E_817a4becef,Entity,very well
+E_7002122cf0,Entity,visual features
+E_468bfe2bd0,Entity,warmup
+E_28e523fa71,Entity,weight decay
+E_33cad6fc55,Entity,wide margin
+E_12672e79b0,Entity,wikipedia
+E_6227f68a2f,Entity,window size
+E_e864fac111,Entity,word alignment
+E_b834037659,Entity,word alignments
+E_76a2323ace,Entity,word embedding
+E_07ef81225e,Entity,word embedding dimension
+E_7e15c590f8,Entity,word embedding size
+E_b1f964d519,Entity,word embeddings
+E_ecd0df8f5c,Entity,word level
+E_d9b26a6f46,Entity,word representations
+E_a7b5815bef,Entity,word vectors
+E_619637785a,Entity,word2vec
+E_59b7722c85,Entity,works better
+E_5d8977d566,Entity,worse performance
