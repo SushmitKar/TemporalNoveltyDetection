@@ -61,3 +61,4 @@ Thumbs.db
 .cache/
 *.tmp
 checking_csvs.ipynb
+.idea
