@@ -1,14 +1,12 @@
 # Temporal Novelty Detection in Scientific Literature via Knowledge Graphs and Graph Neural Networks
 
-**Project RP-399** | Supervisor: Dr. Komal Gupta | Department of Computer Science and Engineering
-
 > Can we tell how novel a research paper is — automatically, at the time of publication, without waiting years for citation data? This project builds a system that does exactly that.
 
 ---
 
 ## Overview
 
-We build **NLP-TKG2025**, a temporal knowledge graph covering 4,860 NLP papers from 2010 to 2025, and compute multi-signal novelty scores to distinguish genuinely disruptive papers from incremental ones. Three complementary signals are used:
+We build **TNoD**, a temporal knowledge graph covering 4,860 NLP papers from 2010 to 2025, and compute multi-signal novelty scores to distinguish genuinely disruptive papers from incremental ones. Three complementary signals are used:
 
 - **Semantic novelty** — how semantically distant a paper is from its nearest neighbours in SciBERT embedding space
 - **Structural novelty** — how many of a paper's entity-relation triples are new to the historical knowledge graph
@@ -32,7 +30,7 @@ Semantic KNN is significant across all 5 testable NLP domains (DIA, MT, QA, SA, 
 
 ---
 
-## Dataset — NLP-TKG2025
+## Dataset — TNoD
 
 Built by merging the SciND corpus (2010–2021) with a 2022–2025 OpenAlex extension across seven NLP domains.
 
@@ -151,8 +149,8 @@ notebooks_2022_2025                                           │
 ## Installation
 
 ```bash
-git clone https://github.com/yourrepo/nlp-tkg2025.git
-cd nlp-tkg2025
+git clone https://github.com/yourrepo/TNoD.git
+cd TNoD
 pip install -r requirements.txt
 ```
 
@@ -260,7 +258,7 @@ Supervised by **Dr. Komal Gupta**, Department of Computer Science and Engineerin
 
 ## Citation
 
-If you use NLP-TKG2025 or this codebase in your work, please cite:
+If you use TNoD or this codebase in your work, please cite:
 
 ```bibtex
 @inproceedings{kar2026temporal,
