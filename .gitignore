@@ -22,7 +22,7 @@ env/
 # ===============================
 
 # PyCharm / IntelliJ
-.idea/
+../../.idea/
 *.iml
 
 # VS Code
